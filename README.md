@@ -1,5 +1,9 @@
 # ivbench: an intervention-blind test of interventional validity for trial simulators
 
+<p align="center">
+  <img src="figures/graphical_abstract.png" alt="..." width="100%">
+</p>
+
 Anonymous code and data release accompanying the submission
 
 > **Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 8,011 Registered Trials**
