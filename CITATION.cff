@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or code, please cite the accompanying paper (author list to be completed on acceptance)."
+title: "ivbench: an intervention-blind test of interventional validity for trial simulators"
+type: software
+authors:
+  - name: "Anonymous (double-blind submission, NeurIPS 2026 Workshop on World Models for High-Stakes Health)"
+version: "1.0.0"
+date-released: "2026-09-15"
+license: MIT
+# repository-code: add the anonymised (review) or public (camera-ready) repository URL here
+keywords: [clinical trials, ClinicalTrials.gov, benchmark, world models, treatment effect prediction, interventional validity]
+preferred-citation:
+  type: article
+  title: "Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 8,011 Registered Trials"
+  authors:
+    - name: "Anonymous"
+  year: 2026
+  collection-title: "NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS)"

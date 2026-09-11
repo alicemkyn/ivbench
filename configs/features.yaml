@@ -1,0 +1,20 @@
+# Feature groups. "blind" = everything a trial simulator knows except which intervention is tested.
+endpoint_text:      [outcome_title, outcome_desc, outcome_timeframe, conditions]
+intervention_text:  [treat_intervention, treat_intervention_desc, treat_arm_desc, ctrl_intervention, ctrl_arm_desc]
+population_cat:     [phase, sponsor_class, allocation, masking, purpose, area, sex]
+population_num:     [n_treat, n_ctrl, age_mean, frac_female, year_posted]
+control_type:       [ctrl_kind]
+intervention_type:  [treat_intervention_types]
+feature_sets:
+  blind:             {text: endpoint_text, cat: population_cat, num: population_num}
+  blind+ctrl:        {text: endpoint_text, cat: [population_cat, control_type], num: population_num}
+  full:              {text: [endpoint_text, intervention_text], cat: [population_cat, control_type, intervention_type], num: population_num}
+  intervention_only: {text: intervention_text, cat: [intervention_type], num: []}
+model:
+  HistGradientBoostingRegressor: {max_iter: 400, learning_rate: 0.06, min_samples_leaf: 20, l2_regularization: 1.0,
+                                  early_stopping: true, validation_fraction: 0.15}
+text:
+  tfidf: {max_features: 60000, ngram_range: [1, 2], min_df: 3, sublinear_tf: true, stop_words: english}
+  svd_components: 120
+bootstrap: {n: 1000, unit: nct_id}
+conformal: {alpha: 0.1, calibration_fraction: 0.5, grouped_by: nct_id}

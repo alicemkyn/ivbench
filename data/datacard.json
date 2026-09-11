@@ -1,0 +1,62 @@
+{
+ "trials_harvested": 30119,
+ "arm_rows_parsed": 56586,
+ "trials_parsed": 23755,
+ "after_family_filter": 54525,
+ "after_n>=20": 40467,
+ "after_binary_range": 40450,
+ "after_date_present": 40450,
+ "contrast_rows_raw": 11315,
+ "contrast_trials_raw": 8035,
+ "contrast_rows_finite": 11315,
+ "after_dedup": 11314,
+ "dropped_implausible_smd": 40,
+ "after_smd_filter": 11274,
+ "contrast_rows_final": 11274,
+ "contrast_trials_final": 8011,
+ "contrast_by_family": {
+  "continuous": 6832,
+  "binary": 4442
+ },
+ "contrast_by_split": {
+  "train": 8784,
+  "test": 2490
+ },
+ "contrast_by_area": {
+  "other": 4213,
+  "immune_inflam": 1630,
+  "cardiometabolic": 1590,
+  "neuro_psych": 1550,
+  "oncology": 1270,
+  "infectious": 1021
+ },
+ "arm_by_family": {
+  "continuous": 21902,
+  "binary": 18548
+ },
+ "arm_by_split": {
+  "train": 31726,
+  "test": 8724
+ },
+ "arm_trials": 18077,
+ "ctrl_kind": {
+  "inert_control": 8724,
+  "active_comparator": 2550
+ },
+ "min_n_per_arm": 20,
+ "test_from_year": 2023,
+ "source": "ClinicalTrials.gov API v2; completed interventional phase 2/3 studies with posted results; harvested 2026-09-09",
+ "version": "2 \u2014 fixed intervention join (type-prefixed names), fuzzy arm matching, results-group descriptions carried",
+ "intervention_text_coverage": {
+  "arm_matched": 0.7185559694873159,
+  "intervention_name": 0.7185559694873159,
+  "intervention_desc": 0.6679971616107859,
+  "arm_desc": 0.6249778250842647,
+  "group_desc": 0.9888238424693986
+ },
+ "contrast_trials_by_family_final": {
+  "binary": 3225,
+  "continuous": 4786
+ },
+ "trials_harvested_note": "studies returned by the API query (completed, interventional, phase 2/2-3/3, results posted, 2026-09-09); trials_parsed = those whose first primary outcome is a single-class numeric measure with per-group denominators"
+}

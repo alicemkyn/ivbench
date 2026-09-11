@@ -1,0 +1,30 @@
+{
+ "gbt_interventional": {
+  "mean": -0.046633796466093225,
+  "min": -0.0798819429423007,
+  "max": -0.014493308061195,
+  "ci_low_mean": -0.12883752316294467,
+  "ci_high_mean": 0.024014648417667782
+ },
+ "gbt_interventional_continuous": {
+  "skill": 0.0099750632724839,
+  "ci_low": -0.0590931331681598,
+  "ci_high": 0.0858283924189076
+ },
+ "lm_full_vs_mean": {
+  "skill": 0.6234080483662818,
+  "ci_low": 0.538198395981206,
+  "ci_high": 0.6914424996368037
+ },
+ "lm_blind_vs_mean": {
+  "skill": 0.3878968128399608,
+  "ci_low": 0.22643543527186383,
+  "ci_high": 0.5056672367050951
+ },
+ "lm_interventional": {
+  "skill": 0.38475740768319977,
+  "ci_low": 0.26700012847995735,
+  "ci_high": 0.4880410668112405
+ },
+ "check": "language-model numbers match llm/llm_canonical_numbers.json to 1e-9"
+}

@@ -1,0 +1,14 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/trials_raw.jsonl.gz
+results/**/handoff_*.json
+*.aux
+*.log
+*.bbl
+*.blg
+*.xdv
+*.out
+*.synctex.gz

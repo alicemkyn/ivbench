@@ -1,0 +1,180 @@
+{
+ "task": "Split conformal (nominal 90%) for binary risk-difference contrasts, FULL v2 feature set, HistGBT point model (models_eval.fit_gbt), sigma = HistGBT on |residual|.",
+ "data": {
+  "binary_contrasts": 4442,
+  "trials": 3225,
+  "train_period_contrasts": 3422,
+  "test_2023plus_contrasts": 1020,
+  "test_2023plus_trials": 740
+ },
+ "recipes": {
+  "split": "50/50 trial-grouped split of training pool (GroupShuffleSplit seed 0); q = ceil((n+1)(1-a))/n quantile of |cal residual|; normalized sigma fit on proper-train in-sample |residuals| (compressed scale, sigma_cut ~0.02 reflects this), rescaled by conformal q on the calibration half.",
+  "crossfit": "5-fold GroupKFold over training pool; out-of-fold residuals for all pool rows; sigma cross-fitted (fold-k sigma trained on other folds' OOF |res|); q from n_pool normalized OOF residuals; final point and sigma models refit on whole pool (CV+-style, not strictly exchangeable)."
+ },
+ "regimes": {
+  "in_distribution": "20% trial-grouped holdout of the <2023 training period (684 contrasts); pool = remaining 80%",
+  "temporal_2023plus": "pool = all <2023 (3,422), test = results posted 2023+ (1,020 contrasts / 740 trials)",
+  "loao": "pool = all binary contrasts (both periods) not in the area; test = all contrasts in the held-out area"
+ },
+ "headline": {
+  "in_distribution_coverage_crossfit": {
+   "constant": 0.9166666666666666,
+   "normalized": 0.9078947368421052
+  },
+  "temporal_coverage_crossfit": {
+   "constant": 0.8568627450980392,
+   "normalized": 0.8333333333333334,
+   "constant_ci": [
+    0.829940446443445,
+    0.8825300433613518
+   ],
+   "normalized_ci": [
+    0.8035870501336458,
+    0.8589749999999999
+   ]
+  },
+  "temporal_coverage_split": {
+   "constant": 0.846078431372549,
+   "normalized": 0.8323529411764706
+  },
+  "loao_coverage_range_crossfit_constant": [
+   0.8121175030599755,
+   0.9474747474747476
+  ],
+  "loao_coverage_range_crossfit_normalized": [
+   0.7962056303549572,
+   0.9272727272727272
+  ],
+  "loao_undercover_areas_crossfit_constant_ci_excludes_0.9": [
+   "loao_immune_inflam",
+   "loao_other"
+  ],
+  "mean_width_in_dist_vs_temporal_crossfit_constant": [
+   0.5941645184660586,
+   0.5634986668467158
+  ],
+  "point_mae": {
+   "in_distribution_crossfit": 0.1109711038131318,
+   "temporal_crossfit": 0.136588962943961
+  },
+  "sigma_rank_quality_spearman_abs_residual": {
+   "in_distribution_oof_sigma_spearman": 0.38155507262428545,
+   "in_distribution_test_sigma_spearman": 0.3722021120847433,
+   "temporal_oof_sigma_spearman": 0.38350045296406765,
+   "temporal_test_sigma_spearman": 0.32178904322059587
+  },
+  "normalized_minus_constant_coverage_pp_under_shift": {
+   "loao_cardiometabolic|crossfit": -2.49,
+   "loao_cardiometabolic|split": -3.2,
+   "loao_immune_inflam|crossfit": -5.17,
+   "loao_immune_inflam|split": -4.62,
+   "loao_infectious|crossfit": -3.76,
+   "loao_infectious|split": -1.09,
+   "loao_neuro_psych|crossfit": -2.34,
+   "loao_neuro_psych|split": -5.02,
+   "loao_oncology|crossfit": -2.02,
+   "loao_oncology|split": -0.61,
+   "loao_other|crossfit": -1.59,
+   "loao_other|split": -8.38,
+   "temporal_2023plus|crossfit": -2.35,
+   "temporal_2023plus|split": -1.37
+  },
+  "loao_coverage_range_all_recipes": [
+   0.7466340269277846,
+   0.9474747474747476
+  ],
+  "loao_coverage_by_area_min_max": {
+   "cardiometabolic": [
+    0.9110320284697508,
+    0.9430604982206404
+   ],
+   "immune_inflam": [
+    0.8008800880088008,
+    0.8613861386138614
+   ],
+   "infectious": [
+    0.8580097087378641,
+    0.8956310679611651
+   ],
+   "neuro_psych": [
+    0.8595317725752508,
+    0.9096989966555185
+   ],
+   "oncology": [
+    0.9272727272727272,
+    0.9474747474747476
+   ],
+   "other": [
+    0.7466340269277846,
+    0.8304773561811506
+   ]
+  }
+ },
+ "selective_crossfit_mae_at_coverage": {
+  "in_distribution": {
+   "0.1": 0.0400484863179465,
+   "0.25": 0.0521595808043888,
+   "0.5": 0.0731537100036532,
+   "0.75": 0.0882333980631358,
+   "1.0": 0.1109711038131318
+  },
+  "temporal_2023plus": {
+   "0.1": 0.0558651973510481,
+   "0.25": 0.0856459834204648,
+   "0.5": 0.1000567474794874,
+   "0.75": 0.1117834646904501,
+   "1.0": 0.136588962943961
+  }
+ },
+ "operating_points_crossfit": [
+  {
+   "regime": "in_distribution",
+   "target_mae": 0.1,
+   "frac_contrasts": 0.8786549707602339,
+   "frac_trials": 0.8953722334004024,
+   "n_answered": 601,
+   "n_trials_answered": 445,
+   "sigma_cut": 0.1757964482730084
+  },
+  {
+   "regime": "in_distribution",
+   "target_mae": 0.08,
+   "frac_contrasts": 0.6096491228070176,
+   "frac_trials": 0.647887323943662,
+   "n_answered": 417,
+   "n_trials_answered": 322,
+   "sigma_cut": 0.1225380593499326
+  },
+  {
+   "regime": "temporal_2023plus",
+   "target_mae": 0.1,
+   "frac_contrasts": 0.496078431372549,
+   "frac_trials": 0.5121621621621621,
+   "n_answered": 506,
+   "n_trials_answered": 379,
+   "sigma_cut": 0.1086606827135632
+  },
+  {
+   "regime": "temporal_2023plus",
+   "target_mae": 0.08,
+   "frac_contrasts": 0.2313725490196078,
+   "frac_trials": 0.25,
+   "n_answered": 236,
+   "n_trials_answered": 185,
+   "sigma_cut": 0.0786700713841376
+  }
+ ],
+ "interpretation": [
+  "Nominal 90% is met in-distribution by both recipes and both interval types (0.906-0.923; CIs cover 0.90).",
+  "Under the temporal 2023+ shift coverage falls to 0.83-0.86 for every recipe/interval; every 95% trial-bootstrap CI excludes 0.90. Mean widths are unchanged (~0.5-0.6 on the risk-difference scale) because calibration never sees the shifted period, so the failure is a coverage miss, not width inflation.",
+  "Leave-one-area-out coverage ranges 0.75-0.95 across recipes and interval types: over-covers on cardiometabolic/oncology (all four rows above 0.90), under-covers on 'other' (0.75-0.83) and immune/inflammatory (0.80-0.86); the interval is calibrated to the pooled mix, not to the target area.",
+  "Normalized intervals are narrower (by 0.02-0.18 in mean width) but lose 0.6-8.4 coverage points relative to constant width under shift (largest loss: 'other' area, split recipe, 8.4 pp); heteroscedastic scaling does not repair shift-induced miscoverage.",
+  "Honest cross-fitted sigma ranks errors much better than the in-sample sigma of the split recipe (in-distribution MAE at 10% coverage 0.040 vs 0.068; temporal 0.056 vs 0.090), so selective-prediction results should be read from the crossfit recipe.",
+  "Answer-or-abstain (crossfit): to hold MAE<=0.10 on answered contrasts the model can answer 88% of in-distribution contrasts (90% of trials) but only 50% of 2023+ contrasts (51% of trials); at MAE<=0.08, 61% (65% of trials) in-distribution vs 23% (25% of trials) temporal."
+ ],
+ "caveats": [
+  "Single seed (0) for split assignment and model fits; crossfit CV+-style intervals lack a finite-sample exchangeability guarantee.",
+  "LOAO pools both time periods; 'other' is a heterogeneous residual category (1,634 contrasts) and its under-coverage partly reflects that.",
+  "Operating-point fractions use the largest sigma-ranked prefix whose cumulative MAE meets the target; cumulative MAE is not monotone and the threshold is chosen on the test set itself, so it is an optimistic oracle operating point, not a deployable rule."
+ ]
+}

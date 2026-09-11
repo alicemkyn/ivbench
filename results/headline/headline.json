@@ -1,0 +1,20 @@
+{
+ "seed": 0,
+ "n_train": 3422,
+ "n_test": 1020,
+ "n_test_trials": 740,
+ "interventional_skill": -0.07988194294230078,
+ "interventional_ci": [
+  -0.16344476913865974,
+  -0.011570265177032921
+ ],
+ "conformal": {
+  "alpha": 0.1,
+  "coverage_constant": 0.8774509803921569,
+  "width_constant": 0.6059780783989864,
+  "mae": 0.14041825481510853,
+  "n_test": 1020,
+  "n_cal": 1698,
+  "n_fit": 1724
+ }
+}

@@ -1,0 +1,3061 @@
+cid,nct_id,condition,family,truth,year_posted,area,ctrl_kind,n_treat,n_ctrl,parse_ok,n_calls,point,low,high,raw_response
+c0000,NCT00106691,B,binary,0.046,2023,oncology,inert_control,709.0,717.0,1,1,0.08,0.02,0.14,"```json
+{""point"": 0.08, ""low"": 0.02, ""high"": 0.14}
+```"
+c0001,NCT00210132,B,binary,0.0206378986866791,2025,oncology,inert_control,41.0,39.0,1,1,-0.25,-0.45,-0.05,"```json
+{""point"": -0.25, ""low"": -0.45, ""high"": -0.05}
+```"
+c0002,NCT00210210,B,binary,-0.0156139731827805,2025,oncology,inert_control,109.0,104.0,1,1,-0.25,-0.42,-0.08,"```json
+{""point"": -0.25, ""low"": -0.42, ""high"": -0.08}
+```"
+c0003,NCT00217737,B,binary,0.00017,2025,oncology,inert_control,435.0,998.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0004,NCT00278408,B,binary,0.1903703703703703,2025,oncology,active_comparator,150.0,81.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0005,NCT00278408,B,binary,0.1832735961768219,2025,oncology,active_comparator,155.0,81.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0006,NCT00278408,B,binary,0.1510721247563352,2025,oncology,active_comparator,114.0,81.0,1,1,0.12,-0.08,0.28,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.28}
+```"
+c0007,NCT00304239,B,binary,0.615,2023,other,inert_control,57.0,58.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0008,NCT00385697,B,binary,-0.0702922678505364,2023,cardiometabolic,inert_control,102.0,106.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0009,NCT00385697,B,binary,-0.0094795369610792,2023,cardiometabolic,inert_control,207.0,106.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0010,NCT00422240,B,binary,0.085,2024,other,inert_control,420.0,417.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0011,NCT00422240,B,binary,0.188,2024,other,inert_control,415.0,417.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0012,NCT00422240,B,binary,0.109,2024,other,inert_control,415.0,417.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0013,NCT00469417,B,binary,0.02,2024,oncology,active_comparator,60.0,58.0,1,1,0.08,-0.1,0.26,"```json
+{""point"": 0.08, ""low"": -0.10, ""high"": 0.26}
+```"
+c0014,NCT00472043,B,binary,0.49,2024,oncology,inert_control,33.0,33.0,1,1,0.45,0.25,0.65,"```json
+{""point"": 0.45, ""low"": 0.25, ""high"": 0.65}
+```"
+c0015,NCT00472108,B,binary,0.4138257575757575,2024,oncology,inert_control,33.0,32.0,1,1,0.45,0.25,0.65,"```json
+{""point"": 0.45, ""low"": 0.25, ""high"": 0.65}
+```"
+c0016,NCT00493870,B,binary,-0.0210000000000001,2023,oncology,active_comparator,969.0,965.0,1,1,0.035,-0.015,0.085,"```json
+{""point"": 0.035, ""low"": -0.015, ""high"": 0.085}
+```"
+c0017,NCT00566345,B,binary,-0.0145909294166208,2023,infectious,inert_control,1792.0,1817.0,1,1,-0.18,-0.24,-0.12,"```json
+{""point"": -0.18, ""low"": -0.24, ""high"": -0.12}
+```"
+c0018,NCT00618098,B,binary,0.4619157241517365,2023,other,active_comparator,97.0,103.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0019,NCT00687882,B,binary,-0.0198222829801777,2025,other,inert_control,154.0,76.0,1,1,-0.12,-0.24,-0.02,"```json
+{""point"": -0.12, ""low"": -0.24, ""high"": -0.02}
+```"
+c0020,NCT00687882,B,binary,-0.0123297754876702,2025,other,inert_control,143.0,76.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c0021,NCT00712881,B,binary,-0.127,2024,oncology,active_comparator,63.0,63.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0022,NCT00740246,B,binary,0.0975937116305944,2025,other,inert_control,584.0,569.0,1,1,0.12,0.04,0.2,"```json
+{""point"": 0.12, ""low"": 0.04, ""high"": 0.20}
+```"
+c0023,NCT00841789,B,binary,-0.0878217821782178,2023,other,inert_control,100.0,101.0,1,1,-0.25,-0.42,-0.08,"```json
+{""point"": -0.25, ""low"": -0.42, ""high"": -0.08}
+```"
+c0024,NCT01084876,B,binary,-0.0534738485558158,2025,oncology,active_comparator,244.0,231.0,1,1,0.15,0.04,0.26,"```json
+{""point"": 0.15, ""low"": 0.04, ""high"": 0.26}
+```"
+c0025,NCT01107496,B,binary,0.165,2024,neuro_psych,inert_control,26.0,25.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0026,NCT01120249,B,binary,0.04,2024,oncology,inert_control,755.0,744.0,1,1,0.12,0.04,0.2,"```json
+{""point"": 0.12, ""low"": 0.04, ""high"": 0.20}
+```"
+c0027,NCT01182766,B,binary,0.0541125541125541,2025,other,inert_control,77.0,84.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0028,NCT01182766,B,binary,0.0428571428571428,2025,other,inert_control,75.0,84.0,1,1,0.12,-0.04,0.28,"```json
+{""point"": 0.12, ""low"": -0.04, ""high"": 0.28}
+```"
+c0029,NCT01350817,B,binary,0.0168456127360236,2026,oncology,active_comparator,73.0,74.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0030,NCT01494662,B,binary,0.411,2024,oncology,active_comparator,37.0,40.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0031,NCT01499953,B,binary,0.0153182125930941,2023,other,active_comparator,211.0,224.0,1,1,-0.032,-0.095,0.031,"```json
+{""point"": -0.032, ""low"": -0.095, ""high"": 0.031}
+```"
+c0032,NCT01501513,B,binary,0.1822728535704362,2024,other,active_comparator,183.0,177.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0033,NCT01501513,B,binary,-0.0365811318372628,2024,other,active_comparator,179.0,177.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0034,NCT01520701,B,binary,0.0878378378378378,2026,oncology,active_comparator,40.0,37.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0035,NCT01546987,B,binary,-0.045,2023,oncology,active_comparator,116.0,115.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0036,NCT01582711,B,binary,-0.1055323951866887,2025,infectious,active_comparator,326.0,337.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0037,NCT01582711,B,binary,-0.132105053368174,2025,infectious,active_comparator,335.0,337.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0038,NCT01614964,B,binary,-0.0909090909090909,2024,infectious,active_comparator,33.0,33.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0039,NCT01666808,B,binary,0.125,2023,oncology,active_comparator,76.0,81.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0040,NCT01679119,B,binary,0.023,2026,oncology,active_comparator,60.0,63.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0041,NCT01718873,B,binary,-0.0086956521739131,2023,oncology,active_comparator,115.0,115.0,1,1,0.12,-0.04,0.28,"```json
+{""point"": 0.12, ""low"": -0.04, ""high"": 0.28}
+```"
+c0042,NCT01837277,B,binary,-0.0434782608695652,2023,infectious,active_comparator,92.0,92.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c0043,NCT01893138,B,binary,-0.0158804540247838,2023,other,inert_control,198.0,97.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0044,NCT01927744,B,binary,-0.1123188405797101,2025,oncology,inert_control,23.0,24.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0045,NCT01951885,B,binary,-0.242,2023,oncology,active_comparator,47.0,49.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0046,NCT01959295,B,binary,-0.0309999999999999,2024,other,inert_control,307.0,154.0,1,1,0.32,0.21,0.43,"```json
+{""point"": 0.32, ""low"": 0.21, ""high"": 0.43}
+```"
+c0047,NCT01976936,B,binary,0.0123456790123456,2025,cardiometabolic,inert_control,81.0,81.0,1,1,0.08,-0.05,0.22,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.22}
+```"
+c0048,NCT02003209,B,binary,0.0459999999999999,2023,oncology,active_comparator,155.0,153.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0049,NCT02037126,B,binary,0.3,2026,other,active_comparator,20.0,20.0,1,1,0.15,-0.1,0.4,"```json
+{""point"": 0.15, ""low"": -0.10, ""high"": 0.40}
+```"
+c0050,NCT02058706,B,binary,0.2688172043010752,2023,oncology,active_comparator,31.0,24.0,1,1,0.12,-0.15,0.38,"```json
+{""point"": 0.12, ""low"": -0.15, ""high"": 0.38}
+```"
+c0051,NCT02059499,B,binary,0.1148648648648648,2025,oncology,inert_control,36.0,37.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0052,NCT02101385,B,binary,-0.0579999999999999,2023,oncology,active_comparator,71.0,122.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0053,NCT02140047,B,binary,0.0220000000000001,2024,infectious,active_comparator,52.0,50.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0054,NCT02140047,B,binary,0.06,2024,infectious,active_comparator,52.0,50.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0055,NCT02175004,B,binary,0.024,2023,other,inert_control,85.0,50.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0056,NCT02203695,B,binary,0.1799999999999999,2025,other,inert_control,43.0,43.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0057,NCT02223182,B,binary,0.065,2024,immune_inflam,inert_control,49.0,53.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0058,NCT02223182,B,binary,0.188,2024,immune_inflam,inert_control,49.0,53.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0059,NCT02223182,B,binary,0.06,2024,immune_inflam,inert_control,47.0,53.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0060,NCT02246127,B,binary,-0.096,2025,oncology,active_comparator,69.0,72.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0061,NCT02256696,B,binary,0.0119047619047619,2023,infectious,active_comparator,56.0,48.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0062,NCT02256696,B,binary,0.0715408805031446,2023,infectious,active_comparator,53.0,48.0,1,1,0.05,-0.1,0.2,"```json
+{""point"": 0.05, ""low"": -0.10, ""high"": 0.20}
+```"
+c0063,NCT02269319,B,binary,0.025,2024,infectious,active_comparator,80.0,40.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0064,NCT02278796,B,binary,-0.0546757164404223,2025,oncology,active_comparator,51.0,52.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0065,NCT02297698,B,binary,-0.0999999999999999,2023,oncology,active_comparator,50.0,50.0,1,1,-0.08,-0.24,0.08,"```json
+{""point"": -0.08, ""low"": -0.24, ""high"": 0.08}
+```"
+c0066,NCT02301910,B,binary,0.0104712041884816,2025,other,active_comparator,191.0,191.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0067,NCT02352337,B,binary,-0.130355276907001,2024,oncology,active_comparator,88.0,87.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0068,NCT02352337,B,binary,-0.0426929392446633,2024,oncology,active_comparator,91.0,87.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0069,NCT02365649,B,binary,0.083,2023,immune_inflam,inert_control,36.0,37.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0070,NCT02365649,B,binary,0.103,2023,immune_inflam,inert_control,39.0,37.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0071,NCT02365649,B,binary,0.081,2023,immune_inflam,inert_control,37.0,37.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0072,NCT02398656,B,binary,-0.0325098328416912,2025,cardiometabolic,active_comparator,432.0,452.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0073,NCT02409290,B,binary,-0.7112299465240641,2023,infectious,active_comparator,32.0,187.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0074,NCT02409290,B,binary,0.1153006657208338,2023,infectious,active_comparator,196.0,187.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0075,NCT02409290,B,binary,0.1992178146699657,2023,infectious,active_comparator,134.0,187.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0076,NCT02421679,B,binary,0.0666666666666667,2025,other,inert_control,35.0,60.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0077,NCT02432807,B,binary,0.0791058972733037,2024,other,inert_control,83.0,76.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0078,NCT02436096,B,binary,0.0605786081325927,2025,neuro_psych,inert_control,262.0,257.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0079,NCT02439450,B,binary,-0.0294117647058823,2023,oncology,active_comparator,68.0,47.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0080,NCT02462187,B,binary,0.1648550724637681,2023,other,inert_control,24.0,23.0,1,1,0.35,0.12,0.58,"```json
+{""point"": 0.35, ""low"": 0.12, ""high"": 0.58}
+```"
+c0081,NCT02462187,B,binary,0.289855072463768,2023,other,inert_control,30.0,23.0,1,1,0.35,0.12,0.58,"```json
+{""point"": 0.35, ""low"": 0.12, ""high"": 0.58}
+```"
+c0082,NCT02462889,B,binary,-0.0141369047619047,2025,other,inert_control,63.0,64.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0083,NCT02481414,B,binary,-0.1684981684981684,2023,oncology,active_comparator,39.0,42.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0084,NCT02491983,B,binary,-0.015,2024,oncology,active_comparator,243.0,243.0,1,1,0.15,0.03,0.27,"```json
+{""point"": 0.15, ""low"": 0.03, ""high"": 0.27}
+```"
+c0085,NCT02507284,B,binary,-0.1388888888888889,2023,other,inert_control,36.0,36.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0086,NCT02507284,B,binary,-0.0392156862745098,2023,other,inert_control,34.0,36.0,1,1,0.08,-0.1,0.25,"```json
+{""point"": 0.08, ""low"": -0.10, ""high"": 0.25}
+```"
+c0087,NCT02510261,B,binary,-0.49,2023,other,inert_control,25.0,49.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0088,NCT02510261,B,binary,-0.3219999999999999,2023,other,inert_control,137.0,49.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0089,NCT02549170,B,binary,-0.217,2023,immune_inflam,inert_control,62.0,70.0,1,1,-0.25,-0.42,-0.08,"```json
+{""point"": -0.25, ""low"": -0.42, ""high"": -0.08}
+```"
+c0090,NCT02581215,B,binary,-0.0989999999999999,2025,oncology,inert_control,42.0,40.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0091,NCT02589275,B,binary,-0.2567362428842505,2024,other,inert_control,170.0,186.0,1,1,0.18,0.05,0.31,"```json
+{""point"": 0.18, ""low"": 0.05, ""high"": 0.31}
+```"
+c0092,NCT02594124,B,binary,-0.0120481927710843,2024,other,inert_control,20.0,83.0,1,1,-0.05,-0.18,0.08,"```json
+{""point"": -0.05, ""low"": -0.18, ""high"": 0.08}
+```"
+c0093,NCT02594124,B,binary,-0.0120481927710843,2024,other,inert_control,25.0,83.0,1,1,-0.05,-0.15,0.05,"```json
+{""point"": -0.05, ""low"": -0.15, ""high"": 0.05}
+```"
+c0094,NCT02609386,B,binary,0.0142857142857142,2024,oncology,active_comparator,70.0,35.0,1,1,-0.12,-0.28,0.05,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.05}
+```"
+c0095,NCT02619994,B,binary,0.0441176470588234,2025,infectious,active_comparator,72.0,85.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0096,NCT02620579,B,binary,0.0676287492925863,2023,neuro_psych,inert_control,62.0,57.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0097,NCT02633397,B,binary,-0.0852272727272727,2023,other,inert_control,66.0,64.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0098,NCT02635009,B,binary,-0.0452830188679245,2024,oncology,active_comparator,106.0,110.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0099,NCT02644941,B,binary,-0.0271694280454516,2025,other,active_comparator,177.0,178.0,1,2,0.05,-0.1,0.18,"```json
+{""point"": 0.05, ""low"": -0.10, ""high"": 0.18}
+```"
+c0100,NCT02677298,B,binary,0.4650283553875236,2025,other,inert_control,529.0,175.0,1,1,0.68,0.62,0.74,"```json
+{""point"": 0.68, ""low"": 0.62, ""high"": 0.74}
+```"
+c0101,NCT02677805,B,binary,0.4686320754716981,2025,other,inert_control,160.0,53.0,1,1,0.68,0.55,0.81,"```json
+{""point"": 0.68, ""low"": 0.55, ""high"": 0.81}
+```"
+c0102,NCT02683239,B,binary,0.0693243095339609,2023,other,inert_control,974.0,1257.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0103,NCT02683239,B,binary,0.0302652969457991,2023,other,inert_control,966.0,1257.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0104,NCT02683239,B,binary,0.0474025243964745,2023,other,inert_control,1677.0,1257.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0105,NCT02684058,B,binary,0.358,2023,oncology,active_comparator,73.0,37.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0106,NCT02695771,B,binary,-0.2234993614303958,2023,oncology,inert_control,29.0,27.0,1,1,-0.12,-0.32,0.08,"```json
+{""point"": -0.12, ""low"": -0.32, ""high"": 0.08}
+```"
+c0107,NCT02720692,B,binary,-0.020161699880147,2023,neuro_psych,inert_control,538.0,183.0,1,1,0.12,-0.05,0.28,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.28}
+```"
+c0108,NCT02723773,B,binary,-0.037475888674566,2024,infectious,inert_control,7258.0,7258.0,1,1,-0.047,-0.062,-0.032,"```json
+{""point"": -0.047, ""low"": -0.062, ""high"": -0.032}
+```"
+c0109,NCT02736968,B,binary,0.0,2023,other,inert_control,29.0,29.0,1,1,0.45,0.25,0.62,"```json
+{""point"": 0.45, ""low"": 0.25, ""high"": 0.62}
+```"
+c0110,NCT02741128,B,binary,0.0,2024,other,inert_control,88.0,44.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0111,NCT02754882,B,binary,0.048,2024,oncology,active_comparator,379.0,383.0,1,1,0.12,0.03,0.21,"```json
+{""point"": 0.12, ""low"": 0.03, ""high"": 0.21}
+```"
+c0112,NCT02766465,B,binary,-0.0499999999999999,2024,other,active_comparator,28.0,85.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0113,NCT02772965,B,binary,-0.0839999999999999,2023,immune_inflam,inert_control,156.0,141.0,1,1,-0.22,-0.35,-0.09,"```json
+{""point"": -0.22, ""low"": -0.35, ""high"": -0.09}
+```"
+c0114,NCT02783690,B,binary,0.05,2024,oncology,inert_control,41.0,41.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0115,NCT02788045,B,binary,0.436,2023,other,inert_control,110.0,33.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0116,NCT02788045,B,binary,0.509,2023,other,inert_control,55.0,33.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0117,NCT02792842,B,binary,-0.1845238095238096,2024,oncology,inert_control,24.0,28.0,1,1,-0.12,-0.32,0.08,"```json
+{""point"": -0.12, ""low"": -0.32, ""high"": 0.08}
+```"
+c0118,NCT02793375,B,binary,-0.055902468034493,2026,neuro_psych,inert_control,57.0,59.0,1,1,-0.15,-0.32,0.02,"```json
+{""point"": -0.15, ""low"": -0.32, ""high"": 0.02}
+```"
+c0119,NCT02794285,B,binary,0.1008528784648187,2023,immune_inflam,inert_control,67.0,112.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0120,NCT02794285,B,binary,-0.0429127292940522,2023,immune_inflam,inert_control,257.0,112.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c0121,NCT02798120,B,binary,-0.0039543642002658,2023,other,inert_control,296.0,305.0,1,1,0.02,-0.05,0.09,"```json
+{""point"": 0.02, ""low"": -0.05, ""high"": 0.09}
+```"
+c0122,NCT02798471,B,binary,0.020298361457569,2023,other,active_comparator,145.0,141.0,1,1,-0.015,-0.075,0.045,"```json
+{""point"": -0.015, ""low"": -0.075, ""high"": 0.045}
+```"
+c0123,NCT02823028,B,binary,0.0005959309092602,2024,other,active_comparator,457.0,235.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0124,NCT02823028,B,binary,-0.0196114708603145,2024,other,active_comparator,230.0,235.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0125,NCT02827201,B,binary,0.2182795698924731,2024,oncology,active_comparator,62.0,60.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0126,NCT02836899,B,binary,0.008,2026,other,inert_control,125.0,125.0,1,1,-0.12,-0.26,0.02,"```json
+{""point"": -0.12, ""low"": -0.26, ""high"": 0.02}
+```"
+c0127,NCT02841748,B,binary,0.144,2026,oncology,inert_control,49.0,51.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0128,NCT02843165,B,binary,0.0646551724137931,2025,oncology,active_comparator,58.0,48.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0129,NCT02856594,B,binary,-0.056084656084656,2023,other,inert_control,175.0,189.0,1,1,-0.12,-0.22,-0.02,"```json
+{""point"": -0.12, ""low"": -0.22, ""high"": -0.02}
+```"
+c0130,NCT02856893,B,binary,0.137,2025,other,active_comparator,47.0,44.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0131,NCT02856893,B,binary,-0.024,2025,other,active_comparator,45.0,44.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0132,NCT02867813,B,binary,-0.0128278799671527,2023,other,inert_control,2499.0,2532.0,1,1,0.02,-0.04,0.08,"```json
+{""point"": 0.02, ""low"": -0.04, ""high"": 0.08}
+```"
+c0133,NCT02908477,B,binary,-0.0015507211538461,2024,oncology,active_comparator,130.0,64.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0134,NCT02910531,B,binary,-0.28,2026,other,inert_control,25.0,25.0,1,1,-0.24,-0.48,-0.02,"```json
+{""point"": -0.24, ""low"": -0.48, ""high"": -0.02}
+```"
+c0135,NCT02913261,B,binary,0.229,2023,other,active_comparator,154.0,155.0,1,1,0.15,-0.02,0.32,"```json
+{""point"": 0.15, ""low"": -0.02, ""high"": 0.32}
+```"
+c0136,NCT02914561,B,binary,0.059,2023,immune_inflam,inert_control,245.0,237.0,1,1,0.22,0.12,0.32,"```json
+{""point"": 0.22, ""low"": 0.12, ""high"": 0.32}
+```"
+c0137,NCT02914561,B,binary,-0.031,2023,immune_inflam,inert_control,228.0,237.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0138,NCT02914561,B,binary,0.069,2023,immune_inflam,inert_control,202.0,237.0,1,1,0.27,0.16,0.38,"```json
+{""point"": 0.27, ""low"": 0.16, ""high"": 0.38}
+```"
+c0139,NCT02919917,B,binary,-0.0549999999999999,2025,other,active_comparator,1258.0,1123.0,1,1,-0.18,-0.28,-0.08,"```json
+{""point"": -0.18, ""low"": -0.28, ""high"": -0.08}
+```"
+c0140,NCT02935634,B,binary,0.045,2023,oncology,active_comparator,38.0,23.0,1,1,0.08,-0.18,0.34,"```json
+{""point"": 0.08, ""low"": -0.18, ""high"": 0.34}
+```"
+c0141,NCT02935634,B,binary,-0.044,2023,oncology,active_comparator,23.0,23.0,1,1,0.08,-0.15,0.31,"```json
+{""point"": 0.08, ""low"": -0.15, ""high"": 0.31}
+```"
+c0142,NCT02935634,B,binary,-0.031,2023,oncology,active_comparator,36.0,23.0,1,1,0.08,-0.15,0.31,"```json
+{""point"": 0.08, ""low"": -0.15, ""high"": 0.31}
+```"
+c0143,NCT02935686,B,binary,-0.1538461538461538,2025,other,inert_control,26.0,26.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0144,NCT02935686,B,binary,-0.0615384615384615,2025,other,inert_control,100.0,26.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0145,NCT02943590,B,binary,-0.0893974960876369,2023,cardiometabolic,inert_control,142.0,144.0,1,1,-0.12,-0.25,0.01,"```json
+{""point"": -0.12, ""low"": -0.25, ""high"": 0.01}
+```"
+c0146,NCT02950155,B,binary,0.4226190476190476,2024,other,inert_control,24.0,21.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0147,NCT02993406,B,binary,-0.0157122204273253,2024,cardiometabolic,inert_control,6992.0,6978.0,1,1,-0.018,-0.04,0.004,"```json
+{""point"": -0.018, ""low"": -0.040, ""high"": 0.004}
+```"
+c0148,NCT03002571,B,binary,0.1499,2023,immune_inflam,inert_control,224.0,113.0,1,1,0.38,0.28,0.48,"```json
+{""point"": 0.38, ""low"": 0.28, ""high"": 0.48}
+```"
+c0149,NCT03006276,B,binary,0.0019999999999999,2023,neuro_psych,inert_control,283.0,283.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0150,NCT03009019,B,binary,0.0709999999999999,2023,neuro_psych,inert_control,280.0,267.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0151,NCT03009019,B,binary,0.066,2023,neuro_psych,inert_control,275.0,267.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0152,NCT03031912,B,binary,-0.05,2026,other,active_comparator,40.0,40.0,1,1,-0.025,-0.15,0.1,"```json
+{""point"": -0.025, ""low"": -0.15, ""high"": 0.10}
+```"
+c0153,NCT03031912,B,binary,-0.0256097560975609,2026,other,active_comparator,41.0,40.0,1,1,-0.02,-0.12,0.08,"```json
+{""point"": -0.02, ""low"": -0.12, ""high"": 0.08}
+```"
+c0154,NCT03031912,B,binary,-0.05,2026,other,active_comparator,40.0,40.0,1,1,0.0,-0.1,0.1,"```json
+{""point"": 0.0, ""low"": -0.10, ""high"": 0.10}
+```"
+c0155,NCT03045406,B,binary,-0.0238917674150834,2025,other,active_comparator,576.0,579.0,1,1,-0.02,-0.065,0.025,"```json
+{""point"": -0.02, ""low"": -0.065, ""high"": 0.025}
+```"
+c0156,NCT03053440,B,binary,-0.0919999999999999,2023,other,active_comparator,99.0,102.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0157,NCT03055377,B,binary,-0.046,2024,other,inert_control,763.0,785.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0158,NCT03057431,B,binary,0.0022408963585434,2024,other,inert_control,105.0,102.0,1,1,-0.25,-0.42,-0.08,"```json
+{""point"": -0.25, ""low"": -0.42, ""high"": -0.08}
+```"
+c0159,NCT03057431,B,binary,-0.0234204793028323,2024,other,inert_control,108.0,102.0,1,1,-0.18,-0.32,-0.04,"```json
+{""point"": -0.18, ""low"": -0.32, ""high"": -0.04}
+```"
+c0160,NCT03057431,B,binary,-0.1030867792661619,2024,other,inert_control,101.0,102.0,1,1,-0.15,-0.28,-0.02,"```json
+{""point"": -0.15, ""low"": -0.28, ""high"": -0.02}
+```"
+c0161,NCT03058666,B,binary,-0.2221675223292777,2024,other,inert_control,241.0,236.0,1,1,-0.15,-0.28,-0.02,"```json
+{""point"": -0.15, ""low"": -0.28, ""high"": -0.02}
+```"
+c0162,NCT03058783,B,binary,0.0931,2023,immune_inflam,inert_control,216.0,110.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0163,NCT03068780,B,binary,0.1233703524867214,2023,other,inert_control,109.0,114.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0164,NCT03069924,B,binary,0.0447454844006568,2024,oncology,active_comparator,116.0,126.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0165,NCT03078855,B,binary,-0.0179999999999999,2024,oncology,inert_control,135.0,71.0,1,1,0.18,0.05,0.31,"```json
+{""point"": 0.18, ""low"": 0.05, ""high"": 0.31}
+```"
+c0166,NCT03083665,B,binary,0.031,2023,neuro_psych,inert_control,148.0,151.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0167,NCT03083665,B,binary,-0.3399999999999999,2023,neuro_psych,inert_control,74.0,151.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0168,NCT03083665,B,binary,-0.3789999999999999,2023,neuro_psych,inert_control,68.0,151.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0169,NCT03084237,B,binary,0.0019999999999998,2024,oncology,active_comparator,325.0,327.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0170,NCT03125070,B,binary,0.0079999999999999,2025,oncology,active_comparator,77.0,93.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0171,NCT03136445,B,binary,-0.025,2025,oncology,inert_control,298.0,295.0,1,1,-0.12,-0.22,-0.02,"```json
+{""point"": -0.12, ""low"": -0.22, ""high"": -0.02}
+```"
+c0172,NCT03138603,B,binary,-0.0247678018575851,2025,cardiometabolic,inert_control,34.0,38.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0173,NCT03150173,B,binary,0.008078231292517,2025,other,active_comparator,48.0,49.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0174,NCT03158532,B,binary,0.0,2024,other,inert_control,510.0,510.0,1,1,-0.08,-0.15,-0.01,"```json
+{""point"": -0.08, ""low"": -0.15, ""high"": -0.01}
+```"
+c0175,NCT03183128,B,binary,-0.2742539567476139,2023,infectious,inert_control,89.0,93.0,1,1,-0.12,-0.24,-0.01,"```json
+{""point"": -0.12, ""low"": -0.24, ""high"": -0.01}
+```"
+c0176,NCT03185013,B,binary,0.114,2023,other,inert_control,138.0,63.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0177,NCT03187223,B,binary,0.1833333333333332,2025,oncology,active_comparator,60.0,60.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0178,NCT03193190,B,binary,-0.0579999999999999,2025,other,active_comparator,41.0,32.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0179,NCT03193190,B,binary,-0.075,2025,other,active_comparator,30.0,32.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0180,NCT03193190,B,binary,-0.314,2025,other,active_comparator,66.0,32.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0181,NCT03208231,B,binary,-0.067,2023,infectious,active_comparator,30.0,30.0,1,1,-0.05,-0.25,0.15,"```json
+{""point"": -0.05, ""low"": -0.25, ""high"": 0.15}
+```"
+c0182,NCT03211247,B,binary,0.3649999999999999,2024,immune_inflam,inert_control,20.0,118.0,1,1,0.38,0.18,0.58,"```json
+{""point"": 0.38, ""low"": 0.18, ""high"": 0.58}
+```"
+c0183,NCT03211247,B,binary,0.189,2024,immune_inflam,inert_control,21.0,118.0,1,1,0.45,0.25,0.62,"```json
+{""point"": 0.45, ""low"": 0.25, ""high"": 0.62}
+```"
+c0184,NCT03211247,B,binary,0.335,2024,immune_inflam,inert_control,244.0,118.0,1,1,0.52,0.38,0.66,"```json
+{""point"": 0.52, ""low"": 0.38, ""high"": 0.66}
+```"
+c0185,NCT03229057,B,binary,0.0241758241758241,2025,other,inert_control,63.0,65.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0186,NCT03231358,B,binary,-0.019726623174899,2025,neuro_psych,inert_control,435.0,444.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0187,NCT03238326,B,binary,-0.0741379310344827,2026,neuro_psych,inert_control,20.0,87.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0188,NCT03238326,B,binary,-0.1323011963406052,2026,neuro_psych,inert_control,98.0,87.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0189,NCT03238326,B,binary,-0.1173963580007748,2026,neuro_psych,inert_control,89.0,87.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0190,NCT03244644,B,binary,0.131,2023,infectious,inert_control,177.0,85.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0191,NCT03250377,B,binary,0.0519999999999999,2025,neuro_psych,inert_control,34.0,54.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0192,NCT03250377,B,binary,0.0659999999999999,2025,neuro_psych,inert_control,112.0,54.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0193,NCT03259074,B,binary,0.0080000000000001,2023,other,inert_control,286.0,287.0,1,1,0.35,0.26,0.44,"```json
+{""point"": 0.35, ""low"": 0.26, ""high"": 0.44}
+```"
+c0194,NCT03262662,B,binary,0.0295807119690516,2023,other,inert_control,163.0,157.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0195,NCT03269994,B,binary,0.0,2025,oncology,active_comparator,378.0,400.0,1,1,-0.05,-0.12,0.02,"```json
+{""point"": -0.05, ""low"": -0.12, ""high"": 0.02}
+```"
+c0196,NCT03279081,B,binary,0.0243999999999999,2024,immune_inflam,inert_control,283.0,285.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0197,NCT03282799,B,binary,-0.3142857142857143,2024,infectious,active_comparator,36.0,35.0,1,1,-0.18,-0.38,0.02,"```json
+{""point"": -0.18, ""low"": -0.38, ""high"": 0.02}
+```"
+c0198,NCT03323385,B,binary,-0.0767195767195767,2023,neuro_psych,inert_control,27.0,28.0,1,1,-0.08,-0.28,0.12,"```json
+{""point"": -0.08, ""low"": -0.28, ""high"": 0.12}
+```"
+c0199,NCT03329092,B,binary,0.027,2024,infectious,active_comparator,282.0,140.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0200,NCT03342027,B,binary,-0.3260233918128655,2025,infectious,inert_control,72.0,76.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0201,NCT03350620,B,binary,0.0560051736881005,2024,other,inert_control,328.0,330.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0202,NCT03350620,B,binary,0.0297264139369402,2024,other,inert_control,494.0,330.0,1,1,0.22,0.14,0.3,"```json
+{""point"": 0.22, ""low"": 0.14, ""high"": 0.30}
+```"
+c0203,NCT03358030,B,binary,-0.0188679245283018,2023,other,inert_control,53.0,53.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0204,NCT03358030,B,binary,-0.0010482180293501,2023,other,inert_control,54.0,53.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0205,NCT03358030,B,binary,0.0033962264150943,2023,other,inert_control,50.0,53.0,1,1,-0.05,-0.18,0.08,"```json
+{""point"": -0.05, ""low"": -0.18, ""high"": 0.08}
+```"
+c0206,NCT03364491,B,binary,-0.0062158875644196,2023,other,inert_control,5525.0,5470.0,1,1,-0.032,-0.055,-0.009,"```json
+{""point"": -0.032, ""low"": -0.055, ""high"": -0.009}
+```"
+c0207,NCT03383874,B,binary,0.0001999999999999,2025,neuro_psych,inert_control,31.0,36.0,1,1,-0.12,-0.32,0.08,"```json
+{""point"": -0.12, ""low"": -0.32, ""high"": 0.08}
+```"
+c0208,NCT03390036,B,binary,-0.012,2023,other,active_comparator,233.0,230.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0209,NCT03393975,B,binary,0.0222222222222222,2025,other,active_comparator,45.0,44.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0210,NCT03393975,B,binary,0.0,2025,other,active_comparator,44.0,44.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0211,NCT03395184,B,binary,0.2099999999999999,2024,immune_inflam,inert_control,71.0,78.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0212,NCT03395184,B,binary,0.144,2024,immune_inflam,inert_control,92.0,78.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0213,NCT03398148,B,binary,0.0816939890710382,2025,immune_inflam,inert_control,61.0,60.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0214,NCT03398148,B,binary,0.098087431693989,2025,immune_inflam,inert_control,61.0,60.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0215,NCT03398148,B,binary,0.1068627450980392,2025,immune_inflam,inert_control,340.0,60.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0216,NCT03412890,B,binary,0.0487,2024,other,inert_control,149.0,164.0,1,1,0.42,0.3,0.53,"```json
+{""point"": 0.42, ""low"": 0.30, ""high"": 0.53}
+```"
+c0217,NCT03412890,B,binary,0.1149999999999999,2024,other,inert_control,163.0,164.0,1,1,0.42,0.3,0.54,"```json
+{""point"": 0.42, ""low"": 0.30, ""high"": 0.54}
+```"
+c0218,NCT03414645,B,binary,0.0045454545454545,2026,other,inert_control,20.0,22.0,1,1,0.08,-0.18,0.34,"```json
+{""point"": 0.08, ""low"": -0.18, ""high"": 0.34}
+```"
+c0219,NCT03414645,B,binary,-0.0454545454545454,2026,other,inert_control,22.0,22.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0220,NCT03416153,B,binary,0.0099999999999999,2025,oncology,active_comparator,35.0,49.0,1,1,-0.05,-0.18,0.08,"```json
+{""point"": -0.05, ""low"": -0.18, ""high"": 0.08}
+```"
+c0221,NCT03423121,B,binary,0.0512820512820513,2023,neuro_psych,inert_control,26.0,21.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0222,NCT03425656,B,binary,0.0340909090909091,2024,oncology,active_comparator,48.0,44.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0223,NCT03436615,B,binary,-0.0684210526315789,2023,other,inert_control,38.0,60.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0224,NCT03436615,B,binary,0.2102564102564102,2023,other,inert_control,39.0,60.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0225,NCT03436615,B,binary,0.2186046511627907,2023,other,inert_control,43.0,60.0,1,1,0.32,0.15,0.49,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.49}
+```"
+c0226,NCT03436693,B,binary,-0.1129999999999999,2024,cardiometabolic,inert_control,154.0,154.0,1,1,-0.12,-0.24,-0.02,"```json
+{""point"": -0.12, ""low"": -0.24, ""high"": -0.02}
+```"
+c0227,NCT03440385,B,binary,-0.007,2024,immune_inflam,inert_control,403.0,203.0,1,1,0.2,0.08,0.32,"```json
+{""point"": 0.20, ""low"": 0.08, ""high"": 0.32}
+```"
+c0228,NCT03451045,B,binary,0.0005972355130249,2023,other,inert_control,165.0,171.0,1,1,-0.12,-0.24,-0.01,"```json
+{""point"": -0.12, ""low"": -0.24, ""high"": -0.01}
+```"
+c0229,NCT03451045,B,binary,0.0034917537288915,2023,other,inert_control,89.0,171.0,1,1,-0.18,-0.32,-0.04,"```json
+{""point"": -0.18, ""low"": -0.32, ""high"": -0.04}
+```"
+c0230,NCT03452072,B,binary,-0.0586466165413533,2026,other,active_comparator,35.0,38.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0231,NCT03452917,B,binary,-0.0286944857456848,2023,cardiometabolic,inert_control,499.0,496.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0232,NCT03452917,B,binary,-0.0129567728954371,2023,cardiometabolic,inert_control,497.0,496.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0233,NCT03459287,B,binary,0.0134905249831863,2025,other,active_comparator,157.0,161.0,1,1,-0.05,-0.15,0.05,"```json
+{""point"": -0.05, ""low"": -0.15, ""high"": 0.05}
+```"
+c0234,NCT03462459,B,binary,-0.1119691119691119,2025,infectious,inert_control,37.0,42.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0235,NCT03473223,B,binary,-0.0036500374582818,2025,cardiometabolic,inert_control,9112.0,9107.0,1,1,-0.008,-0.018,0.002,"```json
+{""point"": -0.008, ""low"": -0.018, ""high"": 0.002}
+```"
+c0236,NCT03476460,B,binary,0.0096426545660805,2025,cardiometabolic,active_comparator,123.0,129.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c0237,NCT03480646,B,binary,0.0229,2025,oncology,active_comparator,25.0,35.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0238,NCT03480646,B,binary,0.0218,2025,oncology,active_comparator,38.0,35.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0239,NCT03480646,B,binary,-0.0571,2025,oncology,active_comparator,28.0,35.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0240,NCT03485157,B,binary,0.0158552210121717,2023,other,inert_control,223.0,224.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0241,NCT03486457,B,binary,0.3236,2024,immune_inflam,inert_control,136.0,68.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0242,NCT03497975,B,binary,0.0973999999999999,2025,other,inert_control,99.0,131.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0243,NCT03503370,B,binary,-0.0245559038662487,2024,cardiometabolic,inert_control,88.0,87.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0244,NCT03508700,B,binary,-0.0987940630797774,2025,other,inert_control,44.0,49.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0245,NCT03521102,B,binary,-0.0123456790123457,2023,neuro_psych,active_comparator,81.0,81.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0246,NCT03526549,B,binary,0.5794986906098017,2023,other,inert_control,55.0,243.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0247,NCT03526549,B,binary,-0.0258118404433035,2023,other,inert_control,202.0,243.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0248,NCT03538301,B,binary,0.0493612078977932,2023,other,inert_control,41.0,42.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0249,NCT03538301,B,binary,0.0761904761904762,2023,other,inert_control,40.0,42.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0250,NCT03551496,B,binary,-0.080388349514563,2023,other,active_comparator,103.0,50.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0251,NCT03560466,B,binary,-0.0675,2025,immune_inflam,inert_control,240.0,125.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0252,NCT03569631,B,binary,0.0999999999999999,2024,other,inert_control,30.0,30.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0253,NCT03574597,B,binary,-0.0150129842189635,2024,cardiometabolic,inert_control,8803.0,8801.0,1,1,-0.018,-0.035,-0.001,"```json
+{""point"": -0.018, ""low"": -0.035, ""high"": -0.001}
+```"
+c0254,NCT03575052,B,binary,0.010204081632653,2024,other,inert_control,392.0,392.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0255,NCT03578367,B,binary,0.19,2025,oncology,active_comparator,21.0,21.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0256,NCT03578367,B,binary,0.286,2025,oncology,active_comparator,21.0,21.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0257,NCT03583333,B,binary,0.0529999999999999,2023,infectious,active_comparator,134.0,136.0,1,1,-0.03,-0.12,0.06,"```json
+{""point"": -0.03, ""low"": -0.12, ""high"": 0.06}
+```"
+c0258,NCT03585270,B,binary,-0.0131527858668219,2024,other,inert_control,202.0,204.0,1,1,-0.12,-0.24,-0.01,"```json
+{""point"": -0.12, ""low"": -0.24, ""high"": -0.01}
+```"
+c0259,NCT03619213,B,binary,-0.0312376992241307,2023,cardiometabolic,inert_control,3131.0,3132.0,1,1,-0.082,-0.118,-0.046,"```json
+{""point"": -0.082, ""low"": -0.118, ""high"": -0.046}
+```"
+c0260,NCT03621670,B,binary,0.0192711768964685,2026,infectious,inert_control,775.0,401.0,1,1,0.12,0.03,0.21,"```json
+{""point"": 0.12, ""low"": 0.03, ""high"": 0.21}
+```"
+c0261,NCT03644186,B,binary,0.0045662100456621,2024,oncology,active_comparator,72.0,73.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0262,NCT03652064,B,binary,0.1789999999999999,2026,oncology,active_comparator,197.0,198.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0263,NCT03654274,B,binary,0.0660000000000001,2023,neuro_psych,inert_control,247.0,275.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0264,NCT03654274,B,binary,0.092,2023,neuro_psych,inert_control,277.0,275.0,1,1,0.22,0.12,0.32,"```json
+{""point"": 0.22, ""low"": 0.12, ""high"": 0.32}
+```"
+c0265,NCT03657810,B,binary,0.0010449320794148,2023,neuro_psych,inert_control,87.0,44.0,1,1,-0.18,-0.35,-0.02,"```json
+{""point"": -0.18, ""low"": -0.35, ""high"": -0.02}
+```"
+c0266,NCT03663335,B,binary,0.2199999999999999,2026,other,inert_control,66.0,70.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0267,NCT03664739,B,binary,0.213,2023,other,inert_control,306.0,300.0,1,1,0.35,0.25,0.45,"```json
+{""point"": 0.35, ""low"": 0.25, ""high"": 0.45}
+```"
+c0268,NCT03664752,B,binary,0.19,2023,other,inert_control,293.0,292.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0269,NCT03672487,B,binary,0.0890688259109312,2026,other,inert_control,26.0,38.0,1,1,-0.35,-0.55,-0.15,"```json
+{""point"": -0.35, ""low"": -0.55, ""high"": -0.15}
+```"
+c0270,NCT03673462,B,binary,0.0004959441562741,2023,infectious,active_comparator,2080.0,697.0,1,1,0.015,-0.02,0.05,"```json
+{""point"": 0.015, ""low"": -0.020, ""high"": 0.050}
+```"
+c0271,NCT03676192,B,binary,0.0032999999999999,2025,other,active_comparator,342.0,347.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0272,NCT03679676,B,binary,0.1632653061224489,2026,immune_inflam,inert_control,49.0,49.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0273,NCT03682770,B,binary,0.2005,2024,immune_inflam,inert_control,84.0,39.0,1,1,0.42,0.25,0.58,"```json
+{""point"": 0.42, ""low"": 0.25, ""high"": 0.58}
+```"
+c0274,NCT03686384,B,binary,0.3075880758807587,2023,other,inert_control,82.0,36.0,1,1,0.45,0.28,0.62,"```json
+{""point"": 0.45, ""low"": 0.28, ""high"": 0.62}
+```"
+c0275,NCT03686683,B,binary,0.0306435137895812,2024,other,inert_control,356.0,176.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0276,NCT03689712,B,binary,-0.102,2023,oncology,inert_control,241.0,166.0,1,1,-0.18,-0.28,-0.08,"```json
+{""point"": -0.18, ""low"": -0.28, ""high"": -0.08}
+```"
+c0277,NCT03697109,B,binary,0.1233552631578946,2025,cardiometabolic,inert_control,152.0,32.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0278,NCT03697109,B,binary,-0.0770833333333332,2025,cardiometabolic,inert_control,30.0,32.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0279,NCT03703206,B,binary,-0.2409999999999999,2024,other,inert_control,60.0,59.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0280,NCT03705286,B,binary,0.0476883873316344,2024,infectious,active_comparator,82.0,67.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0281,NCT03713632,B,binary,0.1109999999999999,2023,other,inert_control,180.0,183.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0282,NCT03713632,B,binary,0.149,2023,other,inert_control,180.0,183.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0283,NCT03721016,B,binary,-0.0383670520231214,2023,other,inert_control,160.0,173.0,1,1,0.58,0.48,0.68,"```json
+{""point"": 0.58, ""low"": 0.48, ""high"": 0.68}
+```"
+c0284,NCT03724942,B,binary,-0.001,2024,neuro_psych,inert_control,102.0,62.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0285,NCT03725202,B,binary,0.174,2025,other,inert_control,209.0,112.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0286,NCT03725202,B,binary,0.121,2025,other,inert_control,107.0,112.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0287,NCT03728881,B,binary,-0.0018552875695733,2025,oncology,active_comparator,539.0,366.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0288,NCT03732833,B,binary,0.0228665476065413,2023,other,inert_control,167.0,171.0,1,1,0.42,0.32,0.52,"```json
+{""point"": 0.42, ""low"": 0.32, ""high"": 0.52}
+```"
+c0289,NCT03734016,B,binary,0.0929999999999999,2023,oncology,active_comparator,327.0,325.0,1,1,0.15,0.05,0.25,"```json
+{""point"": 0.15, ""low"": 0.05, ""high"": 0.25}
+```"
+c0290,NCT03737474,B,binary,0.037,2024,neuro_psych,inert_control,31.0,216.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0291,NCT03738618,B,binary,0.433,2024,other,inert_control,533.0,54.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0292,NCT03740490,B,binary,0.064007763221737,2025,other,active_comparator,225.0,229.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0293,NCT03740737,B,binary,0.63,2024,other,inert_control,525.0,53.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0294,NCT03751124,B,binary,0.6335000000000002,2024,other,inert_control,115.0,113.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0295,NCT03765073,B,binary,0.181,2025,infectious,inert_control,22.0,22.0,1,1,0.18,-0.05,0.42,"```json
+{""point"": 0.18, ""low"": -0.05, ""high"": 0.42}
+```"
+c0296,NCT03765073,B,binary,0.091,2025,infectious,inert_control,22.0,22.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0297,NCT03765788,B,binary,0.4637037037037037,2023,other,inert_control,27.0,25.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0298,NCT03766581,B,binary,-0.015,2023,cardiometabolic,inert_control,317.0,625.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0299,NCT03766581,B,binary,-0.001,2023,cardiometabolic,inert_control,308.0,625.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0300,NCT03766581,B,binary,-0.012,2023,cardiometabolic,inert_control,306.0,625.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0301,NCT03775109,B,binary,0.1666666666666666,2025,infectious,inert_control,24.0,24.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0302,NCT03779841,B,binary,-0.096,2024,cardiometabolic,inert_control,104.0,102.0,1,1,-0.12,-0.27,0.03,"```json
+{""point"": -0.12, ""low"": -0.27, ""high"": 0.03}
+```"
+c0303,NCT03779841,B,binary,0.011,2024,cardiometabolic,inert_control,106.0,102.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0304,NCT03781791,B,binary,0.3503112620260328,2023,neuro_psych,inert_control,93.0,57.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0305,NCT03785145,B,binary,0.2778234423804044,2023,other,inert_control,158.0,77.0,1,1,0.42,0.31,0.53,"```json
+{""point"": 0.42, ""low"": 0.31, ""high"": 0.53}
+```"
+c0306,NCT03795922,B,binary,0.461038961038961,2023,other,inert_control,154.0,80.0,1,1,0.42,0.31,0.53,"```json
+{""point"": 0.42, ""low"": 0.31, ""high"": 0.53}
+```"
+c0307,NCT03803202,B,binary,0.0,2023,infectious,active_comparator,86.0,113.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0308,NCT03803202,B,binary,0.0,2023,infectious,active_comparator,100.0,113.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0309,NCT03803202,B,binary,0.0,2023,infectious,active_comparator,107.0,113.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0310,NCT03806452,B,binary,0.0238678090575275,2025,other,inert_control,43.0,38.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0311,NCT03818035,B,binary,0.0069999999999998,2023,immune_inflam,inert_control,148.0,149.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0312,NCT03822468,B,binary,-0.0379999999999999,2024,oncology,active_comparator,188.0,188.0,1,1,0.08,-0.06,0.22,"```json
+{""point"": 0.08, ""low"": -0.06, ""high"": 0.22}
+```"
+c0313,NCT03826628,B,binary,0.0584795321637426,2023,other,inert_control,36.0,38.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0314,NCT03826628,B,binary,0.0382775119617224,2023,other,inert_control,33.0,38.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0315,NCT03829475,B,binary,0.1010752688172043,2024,infectious,inert_control,30.0,31.0,1,1,-0.15,-0.38,0.08,"```json
+{""point"": -0.15, ""low"": -0.38, ""high"": 0.08}
+```"
+c0316,NCT03832192,B,binary,0.0689655172413793,2023,other,inert_control,87.0,65.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0317,NCT03834753,B,binary,0.1858974358974359,2026,other,active_comparator,108.0,104.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0318,NCT03836209,B,binary,-0.0712643678160919,2025,oncology,active_comparator,90.0,87.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0319,NCT03845140,B,binary,0.0650510204081632,2024,other,active_comparator,98.0,48.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0320,NCT03845517,B,binary,-0.0719999999999999,2024,immune_inflam,inert_control,47.0,96.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0321,NCT03845517,B,binary,0.0510000000000001,2024,immune_inflam,inert_control,99.0,96.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0322,NCT03845517,B,binary,0.017,2024,immune_inflam,inert_control,92.0,96.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0323,NCT03850379,B,binary,0.0,2025,other,active_comparator,154.0,154.0,1,1,-0.12,-0.24,-0.01,"```json
+{""point"": -0.12, ""low"": -0.24, ""high"": -0.01}
+```"
+c0324,NCT03852433,B,binary,-0.0469999999999999,2024,infectious,active_comparator,50.0,24.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0325,NCT03852433,B,binary,0.293,2024,infectious,active_comparator,50.0,24.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0326,NCT03852433,B,binary,0.153,2024,infectious,active_comparator,50.0,24.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0327,NCT03853798,B,binary,0.0285714285714285,2025,other,inert_control,35.0,38.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0328,NCT03860935,B,binary,0.278,2024,cardiometabolic,inert_control,409.0,202.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0329,NCT03871491,B,binary,-0.0078749324454497,2024,infectious,inert_control,14526.0,14637.0,1,1,-0.008,-0.018,0.002,"```json
+{""point"": -0.008, ""low"": -0.018, ""high"": 0.002}
+```"
+c0330,NCT03872401,B,binary,-0.0174697815504511,2026,oncology,inert_control,6129.0,6128.0,1,1,-0.032,-0.052,-0.012,"```json
+{""point"": -0.032, ""low"": -0.052, ""high"": -0.012}
+```"
+c0331,NCT03887130,B,binary,-0.045,2024,oncology,active_comparator,49.0,50.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0332,NCT03894046,B,binary,-0.1321044546850998,2023,infectious,active_comparator,63.0,62.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0333,NCT03895203,B,binary,0.357,2024,immune_inflam,inert_control,140.0,281.0,1,1,0.32,0.2,0.43,"```json
+{""point"": 0.32, ""low"": 0.20, ""high"": 0.43}
+```"
+c0334,NCT03895203,B,binary,0.3389999999999999,2024,immune_inflam,inert_control,431.0,281.0,1,1,0.35,0.27,0.43,"```json
+{""point"": 0.35, ""low"": 0.27, ""high"": 0.43}
+```"
+c0335,NCT03896009,B,binary,0.1316124849081071,2023,neuro_psych,inert_control,428.0,209.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0336,NCT03896581,B,binary,0.366,2024,immune_inflam,inert_control,267.0,133.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0337,NCT03897075,B,binary,0.00213,2025,immune_inflam,inert_control,51.0,48.0,1,1,0.52,0.38,0.66,"```json
+{""point"": 0.52, ""low"": 0.38, ""high"": 0.66}
+```"
+c0338,NCT03897088,B,binary,0.00421,2023,immune_inflam,inert_control,89.0,82.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0339,NCT03897439,B,binary,0.0561224489795918,2023,other,active_comparator,196.0,196.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0340,NCT03901482,B,binary,0.0445898681690853,2023,neuro_psych,inert_control,353.0,358.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0341,NCT03901482,B,binary,0.0468705614998579,2023,neuro_psych,inert_control,354.0,358.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0342,NCT03901963,B,binary,0.317,2025,oncology,active_comparator,99.0,101.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0343,NCT03905512,B,binary,0.0703503669851821,2023,other,active_comparator,83.0,87.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0344,NCT03906136,B,binary,-0.091,2025,other,active_comparator,144.0,139.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0345,NCT03907397,B,binary,0.79,2025,immune_inflam,active_comparator,38.0,35.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0346,NCT03914326,B,binary,-0.0184455958549222,2025,cardiometabolic,inert_control,4825.0,4825.0,1,1,-0.032,-0.052,-0.012,"```json
+{""point"": -0.032, ""low"": -0.052, ""high"": -0.012}
+```"
+c0347,NCT03915067,B,binary,0.658,2023,other,inert_control,54.0,50.0,1,1,0.45,0.28,0.62,"```json
+{""point"": 0.45, ""low"": 0.28, ""high"": 0.62}
+```"
+c0348,NCT03918629,B,binary,-0.0059999999999999,2024,other,inert_control,997.0,994.0,1,1,-0.015,-0.045,0.015,"```json
+{""point"": -0.015, ""low"": -0.045, ""high"": 0.015}
+```"
+c0349,NCT03923699,B,binary,-0.0008630238917878,2024,other,inert_control,39810.0,39750.0,1,1,-0.003,-0.008,0.002,"```json
+{""point"": -0.003, ""low"": -0.008, ""high"": 0.002}
+```"
+c0350,NCT03926052,B,binary,-0.0785714285714285,2025,cardiometabolic,inert_control,30.0,28.0,1,1,-0.28,-0.52,-0.04,"```json
+{""point"": -0.28, ""low"": -0.52, ""high"": -0.04}
+```"
+c0351,NCT03926195,B,binary,0.055,2023,immune_inflam,inert_control,54.0,53.0,1,1,-0.08,-0.25,0.09,"```json
+{""point"": -0.08, ""low"": -0.25, ""high"": 0.09}
+```"
+c0352,NCT03927690,B,binary,0.1471861471861471,2023,cardiometabolic,active_comparator,28.0,33.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0353,NCT03927690,B,binary,0.0757575757575757,2023,cardiometabolic,active_comparator,30.0,33.0,1,1,0.02,-0.15,0.19,"```json
+{""point"": 0.02, ""low"": -0.15, ""high"": 0.19}
+```"
+c0354,NCT03927703,B,binary,0.0961882285632553,2023,other,inert_control,237.0,118.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0355,NCT03928704,B,binary,0.263,2024,other,inert_control,128.0,126.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0356,NCT03928743,B,binary,0.2229999999999999,2024,other,inert_control,221.0,111.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0357,NCT03930732,B,binary,-0.0004862540149164,2024,other,inert_control,468.0,471.0,1,1,-0.15,-0.28,-0.02,"```json
+{""point"": -0.15, ""low"": -0.28, ""high"": -0.02}
+```"
+c0358,NCT03930745,B,binary,-0.00116,2023,other,inert_control,31.0,33.0,1,1,-0.25,-0.48,-0.02,"```json
+{""point"": -0.25, ""low"": -0.48, ""high"": -0.02}
+```"
+c0359,NCT03934099,B,binary,0.418,2025,other,inert_control,38.0,34.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0360,NCT03934099,B,binary,0.593,2025,other,inert_control,37.0,34.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0361,NCT03934099,B,binary,0.442,2025,other,inert_control,34.0,34.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0362,NCT03935217,B,binary,0.9069496268656716,2023,infectious,inert_control,64.0,67.0,1,1,0.72,0.58,0.82,"```json
+{""point"": 0.72, ""low"": 0.58, ""high"": 0.82}
+```"
+c0363,NCT03939689,B,binary,0.3225371120107962,2025,oncology,active_comparator,76.0,39.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0364,NCT03945019,B,binary,0.3019480519480519,2023,immune_inflam,inert_control,231.0,112.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0365,NCT03952039,B,binary,0.298,2024,other,inert_control,134.0,67.0,1,1,0.28,0.13,0.43,"```json
+{""point"": 0.28, ""low"": 0.13, ""high"": 0.43}
+```"
+c0366,NCT03959241,B,binary,0.168,2024,oncology,active_comparator,214.0,217.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c0367,NCT03959527,B,binary,-0.053,2024,other,active_comparator,506.0,238.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0368,NCT03961360,B,binary,-0.056166391790361,2024,cardiometabolic,active_comparator,107.0,102.0,1,1,-0.12,-0.25,0.01,"```json
+{""point"": -0.12, ""low"": -0.25, ""high"": 0.01}
+```"
+c0369,NCT03964415,B,binary,0.003800996335067,2024,other,inert_control,1525.0,1494.0,1,1,-0.031,-0.057,-0.005,"```json
+{""point"": -0.031, ""low"": -0.057, ""high"": -0.005}
+```"
+c0370,NCT03969212,B,binary,-0.0391999999999999,2025,infectious,inert_control,1118.0,1098.0,1,1,-0.15,-0.25,-0.05,"```json
+{""point"": -0.15, ""low"": -0.25, ""high"": -0.05}
+```"
+c0371,NCT03969992,B,binary,-0.1341894060995184,2025,other,active_comparator,70.0,89.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0372,NCT03969992,B,binary,-0.1967944481163251,2025,other,active_comparator,68.0,89.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0373,NCT03976102,B,binary,0.008,2024,oncology,active_comparator,162.0,155.0,1,1,0.08,-0.06,0.22,"```json
+{""point"": 0.08, ""low"": -0.06, ""high"": 0.22}
+```"
+c0374,NCT03978520,B,binary,0.1119999999999999,2023,immune_inflam,inert_control,68.0,75.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0375,NCT03980483,B,binary,-0.127,2023,immune_inflam,inert_control,510.0,258.0,1,1,0.32,0.22,0.41,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.41}
+```"
+c0376,NCT03980483,B,binary,-0.0889999999999999,2023,immune_inflam,inert_control,513.0,258.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0377,NCT03982186,B,binary,-0.097,2024,infectious,inert_control,94.0,94.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0378,NCT03985943,B,binary,0.11,2024,immune_inflam,inert_control,620.0,321.0,1,1,0.28,0.21,0.35,"```json
+{""point"": 0.28, ""low"": 0.21, ""high"": 0.35}
+```"
+c0379,NCT03985982,B,binary,0.6466165413533834,2025,other,inert_control,266.0,89.0,1,1,0.52,0.42,0.62,"```json
+{""point"": 0.52, ""low"": 0.42, ""high"": 0.62}
+```"
+c0380,NCT03987451,B,binary,-0.186,2024,other,inert_control,47.0,24.0,1,1,0.18,-0.05,0.41,"```json
+{""point"": 0.18, ""low"": -0.05, ""high"": 0.41}
+```"
+c0381,NCT03989102,B,binary,0.08,2024,infectious,inert_control,100.0,100.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0382,NCT03989102,B,binary,0.0,2024,infectious,inert_control,100.0,100.0,1,1,0.25,0.1,0.4,"```json
+{""point"": 0.25, ""low"": 0.10, ""high"": 0.40}
+```"
+c0383,NCT03989349,B,binary,0.1169999999999999,2024,immune_inflam,inert_control,522.0,265.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0384,NCT03991013,B,binary,0.039454094292804,2024,infectious,inert_control,62.0,65.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0385,NCT03992872,B,binary,0.0,2024,other,active_comparator,30.0,30.0,1,1,0.35,0.12,0.58,"```json
+{""point"": 0.35, ""low"": 0.12, ""high"": 0.58}
+```"
+c0386,NCT04003103,B,binary,-0.0309278350515463,2023,infectious,inert_control,97.0,97.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0387,NCT04003389,B,binary,0.005,2023,other,inert_control,203.0,210.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0388,NCT04004429,B,binary,0.1151515151515151,2024,immune_inflam,inert_control,33.0,30.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0389,NCT04004429,B,binary,0.2206896551724138,2024,immune_inflam,inert_control,29.0,30.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0390,NCT04019041,B,binary,0.0869999999999999,2023,other,inert_control,51.0,52.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0391,NCT04030026,B,binary,0.2710526315789473,2025,other,inert_control,38.0,40.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0392,NCT04031846,B,binary,-0.002,2023,infectious,active_comparator,587.0,591.0,1,1,-0.008,-0.035,0.019,"```json
+{""point"": -0.008, ""low"": -0.035, ""high"": 0.019}
+```"
+c0393,NCT04048356,B,binary,-0.0551158846806105,2023,infectious,active_comparator,61.0,58.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0394,NCT04052516,B,binary,0.086,2025,other,inert_control,52.0,46.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0395,NCT04052516,B,binary,0.121,2025,other,inert_control,53.0,46.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0396,NCT04056325,B,binary,-0.194,2024,infectious,inert_control,30.0,192.0,1,1,0.68,0.54,0.81,"```json
+{""point"": 0.68, ""low"": 0.54, ""high"": 0.81}
+```"
+c0397,NCT04056325,B,binary,-0.0829999999999999,2024,infectious,inert_control,32.0,192.0,1,1,0.58,0.38,0.75,"```json
+{""point"": 0.58, ""low"": 0.38, ""high"": 0.75}
+```"
+c0398,NCT04056325,B,binary,0.0389999999999999,2024,infectious,inert_control,30.0,192.0,1,1,0.65,0.45,0.8,"```json
+{""point"": 0.65, ""low"": 0.45, ""high"": 0.80}
+```"
+c0399,NCT04058028,B,binary,-0.0046511627906976,2024,immune_inflam,inert_control,35.0,43.0,1,1,0.24,0.08,0.42,"```json
+{""point"": 0.24, ""low"": 0.08, ""high"": 0.42}
+```"
+c0400,NCT04058028,B,binary,0.1245155038759689,2024,immune_inflam,inert_control,48.0,43.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0401,NCT04058028,B,binary,-0.0360237118103055,2024,immune_inflam,inert_control,51.0,43.0,1,1,0.22,0.04,0.38,"```json
+{""point"": 0.22, ""low"": 0.04, ""high"": 0.38}
+```"
+c0402,NCT04059770,B,binary,-0.0423976608187134,2025,other,active_comparator,36.0,38.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0403,NCT04059770,B,binary,0.1052631578947368,2025,other,active_comparator,38.0,38.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0404,NCT04068896,B,binary,-0.0516129032258064,2025,oncology,inert_control,31.0,20.0,1,1,0.25,0.05,0.45,"```json
+{""point"": 0.25, ""low"": 0.05, ""high"": 0.45}
+```"
+c0405,NCT04071366,B,binary,-0.3649999999999999,2024,other,inert_control,35.0,23.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0406,NCT04071366,B,binary,-0.3909999999999999,2024,other,inert_control,23.0,23.0,1,1,0.25,0.05,0.45,"```json
+{""point"": 0.25, ""low"": 0.05, ""high"": 0.45}
+```"
+c0407,NCT04073303,B,binary,0.49,2025,other,inert_control,278.0,92.0,1,1,0.52,0.41,0.63,"```json
+{""point"": 0.52, ""low"": 0.41, ""high"": 0.63}
+```"
+c0408,NCT04075825,B,binary,0.0252489331436699,2025,immune_inflam,inert_control,76.0,74.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0409,NCT04076462,B,binary,0.347,2026,other,inert_control,48.0,24.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0410,NCT04089735,B,binary,-0.1225296442687747,2023,neuro_psych,inert_control,22.0,23.0,1,1,-0.08,-0.25,0.09,"```json
+{""point"": -0.08, ""low"": -0.25, ""high"": 0.09}
+```"
+c0411,NCT04089735,B,binary,-0.1679841897233202,2023,neuro_psych,inert_control,22.0,23.0,1,1,-0.15,-0.38,0.08,"```json
+{""point"": -0.15, ""low"": -0.38, ""high"": 0.08}
+```"
+c0412,NCT04089735,B,binary,-0.0316205533596838,2023,neuro_psych,inert_control,22.0,23.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0413,NCT04090411,B,binary,0.117,2025,immune_inflam,inert_control,60.0,43.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0414,NCT04090411,B,binary,0.123,2025,immune_inflam,inert_control,88.0,43.0,1,1,0.22,0.05,0.38,"```json
+{""point"": 0.22, ""low"": 0.05, ""high"": 0.38}
+```"
+c0415,NCT04090411,B,binary,0.139,2025,immune_inflam,inert_control,47.0,43.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0416,NCT04092452,B,binary,0.007,2023,other,inert_control,47.0,48.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0417,NCT04092452,B,binary,0.186,2023,other,inert_control,52.0,48.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0418,NCT04092452,B,binary,0.037,2023,other,inert_control,46.0,48.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0419,NCT04103450,B,binary,0.0,2024,other,inert_control,142.0,134.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0420,NCT04109066,B,binary,0.1069999999999999,2024,oncology,inert_control,257.0,253.0,1,1,0.15,0.04,0.26,"```json
+{""point"": 0.15, ""low"": 0.04, ""high"": 0.26}
+```"
+c0421,NCT04120116,B,binary,0.021,2023,other,inert_control,64.0,24.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0422,NCT04124705,B,binary,-0.1515999999999999,2024,other,active_comparator,141.0,143.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0423,NCT04129554,B,binary,0.0,2024,infectious,inert_control,79.0,39.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0424,NCT04134728,B,binary,-0.0679999999999999,2023,immune_inflam,inert_control,158.0,156.0,1,1,0.32,0.19,0.44,"```json
+{""point"": 0.32, ""low"": 0.19, ""high"": 0.44}
+```"
+c0425,NCT04134728,B,binary,-0.127,2023,immune_inflam,inert_control,156.0,156.0,1,1,0.31,0.19,0.43,"```json
+{""point"": 0.31, ""low"": 0.19, ""high"": 0.43}
+```"
+c0426,NCT04134845,B,binary,-0.2711598746081505,2025,other,inert_control,29.0,22.0,1,1,-0.18,-0.38,0.02,"```json
+{""point"": -0.18, ""low"": -0.38, ""high"": 0.02}
+```"
+c0427,NCT04136366,B,binary,-0.018,2025,other,active_comparator,64.0,34.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0428,NCT04144868,B,binary,0.25,2025,other,inert_control,48.0,48.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0429,NCT04156620,B,binary,0.1791,2024,other,inert_control,264.0,262.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0430,NCT04157686,B,binary,0.0453540564078516,2024,other,inert_control,253.0,118.0,1,1,0.12,-0.05,0.29,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.29}
+```"
+c0431,NCT04157686,B,binary,-0.0529661016949152,2024,other,inert_control,128.0,118.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0432,NCT04157686,B,binary,0.0456111340774425,2024,other,inert_control,123.0,118.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0433,NCT04163185,B,binary,0.1627946127946127,2026,neuro_psych,inert_control,132.0,135.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0434,NCT04166773,B,binary,0.5051,2025,other,inert_control,41.0,35.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0435,NCT04166773,B,binary,0.613,2025,other,inert_control,40.0,35.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0436,NCT04166773,B,binary,0.3922000000000001,2025,other,inert_control,39.0,35.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0437,NCT04167514,B,binary,0.1489999999999999,2025,other,inert_control,65.0,71.0,1,1,0.18,0.04,0.32,"```json
+{""point"": 0.18, ""low"": 0.04, ""high"": 0.32}
+```"
+c0438,NCT04188301,B,binary,0.0,2023,other,active_comparator,51.0,52.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0439,NCT04188301,B,binary,0.0,2023,other,active_comparator,51.0,52.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0440,NCT04188379,B,binary,0.1679999999999999,2025,immune_inflam,inert_control,78.0,40.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0441,NCT04198363,B,binary,0.001,2023,other,active_comparator,242.0,240.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0442,NCT04199104,B,binary,0.1939999999999999,2024,oncology,inert_control,256.0,255.0,1,1,0.25,0.12,0.38,"```json
+{""point"": 0.25, ""low"": 0.12, ""high"": 0.38}
+```"
+c0443,NCT04201262,B,binary,-0.425531914893617,2023,other,inert_control,58.0,47.0,1,1,-0.35,-0.55,-0.15,"```json
+{""point"": -0.35, ""low"": -0.55, ""high"": -0.15}
+```"
+c0444,NCT04201574,B,binary,0.0434782608695652,2023,other,inert_control,46.0,46.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0445,NCT04201574,B,binary,-0.0652173913043478,2023,other,inert_control,46.0,46.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0446,NCT04205643,B,binary,0.2236394557823129,2023,immune_inflam,inert_control,294.0,144.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0447,NCT04206553,B,binary,0.142,2026,other,inert_control,53.0,53.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0448,NCT04207801,B,binary,0.3333333333333333,2023,immune_inflam,inert_control,30.0,30.0,1,1,0.35,0.12,0.58,"```json
+{""point"": 0.35, ""low"": 0.12, ""high"": 0.58}
+```"
+c0449,NCT04207801,B,binary,0.3666666666666666,2023,immune_inflam,inert_control,30.0,30.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0450,NCT04209114,B,binary,0.083,2024,oncology,active_comparator,37.0,40.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0451,NCT04209205,B,binary,0.2502,2024,immune_inflam,inert_control,191.0,190.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0452,NCT04210986,B,binary,-0.0014705882352941,2024,other,inert_control,34.0,40.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0453,NCT04217590,B,binary,0.2686567164179104,2023,other,inert_control,67.0,67.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0454,NCT04225923,B,binary,0.0789473684210526,2024,infectious,inert_control,38.0,38.0,1,1,-0.28,-0.48,-0.08,"```json
+{""point"": -0.28, ""low"": -0.48, ""high"": -0.08}
+```"
+c0455,NCT04232280,B,binary,0.0343291404612159,2026,infectious,inert_control,72.0,53.0,1,1,0.12,-0.05,0.28,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.28}
+```"
+c0456,NCT04232280,B,binary,0.0037735849056603,2026,infectious,inert_control,45.0,53.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0457,NCT04232280,B,binary,-0.040670859538784,2026,infectious,inert_control,45.0,53.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0458,NCT04233424,B,binary,-0.0279999999999999,2025,infectious,active_comparator,485.0,489.0,1,1,-0.08,-0.15,-0.01,"```json
+{""point"": -0.08, ""low"": -0.15, ""high"": -0.01}
+```"
+c0459,NCT04238676,B,binary,-0.15,2026,neuro_psych,inert_control,20.0,20.0,1,1,-0.15,-0.45,0.15,"```json
+{""point"": -0.15, ""low"": -0.45, ""high"": 0.15}
+```"
+c0460,NCT04242264,B,binary,-0.0072,2025,infectious,inert_control,34.0,26.0,1,1,-0.35,-0.55,-0.12,"```json
+{""point"": -0.35, ""low"": -0.55, ""high"": -0.12}
+```"
+c0461,NCT04242446,B,binary,0.1659999999999999,2025,other,inert_control,144.0,72.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0462,NCT04242446,B,binary,0.191,2025,other,inert_control,289.0,72.0,1,1,0.32,0.2,0.43,"```json
+{""point"": 0.32, ""low"": 0.20, ""high"": 0.43}
+```"
+c0463,NCT04242498,B,binary,0.2159999999999999,2024,other,inert_control,144.0,74.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0464,NCT04242498,B,binary,0.198,2024,other,inert_control,291.0,74.0,1,1,0.28,0.16,0.4,"```json
+{""point"": 0.28, ""low"": 0.16, ""high"": 0.40}
+```"
+c0465,NCT04245215,B,binary,-0.037037037037037,2026,immune_inflam,inert_control,54.0,54.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0466,NCT04247074,B,binary,0.0146750524109015,2023,other,inert_control,108.0,106.0,1,1,0.52,0.4,0.63,"```json
+{""point"": 0.52, ""low"": 0.40, ""high"": 0.63}
+```"
+c0467,NCT04249583,B,binary,0.8291457286432161,2023,other,inert_control,199.0,67.0,1,1,0.52,0.4,0.64,"```json
+{""point"": 0.52, ""low"": 0.40, ""high"": 0.64}
+```"
+c0468,NCT04249687,B,binary,0.5051150895140666,2023,other,inert_control,204.0,69.0,1,1,0.42,0.32,0.51,"```json
+{""point"": 0.42, ""low"": 0.32, ""high"": 0.51}
+```"
+c0469,NCT04258839,B,binary,0.0354924578527063,2024,other,inert_control,49.0,46.0,1,1,0.05,-0.1,0.2,"```json
+{""point"": 0.05, ""low"": -0.10, ""high"": 0.20}
+```"
+c0470,NCT04265261,B,binary,-0.0218,2024,cardiometabolic,inert_control,35.0,38.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0471,NCT04265261,B,binary,0.0162999999999999,2024,cardiometabolic,inert_control,42.0,38.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0472,NCT04268771,B,binary,0.028772378516624,2023,immune_inflam,active_comparator,69.0,68.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0473,NCT04278573,B,binary,0.0149051490514904,2024,other,inert_control,41.0,36.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0474,NCT04282109,B,binary,0.1129999999999999,2025,oncology,active_comparator,93.0,48.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0475,NCT04285567,B,binary,0.2659999999999999,2025,oncology,active_comparator,80.0,86.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0476,NCT04286607,B,binary,0.306,2026,immune_inflam,inert_control,60.0,264.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0477,NCT04287985,B,binary,-0.0416666666666666,2024,immune_inflam,inert_control,38.0,48.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0478,NCT04287985,B,binary,-0.0416666666666666,2024,immune_inflam,inert_control,41.0,48.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0479,NCT04287985,B,binary,-0.0416666666666666,2024,immune_inflam,inert_control,38.0,48.0,1,1,-0.08,-0.25,0.09,"```json
+{""point"": -0.08, ""low"": -0.25, ""high"": 0.09}
+```"
+c0480,NCT04294667,B,binary,0.1489999999999999,2025,immune_inflam,inert_control,208.0,107.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0481,NCT04304508,B,binary,0.0183603460276424,2023,cardiometabolic,inert_control,445.0,452.0,1,1,0.02,-0.03,0.07,"```json
+{""point"": 0.02, ""low"": -0.03, ""high"": 0.07}
+```"
+c0482,NCT04304508,B,binary,0.0070538513433072,2023,cardiometabolic,inert_control,446.0,452.0,1,1,0.02,-0.04,0.08,"```json
+{""point"": 0.02, ""low"": -0.04, ""high"": 0.08}
+```"
+c0483,NCT04304508,B,binary,0.0146442265592867,2023,cardiometabolic,inert_control,1334.0,452.0,1,1,0.02,-0.01,0.05,"```json
+{""point"": 0.02, ""low"": -0.01, ""high"": 0.05}
+```"
+c0484,NCT04304534,B,binary,0.0131472326739825,2023,other,inert_control,397.0,401.0,1,1,-0.08,-0.15,-0.01,"```json
+{""point"": -0.08, ""low"": -0.15, ""high"": -0.01}
+```"
+c0485,NCT04304534,B,binary,0.0049875311720698,2023,other,inert_control,401.0,401.0,1,1,-0.042,-0.095,0.011,"```json
+{""point"": -0.042, ""low"": -0.095, ""high"": 0.011}
+```"
+c0486,NCT04304534,B,binary,-0.000136474733564,2023,other,inert_control,402.0,401.0,1,1,-0.045,-0.105,0.015,"```json
+{""point"": -0.045, ""low"": -0.105, ""high"": 0.015}
+```"
+c0487,NCT04312997,B,binary,0.0004081632653061,2023,infectious,inert_control,49.0,50.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0488,NCT04322604,B,binary,0.801210025929127,2024,other,inert_control,91.0,89.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0489,NCT04322708,B,binary,0.8160355306217858,2024,other,inert_control,93.0,92.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0490,NCT04322708,B,binary,0.770425226946966,2024,other,inert_control,91.0,92.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0491,NCT04324073,B,binary,0.0,2025,infectious,inert_control,68.0,76.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0492,NCT04324359,B,binary,0.3548002385211687,2023,neuro_psych,inert_control,39.0,43.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0493,NCT04327661,B,binary,-0.2592896174863388,2024,other,inert_control,120.0,122.0,1,1,-0.25,-0.4,-0.1,"```json
+{""point"": -0.25, ""low"": -0.40, ""high"": -0.10}
+```"
+c0494,NCT04327661,B,binary,-0.2475009996001599,2024,other,inert_control,123.0,122.0,1,1,-0.35,-0.5,-0.18,"```json
+{""point"": -0.35, ""low"": -0.50, ""high"": -0.18}
+```"
+c0495,NCT04329104,B,binary,-0.4272727272727273,2024,infectious,inert_control,110.0,110.0,1,1,-0.35,-0.52,-0.18,"```json
+{""point"": -0.35, ""low"": -0.52, ""high"": -0.18}
+```"
+c0496,NCT04329104,B,binary,-0.6000000000000001,2024,infectious,inert_control,110.0,110.0,1,1,-0.35,-0.52,-0.18,"```json
+{""point"": -0.35, ""low"": -0.52, ""high"": -0.18}
+```"
+c0497,NCT04331808,B,binary,-0.09,2025,infectious,inert_control,64.0,67.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0498,NCT04333732,B,binary,0.0026369262309112,2024,infectious,inert_control,1607.0,1545.0,1,1,-0.045,-0.085,-0.005,"```json
+{""point"": -0.045, ""low"": -0.085, ""high"": -0.005}
+```"
+c0499,NCT04341116,B,binary,0.085820895522388,2023,infectious,inert_control,67.0,36.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0500,NCT04341584,B,binary,-0.04,2025,infectious,inert_control,59.0,55.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0501,NCT04362085,B,binary,-0.0571285809460359,2025,infectious,inert_control,228.0,237.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0502,NCT04362670,B,binary,0.2646733111849391,2023,other,inert_control,42.0,43.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0503,NCT04362670,B,binary,0.2495745887691435,2023,other,inert_control,41.0,43.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0504,NCT04365387,B,binary,0.021,2025,immune_inflam,inert_control,80.0,78.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0505,NCT04366050,B,binary,0.0253164556962025,2023,infectious,inert_control,79.0,35.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0506,NCT04373460,B,binary,-0.0341021199467719,2023,infectious,active_comparator,592.0,589.0,1,1,-0.015,-0.045,0.015,"```json
+{""point"": -0.015, ""low"": -0.045, ""high"": 0.015}
+```"
+c0507,NCT04382664,B,binary,0.0128205128205128,2025,oncology,active_comparator,78.0,78.0,1,1,0.08,-0.06,0.22,"```json
+{""point"": 0.08, ""low"": -0.06, ""high"": 0.22}
+```"
+c0508,NCT04391569,B,binary,0.6682,2025,neuro_psych,inert_control,49.0,47.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0509,NCT04400058,B,binary,0.0436974789915965,2024,infectious,inert_control,105.0,102.0,1,1,0.12,-0.04,0.28,"```json
+{""point"": 0.12, ""low"": -0.04, ""high"": 0.28}
+```"
+c0510,NCT04402957,B,binary,0.0301075268817204,2025,infectious,inert_control,30.0,31.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0511,NCT04404166,B,binary,0.1302380952380952,2026,cardiometabolic,active_comparator,200.0,210.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0512,NCT04405739,B,binary,0.1083333333333333,2023,infectious,inert_control,25.0,24.0,1,1,0.18,-0.08,0.42,"```json
+{""point"": 0.18, ""low"": -0.08, ""high"": 0.42}
+```"
+c0513,NCT04414397,B,binary,0.669,2024,other,inert_control,113.0,58.0,1,1,0.38,0.25,0.51,"```json
+{""point"": 0.38, ""low"": 0.25, ""high"": 0.51}
+```"
+c0514,NCT04415658,B,binary,0.0167064439140811,2024,cardiometabolic,inert_control,419.0,419.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0515,NCT04417894,B,binary,0.236,2023,immune_inflam,inert_control,67.0,66.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0516,NCT04424316,B,binary,-0.01,2025,infectious,inert_control,3585.0,3563.0,1,1,-0.065,-0.105,-0.025,"```json
+{""point"": -0.065, ""low"": -0.105, ""high"": -0.025}
+```"
+c0517,NCT04428008,B,binary,-0.0164835164835164,2026,infectious,inert_control,91.0,98.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0518,NCT04430855,B,binary,0.1449999999999999,2023,other,inert_control,47.0,21.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0519,NCT04433585,B,binary,-0.0233246945575713,2024,immune_inflam,inert_control,73.0,74.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0520,NCT04433585,B,binary,0.0,2024,immune_inflam,inert_control,74.0,74.0,1,1,0.22,0.05,0.39,"```json
+{""point"": 0.22, ""low"": 0.05, ""high"": 0.39}
+```"
+c0521,NCT04433585,B,binary,0.0884169884169884,2024,immune_inflam,inert_control,70.0,74.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0522,NCT04436276,B,binary,0.6561038961038961,2024,infectious,inert_control,75.0,77.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0523,NCT04436276,B,binary,0.5454545454545454,2024,infectious,inert_control,77.0,77.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0524,NCT04445987,B,binary,0.1104119850187266,2024,immune_inflam,inert_control,267.0,75.0,1,1,0.08,-0.06,0.22,"```json
+{""point"": 0.08, ""low"": -0.06, ""high"": 0.22}
+```"
+c0525,NCT04446299,B,binary,0.0396948492281056,2023,other,active_comparator,232.0,239.0,1,1,0.08,-0.03,0.19,"```json
+{""point"": 0.08, ""low"": -0.03, ""high"": 0.19}
+```"
+c0526,NCT04446312,B,binary,-0.0039111883691529,2023,other,active_comparator,226.0,224.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0527,NCT04449029,B,binary,0.0117647058823529,2023,infectious,inert_control,70.0,68.0,1,1,0.35,0.15,0.52,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.52}
+```"
+c0528,NCT04449029,B,binary,0.0,2023,infectious,inert_control,68.0,68.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0529,NCT04452318,B,binary,-0.064,2023,other,inert_control,753.0,752.0,1,1,-0.12,-0.18,-0.06,"```json
+{""point"": -0.12, ""low"": -0.18, ""high"": -0.06}
+```"
+c0530,NCT04456673,B,binary,-0.000957286662091,2025,other,inert_control,470.0,465.0,1,1,-0.18,-0.28,-0.08,"```json
+{""point"": -0.18, ""low"": -0.28, ""high"": -0.08}
+```"
+c0531,NCT04462536,B,binary,-0.0033262136786366,2025,cardiometabolic,inert_control,454.0,396.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0532,NCT04469686,B,binary,-0.0479421076436001,2026,other,inert_control,67.0,66.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0533,NCT04470427,B,binary,-0.048677881063565,2024,infectious,inert_control,14287.0,14164.0,1,1,-0.009,-0.015,-0.003,"```json
+{""point"": -0.009, ""low"": -0.015, ""high"": -0.003}
+```"
+c0534,NCT04472598,B,binary,0.317,2026,oncology,inert_control,125.0,127.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0535,NCT04473690,B,binary,-0.0541871921182265,2025,infectious,inert_control,29.0,35.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0536,NCT04473690,B,binary,-0.0126050420168066,2025,infectious,inert_control,34.0,35.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0537,NCT04478071,B,binary,-0.0385940873609035,2025,infectious,inert_control,216.0,223.0,1,1,-0.08,-0.16,0.0,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": 0.00}
+```"
+c0538,NCT04480840,B,binary,-0.2833333333333332,2026,other,inert_control,24.0,30.0,1,1,0.08,-0.15,0.31,"```json
+{""point"": 0.08, ""low"": -0.15, ""high"": 0.31}
+```"
+c0539,NCT04480840,B,binary,0.1,2026,other,inert_control,20.0,30.0,1,1,0.12,-0.15,0.38,"```json
+{""point"": 0.12, ""low"": -0.15, ""high"": 0.38}
+```"
+c0540,NCT04480840,B,binary,0.1518518518518519,2026,other,inert_control,27.0,30.0,1,1,0.08,-0.15,0.31,"```json
+{""point"": 0.08, ""low"": -0.15, ""high"": 0.31}
+```"
+c0541,NCT04487834,B,binary,0.5404040404040404,2023,other,active_comparator,54.0,33.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0542,NCT04487886,B,binary,-0.0163636363636363,2023,infectious,inert_control,25.0,22.0,1,1,-0.12,-0.35,0.08,"```json
+{""point"": -0.12, ""low"": -0.35, ""high"": 0.08}
+```"
+c0543,NCT04491877,B,binary,-0.0163934426229508,2024,infectious,inert_control,57.0,61.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0544,NCT04491877,B,binary,-0.0163934426229508,2024,infectious,inert_control,61.0,61.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0545,NCT04492020,B,binary,0.1684934450891897,2023,neuro_psych,inert_control,418.0,423.0,1,1,0.28,0.2,0.36,"```json
+{""point"": 0.28, ""low"": 0.20, ""high"": 0.36}
+```"
+c0546,NCT04493242,B,binary,-0.0588235294117647,2023,infectious,inert_control,34.0,34.0,1,1,-0.08,-0.24,0.08,"```json
+{""point"": -0.08, ""low"": -0.24, ""high"": 0.08}
+```"
+c0547,NCT04493242,B,binary,-0.1764705882352941,2023,infectious,inert_control,34.0,34.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0548,NCT04493502,B,binary,0.1709999999999999,2023,other,inert_control,45.0,22.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0549,NCT04501666,B,binary,0.4175438596491229,2024,other,inert_control,190.0,96.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0550,NCT04501679,B,binary,0.3540503212634359,2024,other,inert_control,183.0,91.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0551,NCT04503551,B,binary,0.711,2025,cardiometabolic,active_comparator,106.0,68.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0552,NCT04504318,B,binary,0.0013860013860013,2025,other,active_comparator,37.0,39.0,1,1,-0.05,-0.18,0.08,"```json
+{""point"": -0.05, ""low"": -0.18, ""high"": 0.08}
+```"
+c0553,NCT04510194,B,binary,-0.0339978681512029,2023,infectious,inert_control,329.0,653.0,1,1,-0.08,-0.15,-0.01,"```json
+{""point"": -0.08, ""low"": -0.15, ""high"": -0.01}
+```"
+c0554,NCT04510194,B,binary,-0.0161341907130574,2023,infectious,inert_control,407.0,653.0,1,1,-0.12,-0.22,-0.02,"```json
+{""point"": -0.12, ""low"": -0.22, ""high"": -0.02}
+```"
+c0555,NCT04510194,B,binary,-0.0379231296799105,2023,infectious,inert_control,652.0,653.0,1,1,-0.08,-0.14,-0.02,"```json
+{""point"": -0.08, ""low"": -0.14, ""high"": -0.02}
+```"
+c0556,NCT04513366,B,binary,0.0043999999999999,2025,other,inert_control,37.0,37.0,1,1,0.55,0.35,0.72,"```json
+{""point"": 0.55, ""low"": 0.35, ""high"": 0.72}
+```"
+c0557,NCT04513366,B,binary,0.0052,2025,other,inert_control,38.0,37.0,1,1,0.52,0.32,0.68,"```json
+{""point"": 0.52, ""low"": 0.32, ""high"": 0.68}
+```"
+c0558,NCT04518995,B,binary,-0.1189999999999999,2023,other,inert_control,351.0,215.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0559,NCT04523220,B,binary,-0.0252,2023,other,inert_control,224.0,230.0,1,1,0.02,-0.06,0.1,"```json
+{""point"": 0.02, ""low"": -0.06, ""high"": 0.10}
+```"
+c0560,NCT04523220,B,binary,-0.0176999999999999,2023,other,inert_control,232.0,230.0,1,1,0.02,-0.05,0.09,"```json
+{""point"": 0.02, ""low"": -0.05, ""high"": 0.09}
+```"
+c0561,NCT04525755,B,binary,0.0679999999999999,2026,other,inert_control,318.0,161.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0562,NCT04532931,B,binary,0.0429999999999999,2025,infectious,active_comparator,39.0,39.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0563,NCT04532931,B,binary,-0.039,2025,infectious,active_comparator,36.0,39.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0564,NCT04532931,B,binary,-0.072,2025,infectious,active_comparator,37.0,39.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0565,NCT04535531,B,binary,0.1274563153757784,2023,other,inert_control,444.0,447.0,1,1,0.32,0.24,0.4,"```json
+{""point"": 0.32, ""low"": 0.24, ""high"": 0.40}
+```"
+c0566,NCT04540094,B,binary,0.0,2024,infectious,active_comparator,150.0,150.0,1,1,0.0,-0.15,0.15,"```json
+{""point"": 0.0, ""low"": -0.15, ""high"": 0.15}
+```"
+c0567,NCT04542070,B,binary,0.009,2023,infectious,active_comparator,454.0,227.0,1,1,-0.02,-0.08,0.04,"```json
+{""point"": -0.02, ""low"": -0.08, ""high"": 0.04}
+```"
+c0568,NCT04551911,B,binary,0.6396878483835006,2024,infectious,inert_control,65.0,69.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0569,NCT04553068,B,binary,-0.007355127916845,2024,infectious,inert_control,906.0,913.0,1,1,0.18,0.1,0.26,"```json
+{""point"": 0.18, ""low"": 0.10, ""high"": 0.26}
+```"
+c0570,NCT04556981,B,binary,-0.0016666666666667,2025,other,inert_control,201.0,200.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0571,NCT04558918,B,binary,0.8029999999999999,2023,other,active_comparator,62.0,35.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0572,NCT04568031,B,binary,1.0,2024,infectious,inert_control,83.0,31.0,1,1,0.72,0.58,0.86,"```json
+{""point"": 0.72, ""low"": 0.58, ""high"": 0.86}
+```"
+c0573,NCT04568031,B,binary,1.0,2024,infectious,inert_control,91.0,31.0,1,1,0.72,0.6,0.82,"```json
+{""point"": 0.72, ""low"": 0.60, ""high"": 0.82}
+```"
+c0574,NCT04569357,B,binary,0.1256684491978609,2024,other,inert_control,170.0,187.0,1,1,0.18,0.05,0.31,"```json
+{""point"": 0.18, ""low"": 0.05, ""high"": 0.31}
+```"
+c0575,NCT04571060,B,binary,0.087,2023,neuro_psych,inert_control,623.0,646.0,1,1,0.28,0.2,0.36,"```json
+{""point"": 0.28, ""low"": 0.20, ""high"": 0.36}
+```"
+c0576,NCT04571385,B,binary,0.545,2024,cardiometabolic,inert_control,22.0,25.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0577,NCT04571944,B,binary,-0.097,2024,other,inert_control,101.0,102.0,1,1,-0.18,-0.32,-0.04,"```json
+{""point"": -0.18, ""low"": -0.32, ""high"": -0.04}
+```"
+c0578,NCT04575597,B,binary,-0.127,2023,infectious,inert_control,74.0,377.0,1,1,-0.042,-0.095,0.011,"```json
+{""point"": -0.042, ""low"": -0.095, ""high"": 0.011}
+```"
+c0579,NCT04575597,B,binary,-0.1019999999999999,2023,infectious,inert_control,77.0,377.0,1,1,-0.042,-0.108,0.018,"```json
+{""point"": -0.042, ""low"": -0.108, ""high"": 0.018}
+```"
+c0580,NCT04575597,B,binary,-0.0679999999999999,2023,infectious,inert_control,385.0,377.0,1,1,-0.032,-0.078,0.008,"```json
+{""point"": -0.032, ""low"": -0.078, ""high"": 0.008}
+```"
+c0581,NCT04583618,B,binary,0.0,2024,other,active_comparator,151.0,150.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0582,NCT04583618,B,binary,0.0,2024,other,active_comparator,151.0,150.0,1,1,0.02,-0.06,0.1,"```json
+{""point"": 0.02, ""low"": -0.06, ""high"": 0.10}
+```"
+c0583,NCT04583618,B,binary,0.0067567567567567,2024,other,active_comparator,148.0,150.0,1,1,0.02,-0.06,0.1,"```json
+{""point"": 0.02, ""low"": -0.06, ""high"": 0.10}
+```"
+c0584,NCT04583969,B,binary,0.0001,2023,infectious,inert_control,200.0,199.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0585,NCT04590547,B,binary,0.0652173913043478,2025,infectious,inert_control,46.0,44.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0586,NCT04594213,B,binary,0.523,2024,other,inert_control,176.0,90.0,1,1,0.52,0.4,0.63,"```json
+{""point"": 0.52, ""low"": 0.40, ""high"": 0.63}
+```"
+c0587,NCT04594369,B,binary,-0.0005431969752825,2025,other,inert_control,583.0,563.0,1,1,-0.12,-0.22,-0.02,"```json
+{""point"": -0.12, ""low"": -0.22, ""high"": -0.02}
+```"
+c0588,NCT04594369,B,binary,-0.0004824526990501,2025,other,inert_control,575.0,563.0,1,1,-0.18,-0.28,-0.08,"```json
+{""point"": -0.18, ""low"": -0.28, ""high"": -0.08}
+```"
+c0589,NCT04596540,B,binary,0.0029,2025,other,inert_control,51.0,53.0,1,1,0.42,0.24,0.58,"```json
+{""point"": 0.42, ""low"": 0.24, ""high"": 0.58}
+```"
+c0590,NCT04596540,B,binary,0.0034999999999999,2025,other,inert_control,49.0,53.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0591,NCT04598295,B,binary,0.0,2026,other,inert_control,24.0,24.0,1,1,0.08,-0.15,0.31,"```json
+{""point"": 0.08, ""low"": -0.15, ""high"": 0.31}
+```"
+c0592,NCT04598451,B,binary,0.0518084066471163,2024,other,inert_control,124.0,66.0,1,1,0.38,0.25,0.51,"```json
+{""point"": 0.38, ""low"": 0.25, ""high"": 0.51}
+```"
+c0593,NCT04599933,B,binary,0.2182656053623795,2023,other,inert_control,155.0,154.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0594,NCT04599972,B,binary,0.2022510822510822,2023,other,inert_control,154.0,150.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0595,NCT04600895,B,binary,-0.0983072694854234,2024,infectious,inert_control,599.0,588.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0596,NCT04603924,B,binary,-0.1245059288537549,2025,infectious,inert_control,22.0,23.0,1,1,-0.08,-0.28,0.12,"```json
+{""point"": -0.08, ""low"": -0.28, ""high"": 0.12}
+```"
+c0597,NCT04607837,B,binary,0.077,2025,immune_inflam,inert_control,127.0,60.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0598,NCT04614948,B,binary,-0.0069368710967941,2024,infectious,inert_control,6024.0,5615.0,1,1,-0.015,-0.025,-0.005,"```json
+{""point"": -0.015, ""low"": -0.025, ""high"": -0.005}
+```"
+c0599,NCT04620213,B,binary,0.4234276361935936,2023,other,inert_control,94.0,91.0,1,1,-0.72,-0.82,-0.58,"```json
+{""point"": -0.72, ""low"": -0.82, ""high"": -0.58}
+```"
+c0600,NCT04620733,B,binary,0.417,2024,other,inert_control,128.0,65.0,1,1,0.28,0.14,0.42,"```json
+{""point"": 0.28, ""low"": 0.14, ""high"": 0.42}
+```"
+c0601,NCT04622254,B,binary,0.495,2024,other,inert_control,182.0,94.0,1,1,0.62,0.51,0.72,"```json
+{""point"": 0.62, ""low"": 0.51, ""high"": 0.72}
+```"
+c0602,NCT04622592,B,binary,0.0022148394241417,2023,infectious,active_comparator,42.0,43.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0603,NCT04622592,B,binary,0.1243680485338726,2023,infectious,active_comparator,23.0,43.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0604,NCT04626297,B,binary,0.0019999999999998,2023,immune_inflam,inert_control,106.0,79.0,1,1,-0.15,-0.32,0.02,"```json
+{""point"": -0.15, ""low"": -0.32, ""high"": 0.02}
+```"
+c0605,NCT04632927,B,binary,0.3015873015873015,2025,immune_inflam,inert_control,56.0,63.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0606,NCT04638660,B,binary,0.1011741682974559,2023,other,inert_control,70.0,73.0,1,1,0.18,0.05,0.31,"```json
+{""point"": 0.18, ""low"": 0.05, ""high"": 0.31}
+```"
+c0607,NCT04649151,B,binary,0.0429819894635766,2025,infectious,inert_control,2486.0,1240.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0608,NCT04649151,B,binary,-0.042374583859488,2025,infectious,inert_control,1405.0,1240.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0609,NCT04649151,B,binary,-0.0571084137013634,2025,infectious,inert_control,388.0,1240.0,1,1,0.05,-0.05,0.15,"```json
+{""point"": 0.05, ""low"": -0.05, ""high"": 0.15}
+```"
+c0610,NCT04650399,B,binary,0.9642382849554164,2026,other,inert_control,251.0,42.0,1,1,0.72,0.63,0.8,"```json
+{""point"": 0.72, ""low"": 0.63, ""high"": 0.80}
+```"
+c0611,NCT04652102,B,binary,-0.0054158979988989,2024,infectious,inert_control,12851.0,12211.0,1,1,-0.009,-0.015,-0.003,"```json
+{""point"": -0.009, ""low"": -0.015, ""high"": -0.003}
+```"
+c0612,NCT04659174,B,binary,-0.0063025210084033,2024,neuro_psych,inert_control,68.0,84.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0613,NCT04665843,B,binary,0.059,2026,oncology,inert_control,80.0,39.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0614,NCT04667247,B,binary,0.0,2025,infectious,inert_control,22.0,23.0,1,1,-0.08,-0.25,0.09,"```json
+{""point"": -0.08, ""low"": -0.25, ""high"": 0.09}
+```"
+c0615,NCT04667468,B,binary,0.055422168867547,2024,other,active_comparator,102.0,98.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0616,NCT04674189,B,binary,0.0,2023,infectious,inert_control,783.0,783.0,1,1,-0.0013,-0.0051,0.0025,"```json
+{""point"": -0.0013, ""low"": -0.0051, ""high"": 0.0025}
+```"
+c0617,NCT04674189,B,binary,0.0,2023,infectious,inert_control,785.0,783.0,1,1,-0.0008,-0.0065,0.0049,"```json
+{""point"": -0.0008, ""low"": -0.0065, ""high"": 0.0049}
+```"
+c0618,NCT04675151,B,binary,0.3319999999999999,2023,other,inert_control,43.0,44.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0619,NCT04675931,B,binary,0.4070000000000001,2026,infectious,active_comparator,20.0,117.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0620,NCT04675931,B,binary,0.5370000000000001,2026,infectious,active_comparator,114.0,117.0,1,1,0.08,-0.06,0.22,"```json
+{""point"": 0.08, ""low"": -0.06, ""high"": 0.22}
+```"
+c0621,NCT04677114,B,binary,0.00074,2026,infectious,active_comparator,422.0,397.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0622,NCT04677660,B,binary,0.0269999999999999,2023,infectious,inert_control,150.0,50.0,1,1,0.12,-0.04,0.28,"```json
+{""point"": 0.12, ""low"": -0.04, ""high"": 0.28}
+```"
+c0623,NCT04677972,B,binary,0.1240079365079365,2026,other,inert_control,112.0,108.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0624,NCT04687072,B,binary,-0.025,2024,immune_inflam,inert_control,124.0,68.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0625,NCT04692688,B,binary,-0.0074999999999999,2026,cardiometabolic,inert_control,48.0,50.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0626,NCT04693715,B,binary,0.0476190476190476,2026,cardiometabolic,inert_control,30.0,28.0,1,1,-0.08,-0.28,0.12,"```json
+{""point"": -0.08, ""low"": -0.28, ""high"": 0.12}
+```"
+c0627,NCT04693715,B,binary,-0.0357142857142857,2026,cardiometabolic,inert_control,24.0,28.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0628,NCT04696146,B,binary,0.0,2023,other,inert_control,20.0,20.0,1,1,-0.15,-0.4,0.1,"```json
+{""point"": -0.15, ""low"": -0.40, ""high"": 0.10}
+```"
+c0629,NCT04701203,B,binary,0.739,2025,other,inert_control,61.0,21.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0630,NCT04701333,B,binary,-0.6919191919191919,2023,other,inert_control,36.0,33.0,1,1,-0.35,-0.55,-0.15,"```json
+{""point"": -0.35, ""low"": -0.55, ""high"": -0.15}
+```"
+c0631,NCT04711837,B,binary,-0.0056655192197361,2023,other,active_comparator,168.0,83.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0632,NCT04711902,B,binary,0.4142857142857142,2024,immune_inflam,inert_control,20.0,21.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0633,NCT04712110,B,binary,0.02,2023,infectious,inert_control,150.0,50.0,1,1,0.18,0.05,0.31,"```json
+{""point"": 0.18, ""low"": 0.05, ""high"": 0.31}
+```"
+c0634,NCT04713592,B,binary,0.1719999999999999,2024,immune_inflam,inert_control,87.0,87.0,1,1,0.38,0.22,0.52,"```json
+{""point"": 0.38, ""low"": 0.22, ""high"": 0.52}
+```"
+c0635,NCT04722991,B,binary,-0.019,2025,cardiometabolic,inert_control,51.0,52.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0636,NCT04726410,B,binary,0.0,2025,other,active_comparator,50.0,50.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0637,NCT04726969,B,binary,0.0189999999999999,2023,infectious,inert_control,72.0,67.0,1,1,0.62,0.48,0.76,"```json
+{""point"": 0.62, ""low"": 0.48, ""high"": 0.76}
+```"
+c0638,NCT04732117,B,binary,0.3268999999999999,2026,other,inert_control,61.0,62.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0639,NCT04732494,B,binary,0.0999999999999999,2025,oncology,inert_control,62.0,63.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0640,NCT04734197,B,binary,0.0909999999999999,2025,other,inert_control,50.0,47.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0641,NCT04734197,B,binary,-0.149,2025,other,inert_control,50.0,47.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0642,NCT04734197,B,binary,-0.155,2025,other,inert_control,52.0,47.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0643,NCT04735393,B,binary,0.0,2025,other,inert_control,503.0,251.0,1,1,0.01,-0.03,0.05,"```json
+{""point"": 0.01, ""low"": -0.03, ""high"": 0.05}
+```"
+c0644,NCT04739709,B,binary,0.2144319488459489,2023,neuro_psych,inert_control,181.0,197.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0645,NCT04754594,B,binary,0.009,2024,infectious,inert_control,161.0,163.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0646,NCT04756128,B,binary,0.1722814498933902,2023,infectious,inert_control,67.0,35.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0647,NCT04756128,B,binary,0.1327731092436975,2023,infectious,inert_control,68.0,35.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0648,NCT04756804,B,binary,-0.0384615384615384,2024,infectious,active_comparator,25.0,26.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0649,NCT04760314,B,binary,0.2729999999999999,2023,immune_inflam,inert_control,123.0,82.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0650,NCT04760314,B,binary,0.23,2023,immune_inflam,inert_control,81.0,82.0,1,1,0.38,0.24,0.51,"```json
+{""point"": 0.38, ""low"": 0.24, ""high"": 0.51}
+```"
+c0651,NCT04766086,B,binary,0.02,2024,infectious,inert_control,102.0,103.0,1,1,0.12,-0.05,0.28,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.28}
+```"
+c0652,NCT04767373,B,binary,-0.0365944698572707,2025,infectious,inert_control,2398.0,1201.0,1,1,-0.085,-0.135,-0.035,"```json
+{""point"": -0.085, ""low"": -0.135, ""high"": -0.035}
+```"
+c0653,NCT04767529,B,binary,0.1996148908857509,2025,other,inert_control,38.0,41.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0654,NCT04771273,B,binary,0.235,2024,other,inert_control,93.0,79.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0655,NCT04771273,B,binary,0.486,2024,other,inert_control,69.0,79.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0656,NCT04771273,B,binary,0.4059999999999999,2024,other,inert_control,52.0,79.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0657,NCT04773587,B,binary,0.168,2024,immune_inflam,inert_control,433.0,221.0,1,1,0.32,0.22,0.41,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.41}
+```"
+c0658,NCT04773600,B,binary,0.1689999999999999,2024,immune_inflam,inert_control,451.0,232.0,1,1,0.32,0.23,0.41,"```json
+{""point"": 0.32, ""low"": 0.23, ""high"": 0.41}
+```"
+c0659,NCT04789499,B,binary,0.1599999999999999,2023,infectious,inert_control,22.0,23.0,1,1,0.18,-0.08,0.42,"```json
+{""point"": 0.18, ""low"": -0.08, ""high"": 0.42}
+```"
+c0660,NCT04796896,B,binary,0.1304008149012026,2025,infectious,inert_control,3014.0,998.0,1,1,0.35,0.28,0.42,"```json
+{""point"": 0.35, ""low"": 0.28, ""high"": 0.42}
+```"
+c0661,NCT04796896,B,binary,0.1940816741636351,2025,infectious,inert_control,3005.0,998.0,1,1,0.28,0.22,0.34,"```json
+{""point"": 0.28, ""low"": 0.22, ""high"": 0.34}
+```"
+c0662,NCT04796896,B,binary,0.1501722681928398,2025,infectious,inert_control,1991.0,998.0,1,1,0.25,0.18,0.32,"```json
+{""point"": 0.25, ""low"": 0.18, ""high"": 0.32}
+```"
+c0663,NCT04797650,B,binary,0.3749999999999999,2023,other,inert_control,127.0,127.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0664,NCT04797650,B,binary,0.322,2023,other,inert_control,249.0,127.0,1,1,0.32,0.21,0.43,"```json
+{""point"": 0.32, ""low"": 0.21, ""high"": 0.43}
+```"
+c0665,NCT04799158,B,binary,0.287,2023,cardiometabolic,inert_control,359.0,370.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0666,NCT04799158,B,binary,0.3329999999999999,2023,cardiometabolic,inert_control,327.0,370.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0667,NCT04799158,B,binary,0.4269999999999999,2023,cardiometabolic,inert_control,323.0,370.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0668,NCT04804605,B,binary,-0.068880483166496,2025,immune_inflam,inert_control,439.0,218.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0669,NCT04804605,B,binary,0.0819203612085114,2025,immune_inflam,inert_control,382.0,218.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0670,NCT04810962,B,binary,0.1783783783783784,2023,neuro_psych,inert_control,185.0,185.0,1,1,0.28,0.15,0.41,"```json
+{""point"": 0.28, ""low"": 0.15, ""high"": 0.41}
+```"
+c0671,NCT04825288,B,binary,0.0,2026,oncology,inert_control,33.0,32.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0672,NCT04829214,B,binary,-0.0955228981544771,2023,other,inert_control,77.0,76.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0673,NCT04834375,B,binary,-0.0369047619047619,2023,infectious,inert_control,70.0,72.0,1,1,-0.05,-0.16,0.06,"```json
+{""point"": -0.05, ""low"": -0.16, ""high"": 0.06}
+```"
+c0674,NCT04835441,B,binary,-0.19,2025,immune_inflam,inert_control,37.0,37.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0675,NCT04845620,B,binary,0.147,2025,immune_inflam,inert_control,436.0,215.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0676,NCT04856865,B,binary,0.35,2024,immune_inflam,inert_control,20.0,20.0,1,1,0.35,0.1,0.6,"```json
+{""point"": 0.35, ""low"": 0.10, ""high"": 0.60}
+```"
+c0677,NCT04856865,B,binary,0.1809523809523809,2024,immune_inflam,inert_control,21.0,20.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0678,NCT04856891,B,binary,0.7835337650323775,2024,other,inert_control,46.0,47.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0679,NCT04862585,B,binary,0.0232558139534883,2025,oncology,active_comparator,43.0,46.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0680,NCT04864210,B,binary,-0.2222222222222222,2026,neuro_psych,active_comparator,72.0,72.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0681,NCT04871711,B,binary,0.0981576448243115,2024,other,inert_control,325.0,162.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0682,NCT04872101,B,binary,0.2215524343440432,2024,other,inert_control,313.0,159.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0683,NCT04875533,B,binary,-0.003,2023,infectious,active_comparator,711.0,710.0,1,1,0.02,-0.05,0.09,"```json
+{""point"": 0.02, ""low"": -0.05, ""high"": 0.09}
+```"
+c0684,NCT04878055,B,binary,0.0283466533466534,2024,infectious,inert_control,182.0,88.0,1,1,0.12,-0.05,0.29,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.29}
+```"
+c0685,NCT04886960,B,binary,-0.0333333333333333,2026,immune_inflam,active_comparator,30.0,30.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0686,NCT04891419,B,binary,0.9108910891089108,2024,other,inert_control,101.0,56.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0687,NCT04906421,B,binary,0.2142857142857142,2025,other,inert_control,112.0,56.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0688,NCT04906421,B,binary,0.3578042328042328,2025,other,inert_control,81.0,56.0,1,1,0.24,0.08,0.4,"```json
+{""point"": 0.24, ""low"": 0.08, ""high"": 0.40}
+```"
+c0689,NCT04908683,B,binary,-0.0050226369821331,2024,other,inert_control,16263.0,8152.0,1,1,-0.048,-0.068,-0.028,"```json
+{""point"": -0.048, ""low"": -0.068, ""high"": -0.028}
+```"
+c0690,NCT04909450,B,binary,0.0751633986928104,2026,other,inert_control,54.0,51.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0691,NCT04915729,B,binary,0.024,2024,cardiometabolic,active_comparator,732.0,733.0,1,1,0.05,-0.03,0.13,"```json
+{""point"": 0.05, ""low"": -0.03, ""high"": 0.13}
+```"
+c0692,NCT04917861,B,binary,0.4804477611940298,2025,infectious,inert_control,201.0,200.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0693,NCT04917861,B,binary,0.3859203980099502,2025,infectious,inert_control,201.0,200.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0694,NCT04921969,B,binary,0.258,2024,immune_inflam,inert_control,134.0,65.0,1,1,0.28,0.14,0.42,"```json
+{""point"": 0.28, ""low"": 0.14, ""high"": 0.42}
+```"
+c0695,NCT04921969,B,binary,0.4569999999999999,2024,immune_inflam,inert_control,131.0,65.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0696,NCT04922554,B,binary,0.141,2025,infectious,inert_control,41.0,25.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0697,NCT04925934,B,binary,0.0006793478260869,2024,immune_inflam,inert_control,69.0,64.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0698,NCT04925934,B,binary,0.0296648550724637,2024,immune_inflam,inert_control,69.0,64.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0699,NCT04929483,B,binary,0.2078965758211041,2026,other,inert_control,53.0,54.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0700,NCT04929483,B,binary,0.2372954349698535,2026,other,inert_control,43.0,54.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0701,NCT04930744,B,binary,-0.0357142857142857,2026,infectious,active_comparator,56.0,56.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0702,NCT04932941,B,binary,-0.0179999999999999,2023,infectious,inert_control,82.0,43.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0703,NCT04936308,B,binary,-0.021,2025,immune_inflam,inert_control,138.0,146.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0704,NCT04938830,B,binary,0.0039757583577618,2026,infectious,inert_control,499.0,497.0,1,1,0.12,0.04,0.2,"```json
+{""point"": 0.12, ""low"": 0.04, ""high"": 0.20}
+```"
+c0705,NCT04939428,B,binary,-0.13,2024,infectious,inert_control,630.0,634.0,1,1,-0.18,-0.28,-0.08,"```json
+{""point"": -0.18, ""low"": -0.28, ""high"": -0.08}
+```"
+c0706,NCT04940130,B,binary,0.0,2024,infectious,inert_control,139.0,138.0,1,1,0.02,-0.04,0.08,"```json
+{""point"": 0.02, ""low"": -0.04, ""high"": 0.08}
+```"
+c0707,NCT04940390,B,binary,0.0287693715872865,2023,neuro_psych,inert_control,716.0,708.0,1,1,0.32,0.26,0.38,"```json
+{""point"": 0.32, ""low"": 0.26, ""high"": 0.38}
+```"
+c0708,NCT04949399,B,binary,0.020869899737924,2024,other,inert_control,199.0,209.0,1,1,0.15,0.05,0.28,"```json
+{""point"": 0.15, ""low"": 0.05, ""high"": 0.28}
+```"
+c0709,NCT04955730,B,binary,0.0132542727589815,2026,infectious,inert_control,183.0,94.0,1,1,-0.08,-0.16,-0.01,"```json
+{""point"": -0.08, ""low"": -0.16, ""high"": -0.01}
+```"
+c0710,NCT04957212,B,binary,-0.0394957983193277,2024,oncology,active_comparator,105.0,102.0,1,1,0.12,-0.04,0.28,"```json
+{""point"": 0.12, ""low"": -0.04, ""high"": 0.28}
+```"
+c0711,NCT04960202,B,binary,-0.06136,2023,infectious,inert_control,671.0,647.0,1,1,-0.047,-0.095,-0.005,"```json
+{""point"": -0.047, ""low"": -0.095, ""high"": -0.005}
+```"
+c0712,NCT04971785,B,binary,0.0539999999999999,2025,other,inert_control,124.0,84.0,1,1,0.18,0.04,0.32,"```json
+{""point"": 0.18, ""low"": 0.04, ""high"": 0.32}
+```"
+c0713,NCT04973228,B,binary,0.22,2024,immune_inflam,inert_control,304.0,153.0,1,1,0.35,0.25,0.45,"```json
+{""point"": 0.35, ""low"": 0.25, ""high"": 0.45}
+```"
+c0714,NCT04979806,B,binary,0.0356959424756034,2026,infectious,active_comparator,352.0,177.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0715,NCT04983589,B,binary,0.273,2023,other,inert_control,114.0,116.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0716,NCT04994535,B,binary,-0.0356125356125356,2024,other,inert_control,208.0,216.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0717,NCT04996797,B,binary,0.25,2024,immune_inflam,inert_control,68.0,67.0,1,1,0.22,0.08,0.36,"```json
+{""point"": 0.22, ""low"": 0.08, ""high"": 0.36}
+```"
+c0718,NCT04999839,B,binary,0.621,2023,immune_inflam,inert_control,53.0,52.0,1,1,0.42,0.25,0.58,"```json
+{""point"": 0.42, ""low"": 0.25, ""high"": 0.58}
+```"
+c0719,NCT04999839,B,binary,0.615,2023,immune_inflam,inert_control,52.0,52.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0720,NCT04999839,B,binary,0.384,2023,immune_inflam,inert_control,52.0,52.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0721,NCT05005845,B,binary,0.0230664857530529,2026,other,inert_control,66.0,67.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0722,NCT05005845,B,binary,0.2200361827227499,2026,other,inert_control,66.0,67.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0723,NCT05007080,B,binary,-0.0304121648659463,2024,infectious,inert_control,49.0,51.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0724,NCT05007080,B,binary,-0.0100040016006402,2024,infectious,inert_control,49.0,51.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0725,NCT05007080,B,binary,0.0512204881952781,2024,infectious,inert_control,49.0,51.0,1,1,0.35,0.15,0.52,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.52}
+```"
+c0726,NCT05014568,B,binary,0.3149999999999999,2025,immune_inflam,inert_control,270.0,137.0,1,1,0.38,0.28,0.48,"```json
+{""point"": 0.38, ""low"": 0.28, ""high"": 0.48}
+```"
+c0727,NCT05017480,B,binary,0.2309999999999999,2024,immune_inflam,inert_control,219.0,111.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0728,NCT05032859,B,binary,0.284,2025,immune_inflam,inert_control,271.0,135.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0729,NCT05035654,B,binary,0.0,2024,other,inert_control,24.0,21.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0730,NCT05037851,B,binary,0.026107226107226,2026,other,active_comparator,65.0,33.0,1,1,0.08,-0.1,0.26,"```json
+{""point"": 0.08, ""low"": -0.10, ""high"": 0.26}
+```"
+c0731,NCT05042609,B,binary,-0.259470679813181,2026,infectious,active_comparator,82.0,47.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0732,NCT05045144,B,binary,0.0439999999999999,2023,infectious,inert_control,438.0,440.0,1,1,0.28,0.18,0.38,"```json
+{""point"": 0.28, ""low"": 0.18, ""high"": 0.38}
+```"
+c0733,NCT05047601,B,binary,-0.00197,2023,infectious,inert_control,830.0,844.0,1,1,-0.12,-0.19,-0.05,"```json
+{""point"": -0.12, ""low"": -0.19, ""high"": -0.05}
+```"
+c0734,NCT05055128,B,binary,0.1307814992025517,2023,other,active_comparator,38.0,33.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0735,NCT05055128,B,binary,0.1506961506961507,2023,other,active_comparator,37.0,33.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0736,NCT05055128,B,binary,0.1744271988174427,2023,other,active_comparator,41.0,33.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0737,NCT05061693,B,binary,0.2799999999999999,2024,other,inert_control,36.0,37.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0738,NCT05061693,B,binary,0.363,2024,other,inert_control,36.0,37.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0739,NCT05061693,B,binary,0.4869999999999999,2024,other,inert_control,37.0,37.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0740,NCT05065905,B,binary,-0.1999999999999999,2024,infectious,inert_control,30.0,20.0,1,1,0.25,0.05,0.45,"```json
+{""point"": 0.25, ""low"": 0.05, ""high"": 0.45}
+```"
+c0741,NCT05065905,B,binary,0.0142857142857143,2024,infectious,inert_control,28.0,20.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0742,NCT05069649,B,binary,-0.0286767480335529,2024,infectious,inert_control,526.0,524.0,1,1,-0.18,-0.26,-0.1,"```json
+{""point"": -0.18, ""low"": -0.26, ""high"": -0.10}
+```"
+c0743,NCT05070546,B,binary,0.7168652271034996,2023,infectious,inert_control,316.0,68.0,1,1,0.38,0.28,0.48,"```json
+{""point"": 0.38, ""low"": 0.28, ""high"": 0.48}
+```"
+c0744,NCT05070546,B,binary,0.720865704772475,2023,infectious,inert_control,318.0,68.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0745,NCT05071664,B,binary,0.069,2026,immune_inflam,inert_control,59.0,32.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0746,NCT05072080,B,binary,0.0813547721642229,2024,other,inert_control,906.0,458.0,1,1,0.18,0.12,0.24,"```json
+{""point"": 0.18, ""low"": 0.12, ""high"": 0.24}
+```"
+c0747,NCT05072080,B,binary,0.1264887388330054,2024,other,inert_control,939.0,458.0,1,1,0.18,0.12,0.24,"```json
+{""point"": 0.18, ""low"": 0.12, ""high"": 0.24}
+```"
+c0748,NCT05072080,B,binary,0.127083728877919,2024,other,inert_control,920.0,458.0,1,1,0.18,0.12,0.24,"```json
+{""point"": 0.18, ""low"": 0.12, ""high"": 0.24}
+```"
+c0749,NCT05075408,B,binary,0.061,2025,other,inert_control,88.0,85.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0750,NCT05075408,B,binary,0.153,2025,other,inert_control,85.0,85.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0751,NCT05082285,B,binary,0.0764835164835165,2026,infectious,active_comparator,175.0,182.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0752,NCT05082285,B,binary,-0.0022714715452145,2026,infectious,active_comparator,179.0,182.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0753,NCT05082285,B,binary,-0.0116319850362403,2026,infectious,active_comparator,188.0,182.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0754,NCT05085275,B,binary,-0.0846121057118499,2025,cardiometabolic,inert_control,138.0,136.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c0755,NCT05095779,B,binary,0.1534391534391535,2024,other,active_comparator,84.0,81.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0756,NCT05100199,B,binary,0.7779999999999999,2025,other,inert_control,90.0,45.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0757,NCT05100199,B,binary,0.811,2025,other,inert_control,92.0,45.0,1,1,0.42,0.28,0.55,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.55}
+```"
+c0758,NCT05100199,B,binary,0.8019999999999999,2025,other,inert_control,101.0,45.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0759,NCT05108922,B,binary,0.363,2023,neuro_psych,active_comparator,66.0,64.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0760,NCT05116202,B,binary,-0.323,2025,oncology,active_comparator,20.0,22.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0761,NCT05116202,B,binary,-0.173,2025,oncology,active_comparator,20.0,22.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0762,NCT05116202,B,binary,0.027,2025,oncology,active_comparator,40.0,22.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0763,NCT05130970,B,binary,0.0762195121951219,2024,other,inert_control,40.0,41.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0764,NCT05133180,B,binary,0.3261689291101055,2024,other,inert_control,52.0,51.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0765,NCT05134649,B,binary,0.1615939399437539,2024,other,inert_control,292.0,151.0,1,1,0.12,-0.05,0.29,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.29}
+```"
+c0766,NCT05134649,B,binary,0.0348816111766306,2024,other,inert_control,292.0,151.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0767,NCT05134649,B,binary,0.2163884604916991,2024,other,inert_control,292.0,151.0,1,1,0.12,-0.08,0.28,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.28}
+```"
+c0768,NCT05136170,B,binary,0.3392963625521765,2024,other,inert_control,43.0,39.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0769,NCT05137041,B,binary,0.2309999999999999,2024,neuro_psych,inert_control,91.0,89.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0770,NCT05137236,B,binary,0.0002741228070175,2025,infectious,active_comparator,64.0,57.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0771,NCT05137236,B,binary,-0.0269488153373123,2025,infectious,active_comparator,97.0,57.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0772,NCT05137236,B,binary,-0.0141372849599727,2025,infectious,active_comparator,103.0,57.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0773,NCT05144945,B,binary,0.0,2023,infectious,active_comparator,149.0,151.0,1,1,0.02,-0.06,0.1,"```json
+{""point"": 0.02, ""low"": -0.06, ""high"": 0.10}
+```"
+c0774,NCT05147233,B,binary,0.3320000000000001,2025,neuro_psych,inert_control,119.0,122.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0775,NCT05149313,B,binary,0.2760000000000001,2024,immune_inflam,inert_control,220.0,111.0,1,1,0.38,0.28,0.48,"```json
+{""point"": 0.38, ""low"": 0.28, ""high"": 0.48}
+```"
+c0776,NCT05152576,B,binary,-0.0019704433497537,2025,other,inert_control,35.0,29.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0777,NCT05152576,B,binary,0.235817575083426,2025,other,inert_control,31.0,29.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0778,NCT05152576,B,binary,0.1194581280788177,2025,other,inert_control,28.0,29.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0779,NCT05153148,B,binary,0.25,2024,immune_inflam,inert_control,72.0,72.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0780,NCT05153148,B,binary,0.06,2024,immune_inflam,inert_control,71.0,72.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0781,NCT05153148,B,binary,0.2409999999999999,2024,immune_inflam,inert_control,75.0,72.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0782,NCT05176639,B,binary,0.6474,2026,other,inert_control,75.0,38.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0783,NCT05184062,B,binary,0.0,2024,infectious,inert_control,202.0,70.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0784,NCT05201079,B,binary,-0.1168918918918918,2025,infectious,active_comparator,37.0,40.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0785,NCT05202327,B,binary,0.0253623188405797,2026,neuro_psych,inert_control,24.0,23.0,1,1,0.32,0.08,0.56,"```json
+{""point"": 0.32, ""low"": 0.08, ""high"": 0.56}
+```"
+c0786,NCT05204563,B,binary,0.0029999999999999,2025,infectious,active_comparator,299.0,150.0,1,1,-0.04,-0.12,0.03,"```json
+{""point"": -0.04, ""low"": -0.12, ""high"": 0.03}
+```"
+c0787,NCT05212168,B,binary,-0.1218623481781376,2025,infectious,inert_control,76.0,65.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0788,NCT05219253,B,binary,0.779,2024,other,inert_control,126.0,129.0,1,1,0.58,0.46,0.7,"```json
+{""point"": 0.58, ""low"": 0.46, ""high"": 0.70}
+```"
+c0789,NCT05219877,B,binary,-0.0158730158730158,2023,infectious,active_comparator,63.0,63.0,1,1,-0.08,-0.22,0.06,"```json
+{""point"": -0.08, ""low"": -0.22, ""high"": 0.06}
+```"
+c0790,NCT05243680,B,binary,0.0233383121732636,2026,immune_inflam,inert_control,416.0,206.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0791,NCT05248867,B,binary,0.594,2024,other,inert_control,482.0,156.0,1,1,0.52,0.44,0.6,"```json
+{""point"": 0.52, ""low"": 0.44, ""high"": 0.60}
+```"
+c0792,NCT05248880,B,binary,0.645,2026,other,inert_control,227.0,82.0,1,1,0.52,0.4,0.64,"```json
+{""point"": 0.52, ""low"": 0.40, ""high"": 0.64}
+```"
+c0793,NCT05252845,B,binary,0.1451048951048951,2025,infectious,active_comparator,52.0,22.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0794,NCT05252845,B,binary,-0.0686106346483705,2025,infectious,active_comparator,53.0,22.0,1,1,0.08,-0.15,0.31,"```json
+{""point"": 0.08, ""low"": -0.15, ""high"": 0.31}
+```"
+c0795,NCT05256017,B,binary,-0.0147682119205298,2025,infectious,inert_control,906.0,300.0,1,1,0.15,0.08,0.22,"```json
+{""point"": 0.15, ""low"": 0.08, ""high"": 0.22}
+```"
+c0796,NCT05267600,B,binary,0.1183333333333333,2025,other,inert_control,50.0,48.0,1,1,0.28,0.08,0.48,"```json
+{""point"": 0.28, ""low"": 0.08, ""high"": 0.48}
+```"
+c0797,NCT05270863,B,binary,0.144,2024,other,active_comparator,178.0,177.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0798,NCT05276063,B,binary,0.329,2026,other,inert_control,30.0,30.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0799,NCT05276063,B,binary,0.201,2026,other,inert_control,30.0,30.0,1,1,0.3,0.08,0.52,"```json
+{""point"": 0.30, ""low"": 0.08, ""high"": 0.52}
+```"
+c0800,NCT05285644,B,binary,0.344,2025,other,inert_control,230.0,235.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0801,NCT05288504,B,binary,-0.0444444444444444,2024,immune_inflam,inert_control,45.0,45.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0802,NCT05294328,B,binary,0.655,2024,other,inert_control,49.0,51.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0803,NCT05294328,B,binary,0.501,2024,other,inert_control,50.0,51.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0804,NCT05295732,B,binary,-0.035,2025,other,inert_control,78.0,38.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0805,NCT05296629,B,binary,0.3350409836065574,2024,other,inert_control,122.0,80.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0806,NCT05304611,B,binary,-0.3333333333333333,2024,infectious,inert_control,75.0,75.0,1,1,-0.35,-0.55,-0.15,"```json
+{""point"": -0.35, ""low"": -0.55, ""high"": -0.15}
+```"
+c0807,NCT05304611,B,binary,-0.4133333333333333,2024,infectious,inert_control,75.0,75.0,1,1,-0.35,-0.55,-0.15,"```json
+{""point"": -0.35, ""low"": -0.55, ""high"": -0.15}
+```"
+c0808,NCT05305560,B,binary,-0.3776381909547738,2024,infectious,inert_control,200.0,199.0,1,1,-0.12,-0.22,-0.02,"```json
+{""point"": -0.12, ""low"": -0.22, ""high"": -0.02}
+```"
+c0809,NCT05310422,B,binary,-0.040112596762843,2026,other,inert_control,203.0,98.0,1,1,0.12,-0.08,0.28,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.28}
+```"
+c0810,NCT05316233,B,binary,0.587,2026,other,inert_control,105.0,54.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0811,NCT05325853,B,binary,0.0,2023,other,active_comparator,30.0,30.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0812,NCT05327660,B,binary,0.0223232740801984,2024,other,active_comparator,59.0,41.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0813,NCT05327660,B,binary,0.0093409444732744,2024,other,active_comparator,47.0,41.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0814,NCT05330975,B,binary,0.1565343767950695,2025,other,inert_control,678.0,683.0,1,1,0.42,0.36,0.48,"```json
+{""point"": 0.42, ""low"": 0.36, ""high"": 0.48}
+```"
+c0815,NCT05333289,B,binary,-0.0985915492957746,2024,infectious,active_comparator,71.0,71.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0816,NCT05333289,B,binary,-0.086658841940532,2024,infectious,active_comparator,72.0,71.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0817,NCT05333289,B,binary,-0.0727699530516431,2024,infectious,active_comparator,72.0,71.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0818,NCT05338034,B,binary,0.0454545454545455,2026,other,inert_control,22.0,22.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0819,NCT05338034,B,binary,0.0735930735930736,2026,other,inert_control,21.0,22.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0820,NCT05338034,B,binary,0.2727272727272728,2026,other,inert_control,22.0,22.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0821,NCT05343455,B,binary,0.3333333333333333,2024,other,inert_control,123.0,82.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0822,NCT05349617,B,binary,0.862,2024,other,inert_control,189.0,183.0,1,1,0.72,0.64,0.8,"```json
+{""point"": 0.72, ""low"": 0.64, ""high"": 0.80}
+```"
+c0823,NCT05355818,B,binary,0.3434684684684684,2025,other,inert_control,74.0,24.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0824,NCT05357755,B,binary,0.377,2026,immune_inflam,inert_control,31.0,24.0,1,1,0.42,0.25,0.58,"```json
+{""point"": 0.42, ""low"": 0.25, ""high"": 0.58}
+```"
+c0825,NCT05357755,B,binary,0.693,2026,immune_inflam,inert_control,34.0,24.0,1,1,0.38,0.18,0.58,"```json
+{""point"": 0.38, ""low"": 0.18, ""high"": 0.58}
+```"
+c0826,NCT05358717,B,binary,0.0394828791055206,2026,other,inert_control,54.0,53.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0827,NCT05358717,B,binary,-0.0410014513788099,2026,other,inert_control,52.0,53.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0828,NCT05360966,B,binary,0.388,2025,other,inert_control,232.0,234.0,1,1,0.18,0.08,0.28,"```json
+{""point"": 0.18, ""low"": 0.08, ""high"": 0.28}
+```"
+c0829,NCT05364671,B,binary,-0.0743415119988156,2025,infectious,inert_control,382.0,389.0,1,1,-0.08,-0.15,-0.01,"```json
+{""point"": -0.08, ""low"": -0.15, ""high"": -0.01}
+```"
+c0830,NCT05375838,B,binary,-0.0513861386138613,2024,infectious,inert_control,101.0,100.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0831,NCT05375955,B,binary,0.124,2024,immune_inflam,inert_control,42.0,44.0,1,1,0.32,0.12,0.51,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.51}
+```"
+c0832,NCT05375955,B,binary,0.0999999999999999,2024,immune_inflam,inert_control,42.0,44.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0833,NCT05381454,B,binary,-0.45,2024,infectious,inert_control,40.0,40.0,1,1,-0.25,-0.475,-0.025,"```json
+{""point"": -0.25, ""low"": -0.475, ""high"": -0.025}
+```"
+c0834,NCT05383209,B,binary,-0.05,2025,cardiometabolic,inert_control,20.0,20.0,1,1,0.15,-0.1,0.38,"```json
+{""point"": 0.15, ""low"": -0.10, ""high"": 0.38}
+```"
+c0835,NCT05383209,B,binary,-0.002,2025,cardiometabolic,inert_control,21.0,20.0,1,1,0.18,-0.08,0.42,"```json
+{""point"": 0.18, ""low"": -0.08, ""high"": 0.42}
+```"
+c0836,NCT05386030,B,binary,0.0824591236102026,2025,other,active_comparator,275.0,139.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0837,NCT05390970,B,binary,-0.015,2024,other,inert_control,24.0,25.0,1,1,0.35,0.12,0.58,"```json
+{""point"": 0.35, ""low"": 0.12, ""high"": 0.58}
+```"
+c0838,NCT05392192,B,binary,0.0,2025,other,inert_control,47.0,51.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0839,NCT05393895,B,binary,0.0977401129943502,2025,other,inert_control,118.0,60.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0840,NCT05398445,B,binary,0.0805989168525008,2026,immune_inflam,inert_control,215.0,219.0,1,1,0.32,0.22,0.42,"```json
+{""point"": 0.32, ""low"": 0.22, ""high"": 0.42}
+```"
+c0841,NCT05398445,B,binary,0.144802084208757,2026,immune_inflam,inert_control,326.0,219.0,1,1,0.42,0.33,0.51,"```json
+{""point"": 0.42, ""low"": 0.33, ""high"": 0.51}
+```"
+c0842,NCT05403866,B,binary,0.0,2025,cardiometabolic,inert_control,43.0,44.0,1,1,0.0,-0.05,0.05,"```json
+{""point"": 0.0, ""low"": -0.05, ""high"": 0.05}
+```"
+c0843,NCT05408429,B,binary,-0.0099999999999999,2024,infectious,active_comparator,118.0,117.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0844,NCT05408429,B,binary,-0.032,2024,infectious,active_comparator,116.0,117.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0845,NCT05409235,B,binary,-0.01124,2024,cardiometabolic,inert_control,75.0,74.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0846,NCT05409235,B,binary,-0.01048,2024,cardiometabolic,inert_control,76.0,74.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0847,NCT05415462,B,binary,0.0178565251419355,2024,infectious,active_comparator,3035.0,3048.0,1,1,0.02,-0.03,0.07,"```json
+{""point"": 0.02, ""low"": -0.03, ""high"": 0.07}
+```"
+c0848,NCT05420961,B,binary,0.004,2024,infectious,active_comparator,230.0,117.0,1,1,-0.01,-0.06,0.04,"```json
+{""point"": -0.01, ""low"": -0.06, ""high"": 0.04}
+```"
+c0849,NCT05420961,B,binary,0.0,2024,infectious,active_comparator,174.0,117.0,1,1,-0.01,-0.05,0.03,"```json
+{""point"": -0.01, ""low"": -0.05, ""high"": 0.03}
+```"
+c0850,NCT05420961,B,binary,0.0,2024,infectious,active_comparator,105.0,117.0,1,1,-0.01,-0.06,0.04,"```json
+{""point"": -0.01, ""low"": -0.06, ""high"": 0.04}
+```"
+c0851,NCT05421598,B,binary,-0.0022126614173228,2026,immune_inflam,inert_control,125.0,127.0,1,1,-0.18,-0.32,-0.04,"```json
+{""point"": -0.18, ""low"": -0.32, ""high"": -0.04}
+```"
+c0852,NCT05421598,B,binary,-0.0010796291592583,2026,immune_inflam,inert_control,124.0,127.0,1,1,-0.18,-0.32,-0.04,"```json
+{""point"": -0.18, ""low"": -0.32, ""high"": -0.04}
+```"
+c0853,NCT05421598,B,binary,0.0028815025171033,2026,immune_inflam,inert_control,61.0,127.0,1,1,-0.18,-0.32,-0.04,"```json
+{""point"": -0.18, ""low"": -0.32, ""high"": -0.04}
+```"
+c0854,NCT05424276,B,binary,0.0176470588235294,2025,neuro_psych,inert_control,34.0,35.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0855,NCT05424276,B,binary,0.0363636363636363,2025,neuro_psych,inert_control,33.0,35.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0856,NCT05424276,B,binary,-0.0571428571428571,2025,neuro_psych,inert_control,35.0,35.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0857,NCT05425732,B,binary,0.0,2024,infectious,active_comparator,1177.0,1175.0,1,1,0.002,-0.015,0.019,"```json
+{""point"": 0.002, ""low"": -0.015, ""high"": 0.019}
+```"
+c0858,NCT05425732,B,binary,0.0,2024,infectious,active_comparator,200.0,1175.0,1,1,-0.005,-0.025,0.015,"```json
+{""point"": -0.005, ""low"": -0.025, ""high"": 0.015}
+```"
+c0859,NCT05431387,B,binary,0.167,2026,other,inert_control,107.0,53.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0860,NCT05431543,B,binary,0.712,2024,other,inert_control,49.0,47.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0861,NCT05431543,B,binary,0.697,2024,other,inert_control,50.0,47.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0862,NCT05437510,B,binary,-0.0132002384414496,2025,other,inert_control,4038.0,4019.0,1,1,-0.043,-0.062,-0.024,"```json
+{""point"": -0.043, ""low"": -0.062, ""high"": -0.024}
+```"
+c0863,NCT05438602,B,binary,0.0446,2024,infectious,inert_control,50.0,52.0,1,1,0.25,0.05,0.45,"```json
+{""point"": 0.25, ""low"": 0.05, ""high"": 0.45}
+```"
+c0864,NCT05453578,B,binary,-0.0641025641025641,2026,infectious,inert_control,26.0,24.0,1,1,-0.08,-0.28,0.12,"```json
+{""point"": -0.08, ""low"": -0.28, ""high"": 0.12}
+```"
+c0865,NCT05460832,B,binary,-0.06,2025,immune_inflam,inert_control,63.0,62.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0866,NCT05460832,B,binary,0.093,2025,immune_inflam,inert_control,61.0,62.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0867,NCT05460832,B,binary,0.008,2025,immune_inflam,inert_control,62.0,62.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0868,NCT05478174,B,binary,-0.0078431372549019,2024,other,active_comparator,255.0,128.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0869,NCT05487404,B,binary,0.0,2025,other,inert_control,23.0,25.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0870,NCT05492877,B,binary,0.0103339947089947,2025,immune_inflam,inert_control,189.0,192.0,1,1,-0.12,-0.22,-0.02,"```json
+{""point"": -0.12, ""low"": -0.22, ""high"": -0.02}
+```"
+c0871,NCT05496231,B,binary,-0.0037037037037037,2025,oncology,active_comparator,270.0,270.0,1,1,0.02,-0.04,0.08,"```json
+{""point"": 0.02, ""low"": -0.04, ""high"": 0.08}
+```"
+c0872,NCT05496231,B,binary,-0.0037037037037037,2025,oncology,active_comparator,269.0,270.0,1,1,-0.02,-0.08,0.04,"```json
+{""point"": -0.02, ""low"": -0.08, ""high"": 0.04}
+```"
+c0873,NCT05496231,B,binary,0.0,2025,oncology,active_comparator,270.0,270.0,1,1,0.02,-0.04,0.08,"```json
+{""point"": 0.02, ""low"": -0.04, ""high"": 0.08}
+```"
+c0874,NCT05499130,B,binary,0.1571566731141199,2025,immune_inflam,inert_control,47.0,44.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0875,NCT05499130,B,binary,0.2737154150197628,2025,immune_inflam,inert_control,46.0,44.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0876,NCT05501860,B,binary,0.0843373493975903,2024,other,inert_control,166.0,83.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0877,NCT05507450,B,binary,0.0,2025,other,inert_control,231.0,115.0,1,1,0.02,-0.02,0.07,"```json
+{""point"": 0.02, ""low"": -0.02, ""high"": 0.07}
+```"
+c0878,NCT05507450,B,binary,0.0,2025,other,inert_control,459.0,115.0,1,1,0.015,-0.01,0.04,"```json
+{""point"": 0.015, ""low"": -0.010, ""high"": 0.040}
+```"
+c0879,NCT05507450,B,binary,0.0,2025,other,inert_control,461.0,115.0,1,1,0.01,-0.02,0.04,"```json
+{""point"": 0.01, ""low"": -0.02, ""high"": 0.04}
+```"
+c0880,NCT05507567,B,binary,-0.2,2024,infectious,inert_control,30.0,40.0,1,1,-0.28,-0.5,-0.08,"```json
+{""point"": -0.28, ""low"": -0.50, ""high"": -0.08}
+```"
+c0881,NCT05507567,B,binary,-0.1966101694915254,2024,infectious,inert_control,59.0,40.0,1,1,-0.25,-0.45,-0.05,"```json
+{""point"": -0.25, ""low"": -0.45, ""high"": -0.05}
+```"
+c0882,NCT05523323,B,binary,0.2949999999999999,2024,oncology,inert_control,61.0,51.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0883,NCT05536297,B,binary,-0.0730546357615894,2026,other,inert_control,64.0,151.0,1,1,0.05,-0.12,0.22,"```json
+{""point"": 0.05, ""low"": -0.12, ""high"": 0.22}
+```"
+c0884,NCT05536297,B,binary,-0.0510259472369992,2026,other,inert_control,61.0,151.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0885,NCT05537233,B,binary,0.3611111111111111,2025,cardiometabolic,inert_control,36.0,36.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0886,NCT05541497,B,binary,0.15,2024,other,inert_control,20.0,20.0,1,1,0.15,-0.1,0.4,"```json
+{""point"": 0.15, ""low"": -0.10, ""high"": 0.40}
+```"
+c0887,NCT05549505,B,binary,-0.015,2025,oncology,active_comparator,93.0,46.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c0888,NCT05566639,B,binary,-0.0129647476742704,2025,infectious,active_comparator,11210.0,11200.0,1,1,0.02,-0.01,0.05,"```json
+{""point"": 0.02, ""low"": -0.01, ""high"": 0.05}
+```"
+c0889,NCT05584657,B,binary,0.053639846743295,2024,infectious,active_comparator,522.0,468.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0890,NCT05593445,B,binary,-0.0429999999999999,2024,other,inert_control,28.0,30.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0891,NCT05595369,B,binary,0.0,2025,infectious,inert_control,323.0,320.0,1,1,0.0,-0.15,0.15,"```json
+{""point"": 0.0, ""low"": -0.15, ""high"": 0.15}
+```"
+c0892,NCT05600036,B,binary,0.564,2024,immune_inflam,inert_control,39.0,38.0,1,1,0.32,0.14,0.48,"```json
+{""point"": 0.32, ""low"": 0.14, ""high"": 0.48}
+```"
+c0893,NCT05600036,B,binary,0.6409999999999999,2024,immune_inflam,inert_control,39.0,38.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0894,NCT05600036,B,binary,0.564,2024,immune_inflam,inert_control,39.0,38.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0895,NCT05605964,B,binary,0.0001679872329702,2026,oncology,active_comparator,191.0,187.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0896,NCT05618808,B,binary,-0.05,2025,other,active_comparator,116.0,117.0,1,1,-0.05,-0.15,0.05,"```json
+{""point"": -0.05, ""low"": -0.15, ""high"": 0.05}
+```"
+c0897,NCT05625477,B,binary,0.8135593220338984,2025,other,inert_control,59.0,30.0,1,1,0.62,0.48,0.76,"```json
+{""point"": 0.62, ""low"": 0.48, ""high"": 0.76}
+```"
+c0898,NCT05625477,B,binary,1.0,2025,other,inert_control,61.0,30.0,1,1,0.72,0.58,0.84,"```json
+{""point"": 0.72, ""low"": 0.58, ""high"": 0.84}
+```"
+c0899,NCT05625477,B,binary,0.918032786885246,2025,other,inert_control,61.0,30.0,1,1,0.72,0.58,0.84,"```json
+{""point"": 0.72, ""low"": 0.58, ""high"": 0.84}
+```"
+c0900,NCT05627596,B,binary,0.0040804497768504,2026,other,active_comparator,486.0,710.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0901,NCT05633992,B,binary,-0.062,2024,infectious,active_comparator,225.0,225.0,1,1,0.08,-0.05,0.21,"```json
+{""point"": 0.08, ""low"": -0.05, ""high"": 0.21}
+```"
+c0902,NCT05634811,B,binary,0.4579999999999999,2026,infectious,inert_control,1206.0,457.0,1,1,0.38,0.32,0.44,"```json
+{""point"": 0.38, ""low"": 0.32, ""high"": 0.44}
+```"
+c0903,NCT05634811,B,binary,0.4599999999999999,2026,infectious,inert_control,1408.0,457.0,1,1,0.32,0.27,0.37,"```json
+{""point"": 0.32, ""low"": 0.27, ""high"": 0.37}
+```"
+c0904,NCT05639894,B,binary,0.0,2026,other,inert_control,100.0,99.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0905,NCT05639894,B,binary,0.0,2026,other,inert_control,101.0,99.0,1,1,0.12,0.01,0.23,"```json
+{""point"": 0.12, ""low"": 0.01, ""high"": 0.23}
+```"
+c0906,NCT05639894,B,binary,0.0,2026,other,inert_control,100.0,99.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0907,NCT05646719,B,binary,0.0778611632270168,2025,other,inert_control,78.0,82.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0908,NCT05651711,B,binary,0.1147239078585876,2026,immune_inflam,inert_control,543.0,183.0,1,1,0.38,0.31,0.45,"```json
+{""point"": 0.38, ""low"": 0.31, ""high"": 0.45}
+```"
+c0909,NCT05656911,B,binary,-0.051,2025,immune_inflam,inert_control,47.0,22.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0910,NCT05662202,B,binary,0.2892156862745098,2026,other,inert_control,136.0,36.0,1,1,0.62,0.48,0.75,"```json
+{""point"": 0.62, ""low"": 0.48, ""high"": 0.75}
+```"
+c0911,NCT05704738,B,binary,0.2461501249697653,2026,immune_inflam,inert_control,158.0,157.0,1,1,0.42,0.32,0.52,"```json
+{""point"": 0.42, ""low"": 0.32, ""high"": 0.52}
+```"
+c0912,NCT05704738,B,binary,0.2557750447621004,2026,immune_inflam,inert_control,217.0,157.0,1,1,0.42,0.32,0.51,"```json
+{""point"": 0.42, ""low"": 0.32, ""high"": 0.51}
+```"
+c0913,NCT05724199,B,binary,0.1096829314600341,2026,immune_inflam,inert_control,229.0,230.0,1,1,0.38,0.28,0.48,"```json
+{""point"": 0.38, ""low"": 0.28, ""high"": 0.48}
+```"
+c0914,NCT05724199,B,binary,0.1160581730040902,2026,immune_inflam,inert_control,287.0,230.0,1,1,0.38,0.28,0.48,"```json
+{""point"": 0.38, ""low"": 0.28, ""high"": 0.48}
+```"
+c0915,NCT05728944,B,binary,0.4952999999999999,2026,other,inert_control,76.0,76.0,1,1,0.42,0.25,0.59,"```json
+{""point"": 0.42, ""low"": 0.25, ""high"": 0.59}
+```"
+c0916,NCT05728944,B,binary,0.6274000000000001,2026,other,inert_control,77.0,76.0,1,1,0.42,0.28,0.56,"```json
+{""point"": 0.42, ""low"": 0.28, ""high"": 0.56}
+```"
+c0917,NCT05730725,B,binary,0.4419999999999999,2025,immune_inflam,inert_control,23.0,28.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0918,NCT05730725,B,binary,0.7719999999999999,2025,immune_inflam,inert_control,26.0,28.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0919,NCT05730725,B,binary,0.594,2025,immune_inflam,inert_control,27.0,28.0,1,1,0.35,0.15,0.52,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.52}
+```"
+c0920,NCT05753189,B,binary,0.4685121765601217,2026,other,inert_control,144.0,73.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0921,NCT05753189,B,binary,0.2879566210045662,2026,other,inert_control,144.0,73.0,1,1,0.12,-0.05,0.28,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.28}
+```"
+c0922,NCT05753670,B,binary,-0.0225308641975308,2025,other,inert_control,80.0,81.0,1,1,-0.15,-0.32,0.02,"```json
+{""point"": -0.15, ""low"": -0.32, ""high"": 0.02}
+```"
+c0923,NCT05759481,B,binary,0.1695075757575757,2026,other,active_comparator,32.0,33.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c0924,NCT05763082,B,binary,0.2661896243291591,2026,immune_inflam,inert_control,129.0,65.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0925,NCT05764161,B,binary,0.0379999999999999,2025,immune_inflam,inert_control,95.0,94.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0926,NCT05780268,B,binary,-0.0172266688335432,2023,infectious,inert_control,163.0,151.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0927,NCT05780281,B,binary,0.0308062723793061,2023,infectious,inert_control,182.0,178.0,1,1,0.08,-0.04,0.2,"```json
+{""point"": 0.08, ""low"": -0.04, ""high"": 0.20}
+```"
+c0928,NCT05780437,B,binary,0.028844353248202,2024,infectious,inert_control,710.0,707.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0929,NCT05780463,B,binary,0.0235430204470451,2024,infectious,inert_control,247.0,238.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c0930,NCT05801679,B,binary,0.0,2026,other,inert_control,32.0,32.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0931,NCT05816330,B,binary,-0.4113065489712468,2025,infectious,inert_control,217.0,71.0,1,1,-0.35,-0.48,-0.22,"```json
+{""point"": -0.35, ""low"": -0.48, ""high"": -0.22}
+```"
+c0932,NCT05823974,B,binary,-0.1946721311475409,2025,infectious,active_comparator,122.0,120.0,1,1,0.02,-0.12,0.16,"```json
+{""point"": 0.02, ""low"": -0.12, ""high"": 0.16}
+```"
+c0933,NCT05823974,B,binary,-0.151,2025,infectious,active_comparator,125.0,120.0,1,1,0.02,-0.1,0.14,"```json
+{""point"": 0.02, ""low"": -0.10, ""high"": 0.14}
+```"
+c0934,NCT05823974,B,binary,0.062956204379562,2025,infectious,active_comparator,137.0,120.0,1,1,0.05,-0.08,0.18,"```json
+{""point"": 0.05, ""low"": -0.08, ""high"": 0.18}
+```"
+c0935,NCT05827068,B,binary,-0.1093939393939394,2025,infectious,active_comparator,99.0,100.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0936,NCT05827068,B,binary,-0.1,2025,infectious,active_comparator,100.0,100.0,1,1,0.05,-0.1,0.2,"```json
+{""point"": 0.05, ""low"": -0.10, ""high"": 0.20}
+```"
+c0937,NCT05827068,B,binary,-0.0719607843137255,2025,infectious,active_comparator,102.0,100.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0938,NCT05827926,B,binary,-0.1272727272727272,2025,infectious,active_comparator,55.0,55.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0939,NCT05827926,B,binary,-0.0516233766233765,2025,infectious,active_comparator,56.0,55.0,1,1,-0.05,-0.22,0.12,"```json
+{""point"": -0.05, ""low"": -0.22, ""high"": 0.12}
+```"
+c0940,NCT05827926,B,binary,-0.0694805194805194,2025,infectious,active_comparator,56.0,55.0,1,1,0.02,-0.15,0.19,"```json
+{""point"": 0.02, ""low"": -0.15, ""high"": 0.19}
+```"
+c0941,NCT05842967,B,binary,-0.005,2025,other,inert_control,453.0,225.0,1,1,0.15,0.05,0.25,"```json
+{""point"": 0.15, ""low"": 0.05, ""high"": 0.25}
+```"
+c0942,NCT05849922,B,binary,0.276,2026,other,inert_control,48.0,23.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0943,NCT05875441,B,binary,0.0674509803921568,2026,other,inert_control,51.0,50.0,1,1,0.58,0.38,0.75,"```json
+{""point"": 0.58, ""low"": 0.38, ""high"": 0.75}
+```"
+c0944,NCT05886777,B,binary,0.0019999999999999,2024,infectious,inert_control,154.0,157.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0945,NCT05886777,B,binary,0.0,2024,infectious,inert_control,158.0,157.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0946,NCT05887908,B,binary,0.1136904761904761,2025,infectious,active_comparator,112.0,105.0,1,1,0.02,-0.1,0.14,"```json
+{""point"": 0.02, ""low"": -0.10, ""high"": 0.14}
+```"
+c0947,NCT05887908,B,binary,0.2129060970182464,2025,infectious,active_comparator,214.0,105.0,1,1,0.05,-0.1,0.2,"```json
+{""point"": 0.05, ""low"": -0.10, ""high"": 0.20}
+```"
+c0948,NCT05896527,B,binary,0.0809999999999999,2025,immune_inflam,inert_control,46.0,44.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0949,NCT05896527,B,binary,0.034,2025,immune_inflam,inert_control,47.0,44.0,1,1,0.35,0.15,0.52,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.52}
+```"
+c0950,NCT05896527,B,binary,0.226,2025,immune_inflam,inert_control,47.0,44.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c0951,NCT05899816,B,binary,-0.047,2026,immune_inflam,inert_control,105.0,52.0,1,1,-0.12,-0.28,0.04,"```json
+{""point"": -0.12, ""low"": -0.28, ""high"": 0.04}
+```"
+c0952,NCT05901636,B,binary,-0.0399999999999999,2025,infectious,inert_control,25.0,25.0,1,1,0.32,0.08,0.56,"```json
+{""point"": 0.32, ""low"": 0.08, ""high"": 0.56}
+```"
+c0953,NCT05901636,B,binary,0.24,2025,infectious,inert_control,25.0,25.0,1,1,0.32,0.08,0.56,"```json
+{""point"": 0.32, ""low"": 0.08, ""high"": 0.56}
+```"
+c0954,NCT05901636,B,binary,-0.12,2025,infectious,inert_control,25.0,25.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0955,NCT05903183,B,binary,0.0751053306466386,2025,other,inert_control,103.0,53.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0956,NCT05903183,B,binary,0.1065688329839273,2025,other,inert_control,108.0,53.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0957,NCT05903924,B,binary,-0.2735849056603774,2025,other,inert_control,106.0,106.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0958,NCT05903924,B,binary,-0.19466618287373,2025,other,inert_control,104.0,106.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c0959,NCT05906628,B,binary,0.423,2025,immune_inflam,inert_control,94.0,92.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c0960,NCT05909904,B,binary,-0.025,2026,oncology,active_comparator,40.0,40.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0961,NCT05909904,B,binary,0.0,2026,oncology,active_comparator,40.0,40.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0962,NCT05909904,B,binary,0.0,2026,oncology,active_comparator,40.0,40.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0963,NCT05919082,B,binary,0.076,2025,immune_inflam,active_comparator,302.0,302.0,1,1,0.15,0.05,0.25,"```json
+{""point"": 0.15, ""low"": 0.05, ""high"": 0.25}
+```"
+c0964,NCT05926258,B,binary,-0.1253753753753753,2026,other,active_comparator,37.0,36.0,1,1,0.12,-0.08,0.31,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.31}
+```"
+c0965,NCT05940194,B,binary,0.008,2025,infectious,active_comparator,124.0,125.0,1,1,0.02,-0.08,0.12,"```json
+{""point"": 0.02, ""low"": -0.08, ""high"": 0.12}
+```"
+c0966,NCT05940194,B,binary,0.0,2025,infectious,active_comparator,125.0,125.0,1,1,0.08,-0.06,0.22,"```json
+{""point"": 0.08, ""low"": -0.06, ""high"": 0.22}
+```"
+c0967,NCT05947643,B,binary,0.0952380952380952,2025,infectious,inert_control,21.0,27.0,1,1,0.18,-0.08,0.42,"```json
+{""point"": 0.18, ""low"": -0.08, ""high"": 0.42}
+```"
+c0968,NCT05958407,B,binary,0.294,2026,immune_inflam,inert_control,156.0,79.0,1,1,0.28,0.12,0.43,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.43}
+```"
+c0969,NCT05965726,B,binary,0.0539999999999999,2026,infectious,inert_control,110.0,121.0,1,1,0.12,-0.02,0.26,"```json
+{""point"": 0.12, ""low"": -0.02, ""high"": 0.26}
+```"
+c0970,NCT05975099,B,binary,0.4653465346534653,2026,other,inert_control,101.0,101.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c0971,NCT05975099,B,binary,0.5654241894777714,2026,other,inert_control,102.0,101.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0972,NCT05975099,B,binary,0.4923149457802923,2026,other,inert_control,105.0,101.0,1,1,0.35,0.22,0.48,"```json
+{""point"": 0.35, ""low"": 0.22, ""high"": 0.48}
+```"
+c0973,NCT05987423,B,binary,0.178,2026,other,inert_control,50.0,51.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0974,NCT05989048,B,binary,0.091,2026,neuro_psych,inert_control,677.0,669.0,1,1,0.27,0.2,0.34,"```json
+{""point"": 0.27, ""low"": 0.20, ""high"": 0.34}
+```"
+c0975,NCT05993078,B,binary,0.1018207282913165,2025,other,inert_control,120.0,119.0,1,1,0.12,-0.05,0.29,"```json
+{""point"": 0.12, ""low"": -0.05, ""high"": 0.29}
+```"
+c0976,NCT06011733,B,binary,0.91,2026,immune_inflam,inert_control,100.0,33.0,1,1,0.52,0.35,0.68,"```json
+{""point"": 0.52, ""low"": 0.35, ""high"": 0.68}
+```"
+c0977,NCT06021054,B,binary,0.4906,2026,other,inert_control,125.0,63.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c0978,NCT06025695,B,binary,-0.0379999999999999,2025,other,active_comparator,870.0,865.0,1,1,0.08,-0.02,0.18,"```json
+{""point"": 0.08, ""low"": -0.02, ""high"": 0.18}
+```"
+c0979,NCT06029673,B,binary,-0.3823529411764705,2025,other,inert_control,32.0,34.0,1,1,-0.32,-0.52,-0.12,"```json
+{""point"": -0.32, ""low"": -0.52, ""high"": -0.12}
+```"
+c0980,NCT06045507,B,binary,0.0340136054421768,2026,infectious,inert_control,99.0,49.0,1,1,0.15,-0.05,0.32,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.32}
+```"
+c0981,NCT06045507,B,binary,-0.0187916750858759,2026,infectious,inert_control,101.0,49.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0982,NCT06045507,B,binary,0.0505152556071933,2026,infectious,inert_control,101.0,49.0,1,1,0.15,-0.05,0.35,"```json
+{""point"": 0.15, ""low"": -0.05, ""high"": 0.35}
+```"
+c0983,NCT06057168,B,binary,-0.0177083333333333,2026,oncology,active_comparator,60.0,64.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c0984,NCT06060067,B,binary,0.005,2026,other,inert_control,180.0,60.0,1,1,0.15,0.02,0.28,"```json
+{""point"": 0.15, ""low"": 0.02, ""high"": 0.28}
+```"
+c0985,NCT06060067,B,binary,0.005,2026,other,inert_control,180.0,60.0,1,1,0.25,0.08,0.42,"```json
+{""point"": 0.25, ""low"": 0.08, ""high"": 0.42}
+```"
+c0986,NCT06069544,B,binary,0.1476923076923077,2026,infectious,inert_control,26.0,25.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
+c0987,NCT06069544,B,binary,-0.0933333333333333,2026,infectious,inert_control,30.0,25.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c0988,NCT06073119,B,binary,0.3,2025,immune_inflam,inert_control,24.0,25.0,1,1,0.32,0.12,0.52,"```json
+{""point"": 0.32, ""low"": 0.12, ""high"": 0.52}
+```"
+c0989,NCT06073119,B,binary,0.08,2025,immune_inflam,inert_control,25.0,25.0,1,1,0.32,0.08,0.56,"```json
+{""point"": 0.32, ""low"": 0.08, ""high"": 0.56}
+```"
+c0990,NCT06073119,B,binary,0.24,2025,immune_inflam,inert_control,25.0,25.0,1,1,0.35,0.12,0.58,"```json
+{""point"": 0.35, ""low"": 0.12, ""high"": 0.58}
+```"
+c0991,NCT06097299,B,binary,0.2986805277888845,2026,other,inert_control,61.0,41.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0992,NCT06097299,B,binary,0.2822870851659336,2026,other,inert_control,61.0,41.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0993,NCT06097299,B,binary,0.3835562549173879,2026,other,inert_control,62.0,41.0,1,1,0.31,0.15,0.47,"```json
+{""point"": 0.31, ""low"": 0.15, ""high"": 0.47}
+```"
+c0994,NCT06106828,B,binary,0.295,2026,other,inert_control,48.0,49.0,1,1,0.32,0.15,0.49,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.49}
+```"
+c0995,NCT06164743,B,binary,0.3397849462365591,2025,other,inert_control,30.0,31.0,1,1,0.18,0.02,0.34,"```json
+{""point"": 0.18, ""low"": 0.02, ""high"": 0.34}
+```"
+c0996,NCT06164743,B,binary,0.4064516129032258,2025,other,inert_control,30.0,31.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c0997,NCT06177912,B,binary,-0.004,2026,infectious,active_comparator,527.0,347.0,1,1,-0.01,-0.04,0.02,"```json
+{""point"": -0.01, ""low"": -0.04, ""high"": 0.02}
+```"
+c0998,NCT06179875,B,binary,-0.301,2026,other,inert_control,57.0,82.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c0999,NCT06184399,B,binary,0.325,2025,infectious,inert_control,42.0,40.0,1,1,0.62,0.45,0.78,"```json
+{""point"": 0.62, ""low"": 0.45, ""high"": 0.78}
+```"
+c1000,NCT06184399,B,binary,0.6579999999999999,2025,infectious,inert_control,42.0,40.0,1,1,0.62,0.45,0.75,"```json
+{""point"": 0.62, ""low"": 0.45, ""high"": 0.75}
+```"
+c1001,NCT06184399,B,binary,0.7250000000000001,2025,infectious,inert_control,40.0,40.0,1,1,0.62,0.45,0.78,"```json
+{""point"": 0.62, ""low"": 0.45, ""high"": 0.78}
+```"
+c1002,NCT06188715,B,binary,0.532,2025,infectious,inert_control,111.0,68.0,1,1,0.65,0.52,0.76,"```json
+{""point"": 0.65, ""low"": 0.52, ""high"": 0.76}
+```"
+c1003,NCT06237049,B,binary,-0.0069999999999999,2025,infectious,inert_control,161.0,160.0,1,1,0.18,0.05,0.31,"```json
+{""point"": 0.18, ""low"": 0.05, ""high"": 0.31}
+```"
+c1004,NCT06269484,B,binary,0.0,2026,other,inert_control,24.0,24.0,1,1,-0.15,-0.35,0.05,"```json
+{""point"": -0.15, ""low"": -0.35, ""high"": 0.05}
+```"
+c1005,NCT06319287,B,binary,-0.238479262672811,2026,cardiometabolic,active_comparator,31.0,28.0,1,1,0.15,-0.08,0.38,"```json
+{""point"": 0.15, ""low"": -0.08, ""high"": 0.38}
+```"
+c1006,NCT06325657,B,binary,-0.096,2026,infectious,inert_control,172.0,170.0,1,1,0.05,-0.05,0.15,"```json
+{""point"": 0.05, ""low"": -0.05, ""high"": 0.15}
+```"
+c1007,NCT06436703,B,binary,0.407,2026,infectious,active_comparator,96.0,94.0,1,1,0.12,-0.08,0.32,"```json
+{""point"": 0.12, ""low"": -0.08, ""high"": 0.32}
+```"
+c1008,NCT06436703,B,binary,0.376,2026,infectious,active_comparator,96.0,94.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c1009,NCT06436703,B,binary,0.306,2026,infectious,active_comparator,97.0,94.0,1,1,0.08,-0.08,0.24,"```json
+{""point"": 0.08, ""low"": -0.08, ""high"": 0.24}
+```"
+c1010,NCT06454630,B,binary,-0.1009999999999999,2026,other,active_comparator,113.0,58.0,1,1,-0.08,-0.18,0.02,"```json
+{""point"": -0.08, ""low"": -0.18, ""high"": 0.02}
+```"
+c1011,NCT06593587,B,binary,0.028,2026,infectious,inert_control,251.0,126.0,1,1,0.12,0.02,0.22,"```json
+{""point"": 0.12, ""low"": 0.02, ""high"": 0.22}
+```"
+c1012,NCT06602219,B,binary,-0.131,2026,immune_inflam,inert_control,54.0,56.0,1,1,0.35,0.18,0.52,"```json
+{""point"": 0.35, ""low"": 0.18, ""high"": 0.52}
+```"
+c1013,NCT06602219,B,binary,-0.0349999999999999,2026,immune_inflam,inert_control,56.0,56.0,1,1,0.32,0.15,0.48,"```json
+{""point"": 0.32, ""low"": 0.15, ""high"": 0.48}
+```"
+c1014,NCT06683352,B,binary,-0.364,2026,infectious,inert_control,50.0,51.0,1,1,0.35,0.15,0.55,"```json
+{""point"": 0.35, ""low"": 0.15, ""high"": 0.55}
+```"
+c1015,NCT06848075,B,binary,0.0132575757575757,2026,neuro_psych,inert_control,96.0,99.0,1,1,0.28,0.12,0.42,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.42}
+```"
+c1016,NCT06848075,B,binary,-0.0124777183600713,2026,neuro_psych,inert_control,51.0,99.0,1,1,0.28,0.12,0.44,"```json
+{""point"": 0.28, ""low"": 0.12, ""high"": 0.44}
+```"
+c1017,NCT06848075,B,binary,0.0081008100810081,2026,neuro_psych,inert_control,101.0,99.0,1,1,0.32,0.18,0.46,"```json
+{""point"": 0.32, ""low"": 0.18, ""high"": 0.46}
+```"
+c1018,NCT07235033,B,binary,-0.0023999999999999,2026,infectious,active_comparator,28.0,30.0,1,1,0.05,-0.15,0.25,"```json
+{""point"": 0.05, ""low"": -0.15, ""high"": 0.25}
+```"
+c1019,NCT07326904,B,binary,-3.099999999999978e-05,2026,other,active_comparator,66.0,67.0,1,1,0.08,-0.12,0.28,"```json
+{""point"": 0.08, ""low"": -0.12, ""high"": 0.28}
+```"
