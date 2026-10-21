@@ -1,7 +1,7 @@
 # ivbench: an intervention-blind test of interventional validity for trial simulators
 
 <p align="center">
-  <img src="{{artifact:art_db61d04e-9bd3-49d0-8901-604f628014bd}}" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
+  <img src="figures/graphical_abstract.png" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
 </p>
 
 Code and data release accompanying the camera-ready paper
@@ -211,4 +211,4 @@ All four camera-ready figures read every number from `results/cr/*.csv`; none ty
 ## Licence and citation
 
 Code: MIT. Data (`data/`) and result tables (`results/`): CC BY 4.0; derived from ClinicalTrials.gov, whose records are
-in the public domain. See `LICENSE`. Citation metadata is in `CITATION.cff`. Source: https://github.com/alicemkyn/ivbench. The archived release is on Zenodo (DOI in `CITATION.cff` once the release is tagged).
+in the public domain. See `LICENSE`. Citation metadata is in `CITATION.cff`. Source: https://github.com/alicemkyn/ivbench. Archived release v2.1.0 on Zenodo: https://doi.org/10.5281/zenodo.23521618.

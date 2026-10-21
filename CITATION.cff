@@ -10,7 +10,7 @@ authors:
 version: "2.1.0"
 date-released: "2026-10-20"
 license: MIT
-# Zenodo DOI of the archived release: add a `doi:` line here once the GitHub release is archived
+doi: 10.5281/zenodo.23521618
 repository-code: "https://github.com/alicemkyn/ivbench"
 keywords: [clinical trials, ClinicalTrials.gov, benchmark, world models, treatment effect prediction, interventional validity]
 preferred-citation:
