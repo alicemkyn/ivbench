@@ -1,7 +1,7 @@
 # ivbench: an intervention-blind test of interventional validity for trial simulators
 
 <p align="center">
-  <img src="{{artifact:art_db61d04e-9bd3-49d0-8901-604f628014bd}}" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
+  <img src="figures/graphical_abstract.png" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
 </p>
 
 Code and data release accompanying the camera-ready paper
