@@ -1,18 +1,18 @@
 # ivbench: an intervention-blind test of interventional validity for trial simulators
 
 <p align="center">
-  <img src="figures/graphical_abstract.png" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
+  <img src="{{artifact:art_db61d04e-9bd3-49d0-8901-604f628014bd}}" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
 </p>
 
 Code and data release accompanying the camera-ready paper
 
-> **Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 8,011 Registered Trials**
-> (NeurIPS 2026 Workshop on World Models for High-Stakes Health, under double-blind review)
+> **Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 7,207 Registered Trials**
+> Alicem Koyun. NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS), oral.
 
-The benchmark is 11,274 within-trial contrasts (treatment-arm outcome minus comparator-arm outcome on the primary
-endpoint) from 8,011 completed phase 2/3 trials with results posted to ClinicalTrials.gov. The measurement is
-**interventional skill**: how much error a simulator removes relative to the *same* model trained with every
-intervention-identifying field withheld.
+The benchmark (v2.1) is 9,996 within-trial contrasts (treatment-arm outcome minus comparator-arm outcome on the primary
+endpoint) from 7,207 completed phase 2/3 trials with results posted to ClinicalTrials.gov; the submitted version's
+benchmark (v2: 11,274 contrasts from 8,011 trials) is kept as a sensitivity set. The measurement is **interventional skill**:
+how much error a simulator removes relative to the *same* model trained with every intervention-identifying field withheld.
 
 ## Layout
 
@@ -37,8 +37,9 @@ scripts/
   make_figures.py          regenerates the SUBMITTED version's figures (v2) from results/ (no model fitting)
   cr/figures/              camera-ready figures: one script per figure plus make_figures.sh (run by run_camera_ready.sh)
 configs/features.yaml      feature groups, for reference
-data/                      released benchmark: benchmark_contrasts.csv.gz (11,274 rows), benchmark_arms.csv.gz
-                           (40,450 rows), datacard.json (cohort count at every filter)
+data/                      v2 benchmark (submitted version): benchmark_contrasts.csv.gz (11,274 rows), benchmark_arms.csv.gz
+                           (40,450 rows), datacard.json; data/v2.1/: the primary v2.1 benchmark
+                           (benchmark_contrasts_v2.1_final.csv.gz, 9,996 rows; benchmark_arms_v2.1.csv.gz, 40,450 rows; datacard_v2.1.json)
 results/                   every number in the paper is a cell in one of these files; results/README.md maps each
                            paper table and figure to its source file
 figures/                   paper figures as shipped (see mapping below) and the graphical abstract
