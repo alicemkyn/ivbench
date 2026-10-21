@@ -1,0 +1,37 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Exposure test with Llama~3.1 70B (knowledge cutoff December 2023). Interventional skill with 95\% trial-level bootstrap
+intervals (2{,}000 resamples). Uncontaminated: primary completion and first results posting on or after 2024-01-01 and no
+earlier linked results publication. ``Molecule seen'': a normalised treatment name occurs among treatment arms in the registry
+training split (a proxy for prior knowledge, not a measure of pretraining exposure). ``Flagged'': results-group descriptions
+match an outcome-vocabulary pattern.}\label{tab:exposure}
+\begin{tabular}{llccc}\toprule
+set & stratum / split & prompt & $\IS$ & $n$ (trials) \\ \midrule
+v2.1 & all & protocol-only & $0.08$ \ci{0.00}{0.15} & 878 (655) \\
+v2.1 & all & posted-record & $0.09$ \ci{0.02}{0.16} & 878 (655) \\
+v2.1 & uncontaminated & protocol-only & $0.01$ \ci{-0.10}{0.12} & 217 (152) \\
+v2.1 & uncontaminated & posted-record & $0.09$ \ci{-0.01}{0.20} & 217 (152) \\
+v2.1 & complement & protocol-only & $0.10$ \ci{0.01}{0.19} & 661 (503) \\
+v2.1 & complement & posted-record & $0.09$ \ci{0.01}{0.17} & 661 (503) \\
+v2.1 & uncontaminated, vocabulary unflagged & posted-record & $0.08$ \ci{-0.03}{0.19} & 196 (134) \\
+v2.1 & uncontaminated, vocabulary flagged & posted-record & $0.16$ \ci{-0.05}{0.33} & 21 (18) \\
+v2.1 & uncontaminated, molecule seen & protocol-only & $0.14$ \ci{-0.13}{0.34} & 58 (46) \\
+v2.1 & uncontaminated, molecule unseen & protocol-only & $-0.01$ \ci{-0.15}{0.11} & 159 (107) \\
+v2.1 & complement, vocabulary unflagged & posted-record & $0.09$ \ci{-0.01}{0.18} & 564 (421) \\
+v2.1 & complement, vocabulary flagged & posted-record & $0.09$ \ci{-0.01}{0.20} & 97 (83) \\
+v2.1 & complement, molecule seen & protocol-only & $0.16$ \ci{0.02}{0.29} & 242 (200) \\
+v2.1 & complement, molecule unseen & protocol-only & $0.07$ \ci{-0.04}{0.19} & 419 (310) \\
+v2 & all & protocol-only & $0.12$ \ci{0.04}{0.20} & 1020 (740) \\
+v2 & all & posted-record & $0.12$ \ci{0.04}{0.19} & 1020 (740) \\
+v2 & uncontaminated & protocol-only & $0.03$ \ci{-0.08}{0.12} & 245 (172) \\
+v2 & uncontaminated & posted-record & $0.12$ \ci{0.03}{0.21} & 245 (172) \\
+v2 & complement & protocol-only & $0.15$ \ci{0.05}{0.24} & 775 (568) \\
+v2 & complement & posted-record & $0.12$ \ci{0.01}{0.21} & 775 (568) \\
+v2 & uncontaminated, vocabulary unflagged & posted-record & $0.13$ \ci{0.03}{0.22} & 215 (149) \\
+v2 & uncontaminated, vocabulary flagged & posted-record & $0.05$ \ci{-0.13}{0.22} & 30 (24) \\
+v2 & uncontaminated, molecule seen & protocol-only & $0.21$ \ci{-0.04}{0.35} & 57 (46) \\
+v2 & uncontaminated, molecule unseen & protocol-only & $0.00$ \ci{-0.11}{0.09} & 188 (127) \\
+v2 & complement, vocabulary unflagged & posted-record & $0.12$ \ci{0.00}{0.22} & 665 (478) \\
+v2 & complement, vocabulary flagged & posted-record & $0.08$ \ci{-0.03}{0.18} & 110 (92) \\
+v2 & complement, molecule seen & protocol-only & $0.14$ \ci{-0.02}{0.28} & 250 (208) \\
+v2 & complement, molecule unseen & protocol-only & $0.15$ \ci{0.02}{0.26} & 525 (371) \\
+\bottomrule\end{tabular}\end{table}

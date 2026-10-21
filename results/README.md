@@ -1,6 +1,8 @@
 # results/: every number in the paper, by file
 
-All tables were produced on benchmark v2 (`data/benchmark_*.csv.gz`, data card in `data/datacard.json`).
+Camera-ready (v2.1) tables: every number is in `results/cr/<label>.csv`, written by `scripts/cr/tables/tab_<label>.py`; see the table map in the top-level README and run `bash scripts/run_camera_ready.sh --check`. The rest of this file documents the submitted version.
+
+All submitted-version tables were produced on benchmark v2 (`data/benchmark_*.csv.gz`, data card in `data/datacard.json`).
 Skill = 1 - MSE(model)/MSE(reference); confidence intervals are trial-level bootstraps (1,000 resamples; 2,000 for
 the language-model arm; fixed seed). Table and figure numbers refer to the submitted paper.
 

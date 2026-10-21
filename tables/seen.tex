@@ -1,0 +1,9 @@
+\begin{table}[h]\centering\small
+\caption{Seen vs unseen interventions on v2.1 (878 binary test contrasts; five-seed means; headline models evaluated on the stratum). ``Seen'' = the test contrast's intervention key appears among training contrasts. Intervals: one shared set of 1{,}000 trial resamples applied to all seeds. Seen molecules do not help: $\IS$ is more negative where the molecule was in training. v2 values in the released CSV.}
+\label{tab:seen}
+\resizebox{\linewidth}{!}{\begin{tabular}{llrrccc}\toprule matching & stratum & contrasts & trials & skill(\blind) & skill(\full) & $\IS$ \\ \midrule
+exact normalized name & seen & 286 & 230 & 0.425 & 0.296 & $-0.227$ \ci{-0.394}{-0.077} \\
+exact normalized name & unseen & 592 & 435 & 0.251 & 0.180 & $-0.095$ \ci{-0.185}{-0.007} \\
+token-Jaccard$\geq$0.5 & seen & 387 & 308 & 0.375 & 0.288 & $-0.140$ \ci{-0.267}{-0.019} \\
+token-Jaccard$\geq$0.5 & unseen & 491 & 356 & 0.252 & 0.166 & $-0.114$ \ci{-0.211}{-0.022} \\
+\bottomrule\end{tabular}}\end{table}

@@ -1,4 +1,5 @@
-"""Regenerate the paper figures from results/ (no model fitting; reads only released result tables).
+"""Regenerate the SUBMITTED version's (v2) figures from results/ (no model fitting; reads only released result tables).
+Writes to figures/v2/ so as not to overwrite the camera-ready figures, which are produced by scripts/cr/figures/.
 
   python scripts/make_figures.py [--out figures]
 
@@ -160,7 +161,7 @@ def fig_probes(d, out):
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument('--out', default=os.path.join(ROOT, 'figures')); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument('--out', default=os.path.join(ROOT, 'figures', 'v2')); a = ap.parse_args()
     os.makedirs(a.out, exist_ok=True); d = load()
     for f in (fig_benchmark, fig_forest, fig_reliability, fig_probes):
         f(d, a.out); print('wrote', f.__name__)

@@ -1,0 +1,25 @@
+nct_id,cid_v2,judgement,intervention_model,b1_model_rule,b2_treat,b2_ctrl,b3_stage_treat,b3_stage_ctrl,b3_mismatch,a_same_molecule,a_key_treat,a_key_ctrl,c_treat_type_v21,c_treat_type_source,c_treat_role_v21,c_ctrl_type_v21,c_ctrl_type_source,c_ctrl_role_v21,v21_status,v21_new_pair
+NCT00044044,,invalid,PARALLEL,False,,,,,False,False,haloperidol,__inert__,ACTIVE_COMPARATOR,rematched,active_comparator,PLACEBO_COMPARATOR,released,inert_control,repaired,40 mg vs Placebo
+NCT00608023,,invalid,PARALLEL,False,,,,,False,True,tesamorelin,tesamorelin,,unmatched,treatment,,unmatched,inert_control,dropped,
+NCT00807027,k0017,valid,PARALLEL,False,,,,,False,False,cik immunotherapy,__inert__,,unmatched,treatment,NO_INTERVENTION,released,inert_control,kept,
+NCT00913627,,invalid,PARALLEL,False,,,,,False,False,naproxen,__inert__,,unmatched,treatment,,unmatched,inert_control,dropped,
+NCT01023581,,valid,PARALLEL,False,,,,,False,False,alogliptin|metformin,metformin,EXPERIMENTAL,released,treatment,ACTIVE_COMPARATOR,released,inert_control,kept,
+NCT01189760,,invalid,PARALLEL,False,,,,,False,True,onabotulinumtoxina,onabotulinumtoxina,EXPERIMENTAL,released,treatment,OTHER,released,inert_control,repaired,onabotulinumtoxinA 44U vs Placebo (Normal Saline)
+NCT01214421,,invalid,SINGLE_GROUP,False,extension_title:\b(early|delayed)[- ](start|treated|treatment)\b,extension_title:\b(early|delayed)[- ](start|treated|treatment)\b,,,False,False,early from tolvaptan|tolvaptan,tolvaptan,EXPERIMENTAL,rematched,treatment,,unmatched,inert_control,dropped,
+NCT01254344,,invalid,PARALLEL,False,,,,,False,False,ceftriaxone|metronidazole,ertapenem,ACTIVE_COMPARATOR,rematched,active_comparator,EXPERIMENTAL,rematched,inert_control,repaired,Ertapenem vs Ceftriaxone/Metronidazole
+NCT01463033,,invalid,PARALLEL,False,,,,,False,False,observational,levetiracetam,NO_INTERVENTION,rematched,inert_control,ACTIVE_COMPARATOR,released,active_comparator,dropped,
+NCT01503021,,invalid,CROSSOVER,True,,,,,False,False,soluble ferric pyrophosphate,__inert__,OTHER,rematched,treatment,OTHER,released,inert_control,dropped,
+NCT01628549,,invalid,PARALLEL,False,,,,,False,True,kg|p005672-hcl approximately,kg|p005672-hcl approximately,EXPERIMENTAL,released,treatment,EXPERIMENTAL,released,inert_control,repaired,P005672-HCl Approximately 3.0 mg/kg/Day vs Placebo
+NCT01648205,,invalid,SEQUENTIAL,True,,,,,False,False,ranolazine at months,__inert__,EXPERIMENTAL,rematched,inert_control,,unmatched,inert_control,dropped,
+NCT01652703,,valid,PARALLEL,False,,,,,False,False,evolocumab,__inert__,EXPERIMENTAL,released,treatment,PLACEBO_COMPARATOR,released,inert_control,kept,
+NCT01715896,,valid,PARALLEL,False,,,,,False,False,mavrilimumab,golimumab,EXPERIMENTAL,released,treatment,EXPERIMENTAL,released,inert_control,kept,
+NCT02005666,,invalid,PARALLEL,False,,,,,False,False,reference-duac,__inert__,ACTIVE_COMPARATOR,rematched,active_comparator,PLACEBO_COMPARATOR,released,inert_control,dropped,
+NCT02271230,,valid,FACTORIAL,False,,,,,False,False,vitamin,__inert__,,unmatched,treatment,PLACEBO_COMPARATOR,released,inert_control,kept,
+NCT02674386,,invalid,SINGLE_GROUP,False,pooled_title:\b(all|total|overall|pooled|combined)\s*\W*$,pooled_title:^\s*(all|total|overall|pooled|combined)\b,,,False,False,tanezumab combined,all,,unmatched,treatment,,unmatched,inert_control,dropped,
+NCT02709655,,invalid,PARALLEL,False,pooled_title:\b(average|avg)\b,,,blind:db,True,False,vortioxetine average avg vor,__inert__,,unmatched,treatment,,unmatched,inert_control,dropped,
+NCT02954601,,invalid,CROSSOVER,True,,,,,False,False,,__inert__,ACTIVE_COMPARATOR,rematched,active_comparator,ACTIVE_COMPARATOR,released,inert_control,dropped,
+NCT03064113,,invalid,CROSSOVER,True,,,,,False,False,td-4208,__inert__,,unmatched,treatment,,unmatched,inert_control,dropped,
+NCT03635099,,invalid,PARALLEL,False,,,stage:1,stage:2,True,False,bi fasted,bi fed,EXPERIMENTAL,released,treatment,EXPERIMENTAL,released,inert_control,repaired,Part I - BI 200 mg (Fasted) vs Part I - Placebo (Fasted)
+NCT03870880,,invalid,PARALLEL,False,,extension_title:\broll[- ]?over\b,,,False,False,de novo|risperidone ism,risperidone ism,,unmatched,treatment,,unmatched,inert_control,dropped,
+NCT03881852,k0500,invalid,CROSSOVER,True,,,,,False,False,axs-12 reboxetine,__inert__,EXPERIMENTAL,released,treatment,PLACEBO_COMPARATOR,released,inert_control,dropped,
+NCT05007080,c0724,invalid,PARALLEL,False,,,,,False,True,ad26.cov2.s,ad26.cov2.s,,unmatched,treatment,,unmatched,inert_control,dropped,

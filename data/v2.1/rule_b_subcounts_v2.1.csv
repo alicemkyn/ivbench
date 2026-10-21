@@ -1,0 +1,7 @@
+sub_rule,status,test_binary,test_continuous,train_binary,train_continuous,train_all,total
+b1_model_CROSSOVER,dropped,17,46,36,449,485,548
+b1_model_SEQUENTIAL,dropped,38,10,25,9,34,82
+b2_pooled_or_extension_group,dropped,22,37,71,87,158,217
+b2_pooled_or_extension_group,repaired,1,8,11,16,27,36
+b3_stage_mismatch,dropped,25,16,16,19,35,76
+b3_stage_mismatch,repaired,19,4,18,13,31,54

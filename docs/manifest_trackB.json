@@ -1,0 +1,58 @@
+{
+ "robust": {
+  "script": "scripts/cr/tables/tab_robust.py",
+  "csv": "results/cr/robust.csv",
+  "tex": "tables/robust.tex",
+  "runtime_s": 206,
+  "key_numbers": "headline seed0 n=878/655 blind 0.295 full 0.216 IS -0.113 [-0.192,-0.037]; retrained IS: cut=2021 -0.039; cut=2022 -0.060; cut=2024 -0.109; ctrl_kind=inert_control -0.032; ctrl_kind=active_comparator -0.099; phase contains PHASE3 -0.011; phase PHASE2 only 0.075; rich intervention text (arm matched & desc non-empty) -0.032",
+  "v2_reference_check": "v2 recompute reproduces results/positive_control/v2_robustness.csv bit-for-bit (all 14 rows)"
+ },
+ "fg": {
+  "script": "scripts/cr/tables/tab_fg.py",
+  "csv": "results/cr/fg.csv",
+  "tex": "tables/fg.tex",
+  "runtime_s": 30,
+  "key_numbers": "design-only vs train_mean: 0.069 [0.018,0.118]; design + endpoint text vs design-only: 0.134 [0.035,0.222]; design + endpoint text vs train_mean: 0.195 [0.110,0.280]; design + condition text vs design-only: 0.063 [-0.047,0.165]; design + condition text vs train_mean: 0.128 [0.026,0.216]; design + population covariates vs design-only: 0.028 [-0.043,0.090]; design + population covariates vs train_mean: 0.095 [0.032,0.159]; design + arm sizes vs design-only: -0.021 [-0.112,0.062]; design + arm sizes vs train_mean: 0.050 [-0.039,0.124]; design + control type vs design-only: 0.018 [-0.022,0.057]; design + control type vs train_mean: 0.086 [0.032,0.139]; design + intervention text vs design-only: -0.009 [-0.079,0.059]; design + intervention text vs train_mean: 0.061 [0.002,0.113]; confound probe: sponsor_class+phase+year vs train_mean: 0.008 [-0.023,0.041]",
+  "v2_reference_check": "v2 recompute does NOT reproduce v2_feature_groups.csv: only design+population covariates (train_mean) and confound probe match exactly; design-only 0.058 vs released 0.013 (original probe code absent; group definitions re-derived)"
+ },
+ "seen": {
+  "script": "scripts/cr/tables/tab_seen.py",
+  "csv": "results/cr/seen.csv",
+  "tex": "tables/seen.tex",
+  "runtime_s": 116,
+  "key_numbers": "exact normalized name seen n=286/230 IS -0.227 [-0.394,-0.077]; exact normalized name unseen n=592/435 IS -0.095 [-0.185,-0.007]; token-Jaccard>=0.5 seen n=387/308 IS -0.140 [-0.267,-0.019]; token-Jaccard>=0.5 unseen n=491/356 IS -0.114 [-0.211,-0.022]",
+  "v2_reference_check": "v2 exact-name rows reproduce v2_seen_unseen.csv per seed bit-for-bit (n=333/687); token-Jaccard strata 470/550 vs released 468/552 (per-seed IS within 0.0002); v2 paper mean-row CI was mean of per-seed bounds (reproduced exactly: -0.180/0.088, -0.147/0.034), v2.1 table uses shared resamples per the convention"
+ },
+ "level": {
+  "script": "scripts/cr/tables/tab_level.py",
+  "csv": "results/cr/level.csv",
+  "tex": "tables/level.tex",
+  "runtime_s": 59,
+  "key_numbers": "n=4177 arms/1945 trials; blind vs train_mean: 0.245 [0.204,0.287]; blind_norole vs train_mean: 0.225 [0.187,0.266]; full vs train_mean: 0.212 [0.168,0.255]; full vs blind: -0.044 [-0.090,-0.003]; full vs blind_norole: -0.018 [-0.062,0.024]",
+  "v2_reference_check": "v2 recompute reproduces v2_level_task.csv bit-for-bit (5 rows)"
+ },
+ "mol": {
+  "script": "scripts/cr/tables/tab_mol.py",
+  "csv": "results/cr/mol.csv",
+  "tex": "tables/mol.tex",
+  "runtime_s": 89,
+  "key_numbers": "primary_union_sameCtrl_k3_residual n=297/240 IS -0.040 [-0.153,0.054] gbt -0.198; primary_union_sameCtrl_k3_level n=297/240 IS -0.614 [-0.940,-0.358] gbt -0.198; name_sameCtrl_k3_residual n=246/201 IS -0.043 [-0.166,0.052] gbt -0.216; name_sameCtrl_k3_level n=246/201 IS -0.689 [-1.105,-0.385] gbt -0.216",
+  "v2_reference_check": "v2 name/sameCtrl rows (4) reproduce v2_same_molecule.csv bit-for-bit; name/anyCtrl match subset n=333 but not the retrieval IS (e.g. -0.016 vs -0.022); mesh/union rows not reproducible (original MeSH snapshot/rule absent; re-fetched Oct 2026 terms give union n=342 vs 358, IS -0.032 vs 0.006)"
+ },
+ "lmarea": {
+  "script": "scripts/cr/tables/tab_lmarea.py",
+  "csv": "results/cr/lmarea.csv",
+  "tex": "tables/lmarea.tex",
+  "runtime_s": 4,
+  "key_numbers": "protocol-only/cardiometabolic n=45 IS 0.060 [-0.309,0.552]; protocol-only/immune_inflam n=138 IS 0.352 [0.092,0.577]; protocol-only/infectious n=205 IS 0.262 [0.076,0.430]; protocol-only/neuro_psych n=48 IS 0.226 [0.019,0.440]; protocol-only/oncology n=89 IS 0.174 [-0.434,0.484]; protocol-only/other n=353 IS 0.119 [-0.093,0.297]; posted-record/cardiometabolic n=45 IS 0.343 [-0.253,0.627]; posted-record/immune_inflam n=138 IS 0.406 [0.194,0.608]; posted-record/infectious n=205 IS 0.307 [0.088,0.486]; posted-record/neuro_psych n=48 IS 0.046 [-0.403,0.407]; posted-record/oncology n=89 IS 0.287 [-0.171,0.543]; posted-record/other n=353 IS 0.193 [-0.013,0.365]; overall (not in table) protocol IS 0.201 [0.083,0.309], posted IS 0.266 [0.156,0.373]",
+  "v2_reference_check": "v2 posted-record rows reproduce llm_v2_by_area.csv bit-for-bit (6 areas)"
+ },
+ "lmsel": {
+  "script": "scripts/cr/tables/tab_lmsel.py",
+  "csv": "results/cr/lmsel.csv",
+  "tex": "tables/lmsel.tex",
+  "runtime_s": 2,
+  "key_numbers": "protocol-only: 0.018/0.039/0.066/0.080/0.098; posted-record: 0.013/0.038/0.056/0.077/0.091",
+  "v2_reference_check": "v2 posted-record row reproduces llm_v2_selective.csv bit-for-bit"
+ }
+}

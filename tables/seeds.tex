@@ -1,0 +1,11 @@
+\begin{table}[h]\centering\small
+\caption{Gradient boosting, binary risk difference, v2.1 temporal test split (878 contrasts / 655 trials), by seed. Columns 2--5: skill against the global training mean. \blind$^{-}$ omits comparator type; \blind\ includes it and is the reference for $\IS$. The mean-row interval applies one shared set of 1{,}000 trial resamples to all seeds. v2 values in the released CSV.}
+\label{tab:seeds}
+\begin{tabular}{lccccc}\toprule seed & \blind$^{-}$ & \blind & \full & intervention only & $\IS$ (\full\ vs \blind) \\ \midrule
+0 & 0.261 & 0.295 & 0.216 & 0.030 & $-0.113$ \ci{-0.192}{-0.037} \\
+1 & 0.250 & 0.301 & 0.210 & 0.069 & $-0.130$ \ci{-0.238}{-0.033} \\
+2 & 0.261 & 0.311 & 0.209 & 0.050 & $-0.148$ \ci{-0.255}{-0.054} \\
+3 & 0.249 & 0.283 & 0.208 & 0.043 & $-0.104$ \ci{-0.200}{-0.025} \\
+4 & 0.262 & 0.295 & 0.212 & 0.078 & $-0.118$ \ci{-0.207}{-0.039} \\
+\midrule mean & 0.257 & 0.297 & 0.211 & 0.054 & $-0.123$ \ci{-0.205}{-0.048} \\
+\bottomrule\end{tabular}\end{table}

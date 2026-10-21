@@ -1,0 +1,3226 @@
+nct_id,mesh_ids,mesh_terms
+NCT00000134,D015774|D017245,Ganciclovir|Foscarnet
+NCT00000620,C057619|D008687|C072379|D000077154|D000077205|D007328|D000068880|D061267|D000069057|D000069036|D020909|D000959|C044946|D017706|D017257|D002752|D008790|D004110|D015736|C041226|C081643|C077793|D000068756|D005665|D012110|D006830|D000077261|D014223|D006852|C020743|C091365|D017311|D019821|D011345,"glimepiride|Metformin|repaglinide|Rosiglitazone|Pioglitazone|Insulin|Isophane Insulin, Human|Insulin Aspart|Insulin Detemir|Insulin Glargine|Acarbose|Antihypertensive Agents|benazepril|Lisinopril|Ramipril|Chlorthalidone|Metoprolol|Diltiazem|Felodipine|Terazosin|candesartan|candesartan cilexetil|Valsartan|Furosemide|Reserpine|Hydralazine|Carvedilol|Triamterene|Hydrochlorothiazide|hydrochlorothiazide-triamterene|hydrochlorothiazide, lisinopril drug combination|Amlodipine|Simvastatin|Fenofibrate"
+NCT00002850,D002939|D015242|D014295|D013420|D015662,"Ciprofloxacin|Ofloxacin|Trimethoprim|Sulfamethoxazole|Trimethoprim, Sulfamethoxazole Drug Combination"
+NCT00002874,C053541|D011878,bicalutamide|Radiotherapy
+NCT00003138,D004921|D000069585|D016179|D001803,Erythropoietin|Filgrastim|Granulocyte Colony-Stimulating Factor|Blood Transfusion
+NCT00003389,D004317|D001761|D014747|D003606|D014750|D008466|D005047|D011034|D011241|D003520|D011878,Doxorubicin|Bleomycin|Vinblastine|Dacarbazine|Vincristine|Mechlorethamine|Etoposide|Podophyllotoxin|Prednisone|Cyclophosphamide|Radiotherapy
+NCT00003830,,
+NCT00004031,D000069283|C036337|D002330|D003520|D004317|D005047|D011241|D014750|D036102|D011878,Rituximab|VAP-cyclo protocol|Carmustine|Cyclophosphamide|Doxorubicin|Etoposide|Prednisone|Vincristine|Peripheral Blood Stem Cell Transplantation|Radiotherapy
+NCT00004092,D000069585|D016190|D003520|D004317|D017239|D013852|D036102,Filgrastim|Carboplatin|Cyclophosphamide|Doxorubicin|Paclitaxel|Thiotepa|Peripheral Blood Stem Cell Transplantation
+NCT00004124,C053541|D017273|D008942|D011241,bicalutamide|Goserelin|Mitoxantrone|Prednisone
+NCT00004978,D007376|C082598,Interleukin-2|aldesleukin
+NCT00006164,C100416|D012254,peginterferon alfa-2a|Ribavirin
+NCT00006392,D014810|D024502|D012643,Vitamin E|alpha-Tocopherol|Selenium
+NCT00007644,,
+NCT00009737,D005472|D002955|D000069287,Fluorouracil|Leucovorin|Capecitabine
+NCT00009945,D004002,Clodronic Acid
+NCT00013611,C082598,aldesleukin
+NCT00022516,D003520|D008727,Cyclophosphamide|Methotrexate
+NCT00029536,,
+NCT00030901,D012643,Selenium
+NCT00033631,D020266|D050397,"Radiotherapy, Conformal|Radiotherapy, Intensity-Modulated"
+NCT00035555,D000069594|D016572|D009173|D000305,Abatacept|Cyclosporine|Mycophenolic Acid|Adrenal Cortex Hormones
+NCT00042432,D000069449,Cinacalcet
+NCT00042939,D000068818|D000077143|D000077146,Cetuximab|Docetaxel|Irinotecan
+NCT00045032,D000068878,Trastuzumab
+NCT00048542,D000068879,Adalimumab
+NCT00048568,D000069594|D008727,Abatacept|Methotrexate
+NCT00048932,D000069594,Abatacept
+NCT00049543,D000077156,Gefitinib
+NCT00050778,D000068556|D000074323,Interferon beta-1a|Alemtuzumab
+NCT00052078,D020280|D015928,Sertraline|Cognitive Behavioral Therapy
+NCT00056472,D000077152|D020280,Olanzapine|Sertraline
+NCT00057746,,
+NCT00059215,D000068799|D000077144,Prasugrel Hydrochloride|Clopidogrel
+NCT00063622,D000077205|D014810,Pioglitazone|Vitamin E
+NCT00063635,D008687|D014810,Metformin|Vitamin E
+NCT00063882,D001918,Brachytherapy
+NCT00064038,D003907|D000077269,Dexamethasone|Lenalidomide
+NCT00064701,D016559|D016572|D009173,Tacrolimus|Cyclosporine|Mycophenolic Acid
+NCT00064753,C067316,Geritol
+NCT00065065,D000077154,Rosiglitazone
+NCT00066573,D000077384|C056516,Anastrozole|exemestane
+NCT00066690,C056516|D010052|D011878|D011827|D013629|D017329|D007987,exemestane|Ovariectomy|Radiotherapy|Radiation|Tamoxifen|Triptorelin Pamoate|Gonadotropin-Releasing Hormone
+NCT00066703,C056516|D013629|D017329|D007987,exemestane|Tamoxifen|Triptorelin Pamoate|Gonadotropin-Releasing Hormone
+NCT00066963,,
+NCT00068601,D003520|D017273,Cyclophosphamide|Goserelin
+NCT00071110,D015671|C005703,Electroacupuncture|salicylhydroxamic acid
+NCT00071721,D014635,Valproic Acid
+NCT00071812,C511911,belimumab
+NCT00073528,D000077341|D000077289,Lapatinib|Letrozole
+NCT00074152,D004358|D011878,Drug Therapy|Radiotherapy
+NCT00075478,D014916|C042382|D009173|D016572|D003524|D036102,Whole-Body Irradiation|fludarabine phosphate|Mycophenolic Acid|Cyclosporine|Cyclosporins|Peripheral Blood Stem Cell Transplantation
+NCT00075803,D015725|D065819,Fluconazole|Voriconazole
+NCT00075816,D036102,Peripheral Blood Stem Cell Transplantation
+NCT00076219,D017582,Renal Replacement Therapy
+NCT00081263,D000068579,Celecoxib
+NCT00081731,C487936|D017130|D015607,"amlodipine, atorvastatin drug combination|Angioplasty|Stents"
+NCT00081770,C417083|D012254|C100416,peginterferon alfa-2b|Ribavirin|peginterferon alfa-2a
+NCT00086385,D061485|D016642|D000074164,Tobacco Use Cessation Devices|Bupropion|Nicotine Chewing Gum
+NCT00087022,C106533,G250 monoclonal antibody
+NCT00087178,D003520|D004317|D015251|D005472,Cyclophosphamide|Doxorubicin|Epirubicin|Fluorouracil
+NCT00088166,D003346,Corticotropin-Releasing Hormone
+NCT00089791,D000069448,Denosumab
+NCT00089986,,
+NCT00090233,C492535|D022243,RotaTeq|Rotavirus Vaccines
+NCT00091507,C030396,glucose-insulin-potassium cardioplegic solution
+NCT00092443,C492535|D022243,RotaTeq|Rotavirus Vaccines
+NCT00092547,D000068857,"Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18"
+NCT00092677,D000069499,"Ezetimibe, Simvastatin Drug Combination"
+NCT00093015,D000068256,Darbepoetin alfa
+NCT00093795,D003520|D000077143|D000093542|D017239|D004317,Cyclophosphamide|Docetaxel|Gemcitabine|Paclitaxel|Doxorubicin
+NCT00093847,,
+NCT00094172,D000069059,Atorvastatin
+NCT00094458,D000069285|D001379|D002214,Infliximab|Azathioprine|Capsules
+NCT00097773,D001239|D014031|D002939,Inhalation|Tobramycin|Ciprofloxacin
+NCT00097786,D000068756|D000077715,Valsartan|Nateglinide
+NCT00097981,D013792|D003907|C506643,Thalidomide|Dexamethasone|liposomal doxorubicin
+NCT00099359,D015215|D019829|D019259|D019888,Zidovudine|Nevirapine|Lamivudine|Nelfinavir
+NCT00100659,D012254,Ribavirin
+NCT00102440,D000069465|D000493,Febuxostat|Allopurinol
+NCT00103285,D020266|D003520|D003561|D003907|D002123|C059464|C018038|C004180|D004317|D002955|D015122|C488629|D008727|C015342|C042705|D013866|D014750,"Radiotherapy, Conformal|Cyclophosphamide|Cytarabine|Dexamethasone|Calcium Dobesilate|auricularum|dexamethasone acetate|dexamethasone 21-phosphate|Doxorubicin|Leucovorin|Mercaptopurine|azathiopurine|Methotrexate|merphos|pegaspargase|Thioguanine|Vincristine"
+NCT00103402,C047638,alfuzosin
+NCT00104676,D001761|D002945|D005047|D007069|D000077150|D017239,Bleomycin|Cisplatin|Etoposide|Ifosfamide|Oxaliplatin|Paclitaxel
+NCT00105001,C042382|D014916|D036102|D016559|D009173|D020123,fludarabine phosphate|Whole-Body Irradiation|Peripheral Blood Stem Cell Transplantation|Tacrolimus|Mycophenolic Acid|Sirolimus
+NCT00105469,D017963|D014031,Azithromycin|Tobramycin
+NCT00105508,C443959,sarizotan
+NCT00105534,D017963,Azithromycin
+NCT00106535,C502936|D008727,tocilizumab|Methotrexate
+NCT00106639,C479163|D016559,tofacitinib|Tacrolimus
+NCT00106691,D017312,Toremifene
+NCT00107042,C075655|C433226,Recombivax HB|twinrix
+NCT00107575,D000431|D008722,Ethanol|Methods
+NCT00110305,D000068696|C098320|C109078|D000069480,"Rilpivirine|efavirenz|lamivudine, zidovudine drug combination|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT00111839,D000068437|C520777,Pemetrexed|matuzumab
+NCT00112047,D000068679|C075889|D000068698|C098320|D000069480|D000068257|C109078,"Emtricitabine|Racivir|Tenofovir|efavirenz|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|Efavirenz, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|lamivudine, zidovudine drug combination"
+NCT00114777,D016572,Cyclosporine
+NCT00115869,,
+NCT00116428,D000889,Anti-Arrhythmia Agents
+NCT00118404,D005473,Fluoxetine
+NCT00119678,D000069594|D011241,Abatacept|Prednisone
+NCT00122278,D003907,Dexamethasone
+NCT00122382,D000069594|D008727,Abatacept|Methotrexate
+NCT00124072,D019821|D005492|D014805,Simvastatin|Folic Acid|Vitamin B 12
+NCT00124449,D000069594,Abatacept
+NCT00125034,D000068818|D000077150,Cetuximab|Oxaliplatin
+NCT00127530,D015761,4-Aminopyridine
+NCT00129129,C055753|C472675|D000069443|D022401,Haemophilus influenza type b polysaccharide vaccine-tetanus toxin conjugate|PEDIARIX|Heptavalent Pneumococcal Conjugate Vaccine|Meningococcal Vaccines
+NCT00129285,D000077408,Modafinil
+NCT00129389,D005472|D004317|C506643|D003520|D017239,Fluorouracil|Doxorubicin|liposomal doxorubicin|Cyclophosphamide|Paclitaxel
+NCT00129766,C506968|D000069455,motavizumab|Palivizumab
+NCT00129935,D000077143|D000069287|D015251|D003520,Docetaxel|Capecitabine|Epirubicin|Cyclophosphamide
+NCT00130533,D000069287,Capecitabine
+NCT00131677,D000068698,Tenofovir
+NCT00133952,C099154,ruboxistaurin
+NCT00134719,C527605|D000069443|C055753|D019433|C061964,Hib-MenCY-TT vaccine|Heptavalent Pneumococcal Conjugate Vaccine|Haemophilus influenza type b polysaccharide vaccine-tetanus toxin conjugate|Chickenpox Vaccine|Haemophilus influenzae-type b polysaccharide-Neisseria meningitidis outer membrane protein conjugate vaccine
+NCT00135707,D019587|D014815|D001205|D024502|D014810,Dietary Supplements|Vitamins|Ascorbic Acid|alpha-Tocopherol|Vitamin E
+NCT00135798,C417083|D012254,peginterferon alfa-2b|Ribavirin
+NCT00141453,D000068557,Olmesartan Medoxomil
+NCT00141778,D017257|D000806|D013148|D000451,Ramipril|Angiotensin-Converting Enzyme Inhibitors|Spironolactone|Mineralocorticoid Receptor Antagonists
+NCT00143507,D000077550,Ivabradine
+NCT00146328,C107201,tipranavir
+NCT00147498,C479163,tofacitinib
+NCT00149799,D000089983,Escitalopram
+NCT00150345,D065819,Voriconazole
+NCT00151892,D019804,Mesalamine
+NCT00152971,D017984,Enoxaparin
+NCT00153816,D002119|D002762,Calcium Carbonate|Cholecalciferol
+NCT00157950,D000068857,"Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18"
+NCT00159783,C522667|D000077152,asenapine|Olanzapine
+NCT00159874,D000068677,Sildenafil Citrate
+NCT00160251,C512204|C417083|D012254,"N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide|peginterferon alfa-2b|Ribavirin"
+NCT00162266,D000069594,Abatacept
+NCT00165646,D064750,Rabeprazole
+NCT00166296,D000089983|D003909,Escitalopram|Dexetimide
+NCT00166517,D022243,Rotavirus Vaccines
+NCT00167245,D000077236,Topiramate
+NCT00168298,D003907|C005703,Dexamethasone|salicylhydroxamic acid
+NCT00168337,D003907|D002123|C005703,Dexamethasone|Calcium Dobesilate|salicylhydroxamic acid
+NCT00168389,D003907|D002123|C005703,Dexamethasone|Calcium Dobesilate|salicylhydroxamic acid
+NCT00168805,D017984|D000069604,Enoxaparin|Dabigatran
+NCT00174785,D000077764,Dronedarone
+NCT00174915,D000069465|D000493,Febuxostat|Allopurinol
+NCT00174967,D000069465,Febuxostat
+NCT00175019,D000069465|D000493,Febuxostat|Allopurinol
+NCT00179621,D000077269,Lenalidomide
+NCT00181168,D057073,Thyrotropin Alfa
+NCT00183092,D011796,Quinacrine
+NCT00183456,,
+NCT00189137,D007069|D000077143,Ifosfamide|Docetaxel
+NCT00193492,D000068258|D000069283,Bevacizumab|Rituximab
+NCT00195663,D000068879|D008727,Adalimumab|Methotrexate
+NCT00195702,D000068879,Adalimumab
+NCT00197002,D022362|D000069443,Hepatitis A Vaccines|Heptavalent Pneumococcal Conjugate Vaccine
+NCT00197236,D022362|D022681|C055753,Hepatitis A Vaccines|Diphtheria-Tetanus-acellular Pertussis Vaccines|Haemophilus influenza type b polysaccharide vaccine-tetanus toxin conjugate
+NCT00198822,D014801,Vitamin A
+NCT00200161,D000077204,Temozolomide
+NCT00201851,D013629|D010052,Tamoxifen|Ovariectomy
+NCT00207714,C529000|D000069285,golimumab|Infliximab
+NCT00210132,D000077212,Ropivacaine
+NCT00210210,D007649|D000077330,Ketamine|Saline Solution
+NCT00213148,D000077384|D002996,Anastrozole|Clomiphene
+NCT00215644,C520777|D015251|D002945|D000069287,matuzumab|Epirubicin|Cisplatin|Capecitabine
+NCT00217438,D008558|D004999|D036102|D017404,"Melphalan|Amifostine|Peripheral Blood Stem Cell Transplantation|In Situ Hybridization, Fluorescence"
+NCT00217737,D000068258|D007074|D004220|D005472|C029917|D002955|D000077150,Bevacizumab|Immunoglobulin G|Disulfides|Fluorouracil|dehydroftorafur|Leucovorin|Oxaliplatin
+NCT00218296,D061485|D009538,Tobacco Use Cessation Devices|Nicotine
+NCT00218335,,
+NCT00218491,D000111,Acetylcysteine
+NCT00220740,D005719|D002210|D016756|D000418,"gamma-Globulins|Caprylates|Immunoglobulins, Intravenous|Albumins"
+NCT00224484,D022301|D022362,Herpes Simplex Virus Vaccines|Hepatitis A Vaccines
+NCT00226499,C577557|D022542,Priorix-Tetra vaccine|Measles-Mumps-Rubella Vaccine
+NCT00227370,D000077562,Valganciclovir
+NCT00229723,D000077156|D002945|D011878,Gefitinib|Cisplatin|Radiotherapy
+NCT00230048,,
+NCT00231413,D053918,Papillomavirus Vaccines
+NCT00232180,D000077545,Eplerenone
+NCT00232557,,
+NCT00236184,D064750,Rabeprazole
+NCT00236197,D064750,Rabeprazole
+NCT00236977,D000077605|C020748|D007501,"Ferric Oxide, Saccharated|ferrous sulfate|Iron"
+NCT00240331,D000068718,Rosuvastatin Calcium
+NCT00241358,C088327|D033581,plerixafor|Stem Cell Transplantation
+NCT00242710,C447119|D004966,"bazedoxifene|Estrogens, Conjugated (USP)"
+NCT00244101,D007440,Intubation
+NCT00245765,D000068582,Certolizumab Pegol
+NCT00246025,D000069604,Dabigatran
+NCT00247728,C120158,phosphomannopentaose sulfate
+NCT00251004,D000068338|D009173|D016572|D000077552|D000305,Everolimus|Mycophenolic Acid|Cyclosporine|Basiliximab|Adrenal Cortex Hormones
+NCT00251641,D000069285|D008727,Infliximab|Methotrexate
+NCT00251693,D064748|D064747,Dexlansoprazole|Lansoprazole
+NCT00251719,D064748|D064747,Dexlansoprazole|Lansoprazole
+NCT00251979,D064098,Esomeprazole
+NCT00252694,C081643|C077793,candesartan|candesartan cilexetil
+NCT00252720,C081643|C077793,candesartan|candesartan cilexetil
+NCT00252733,C077793,candesartan cilexetil
+NCT00255151,D064748|D064747,Dexlansoprazole|Lansoprazole
+NCT00255164,D064748|D064747,Dexlansoprazole|Lansoprazole
+NCT00256750,D016572,Cyclosporine
+NCT00262522,D061466|D019438|D013607|D002214|C558899,Lopinavir|Ritonavir|Tablets|Capsules|lopinavir-ritonavir drug combination
+NCT00262600,D014859,Warfarin
+NCT00263666,C492457,RIX4414 vaccine
+NCT00264147,D000077613,Etoricoxib
+NCT00264537,D008727|C529000|D007267,Methotrexate|golimumab|Injections
+NCT00264550,C529000|D008727,golimumab|Methotrexate
+NCT00265083,C529000,golimumab
+NCT00265096,C529000,golimumab
+NCT00265941,D000068818|D002945|D050397,"Cetuximab|Cisplatin|Radiotherapy, Intensity-Modulated"
+NCT00266227,D000069283|D008727|D005492,Rituximab|Methotrexate|Folic Acid
+NCT00269399,D000078262|D014640,Rifaximin|Vancomycin
+NCT00271024,D009271|D004364,Naltrexone|Pharmaceutical Preparations
+NCT00276380,C063170|D001241,Ginkgo biloba extract|Aspirin
+NCT00278408,D000069585|D000069283|D003520|D004317|D011241|D014750|D011878,Filgrastim|Rituximab|Cyclophosphamide|Doxorubicin|Prednisone|Vincristine|Radiotherapy
+NCT00280917,C478920,CF101
+NCT00282308,D000069283|D008727|C414006|C032808,Rituximab|Methotrexate|23-valent pneumococcal capsular polysaccharide vaccine|keyhole-limpet hemocyanin
+NCT00283062,D000077143|D004358|D016729|C493311,Docetaxel|Drug Therapy|Leuprolide|luprolide acetate gel depot
+NCT00285012,D000068580,Varenicline
+NCT00285207,C097674,"4,4'-dihydroxybenzophenone-2,4-dinitrophenylhydrazone"
+NCT00288080,D003907|D011241|D000077143|D000726|D011878|D020266|D050397|D007987,"Dexamethasone|Prednisone|Docetaxel|Androgen Antagonists|Radiotherapy|Radiotherapy, Conformal|Radiotherapy, Intensity-Modulated|Gonadotropin-Releasing Hormone"
+NCT00290290,D002710|D000431|D011206,Chlorhexidine|Ethanol|Povidone-Iodine
+NCT00290355,,
+NCT00291668,D000068582,Certolizumab Pegol
+NCT00293254,D000068898,Raltegravir Potassium
+NCT00293267,D000068898,Raltegravir Potassium
+NCT00295854,C526359,4-(6-acetyl-3-(3-(4-acetyl-3-hydroxy-2-propylphenylthio)propoxy)-2-propylphenoxy)butyric acid
+NCT00296036,D011736,Pyridoxine
+NCT00297492,,
+NCT00298363,D000068698|D000068679|D000069480|C413685,"Tenofovir|Emtricitabine|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|entecavir"
+NCT00299130,D005492|D008727|D008775|D000069283,Folic Acid|Methotrexate|Methylprednisolone|Rituximab
+NCT00299546,C529000,golimumab
+NCT00300274,D000068338|D009173|D016572|D000305,Everolimus|Mycophenolic Acid|Cyclosporine|Adrenal Cortex Hormones
+NCT00302081,C417083|D012254,peginterferon alfa-2b|Ribavirin
+NCT00303823,C472086,polyphenon E
+NCT00304239,,
+NCT00305227,,
+NCT00305253,,
+NCT00307047,,
+NCT00307437,D000069549,Ustekinumab
+NCT00308282,C575974,tabalumab
+NCT00309387,,
+NCT00311363,C493250,1-(((alpha-isobutanoyloxyethoxy)carbonyl)aminomethyl)-1-cyclohexaneacetic acid
+NCT00313300,C522181,apixaban
+NCT00314249,D000078764,Milnacipran
+NCT00315055,C000625558|C426945|D017325|C075654,DTaP-IPV-HB-PRP-T vaccine|Pentavac|Hepatitis B Vaccines|Engerix-B
+NCT00315120,,
+NCT00316277,,
+NCT00316524,C527606,smallpox and monkeypox vaccine modified vaccinia ankara-bavarian nordic
+NCT00316914,D002125|D008278,Calcium Gluconate|Magnesium Sulfate
+NCT00317239,D007505|C522335,Iron-Dextran Complex|ferric carboxymaltose
+NCT00319098,C510903,fluarix
+NCT00319956,D017963|D035061,Azithromycin|Control Groups
+NCT00320710,D000077211,Zoledronic Acid
+NCT00321737,D064748|D064747,Dexlansoprazole|Lansoprazole
+NCT00323960,,
+NCT00325195,C031545,Pegloticase
+NCT00328263,,
+NCT00329784,,
+NCT00329797,D002118|D000077211|D011878|D007987|D014807,Calcium|Zoledronic Acid|Radiotherapy|Gonadotropin-Releasing Hormone|Vitamin D
+NCT00330187,,
+NCT00331773,D050397|D020266,"Radiotherapy, Intensity-Modulated|Radiotherapy, Conformal"
+NCT00333814,D003907|C005703,Dexamethasone|salicylhydroxamic acid
+NCT00336479,C486464|D012254|C100416,telaprevir|Ribavirin|peginterferon alfa-2a
+NCT00339079,D005473|C492572|D015928|D010166,Fluoxetine|olanzapine-fluoxetine combination|Cognitive Behavioral Therapy|Palliative Care
+NCT00340678,D019808,Losartan
+NCT00343889,C122182|D011055,"diphtheria-tetanus-acellular pertussis-Hib-hepatitis B vaccine|Poliovirus Vaccine, Oral"
+NCT00344370,C108475|D000069059,pitavastatin|Atorvastatin
+NCT00344968,D005446,Fluocinolone Acetonide
+NCT00346398,D003888,"Desensitization, Immunologic"
+NCT00347932,C522124,besifloxacin
+NCT00348348,C522124,besifloxacin
+NCT00350298,D000077330,Saline Solution
+NCT00351299,D020927|D059039,Dexmedetomidine|Standard of Care
+NCT00354484,C522335|D007505,ferric carboxymaltose|Iron-Dextran Complex
+NCT00355199,D000069283,Rituximab
+NCT00356915,D017964,Itraconazole
+NCT00358501,C036901,defibrotide
+NCT00358917,D061466|D019438|D013607|C558899,Lopinavir|Ritonavir|Tablets|lopinavir-ritonavir drug combination
+NCT00360230,,
+NCT00360568,D007582,Jejunostomy
+NCT00361335,C529000|D008727,golimumab|Methotrexate
+NCT00361504,D000077432,Tapentadol
+NCT00362375,,
+NCT00363129,D014810,Vitamin E
+NCT00363142,C426859|D019438,fosamprenavir|Ritonavir
+NCT00364156,D061485,Tobacco Use Cessation Devices
+NCT00365768,D005973|D019587,Glutamine|Dietary Supplements
+NCT00367237,D000069285|D008727,Infliximab|Methotrexate
+NCT00368290,D000077408|D015928,Modafinil|Cognitive Behavioral Therapy
+NCT00368745,D000069583,Pregabalin
+NCT00369564,D018698|C011829,Glutamic Acid|glutamic acid diethyl ester
+NCT00369928,,
+NCT00370396,C547294|C586648|D000069443|C541235,PHiD-CV vaccine|10-valent pneumococcal conjugate vaccine|Heptavalent Pneumococcal Conjugate Vaccine|diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine
+NCT00370552,C430592|D000068258|D017239|C089957,ixabepilone|Bevacizumab|Paclitaxel|BMS 181339
+NCT00372229,D000077562|D015774,Valganciclovir|Ganciclovir
+NCT00372385,D012254|C100416|C486464,Ribavirin|peginterferon alfa-2a|telaprevir
+NCT00372593,D001215|D003561|D003630|D005047|C061400|D000079982|D008942,Asparaginase|Cytarabine|Daunorubicin|Etoposide|etoposide phosphate|Gemtuzumab|Mitoxantrone
+NCT00377156,D011878|D016634,Radiotherapy|Radiosurgery
+NCT00377676,D001971,Bromocriptine
+NCT00380250,D000068238,Lubiprostone
+NCT00382174,C033402,thymosin beta(4)
+NCT00382408,,
+NCT00382993,D018170|D009288,Sumatriptan|Naproxen
+NCT00383123,C510903|D007252,fluarix|Influenza Vaccines
+NCT00383162,D018170|D009288,Sumatriptan|Naproxen
+NCT00383188,C542398,PH 797804
+NCT00385697,C502540,teplizumab
+NCT00385736,D000068879,Adalimumab
+NCT00387127,D000077341|D011878,Lapatinib|Radiotherapy
+NCT00391170,D003907,Dexamethasone
+NCT00391469,,
+NCT00391599,D004733,Enema
+NCT00391716,D000077206|D001521|D007785,Gabapentin|Behavior Therapy|Lactose
+NCT00391872,D000077486|D000077144,Ticagrelor|Clopidogrel
+NCT00392054,,
+NCT00392379,D061485,Tobacco Use Cessation Devices
+NCT00393523,,
+NCT00394329,D001507|D000420|D017265,Beclomethasone|Albuterol|Procaterol
+NCT00394472,C545087,lesogaberan
+NCT00394914,C115201,pleconaril
+NCT00394953,D000068256|C508420,Darbepoetin alfa|continuous erythropoietin receptor activator
+NCT00395135,C506658|C494814,"lorcaserin|BID protein, human"
+NCT00396032,D000077785,Tenecteplase
+NCT00396292,D007501|C020748|C522335,Iron|ferrous sulfate|ferric carboxymaltose
+NCT00398411,D000077266,Moxifloxacin
+NCT00398983,D000077209,Decitabine
+NCT00399542,D000068238,Lubiprostone
+NCT00400946,D001215|D003520|D003561|D003907|D064730|D004317|D005047|D002955|D015122|D008727|D008775|C042705|D011239|D006854|D014750|D011878,Asparaginase|Cyclophosphamide|Cytarabine|Dexamethasone|Dexrazoxane|Doxorubicin|Etoposide|Leucovorin|Mercaptopurine|Methotrexate|Methylprednisolone|pegaspargase|Prednisolone|Hydrocortisone|Vincristine|Radiotherapy
+NCT00402688,D064704,Levofloxacin
+NCT00402727,D000077266|D010878|D000078142|D019980,Moxifloxacin|Piperacillin|Tazobactam|Amoxicillin-Potassium Clavulanate Combination
+NCT00402779,D000069347,Erlotinib Hydrochloride
+NCT00403260,C000712628|D015767|D000077332,"pyronaridine tetraphosphate, artesunate drug combination|Mefloquine|Artesunate"
+NCT00403273,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT00404768,C522194,GSK221149A
+NCT00405912,C422326,Hypericum extract LI 160
+NCT00406393,D016559|D008727|D020123,Tacrolimus|Methotrexate|Sirolimus
+NCT00408629,D000068879,Adalimumab
+NCT00409175,C547076,tafamidis
+NCT00409838,D000069594|D008727,Abatacept|Methotrexate
+NCT00410384,C511911,belimumab
+NCT00410410,D000069594,Abatacept
+NCT00411645,C400401,maribavir
+NCT00412893,C508735|D065819,isavuconazole|Voriconazole
+NCT00412958,C054561,microplasmin
+NCT00412971,C419924,5-aminolevulinic acid hexyl ester
+NCT00413218,C508735|D000077336|D065819,isavuconazole|Caspofungin|Voriconazole
+NCT00413660,C479163,tofacitinib
+NCT00413920,D009173|D011241,Mycophenolic Acid|Prednisone
+NCT00414050,D017325|C075655|C075654,Hepatitis B Vaccines|Recombivax HB|Engerix-B
+NCT00419562,D007328,Insulin
+NCT00420212,D000069462,Dimethyl Fumarate
+NCT00420784,C486464|D012254|C100416,telaprevir|Ribavirin|peginterferon alfa-2a
+NCT00421993,D000068801|D000068816|D001585|D005782,"Adapalene, Benzoyl Peroxide Drug Combination|Adapalene|Benzoyl Peroxide|Gels"
+NCT00422240,D000068801|D005782,"Adapalene, Benzoyl Peroxide Drug Combination|Gels"
+NCT00422812,,
+NCT00423670,C512204|C417083|D012254,"N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide|peginterferon alfa-2b|Ribavirin"
+NCT00424346,C541220,canakinumab
+NCT00424476,C511911,belimumab
+NCT00426751,D000077284|D000077542,Abciximab|Eptifibatide
+NCT00427700,D002996|D020849,Clomiphene|Raloxifene Hydrochloride
+NCT00427895,C414006,23-valent pneumococcal capsular polysaccharide vaccine
+NCT00428844,D017576|D014640|D017334|D009254|D010068|D005436,Daptomycin|Vancomycin|Teicoplanin|Nafcillin|Oxacillin|Floxacillin
+NCT00429923,C015808,difluprednate
+NCT00430092,C015808,difluprednate
+NCT00430248,D000069465|D000493,Febuxostat|Allopurinol
+NCT00430495,C524618,TACI receptor-IgG Fc fragment fusion protein
+NCT00432237,C525458,telcagepant
+NCT00432666,C545476,incobotulinumtoxinA
+NCT00433199,D013739,Testosterone
+NCT00433966,C074619|D006493,bivalirudin|Heparin
+NCT00436826,D017338|D016899|D000068556|D000068576,Cladribine|Interferon-beta|Interferon beta-1a|Interferon beta-1b
+NCT00439647,D000077211,Zoledronic Acid
+NCT00439725,D000069552,Rivaroxaban
+NCT00439777,D000069552,Rivaroxaban
+NCT00440193,D000069552,Rivaroxaban
+NCT00440297,,
+NCT00441727,D064098,Esomeprazole
+NCT00442169,D000077330,Saline Solution
+NCT00443118,D011175,Positive-Pressure Respiration
+NCT00443209,C525458|C093622,telcagepant|rizatriptan
+NCT00443820,D000077291,Terbinafine
+NCT00443846,C492535|D022243,RotaTeq|Rotavirus Vaccines
+NCT00443898,D000077291,Terbinafine
+NCT00445432,D000068879,Adalimumab
+NCT00445601,D000093542,Gemcitabine
+NCT00446511,D000068756|D004656,Valsartan|Enalapril
+NCT00447876,D019274|C542869,"Botulinum Toxins, Type A|abobotulinumtoxinA"
+NCT00448279,D000068878|D004358,Trastuzumab|Drug Therapy
+NCT00450112,,
+NCT00450437,C556088,MenACWY-CRM vaccine
+NCT00451555,C504878|D000077267,enzastaurin|Fulvestrant
+NCT00454116,C452423|C480833,vandetanib|IFL protocol
+NCT00456092,C505730,apremilast
+NCT00456365,D017035,Pravastatin
+NCT00458393,D000069480,"Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT00459537,D000077291,Terbinafine
+NCT00459953,D061485,Tobacco Use Cessation Devices
+NCT00460434,C005703,salicylhydroxamic acid
+NCT00460525,D011819,Rabies Vaccines
+NCT00461630,C518174|D019821|D000069499,"MK-0524|Simvastatin|Ezetimibe, Simvastatin Drug Combination"
+NCT00461981,C000613429,FluMist
+NCT00463151,C052785,rebamipide
+NCT00463385,C467566|D011241,pomalidomide|Prednisone
+NCT00463788,D000068818|D002945,Cetuximab|Cisplatin
+NCT00464685,D003907|C005703,Dexamethasone|salicylhydroxamic acid
+NCT00465738,C545476|D019274,"incobotulinumtoxinA|Botulinum Toxins, Type A"
+NCT00465816,C433226,twinrix
+NCT00466440,C504878|D000077143|D011241,enzastaurin|Docetaxel|Prednisone
+NCT00468546,D000069283|D008727,Rituximab|Methotrexate
+NCT00469417,,
+NCT00471705,C039128|D006979|D000077485,"miltefosine|Hyperthermia, Induced|Meglumine Antimoniate"
+NCT00472043,C008848|C475457,"1-phenyl-3,3-dimethyltriazene|methyl 5-aminolevulinate"
+NCT00472108,D010778,Photochemotherapy
+NCT00472303,D000077432,Tapentadol
+NCT00473083,D008911|D002981|D006854|D000069347|D014222,Minocycline|Clindamycin|Hydrocortisone|Erlotinib Hydrochloride|Triamcinolone Acetonide
+NCT00473330,D000069579|C005703,Ranibizumab|salicylhydroxamic acid
+NCT00473382,D000069579|C005703,Ranibizumab|salicylhydroxamic acid
+NCT00473668,C514867,Hiberix
+NCT00474266,C577557,Priorix-Tetra vaccine
+NCT00475852,D020097,"Natriuretic Peptide, Brain"
+NCT00477165,D015283|D003909,Citalopram|Dexetimide
+NCT00481078,D000077337|D017239|D013660|D016190,Vorinostat|Paclitaxel|Taxes|Carboplatin
+NCT00481247,D000069439|D000068877,Dasatinib|Imatinib Mesylate
+NCT00483652,D015761,4-Aminopyridine
+NCT00483717,D020911,Ketorolac Tromethamine
+NCT00484315,D062645|D016254,"Percutaneous Coronary Intervention|Mutagenesis, Insertional"
+NCT00487539,C529000,golimumab
+NCT00488631,C529000,golimumab
+NCT00489476,D008152,Loxapine
+NCT00489970,C505143|C509326,Boostrix|adacel
+NCT00491491,C422802,ibritumomab tiuxetan
+NCT00491764,C101425|D000077291,posaconazole|Terbinafine
+NCT00492856,D015122|D008727|D014212,Mercaptopurine|Methotrexate|Tretinoin
+NCT00493870,D000077143|D004317|D003520,Docetaxel|Doxorubicin|Cyclophosphamide
+NCT00494481,C452423|D000077143,vandetanib|Docetaxel
+NCT00496015,C541235|D000082,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|Acetaminophen
+NCT00498797,C452423|D000077143|D011239,vandetanib|Docetaxel|Prednisolone
+NCT00499109,D000077143|D000077235|D016190|D000093542,Docetaxel|Vinorelbine|Carboplatin|Gemcitabine
+NCT00500292,C452423|D005472|D002955,vandetanib|Fluorouracil|Leucovorin
+NCT00500682,C040896,AST 120
+NCT00500760,D002945|D000077544,Cisplatin|Panitumumab
+NCT00501046,C040896,AST 120
+NCT00502307,C553176,tivozanib
+NCT00504881,C482793,brivaracetam
+NCT00507507,D000068698|D000068679,Tenofovir|Emtricitabine
+NCT00508001,C452423,vandetanib
+NCT00509028,D019819,Budesonide
+NCT00509236,D000068900|D005913,Sitagliptin Phosphate|Glipizide
+NCT00509795,D000069579|C533178,Ranibizumab|aflibercept
+NCT00509873,D000077734|D009883,Gatifloxacin|Ophthalmic Solutions
+NCT00512278,D000069285,Infliximab
+NCT00513292,D003520|D015251|D017239|D013660|D000068878|C000598430,Cyclophosphamide|Epirubicin|Paclitaxel|Taxes|Trastuzumab|PF-05280014
+NCT00514904,,
+NCT00516321,C520809,eltrombopag
+NCT00516737,C093622,rizatriptan
+NCT00518089,D000077734|D009883,Gatifloxacin|Ophthalmic Solutions
+NCT00520572,C000608601|D000068800,AZD9056|Etanercept
+NCT00521456,,
+NCT00523341,D000069448,Denosumab
+NCT00524264,D020910,Ketorolac
+NCT00525798,,
+NCT00527111,D000068818|D005472|D011878,Cetuximab|Fluorouracil|Radiotherapy
+NCT00527475,D000069579|D000077362,Ranibizumab|Verteporfin
+NCT00527722,,
+NCT00527787,D009288,Naproxen
+NCT00528606,D003012,Microbial Collagenase
+NCT00528957,D000068698|D015215|D018119,Tenofovir|Zidovudine|Stavudine
+NCT00529568,C520809,eltrombopag
+NCT00530348,D000074323|D000068556,Alemtuzumab|Interferon beta-1a
+NCT00530764,C587251,nabiximols
+NCT00531479,D065819|D000077612,Voriconazole|Anidulafungin
+NCT00531817,C502936,tocilizumab
+NCT00531960,D000069347|D000068258,Erlotinib Hydrochloride|Bevacizumab
+NCT00533273,D003012,Microbial Collagenase
+NCT00536263,C417083,peginterferon alfa-2b
+NCT00537082,D000068876,Fingolimod Hydrochloride
+NCT00538902,D000068879,Adalimumab
+NCT00539981,C528512,FluBlok
+NCT00540514,D000068196|D017239|D016190,Albumin-Bound Paclitaxel|Paclitaxel|Carboplatin
+NCT00541385,C000712628|D000077611,"pyronaridine tetraphosphate, artesunate drug combination|Artemether, Lumefantrine Drug Combination"
+NCT00542178,D007004|D011345|D019821,Hypoglycemic Agents|Fenofibrate|Simvastatin
+NCT00542789,D064098,Esomeprazole
+NCT00543569,D000077944|D016559|D000077552|D009173|D000305,Alefacept|Tacrolimus|Basiliximab|Mycophenolic Acid|Adrenal Cortex Hormones
+NCT00545103,D019804,Mesalamine
+NCT00545740,D019804,Mesalamine
+NCT00546481,C508420|D004921,continuous erythropoietin receptor activator|Erythropoietin
+NCT00546819,D053061,Herpes Zoster Vaccine
+NCT00547638,,
+NCT00547898,C546704,crofelemer
+NCT00548249,C032360,spleen fibrinolytic proteinase (human)
+NCT00548405,D000074323|D000068556,Alemtuzumab|Interferon beta-1a
+NCT00548691,C522335,ferric carboxymaltose
+NCT00548860,C522335,ferric carboxymaltose
+NCT00550771,D004317|D003520|D017239|D000068878|C041277|C506643,Doxorubicin|Cyclophosphamide|Paclitaxel|Trastuzumab|1-dodecylpyridoxal|liposomal doxorubicin
+NCT00551616,C094854|D016912,ulipristal|Levonorgestrel
+NCT00552058,D000068582,Certolizumab Pegol
+NCT00553319,C449521,SLI381
+NCT00553358,D000077341|D000068878|D017239,Lapatinib|Trastuzumab|Paclitaxel
+NCT00553410,D000077289,Letrozole
+NCT00556504,C100416|C417083|D012254,peginterferon alfa-2a|peginterferon alfa-2b|Ribavirin
+NCT00556712,D000069347,Erlotinib Hydrochloride
+NCT00556894,C478920|C084956,CF101|N(6)-(3-iodobenzyl)-5'-N-methylcarboxamidoadenosine
+NCT00558103,D000077341|C516667,Lapatinib|pazopanib
+NCT00558259,D000069604,Dabigatran
+NCT00559273,C508420|D000068256,continuous erythropoietin receptor activator|Darbepoetin alfa
+NCT00562302,,
+NCT00565448,D000077143|D002945|D005472,Docetaxel|Cisplatin|Fluorouracil
+NCT00565747,,
+NCT00566254,D000078305,Zonisamide
+NCT00566345,,
+NCT00566527,,
+NCT00568126,,
+NCT00573170,C000611385,sumatriptan-naproxen
+NCT00573469,,
+NCT00576758,C543332|D000069283,obinutuzumab|Rituximab
+NCT00578227,C510352|D053918,"human papillomavirus vaccine, L1 type 16, 18|Papillomavirus Vaccines"
+NCT00578669,D005473|D005947,Fluoxetine|Glucose
+NCT00580606,D005990,Glycerol
+NCT00582660,D000068579|D004341,Celecoxib|Drug Evaluation
+NCT00583492,,
+NCT00586339,C510352,"human papillomavirus vaccine, L1 type 16, 18"
+NCT00594425,C475457|C008848,"methyl 5-aminolevulinate|1-phenyl-3,3-dimethyltriazene"
+NCT00595413,C524618|D000068879,TACI receptor-IgG Fc fragment fusion protein|Adalimumab
+NCT00595868,D000068580,Varenicline
+NCT00596817,D000078784,Vortioxetine
+NCT00597818,C581134|D000894|D059039,"cobiprostone|Anti-Inflammatory Agents, Non-Steroidal|Standard of Care"
+NCT00598559,D000082,Acetaminophen
+NCT00598832,,
+NCT00599521,,
+NCT00600015,D000069347|D000077157,Erlotinib Hydrochloride|Sorafenib
+NCT00600483,D012965,Sodium Chloride
+NCT00600756,D018967,Risperidone
+NCT00600925,D012965,Sodium Chloride
+NCT00601107,C042533,1 alpha-hydroxyergocalciferol
+NCT00601172,C531951|D003907|D017294,casopitant|Dexamethasone|Ondansetron
+NCT00603291,C506658|C494814,"lorcaserin|BID protein, human"
+NCT00603512,C479163,tofacitinib
+NCT00603733,D019804,Mesalamine
+NCT00603902,C506658|C494814,"lorcaserin|BID protein, human"
+NCT00603954,C024352|D014916|D000961,fludarabine|Whole-Body Irradiation|Antilymphocyte Serum
+NCT00604214,C421124,drotrecogin alfa activated
+NCT00604383,C099154,ruboxistaurin
+NCT00604708,,
+NCT00604890,,
+NCT00605085,,
+NCT00605280,D059039|C495058,Standard of Care|pegaptanib
+NCT00605293,C508420|D000068817,continuous erythropoietin receptor activator|Epoetin Alfa
+NCT00605345,D000068256|C508420,Darbepoetin alfa|continuous erythropoietin receptor activator
+NCT00605644,,
+NCT00606580,,
+NCT00607880,,
+NCT00609518,D000068437|D005492|D014805|D003907,Pemetrexed|Folic Acid|Vitamin B 12|Dexamethasone
+NCT00610428,,
+NCT00611130,D020888,Vigabatrin
+NCT00613106,D007052,Ibuprofen
+NCT00615199,C479163,tofacitinib
+NCT00615420,,
+NCT00616434,D000068556,Interferon beta-1a
+NCT00617201,D000069445,Atomoxetine Hydrochloride
+NCT00617604,D000077944|D016559|D009173|D013256,Alefacept|Tacrolimus|Mycophenolic Acid|Steroids
+NCT00618098,C025667,prothrombin complex concentrates
+NCT00618748,D000077152,Olanzapine
+NCT00621348,D012965|D005947,Sodium Chloride|Glucose
+NCT00622869,D016559|D000068338|D000305,Tacrolimus|Everolimus|Adrenal Cortex Hormones
+NCT00622908,C522124,besifloxacin
+NCT00623428,C100416|D012254,peginterferon alfa-2a|Ribavirin
+NCT00623636,,
+NCT00624338,C524618,TACI receptor-IgG Fc fragment fusion protein
+NCT00628095,C562356,"CE 224,535"
+NCT00629239,C546512,AZD-4818
+NCT00630032,D003520|D000077143|D015251|D005472|C430592,Cyclophosphamide|Docetaxel|Epirubicin|Fluorouracil|ixabepilone
+NCT00633152,D000097583|D007267|D000069349|D001398,Ceftaroline|Injections|Linezolid|Aztreonam
+NCT00633399,C092292,ziprasidone
+NCT00633893,C522181,apixaban
+NCT00635700,C092292,ziprasidone
+NCT00637195,C510352|C075654,"human papillomavirus vaccine, L1 type 16, 18|Engerix-B"
+NCT00637377,D000069579|C533178,Ranibizumab|aflibercept
+NCT00639223,C117343|D017035,red yeast rice|Pravastatin
+NCT00639678,C542124,raxibacumab
+NCT00640822,C055085,calcipotriene
+NCT00642642,,
+NCT00643565,D000068258,Bevacizumab
+NCT00645593,D000093542|D002945|D000068818,Gemcitabine|Cisplatin|Cetuximab
+NCT00646399,C524976,pagibaximab
+NCT00649428,,
+NCT00650078,,
+NCT00654992,C103998|D000077330,epoetin beta|Saline Solution
+NCT00655356,,
+NCT00655733,C000713167,Andrographis paniculata extract
+NCT00655876,D000068818|D002945|D017239|D011878,Cetuximab|Cisplatin|Paclitaxel|Radiotherapy
+NCT00657150,D017984|D000069604,Enoxaparin|Dabigatran
+NCT00657540,D012965,Sodium Chloride
+NCT00659438,C452423|C053541,vandetanib|bicalutamide
+NCT00659802,C000713167,Andrographis paniculata extract
+NCT00661622,D016178|D003115|D004621,"Granulocyte-Macrophage Colony-Stimulating Factor|Colony-Stimulating Factors|Embolization, Therapeutic"
+NCT00662818,C525458|D000082,telcagepant|Acetaminophen
+NCT00663117,D009271|D000073893,Naltrexone|Sugars
+NCT00665626,C523665,fostamatinib
+NCT00665925,C523665,fostamatinib
+NCT00667459,,
+NCT00667602,,
+NCT00668707,D008550,Melatonin
+NCT00669942,C555450,secukinumab
+NCT00669955,D009853|D000658|D017291|D008795|D013752,Omeprazole|Amoxicillin|Clarithromycin|Metronidazole|Tetracycline
+NCT00670241,C055085|D001623,calcipotriene|Betamethasone
+NCT00671060,D016595,Misoprostol
+NCT00673933,C475457|C008848,"methyl 5-aminolevulinate|1-phenyl-3,3-dimethyltriazene"
+NCT00674362,D000068582,Certolizumab Pegol
+NCT00674583,,
+NCT00674739,D000077271,Imiquimod
+NCT00674765,D000069348,Quetiapine Fumarate
+NCT00678210,C479163,tofacitinib
+NCT00680407,D007785|D012838|C000713827,Lactose|Silymarin|milk-thistle extract
+NCT00681824,D015718|D012997|D013917|D026503|D059039,Fibrin Tissue Adhesive|Solvents|Thrombin|Low Density Lipoprotein Receptor-Related Protein-1|Standard of Care
+NCT00682565,C547293|D007262,"omecamtiv mecarbil|Infusions, Intravenous"
+NCT00683852,D000068180,Aripiprazole
+NCT00683930,D009173,Mycophenolic Acid
+NCT00684203,C530299|D001241|D000077144,vorapaxar|Aspirin|Clopidogrel
+NCT00684515,C530299|D001241,vorapaxar|Aspirin
+NCT00685178,D000077236,Topiramate
+NCT00685360,C516022,OPC-67683
+NCT00686582,C527606,smallpox and monkeypox vaccine modified vaccinia ankara-bavarian nordic
+NCT00687193,C479163,tofacitinib
+NCT00687882,,
+NCT00687908,D000068816|D001585|D005782,Adapalene|Benzoyl Peroxide|Gels
+NCT00688740,D000077143|D005472|D004317|D003520,Docetaxel|Fluorouracil|Doxorubicin|Cyclophosphamide
+NCT00689117,D002981|D014212,Clindamycin|Tretinoin
+NCT00689481,,
+NCT00689611,D016642,Bupropion
+NCT00689728,C575974,tabalumab
+NCT00691002,C055085|D006854,calcipotriene|Hydrocortisone
+NCT00691808,,
+NCT00693420,D000069580,Bimatoprost
+NCT00693485,D000068438|C005703,Brimonidine Tartrate|salicylhydroxamic acid
+NCT00695019,D016898|D007372,Interferon-alpha|Interferons
+NCT00699153,D000069559,Loteprednol Etabonate
+NCT00700063,,
+NCT00700427,D000069445,Atomoxetine Hydrochloride
+NCT00703781,,
+NCT00703937,C522335|D026661,ferric carboxymaltose|Clinical Trials Data Monitoring Committees
+NCT00703976,D000068258|D000068818|D000068437|D011878,Bevacizumab|Cetuximab|Pemetrexed|Radiotherapy
+NCT00704028,C522335|D007505,ferric carboxymaltose|Iron-Dextran Complex
+NCT00704353,C522335|C020748|D000077605|C035552|D007505,"ferric carboxymaltose|ferrous sulfate|Ferric Oxide, Saccharated|ferric gluconate|Iron-Dextran Complex"
+NCT00704405,C540393|C100416|D012254,vaniprevir|peginterferon alfa-2a|Ribavirin
+NCT00704418,C053083,bromfenac
+NCT00705432,C417083|D012254|C512204,"peginterferon alfa-2b|Ribavirin|N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide"
+NCT00706121,D014810|D024502|D012643,Vitamin E|alpha-Tocopherol|Selenium
+NCT00706654,D000068180,Aripiprazole
+NCT00708435,,
+NCT00708500,C512204|C417083|D012254,"N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide|peginterferon alfa-2b|Ribavirin"
+NCT00710034,D014030|D000074164,"Tobacco, Smokeless|Nicotine Chewing Gum"
+NCT00710762,C530716,nintedanib
+NCT00711009,D061466|C558899|D000068679|D000068698|D000069480|D000068898,"Lopinavir|lopinavir-ritonavir drug combination|Emtricitabine|Tenofovir|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|Raltegravir Potassium"
+NCT00711958,D000068817|D012996|D007267,Epoetin Alfa|Solutions|Injections
+NCT00712725,C548781,"2-(8-(3,5-difluorophenyl)-10-oxo-6,9-diazaspiro(4.5)dec-9-yl)-N-(2'-oxo-1,1',2',3-tetrahydrospiro(indene-2,3'-pyrrolo(2,3-b)pyridin)-5-yl)acetamide"
+NCT00712881,D004317|D003520|D000068878|D018943|D000077143,Doxorubicin|Cyclophosphamide|Trastuzumab|Anthracyclines|Docetaxel
+NCT00713544,C553747|D000068800,"N-(1-(3-(3,5-difluorophenyl)-3-(4-methanesulfonylphenyl)propyl)piperidin-4-yl)-N-ethyl-2-(4-methanesulfonylphenyl)acetamide|Etanercept"
+NCT00713609,C466951,clindamycin phosphate benzoyl peroxide combination
+NCT00716144,C406527,R 115866
+NCT00717236,D000068582,Certolizumab Pegol
+NCT00717860,D000077336,Caspofungin
+NCT00718237,D022243|C492535,Rotavirus Vaccines|RotaTeq
+NCT00718549,D017338|D003520|D000069283,Cladribine|Cyclophosphamide|Rituximab
+NCT00718718,C568922|D008727,sirukumab|Methotrexate
+NCT00722046,C572721,ponezumab
+NCT00724126,D000078262,Rifaximin
+NCT00724815,D018170,Sumatriptan
+NCT00725985,D017338,Cladribine
+NCT00726622,D000078542,Proctectomy
+NCT00730015,C523483,linaclotide
+NCT00730028,D015662|D002981,"Trimethoprim, Sulfamethoxazole Drug Combination|Clindamycin"
+NCT00730405,C112424,albaconazole
+NCT00731679,D000078262,Rifaximin
+NCT00732238,D059039,Standard of Care
+NCT00732615,,
+NCT00734162,D000068698,Tenofovir
+NCT00734214,D000077330|D012965,Saline Solution|Sodium Chloride
+NCT00734539,D015725,Fluconazole
+NCT00735462,,
+NCT00736099,D000077205,Pioglitazone
+NCT00736853,D014147|D000082|D004311,Tramadol|Acetaminophen|Double-Blind Method
+NCT00738530,D000068258|D000077190,Bevacizumab|Interferon alpha-2
+NCT00740246,C522335,ferric carboxymaltose
+NCT00742391,C486592|D005782,3-ingenyl angelate|Gels
+NCT00742469,D000078262,Rifaximin
+NCT00746798,,
+NCT00747344,D000069549,Ustekinumab
+NCT00750139,,
+NCT00750152,,
+NCT00752219,D002442|C543519|D008795|D000077731,Ceftazidime|avibactam|Metronidazole|Meropenem
+NCT00753272,,
+NCT00754325,D000069439|D000077267,Dasatinib|Fulvestrant
+NCT00755040,D003524,Cyclosporins
+NCT00755755,C094854|D007501|C555622,ulipristal|Iron|ulipristal acetate
+NCT00758459,C000713527,"4-((5-chloro-2-pyridinyl)oxy)-1-((((4S)-4-methyl-2,5-dioxo-4-imidazolidinyl)methyl)sulfonyl)-piperidine"
+NCT00759109,C417083|D019370,peginterferon alfa-2b|Observation
+NCT00759148,,
+NCT00760435,D000069285,Infliximab
+NCT00761007,C556791,ibodutant
+NCT00763555,D002117,Calcitriol
+NCT00768599,,
+NCT00769704,C000629782|D016178|C081222,talimogene laherparepvec|Granulocyte-Macrophage Colony-Stimulating Factor|sargramostim
+NCT00770029,C545476|D019274,"incobotulinumtoxinA|Botulinum Toxins, Type A"
+NCT00770562,D000069283|D003907,Rituximab|Dexamethasone
+NCT00770809,D000077341|D017239|D013660|D000068878|C000630847|C000598430|C000712788|C000630669|C000631275,Lapatinib|Paclitaxel|Taxes|Trastuzumab|CT-P6|PF-05280014|trastuzumab biosimilar HLX02|Ogivri|Ontruzant
+NCT00771667,D000069549,Ustekinumab
+NCT00772889,,
+NCT00776919,D002981,Clindamycin
+NCT00777062,C000624616,vivitrol
+NCT00777179,C452423,vandetanib
+NCT00777803,C545476|D019274,"incobotulinumtoxinA|Botulinum Toxins, Type A"
+NCT00779402,C511774,sipuleucel-T
+NCT00780416,C486464|D012254|C417083,telaprevir|Ribavirin|peginterferon alfa-2b
+NCT00780962,D000111|D012965|D000077330,Acetylcysteine|Sodium Chloride|Saline Solution
+NCT00781456,C000606708,Seasonique
+NCT00781859,C054561,microplasmin
+NCT00781950,D008043,Linseed Oil
+NCT00782717,C414203|D008775,nepafenac|Methylprednisolone
+NCT00784134,D010959|D000077330,Tissue Plasminogen Activator|Saline Solution
+NCT00784654,D000069478,Lisdexamfetamine Dimesylate
+NCT00784719,C479163|D016572,tofacitinib|Cyclosporine
+NCT00785928,C575974,tabalumab
+NCT00786474,D017985,Dalteparin
+NCT00787202,,
+NCT00788892,C000629812|D003561|D003630,CPX-351|Cytarabine|Daunorubicin
+NCT00789698,,
+NCT00789828,D000068338,Everolimus
+NCT00790036,D000068338,Everolimus
+NCT00790205,D000068900,Sitagliptin Phosphate
+NCT00790270,C004704|D007052,cyclobenzaprine|Ibuprofen
+NCT00790335,D010959,Tissue Plasminogen Activator
+NCT00790400,D000068338,Everolimus
+NCT00791219,D017964,Itraconazole
+NCT00791492,C547076,tafamidis
+NCT00791921,D000068582,Certolizumab Pegol
+NCT00791999,D000068582,Certolizumab Pegol
+NCT00794144,,
+NCT00794573,D000068580,Varenicline
+NCT00796614,D000077409,Tamsulosin
+NCT00798317,C054561,microplasmin
+NCT00799903,C529040,darapladib
+NCT00802672,,
+NCT00802841,C498826|D000068877,nilotinib|Imatinib Mesylate
+NCT00803101,,
+NCT00806195,D013745|D014612|D011054|D022242|D019433|D022362,"Tetanus Toxoid|Vaccines|Poliovirus Vaccine, Inactivated|Pneumococcal Vaccines|Chickenpox Vaccine|Hepatitis A Vaccines"
+NCT00809445,D012017,Referral and Consultation
+NCT00809965,D000069552|D059039,Rivaroxaban|Standard of Care
+NCT00810199,C502936|D008727,tocilizumab|Methotrexate
+NCT00811941,C038981,nalmefene
+NCT00813098,C557875,"2-amino-3-(4-(2-amino-6-(2,2,2-trifluoro-1-(3'-methoxybiphenyl-4-yl)ethoxy)-pyrimidin-4-yl)phenyl)propionic acid"
+NCT00814177,D014859,Warfarin
+NCT00814307,C479163,tofacitinib
+NCT00814671,C018421|D012293,rifapentine|Rifampin
+NCT00820222,D000069287|D000077341|D000068878,Capecitabine|Lapatinib|Trastuzumab
+NCT00822094,C000629812,CPX-351
+NCT00823212,D001241|C446540,Aspirin|thienopyridine
+NCT00825370,D004091|D000701,"Hydromorphone|Analgesics, Opioid"
+NCT00825500,,
+NCT00827983,D011374,Progesterone
+NCT00828191,D011374,Progesterone
+NCT00829166,D000080044|D000077341|D000069287,Ado-Trastuzumab Emtansine|Lapatinib|Capecitabine
+NCT00833690,D007288,Inosine
+NCT00835770,D000069462,Dimethyl Fumarate
+NCT00835978,D000077784,Axitinib
+NCT00838110,C010119,latrepirdine
+NCT00838201,D000069448,Denosumab
+NCT00839254,D017325|D022362,Hepatitis B Vaccines|Hepatitis A Vaccines
+NCT00841763,,
+NCT00841789,D000068800,Etanercept
+NCT00842348,C060347,lanreotide
+NCT00843492,D000077425|D017762,Fondaparinux|Nadroparin
+NCT00845065,C512204|C100416|D012254,"N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide|peginterferon alfa-2a|Ribavirin"
+NCT00847613,C479163|D004311,tofacitinib|Double-Blind Method
+NCT00847665,,
+NCT00848081,D000068581,Tadalafil
+NCT00850070,C003402|D000073893,sapropterin|Sugars
+NCT00851084,C533178|D000077150|D005472|D002955,aflibercept|Oxaliplatin|Fluorouracil|Leucovorin
+NCT00851357,D061485|D009538,Tobacco Use Cessation Devices|Nicotine
+NCT00851786,D053061,Herpes Zoster Vaccine
+NCT00853099,D000068879,Adalimumab
+NCT00853970,,
+NCT00856544,C479163,tofacitinib
+NCT00856583,C066304|D018967,sertindole|Risperidone
+NCT00856843,,
+NCT00857493,C527606,smallpox and monkeypox vaccine modified vaccinia ankara-bavarian nordic
+NCT00860470,D007501|D005492,Iron|Folic Acid
+NCT00861146,D001521,Behavior Therapy
+NCT00861380,D017325|D022362,Hepatitis B Vaccines|Hepatitis A Vaccines
+NCT00863681,C542595,riociguat
+NCT00868166,C522838|D019782,olesoxime|Riluzole
+NCT00869778,,
+NCT00870870,D000093542|D002945|C557414|D000068818|D016190,Gemcitabine|Cisplatin|cixutumumab|Cetuximab|Carboplatin
+NCT00871338,D013745|C513012|D000069443|C541234,Tetanus Toxoid|DTP-IPV-Hib vaccine|Heptavalent Pneumococcal Conjugate Vaccine|diphtheria-tetanus-five component acellular pertussis-inactivated poliomyelitis -Haemophilus influenzae type b conjugate vaccine
+NCT00871858,D000077384|D000077267,Anastrozole|Fulvestrant
+NCT00877006,D000069461|D000069283|D014750|D011241|D003520|D004317,Bendamustine Hydrochloride|Rituximab|Vincristine|Prednisone|Cyclophosphamide|Doxorubicin
+NCT00878709,C487932,neratinib
+NCT00880698,C492535,RotaTeq
+NCT00880763,C540393|D012254,vaniprevir|Ribavirin
+NCT00881530,C570240|D008687|D000068900,empagliflozin|Metformin|Sitagliptin Phosphate
+NCT00882908,D000069616|D012254|C100416,Simeprevir|Ribavirin|peginterferon alfa-2a
+NCT00883896,C000629141,fezakinumab
+NCT00884585,D016572,Cyclosporine
+NCT00885703,D015725|D000666|C059765|C068538,"Fluconazole|Amphotericin B|amphotericin B, deoxycholate drug combination|liposomal amphotericin B"
+NCT00887822,D000068258|D000069287|D002945,Bevacizumab|Capecitabine|Cisplatin
+NCT00890409,,
+NCT00892957,D015718|D012997|D013917|D026503,Fibrin Tissue Adhesive|Solvents|Thrombin|Low Density Lipoprotein Receptor-Related Protein-1
+NCT00894166,D061485|D016642|D000068580,Tobacco Use Cessation Devices|Bupropion|Varenicline
+NCT00895622,D011878|D061766|D020266|D050397,"Radiotherapy|Proton Therapy|Radiotherapy, Conformal|Radiotherapy, Intensity-Modulated"
+NCT00895830,,
+NCT00902486,C000596027,baricitinib
+NCT00903201,C568923,SB 656933
+NCT00903383,,
+NCT00904839,C530716|D000068258,nintedanib|Bevacizumab
+NCT00905450,C546413,"R-1,1,1-trifluoro-4-(5-fluoro-2,3-dihydrobenzofuran-7-yl)-4-methyl-2-(((2-methyl-5-quinolyl)amino)methyl)pentan-2-ol"
+NCT00906204,C512542,thymoglobulin
+NCT00907426,D000069580|D012996,Bimatoprost|Solutions
+NCT00908960,D017984,Enoxaparin
+NCT00910091,C520511|D019290,irosustat|Megestrol Acetate
+NCT00910429,C542595,riociguat
+NCT00910962,C543534,"6-(5-((cyclopropylamino)carbonyl)-3-fluoro-2-methylphenyl)-N-(2,2-dimethylprpyl)-3-pyridinecarboxamide"
+NCT00911144,,
+NCT00911300,D000077425|D006493|C008208,Fondaparinux|Heparin|acarboxyprothrombin
+NCT00911443,D003606|D016898|D000077596|D000077190,Dacarbazine|Interferon-alpha|Thymalfasin|Interferon alpha-2
+NCT00913744,C054561|C005703,microplasmin|salicylhydroxamic acid
+NCT00915551,C486592|D005782,3-ingenyl angelate|Gels
+NCT00916006,C486592,3-ingenyl angelate
+NCT00918255,D000068879,Adalimumab
+NCT00919113,D002809|D002021,Chondroitin Sulfates|Buffers
+NCT00919633,D000077190|C417083|D012254,Interferon alpha-2|peginterferon alfa-2b|Ribavirin
+NCT00920218,D012965,Sodium Chloride
+NCT00922974,D016634,Radiosurgery
+NCT00925600,D000069448,Denosumab
+NCT00927472,D026023,Permethrin
+NCT00928434,C431566|D016729,acetyl-2-naphthylalanyl-3-chlorophenylalanyl-1-oxohexadecyl-seryl-4-aminophenylalanyl(hydroorotyl)-4-aminophenylalanyl(carbamoyl)-leucyl-ILys-prolyl-alaninamide|Leuprolide
+NCT00928512,C555450,secukinumab
+NCT00930930,D002945|D000068338|D017239|D001800,Cisplatin|Everolimus|Paclitaxel|Blood Specimen Collection
+NCT00931528,D000068581,Tadalafil
+NCT00932438,D000077150|C410216|D002955|D005472|D000068258,Oxaliplatin|Folfox protocol|Leucovorin|Fluorouracil|Bevacizumab
+NCT00933543,D000095742|C008848,"Red Light|1-phenyl-3,3-dimethyltriazene"
+NCT00934050,C009217,scyllitol
+NCT00934544,C540383,ruxolitinib
+NCT00936390,C053541|D005485|D000726|D007987|D013812|D016729|D017273|D002064|D017329|C431566,bicalutamide|Flutamide|Androgen Antagonists|Gonadotropin-Releasing Hormone|Therapeutics|Leuprolide|Goserelin|Buserelin|Triptorelin Pamoate|acetyl-2-naphthylalanyl-3-chlorophenylalanyl-1-oxohexadecyl-seryl-4-aminophenylalanyl(hydroorotyl)-4-aminophenylalanyl(carbamoyl)-leucyl-ILys-prolyl-alaninamide
+NCT00936884,C032257,methylnaltrexone
+NCT00937235,D000068580|D015928,Varenicline|Cognitive Behavioral Therapy
+NCT00938717,C523483,linaclotide
+NCT00939003,D000068879,Adalimumab
+NCT00939900,D000077211,Zoledronic Acid
+NCT00940342,D016178|C081222|D000069283,Granulocyte-Macrophage Colony-Stimulating Factor|sargramostim|Rituximab
+NCT00940992,,
+NCT00943072,C533178|C005703,aflibercept|salicylhydroxamic acid
+NCT00943111,C522917|C090568,eliglustat|imiglucerase
+NCT00943618,D000068580|D016642|D003376,Varenicline|Bupropion|Counseling
+NCT00950989,C571216|D008727|D005492,brodalumab|Methotrexate|Folic Acid
+NCT00951015,C562325|C098320,dolutegravir|efavirenz
+NCT00952120,,
+NCT00952289,C540383,ruxolitinib
+NCT00952341,D000077608|D003907|D017829,Aprepitant|Dexamethasone|Granisetron
+NCT00952588,C520647,2-((3-((4-((5-(2-((3-fluorophenyl)amino)-2-oxoethyl)-1H-pyrazol-3-yl)amino)quinazolin-7-yl)oxy)propyl)(ethyl)amino)ethyl dihydrogen phosphate
+NCT00953927,C549320,MVA 85A
+NCT00954941,D017294|D000077608,Ondansetron|Aprepitant
+NCT00956943,,
+NCT00958126,,
+NCT00958243,,
+NCT00959751,,
+NCT00960440,C479163|D004311,tofacitinib|Double-Blind Method
+NCT00960869,,
+NCT00961350,,
+NCT00961662,C030192,tagatose
+NCT00963508,D026023,Permethrin
+NCT00963937,D018170,Sumatriptan
+NCT00964496,D013792|D007501|C022943,Thalidomide|Iron|ferrous succinate
+NCT00966875,C549079,ixekizumab
+NCT00967551,D015032,Zinc
+NCT00967616,C510342|D000077146|D002955|D005472,efatutazone|Irinotecan|Leucovorin|Fluorouracil
+NCT00969878,,
+NCT00970307,C538863|C541235,10-valent pneumococcal vaccine|diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine
+NCT00970489,D004281,Docosahexaenoic Acids
+NCT00970814,D000073893,Sugars
+NCT00973102,,
+NCT00973674,D004967,Estrogens
+NCT00975000,D000069449,Cinacalcet
+NCT00975221,D000069449,Cinacalcet
+NCT00975507,C050102,"measles, mumps, rubella, varicella vaccine"
+NCT00975780,,
+NCT00976911,D000068258|C506643|D017239|D019772,Bevacizumab|liposomal doxorubicin|Paclitaxel|Topotecan
+NCT00977106,C502936,tocilizumab
+NCT00978029,,
+NCT00979212,D000077544|D016190|D017239|D000068196|D013514|D038481|D011013,"Panitumumab|Carboplatin|Paclitaxel|Albumin-Bound Paclitaxel|Surgical Procedures, Operative|Anterior Temporal Lobectomy|Pneumonectomy"
+NCT00980330,D000069616|C100416|D012254,Simeprevir|peginterferon alfa-2a|Ribavirin
+NCT00983580,D001241|D000518,Aspirin|Eflornithine
+NCT00985517,,
+NCT00985985,D009538,Nicotine
+NCT00986154,C552171|D006495|D006493|D014859,"edoxaban|Heparin, Low-Molecular-Weight|Heparin|Warfarin"
+NCT00987337,C550357,filibuvir
+NCT00987389,D010951|D005938,Plasma Exchange|Glucocorticoids
+NCT00988221,C502936,tocilizumab
+NCT00989014,,
+NCT00989573,C108965,tetomilast
+NCT00992719,,
+NCT00993317,D000068582|D008727,Certolizumab Pegol|Methotrexate
+NCT00995020,D019092,Conization
+NCT00996281,C557413|D002752|D000068557|D006852,azilsartan medoxomil|Chlorthalidone|Olmesartan Medoxomil|Hydrochlorothiazide
+NCT00999167,C570223,glycerol phenylbutyrate
+NCT01000727,C529040|D059039,darapladib|Standard of Care
+NCT01001208,D008727|D000068800,Methotrexate|Etanercept
+NCT01001325,D000077330,Saline Solution
+NCT01002482,,
+NCT01005251,C545087,lesogaberan
+NCT01007435,C502936|D008727,tocilizumab|Methotrexate
+NCT01008150,D017239|D000068878|C487932|D004317|D003520,Paclitaxel|Trastuzumab|neratinib|Doxorubicin|Cyclophosphamide
+NCT01008410,D019819,Budesonide
+NCT01008423,D019819,Budesonide
+NCT01008995,D000069549,Ustekinumab
+NCT01009086,D000069549,Ustekinumab
+NCT01009918,D000077261|D017706,Carvedilol|Lisinopril
+NCT01011413,C098320,efavirenz
+NCT01012973,C533178,aflibercept
+NCT01014013,D000077727,Ertapenem
+NCT01015287,D000068799,Prasugrel Hydrochloride
+NCT01015534,D000077204,Temozolomide
+NCT01020019,D013759|C025655,Dronabinol|lofexidine
+NCT01023815,D000068338|D016572,Everolimus|Cyclosporine
+NCT01024036,C504234,siltuximab
+NCT01025635,,
+NCT01028131,D003419,Crisis Intervention
+NCT01031498,D017294|D000077924,Ondansetron|Palonosetron
+NCT01032200,D000077408,Modafinil
+NCT01034137,D008727|C502936,Methotrexate|tocilizumab
+NCT01034306,C478920|C084956,CF101|N(6)-(3-iodobenzyl)-5'-N-methylcarboxamidoadenosine
+NCT01037088,C587251,nabiximols
+NCT01037452,D002119|D008276|D064747|C016386,Calcium Carbonate|Magnesium Hydroxide|Lansoprazole|dihydroxyaluminum sodium carbonate
+NCT01040351,,
+NCT01040871,D000069286|D000069283|D003520|D004317|D011241|D014750,Bortezomib|Rituximab|Cyclophosphamide|Doxorubicin|Prednisone|Vincristine
+NCT01041404,D000068878|D005472|D002945|D000069287,Trastuzumab|Fluorouracil|Cisplatin|Capecitabine
+NCT01041573,D000069443,Heptavalent Pneumococcal Conjugate Vaccine
+NCT01041976,D010166|D004522|D016879,Palliative Care|Educational Status|Salvage Therapy
+NCT01044030,,
+NCT01047345,,
+NCT01050569,D061485|D009538,Tobacco Use Cessation Devices|Nicotine
+NCT01050998,C561644,mavrilimumab
+NCT01051661,C568072,arepanrix
+NCT01051778,D017984|D001241,Enoxaparin|Aspirin
+NCT01052844,D000077206,Gabapentin
+NCT01056341,D011433,Propranolol
+NCT01059344,D019804,Mesalamine
+NCT01059630,C543332|D000069461,obinutuzumab|Bendamustine Hydrochloride
+NCT01060072,D000069559,Loteprednol Etabonate
+NCT01061151,D015215|D019829|D000069480|C109078|D061466,"Zidovudine|Nevirapine|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|lamivudine, zidovudine drug combination|Lopinavir"
+NCT01061723,C000592401,sarilumab
+NCT01061736,C000592401|D008727|D005492,sarilumab|Methotrexate|Folic Acid
+NCT01062113,D000068579,Celecoxib
+NCT01062425,D020266|C500926|D050397|D000077204,"Radiotherapy, Conformal|cediranib|Radiotherapy, Intensity-Modulated|Temozolomide"
+NCT01063829,C000588473,letermovir
+NCT01071083,D000069442|D000068556|D008775|D000068717,Natalizumab|Interferon beta-1a|Methylprednisolone|Glatiramer Acetate
+NCT01071252,C555450,secukinumab
+NCT01073930,C005701|D001726,picosulfate sodium|Bisacodyl
+NCT01073943,C005701|D001726,picosulfate sodium|Bisacodyl
+NCT01077024,,
+NCT01077362,D000069549,Ustekinumab
+NCT01080677,D002110,Caffeine
+NCT01081145,,
+NCT01082874,D003000|D001241,Clonidine|Aspirin
+NCT01084148,,
+NCT01084876,C000630847|D000068878|D017239,CT-P6|Trastuzumab|Paclitaxel
+NCT01085084,C476223,laquinimod
+NCT01086423,C541235,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine
+NCT01087723,C074619|D006493|D006495,"bivalirudin|Heparin|Heparin, Low-Molecular-Weight"
+NCT01090453,C538862|C541235|C492457,13-valent pneumococcal vaccine|diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|RIX4414 vaccine
+NCT01098032,D017693|D000111,Sodium Bicarbonate|Acetylcysteine
+NCT01098474,D000069443,Heptavalent Pneumococcal Conjugate Vaccine
+NCT01100307,C495058|C005703,pegaptanib|salicylhydroxamic acid
+NCT01101035,D000069465|D000493,Febuxostat|Allopurinol
+NCT01101438,D008687,Metformin
+NCT01103479,D010820,Physicians
+NCT01107457,C549079,ixekizumab
+NCT01107496,,
+NCT01109056,D003524,Cyclosporins
+NCT01109173,C414203,nepafenac
+NCT01112267,,
+NCT01114880,D000068879,Adalimumab
+NCT01115855,D000077545,Eplerenone
+NCT01120028,D000074323|D000077552|D020123|D016559,Alemtuzumab|Basiliximab|Sirolimus|Tacrolimus
+NCT01120184,D000077143|D017239|C485206|D000068878|D000080044,Docetaxel|Paclitaxel|pertuzumab|Trastuzumab|Ado-Trastuzumab Emtansine
+NCT01120236,C053541|C557414|D017273|D016729|C493311,bicalutamide|cixutumumab|Goserelin|Leuprolide|luprolide acetate gel depot
+NCT01120249,D000068338,Everolimus
+NCT01120405,D014978|D000077149,Xenon|Sevoflurane
+NCT01121406,D017239|D000093542|D019772|C506643|C541363,Paclitaxel|Gemcitabine|Topotecan|liposomal doxorubicin|BI 6727
+NCT01124045,C015808|C009935,difluprednate|prednisolone acetate
+NCT01125189,C549273|C100416|D012254,daclatasvir|peginterferon alfa-2a|Ribavirin
+NCT01125774,C525458,telcagepant
+NCT01128738,,
+NCT01129011,D009288,Naproxen
+NCT01129440,,
+NCT01130272,C583636,eluxadoline
+NCT01131676,C570240,empagliflozin
+NCT01135459,C535176,spliceosomal peptide P140
+NCT01136408,D000069604|D014859,Dabigatran|Warfarin
+NCT01139580,,
+NCT01143246,D000077585|D012965,Terlipressin|Sodium Chloride
+NCT01144286,,
+NCT01144338,,
+NCT01144364,D000069283,Rituximab
+NCT01144663,C541235|C547294,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|PHiD-CV vaccine
+NCT01147068,D007273,"Injections, Intramuscular"
+NCT01147250,C479460,lixisenatide
+NCT01147640,C519491|D000078142|D008795|D000077731,ceftolozane|Tazobactam|Metronidazole|Meropenem
+NCT01150045,D000068579|D005472|D000077150|D002955,Celecoxib|Fluorouracil|Oxaliplatin|Leucovorin
+NCT01150097,D016559|D000068338|D000305,Tacrolimus|Everolimus|Adrenal Cortex Hormones
+NCT01151189,C549320,MVA 85A
+NCT01152554,,
+NCT01154985,,
+NCT01155999,D014031,Tobramycin
+NCT01156571,D010976|D000077144,Platelet Count|Clopidogrel
+NCT01157117,D000069444|C057917,Omalizumab|Refit milk powder
+NCT01158378,,
+NCT01159015,,
+NCT01163032,C478745,tasimelteon
+NCT01164722,D057832|D008028,Watchful Waiting|Light Coagulation
+NCT01165177,,
+NCT01165203,,
+NCT01165229,,
+NCT01168999,D020393,"Manipulation, Spinal"
+NCT01171963,D022681|D004369,Diphtheria-Tetanus-acellular Pertussis Vaccines|Pentetic Acid
+NCT01171989,C541235|C547294,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|PHiD-CV vaccine
+NCT01172353,D017693|D012965,Sodium Bicarbonate|Sodium Chloride
+NCT01172522,C093230,fexofenadine
+NCT01174160,D012965,Sodium Chloride
+NCT01175135,C545121|D018967,2-((4-(1-methyl-4-pyridin-4-yl-1H-pyrazol-3-yl)phenoxy)methyl)quinoline|Risperidone
+NCT01178281,C467566,pomalidomide
+NCT01179048,D000069450,Liraglutide
+NCT01179568,D015283|D000073893,Citalopram|Sugars
+NCT01181102,C552171|C000711671,edoxaban|enoxaparin sodium
+NCT01181141,C552171|C000711671,edoxaban|enoxaparin sodium
+NCT01181167,C552171|C000711671,edoxaban|enoxaparin sodium
+NCT01181323,,
+NCT01182766,D000077236|D000073893,Topiramate|Sugars
+NCT01183169,C499715|C100416|D012254,alisporivir|peginterferon alfa-2a|Ribavirin
+NCT01185353,C000596027|D053612|D008727,baricitinib|Janus Kinases|Methotrexate
+NCT01188928,C055085|D001623|C011175|D013535,"calcipotriene|Betamethasone|betamethasone-17,21-dipropionate|Suspensions"
+NCT01189747,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT01189760,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT01190878,C053083,bromfenac
+NCT01191840,D014640|D009254|D010068|D003023|D017576|D002437,Vancomycin|Nafcillin|Oxacillin|Cloxacillin|Daptomycin|Cefazolin
+NCT01192022,C518955,TachoSil
+NCT01193907,C057664,"Vi polysaccharide vaccine, typhoid"
+NCT01195831,,
+NCT01196091,C575974|D059039|D000894|D000305|D000962|D007166,"tabalumab|Standard of Care|Anti-Inflammatory Agents, Non-Steroidal|Adrenal Cortex Hormones|Antimalarials|Immunosuppressive Agents"
+NCT01197521,C523665,fostamatinib
+NCT01197534,C523665,fostamatinib
+NCT01197560,D000077269|D000093542|D000077150|D000069283|D005047,Lenalidomide|Gemcitabine|Oxaliplatin|Rituximab|Etoposide
+NCT01197755,C523665,fostamatinib
+NCT01198366,,
+NCT01199380,D000074602|D061485|D009538,Smoking Devices|Tobacco Use Cessation Devices|Nicotine
+NCT01199861,D000068876|D013745,Fingolimod Hydrochloride|Tetanus Toxoid
+NCT01201057,,
+NCT01201915,C538724,HhAntag691
+NCT01202760,C575974,tabalumab
+NCT01203072,C552171,edoxaban
+NCT01203319,D017325,Hepatitis B Vaccines
+NCT01205438,C575974,tabalumab
+NCT01206387,D003899,Desoximetasone
+NCT01206660,,
+NCT01213043,D000515|C114276,alpha 1-Antitrypsin|Mp alpha1 receptor
+NCT01214720,D000068258,Bevacizumab
+NCT01215188,C538862,13-valent pneumococcal vaccine
+NCT01215279,,
+NCT01215643,C499715|C100416|D012254,alisporivir|peginterferon alfa-2a|Ribavirin
+NCT01217463,C114444,trafermin
+NCT01217476,C114444,trafermin
+NCT01217827,,
+NCT01218997,C000624616|D009271,vivitrol|Naltrexone
+NCT01222832,D001414,Bacitracin
+NCT01224015,D000077330|D019274,"Saline Solution|Botulinum Toxins, Type A"
+NCT01224171,C543529|C438271,vedolizumab|LDP-02
+NCT01225562,D000077486,Ticagrelor
+NCT01225731,C000598434,tildrakizumab
+NCT01225822,D017984|D000069604,Enoxaparin|Dabigatran
+NCT01227967,D000547|D012254|D053139,Amantadine|Ribavirin|Oseltamivir
+NCT01229176,D011134|D014612|D022242|C538862,Polysaccharides|Vaccines|Pneumococcal Vaccines|13-valent pneumococcal vaccine
+NCT01230125,C546413,"R-1,1,1-trifluoro-4-(5-fluoro-2,3-dihydrobenzofuran-7-yl)-4-methyl-2-(((2-methyl-5-quinolyl)amino)methyl)pentan-2-ol"
+NCT01231412,D016572|D003524|C042382|D009173|D036102|D020123|D014916,Cyclosporine|Cyclosporins|fludarabine phosphate|Mycophenolic Acid|Peripheral Blood Stem Cell Transplantation|Sirolimus|Whole-Body Irradiation
+NCT01231503,C075654|D008458,Engerix-B|Measles Vaccine
+NCT01232569,C502936,tocilizumab
+NCT01233232,C000597960,"N-(2-(2,3-difluoro-6-benzylthio)-6-(3,4-dihydroxybutan-2-yloxy)pyrimidin-4-yl)azetidine-1-sulfonamide"
+NCT01235689,D000068879|D011241|D001379,Adalimumab|Prednisone|Azathioprine
+NCT01236547,D050397|D017239|D013660|C516667,"Radiotherapy, Intensity-Modulated|Paclitaxel|Taxes|pazopanib"
+NCT01243177,D000078334,Lacosamide
+NCT01243294,,
+NCT01244425,D015718|D026503,Fibrin Tissue Adhesive|Low Density Lipoprotein Receptor-Related Protein-1
+NCT01248065,D002762|C120481,Cholecalciferol|ciclesonide
+NCT01248780,C529000|D008727,golimumab|Methotrexate
+NCT01248793,C529000,golimumab
+NCT01248884,C541235|C538862,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|13-valent pneumococcal vaccine
+NCT01251861,C548887|C053541|D057832|D019370,MK 2206|bicalutamide|Watchful Waiting|Observation
+NCT01254292,C534342,drospirenone and ethinyl estradiol combination
+NCT01254344,D000077727|C108047|D002443|D008795,Ertapenem|L 749345|Ceftriaxone|Metronidazole
+NCT01256424,D008029,Lighting
+NCT01257204,C549273|C100416|D012254,daclatasvir|peginterferon alfa-2a|Ribavirin
+NCT01259713,C068538,liposomal amphotericin B
+NCT01259726,,
+NCT01261325,C482793|D000927,brivaracetam|Anticonvulsants
+NCT01261793,C448700,epratuzumab
+NCT01262365,C448700,epratuzumab
+NCT01262976,,
+NCT01264939,D000069444|D006633|D020024|D004155,Omalizumab|Histamine Antagonists|Leukotriene Antagonists|Diphenhydramine
+NCT01265550,D018662|D001418|D003891,Fundoplication|Baclofen|Desipramine
+NCT01265667,C478920|C084956,CF101|N(6)-(3-iodobenzyl)-5'-N-methylcarboxamidoadenosine
+NCT01270828,D000069583,Pregabalin
+NCT01272635,D017963|D011239,Azithromycin|Prednisolone
+NCT01274637,D017985,Dalteparin
+NCT01275196,C498826|D000068877,nilotinib|Imatinib Mesylate
+NCT01275677,D003520|D000077143|D004317|D017239|D013660|D000068878|C000630847|C000598430|C000712788|C000630669|C000631275,Cyclophosphamide|Docetaxel|Doxorubicin|Paclitaxel|Taxes|Trastuzumab|CT-P6|PF-05280014|trastuzumab biosimilar HLX02|Ogivri|Ontruzant
+NCT01276457,D016572,Cyclosporine
+NCT01276756,C100416|C041747|D012254,peginterferon alfa-2a|nitazoxanide|Ribavirin
+NCT01277666,C583420,CCX282-B
+NCT01281839,D000069616|C100416|D012254,Simeprevir|peginterferon alfa-2a|Ribavirin
+NCT01283139,C568334,sifalimumab
+NCT01283581,C477891|D000069349|D014640,delafloxacin|Linezolid|Vancomycin
+NCT01285401,D000068556|D012847,Interferon beta-1a|Single Person
+NCT01287377,D061485|D009538,Tobacco Use Cessation Devices|Nicotine
+NCT01289015,C029178|D005782,naftifine|Gels
+NCT01289782,D000069616|C100416|D012254,Simeprevir|peginterferon alfa-2a|Ribavirin
+NCT01290341,C029178|D005782,naftifine|Gels
+NCT01290679,D000069616|C100416|C417083|D012254,Simeprevir|peginterferon alfa-2a|peginterferon alfa-2b|Ribavirin
+NCT01292239,D000069616|C100416|D012254,Simeprevir|peginterferon alfa-2a|Ribavirin
+NCT01294644,D003840,Deoxycholic Acid
+NCT01297270,C552340,faldaprevir
+NCT01297959,D000077330,Saline Solution
+NCT01298219,D000068238,Lubiprostone
+NCT01299766,D010166,Palliative Care
+NCT01300052,D009824,Ointments
+NCT01305577,D003840,Deoxycholic Acid
+NCT01307020,C118296|D014147|D007052,dexketoprofen trometamol|Tramadol|Ibuprofen
+NCT01307579,D000077336|D015725,Caspofungin|Fluconazole
+NCT01309386,D009020,Morphine
+NCT01309646,C514867|C547294|C492457,Hiberix|PHiD-CV vaccine|RIX4414 vaccine
+NCT01312922,D015283|C005569,Citalopram|pipamperone
+NCT01318499,C414203,nepafenac
+NCT01318694,C499715|C100416|D012254,alisporivir|peginterferon alfa-2a|Ribavirin
+NCT01321749,,
+NCT01323270,C484699|D012965,"factor H-binding protein, Neisseria meningitidis|Sodium Chloride"
+NCT01324518,C000588919,ORM-12741
+NCT01326546,C413685,entecavir
+NCT01328951,D000069347,Erlotinib Hydrochloride
+NCT01330030,D012642,Selegiline
+NCT01330381,C406662|D011092,prucalopride|Polyethylene Glycols
+NCT01330628,D000800,"Angioplasty, Balloon"
+NCT01332968,C543332|D003520|D004317|D014750|D011241|D000069461|D000069283,obinutuzumab|Cyclophosphamide|Doxorubicin|Vincristine|Prednisone|Bendamustine Hydrochloride|Rituximab
+NCT01336205,C000589308,naloxegol
+NCT01336647,,
+NCT01337167,D022681|C061964|C538862|C492535|D022243|C512971|C055753,Diphtheria-Tetanus-acellular Pertussis Vaccines|Haemophilus influenzae-type b polysaccharide-Neisseria meningitidis outer membrane protein conjugate vaccine|13-valent pneumococcal vaccine|RotaTeq|Rotavirus Vaccines|pentacel|Haemophilus influenza type b polysaccharide vaccine-tetanus toxin conjugate
+NCT01339260,C000595957|D000077924|D003907,"netupitant, palosentron drug combination|Palonosetron|Dexamethasone"
+NCT01340066,,
+NCT01340209,C000611386,tiotropium-olodaterol
+NCT01340768,D000068900|D013453|C057619|D008687,Sitagliptin Phosphate|Sulfonylurea Compounds|glimepiride|Metformin
+NCT01341652,C082856|D016178,regramostim|Granulocyte-Macrophage Colony-Stimulating Factor
+NCT01343004,C000596789|D019379,abaloparatide|Teriparatide
+NCT01343888,C552340,faldaprevir
+NCT01344616,,
+NCT01345240,C023768|D008458|D022341,halofantrine|Measles Vaccine|Yellow Fever Vaccine
+NCT01345253,C511911,belimumab
+NCT01345929,D064704,Levofloxacin
+NCT01346774,,
+NCT01349907,C522667,asenapine
+NCT01349972,C077990|D003630|D008942|D003561,alvocidib|Daunorubicin|Mitoxantrone|Cytarabine
+NCT01350271,,
+NCT01350804,C555450|D000069594,secukinumab|Abatacept
+NCT01350817,D000069347|D000077143,Erlotinib Hydrochloride|Docetaxel
+NCT01350999,C587319|C405603|C035276,TAK-085|Omacor|eicosapentaenoic acid ethyl ester
+NCT01353703,C541235,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine
+NCT01353911,C578009|C512204|C417083|D012254,"grazoprevir|N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide|peginterferon alfa-2b|Ribavirin"
+NCT01355484,C547106,ostarine
+NCT01355497,C547106,ostarine
+NCT01355627,C518955,TachoSil
+NCT01358175,C555450,secukinumab
+NCT01358864,C552340|D012254,faldaprevir|Ribavirin
+NCT01358877,D005472|D016190|D003520|D000077143|D004317|D015251|D017239|C485206|D000068878,Fluorouracil|Carboplatin|Cyclophosphamide|Docetaxel|Doxorubicin|Epirubicin|Paclitaxel|pertuzumab|Trastuzumab
+NCT01362140,D000068256,Darbepoetin alfa
+NCT01362530,D000077608|D013535|D017294,Aprepitant|Suspensions|Ondansetron
+NCT01363388,C000620232,avacopan
+NCT01363479,D000077924|D003907,Palonosetron|Dexamethasone
+NCT01365052,D009288,Naproxen
+NCT01365819,D000068580|D000073893,Varenicline|Sugars
+NCT01369069,,
+NCT01369329,,
+NCT01369342,,
+NCT01369355,D000069549,Ustekinumab
+NCT01370642,C540393|C417083|D012254,vaniprevir|peginterferon alfa-2b|Ribavirin
+NCT01371708,,
+NCT01371721,,
+NCT01372254,D061485|D009538,Tobacco Use Cessation Devices|Nicotine
+NCT01373151,C000604955|D008727|D000068879,clazakizumab|Methotrexate|Adalimumab
+NCT01376297,C000595957|D000077608|D000077924|D003907,"netupitant, palosentron drug combination|Aprepitant|Palonosetron|Dexamethasone"
+NCT01377012,C555450,secukinumab
+NCT01377480,C101425|C009999,posaconazole|benzonidazole
+NCT01378273,D047209|D004921|D012965,Eosinophil Peroxidase|Erythropoietin|Sodium Chloride
+NCT01382602,,
+NCT01388985,D011819,Rabies Vaccines
+NCT01391273,D000069580,Bimatoprost
+NCT01392326,C555450,secukinumab
+NCT01393405,D008727,Methotrexate
+NCT01393626,C479163,tofacitinib
+NCT01393899,C479163,tofacitinib
+NCT01394952,C555680,dulaglutide
+NCT01395524,C000589308,naloxegol
+NCT01395914,,
+NCT01396512,C000607270,SA-14-14-2 vaccine
+NCT01397461,C508887|D009824|C000592413,retapamulin|Ointments|ozenoxacin
+NCT01402063,C080406|C509139|D000077204,protein phosphatase 4|paclitaxel poliglumex|Temozolomide
+NCT01402141,C525760,chungkookjang
+NCT01405196,C000620303,PF-04236921
+NCT01405508,C482793,brivaracetam
+NCT01406938,C555450,secukinumab
+NCT01410448,D000068338|D009173|D016572|D013256,Everolimus|Mycophenolic Acid|Cyclosporine|Steroids
+NCT01419665,D000069283,Rituximab
+NCT01425203,C512204|C417083|D012254,"N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide|peginterferon alfa-2b|Ribavirin"
+NCT01427738,D005840,Gentian Violet
+NCT01429441,C054561|C005703,microplasmin|salicylhydroxamic acid
+NCT01429623,C423264,(N-propargyl-(3R) aminoindan-5-yl)-ethyl methyl carbamate
+NCT01429987,C584575,plecanatide
+NCT01430442,C578443|D018170,rimegepant sulfate|Sumatriptan
+NCT01433107,D000077291,Terbinafine
+NCT01436357,,
+NCT01436396,D022341|D014612|D022542|D013745|D018073|D012965,Yellow Fever Vaccine|Vaccines|Measles-Mumps-Rubella Vaccine|Tetanus Toxoid|Haemophilus Vaccines|Sodium Chloride
+NCT01437267,D022242|C538862|D011134|D014612,Pneumococcal Vaccines|13-valent pneumococcal vaccine|Polysaccharides|Vaccines
+NCT01438489,C582345,anifrolumab
+NCT01438957,D020927,Dexmedetomidine
+NCT01439360,C538862|D019433,13-valent pneumococcal vaccine|Chickenpox Vaccine
+NCT01441596,D000077235|D000077716,Vinorelbine|Afatinib
+NCT01443130,D002738|C001205,"Chloroquine|fanasil, pyrimethamine drug combination"
+NCT01444417,C488777,romiplostim
+NCT01445678,D008795|D000077731,Metronidazole|Meropenem
+NCT01448044,C549273|C100416|D012254,daclatasvir|peginterferon alfa-2a|Ribavirin
+NCT01449812,C541235|D004369,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|Pentetic Acid
+NCT01451814,D061485|D012064,Tobacco Use Cessation Devices|Relaxation Therapy
+NCT01453205,C000609745|D000069283|D007053,inebilizumab|Rituximab|Ice
+NCT01453725,C529000,golimumab
+NCT01453998,C541235|C538862,diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine|13-valent pneumococcal vaccine
+NCT01456000,,
+NCT01457352,,
+NCT01458522,C043114|D000078334,fosphenytoin|Lacosamide
+NCT01458574,C479163,tofacitinib
+NCT01458951,C479163,tofacitinib
+NCT01463033,D000077287,Levetiracetam
+NCT01463306,D000069583,Pregabalin
+NCT01463683,C075655|D017325,Recombivax HB|Hepatitis B Vaccines
+NCT01465763,C479163,tofacitinib
+NCT01465802,C525726|D004318|D019936,dacomitinib|Doxycycline|Probiotics
+NCT01466153,D000069283|D000069461|C000609745,Rituximab|Bendamustine Hydrochloride|inebilizumab
+NCT01468207,D000068879,Adalimumab
+NCT01468233,D000068879,Adalimumab
+NCT01469182,,
+NCT01471457,,
+NCT01473524,C464660,obeticholic acid
+NCT01473589,D019379,Teriparatide
+NCT01474512,C549079,ixekizumab
+NCT01474590,D000068801|D004318|D015474,"Adapalene, Benzoyl Peroxide Drug Combination|Doxycycline|Isotretinoin"
+NCT01475838,D000069480|D000069545,"Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT01475955,D000622,Aminolevulinic Acid
+NCT01478009,C000713447,Asian ginseng
+NCT01479764,D000077122|D009388|D006024,Sugammadex|Neostigmine|Glycopyrrolate
+NCT01482884,C574065,tralokinumab
+NCT01482962,C550258|C418863|D000093542|C087123,MLN 8237|10-propargyl-10-deazaaminopterin|Gemcitabine|romidepsin
+NCT01483599,C000588857|D000068879,guselkumab|Adalimumab
+NCT01484275,C504234,siltuximab
+NCT01484496,C511911|D059039,belimumab|Standard of Care
+NCT01490450,C000604955,clazakizumab
+NCT01490580,D001285|D001279|D017409,Atropine|Atracurium|Sufentanil
+NCT01492361,C035276,eicosapentaenoic acid ethyl ester
+NCT01493531,C000593471|D000493,lesinurad|Allopurinol
+NCT01493687,C010038|D005782,azelaic acid|Gels
+NCT01493960,C000711771|C582905,cobitolimod|DIMS0150
+NCT01494467,C010038|D005782,azelaic acid|Gels
+NCT01494662,C487932|D001706|D000069287|D000080044,neratinib|Biopsy|Capecitabine|Ado-Trastuzumab Emtansine
+NCT01495702,D000069480|D000069545,"Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT01497366,D000069474|C100416,Sofosbuvir|peginterferon alfa-2a
+NCT01499849,C578834|D017829|D003907|D002123,rolapitant|Granisetron|Dexamethasone|Calcium Dobesilate
+NCT01499953,D000069552|D000077425,Rivaroxaban|Fondaparinux
+NCT01500135,C518955,TachoSil
+NCT01500213,C578834|D017829|D003907|D002123,rolapitant|Granisetron|Dexamethasone|Calcium Dobesilate
+NCT01500226,C578834|D017829|D003907|D002123,rolapitant|Granisetron|Dexamethasone|Calcium Dobesilate
+NCT01501513,,
+NCT01503021,C032360,spleen fibrinolytic proteinase (human)
+NCT01503515,D000077336|D015725|D065819,Caspofungin|Fluconazole|Voriconazole
+NCT01504867,D001241,Aspirin
+NCT01505634,C568736|D015378|D015377|D000077728|D002939,"relebactam|Imipenem|Cilastatin|Cilastatin, Imipenem Drug Combination|Ciprofloxacin"
+NCT01506271,C568736|D000077728,"relebactam|Cilastatin, Imipenem Drug Combination"
+NCT01510158,C000593471|D000493,lesinurad|Allopurinol
+NCT01510704,,
+NCT01510769,C000593471|D000069465,lesinurad|Febuxostat
+NCT01511250,,
+NCT01512225,D004294,Domperidone
+NCT01513239,C000613978,bezlotoxumab
+NCT01513291,C573816,MK-6096
+NCT01513551,D022242|C538862,Pneumococcal Vaccines|13-valent pneumococcal vaccine
+NCT01514370,D000068556|D003474,Interferon beta-1a|Curcumin
+NCT01515345,D000068799|D000077486|D000077144,Prasugrel Hydrochloride|Ticagrelor|Clopidogrel
+NCT01515423,C545823,"soybean oil, phospholipid emulsion"
+NCT01516970,D000069454|D019438|D061466|C558899|D015215|C098320,Darunavir|Ritonavir|Lopinavir|lopinavir-ritonavir drug combination|Zidovudine|efavirenz
+NCT01519791,D000068582|D008727,Certolizumab Pegol|Methotrexate
+NCT01519960,C100416,peginterferon alfa-2a
+NCT01520701,,
+NCT01520909,C520809,eltrombopag
+NCT01521559,,
+NCT01521923,D000068582|D008727,Certolizumab Pegol|Methotrexate
+NCT01522417,D000077466|D000077542,Tirofiban|Eptifibatide
+NCT01532648,,
+NCT01535014,C000605985,Dietressa
+NCT01535560,,
+NCT01535599,,
+NCT01536405,C050102|D000249,"measles, mumps, rubella, varicella vaccine|Adenosine Monophosphate"
+NCT01536886,D001623|C055085|D009824,Betamethasone|calcipotriene|Ointments
+NCT01536938,C055085|D001623,calcipotriene|Betamethasone
+NCT01539538,D017409,Sufentanil
+NCT01542034,D003840,Deoxycholic Acid
+NCT01542788,D000069474,Sofosbuvir
+NCT01543178,D000078262,Rifaximin
+NCT01544920,C100416|D012254|C512204,"peginterferon alfa-2a|Ribavirin|N-(3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl)-3-(2-((((1,1-dimethylethyl)amino)carbonyl)amino)-3,3-dimethyl-1-oxobutyl)-6,6-dimethyl-3-azabicyclo(3.1.0)hexan-2-carboxamide"
+NCT01545076,C558471,Hizentra
+NCT01546142,D003840,Deoxycholic Acid
+NCT01546649,,
+NCT01546987,D007987|D016729|D017273|D002064|D017329|D000726|D005485|C053541|C571806|D011878,Gonadotropin-Releasing Hormone|Leuprolide|Goserelin|Buserelin|Triptorelin Pamoate|Androgen Antagonists|Flutamide|bicalutamide|orteronel|Radiotherapy
+NCT01553591,C583636,eluxadoline
+NCT01555125,C555450,secukinumab
+NCT01555463,,
+NCT01555957,D005217,"Fat Emulsions, Intravenous"
+NCT01555983,D064086,Medical Marijuana
+NCT01558596,,
+NCT01559922,D000077330,Saline Solution
+NCT01560780,D000068799,Prasugrel Hydrochloride
+NCT01562314,D002185,Cannabidiol
+NCT01562379,,
+NCT01566695,D001374|C000709231,Azacitidine|cc-486
+NCT01568112,D000069462|D005650|D001241,Dimethyl Fumarate|Fumarates|Aspirin
+NCT01570829,C000605985,Dietressa
+NCT01572792,C542859|D000068759,aclidinium bromide|Formoterol Fumarate
+NCT01573910,D000077266,Moxifloxacin
+NCT01574183,D000069503,Vilazodone Hydrochloride
+NCT01575834,C557282|D000069448,romosozumab|Denosumab
+NCT01576172,D000069501|D011241|C407664|C036266|C521013,Abiraterone Acetate|Prednisone|deltacortene|prednylidene|veliparib
+NCT01576471,,
+NCT01577238,C480351,astodrimer
+NCT01577537,C480351,astodrimer
+NCT01578499,D000079963|D008727|D000077610,Brentuximab Vedotin|Methotrexate|Bexarotene
+NCT01582711,D007538|C018421,Isoniazid|rifapentine
+NCT01589822,D015718,Fibrin Tissue Adhesive
+NCT01590758,C093828,pexiganan
+NCT01590888,,
+NCT01591005,D004691|D016894|D017130|D015607,"Endarterectomy|Endarterectomy, Carotid|Angioplasty|Stents"
+NCT01591161,C546413,"R-1,1,1-trifluoro-4-(5-fluoro-2,3-dihydrobenzofuran-7-yl)-4-methyl-2-(((2-methyl-5-quinolyl)amino)methyl)pentan-2-ol"
+NCT01591655,C546413,"R-1,1,1-trifluoro-4-(5-fluoro-2,3-dihydrobenzofuran-7-yl)-4-methyl-2-(((2-methyl-5-quinolyl)amino)methyl)pentan-2-ol"
+NCT01592747,D008559,Memantine
+NCT01594333,D008727,Methotrexate
+NCT01594762,C093828,pexiganan
+NCT01595529,D020682|D002506|D015662,"Cefixime|Cephalexin|Trimethoprim, Sulfamethoxazole Drug Combination"
+NCT01598753,D014147|D015928,Tramadol|Cognitive Behavioral Therapy
+NCT01600014,,
+NCT01602068,,
+NCT01604343,C568922,sirukumab
+NCT01604785,D015742|D000894|D018492,"Propofol|Anti-Inflammatory Agents, Non-Steroidal|Dopamine Antagonists"
+NCT01604850,D000069474,Sofosbuvir
+NCT01605903,D007052|D000082,Ibuprofen|Acetaminophen
+NCT01606761,C568922,sirukumab
+NCT01609010,D000069283|D000077190,Rituximab|Interferon alpha-2
+NCT01609257,,
+NCT01610037,C554862|D000069447,indacaterol-glycopyrronium combination|Tiotropium Bromide
+NCT01610414,,
+NCT01610596,,
+NCT01613248,C000615620,ubrogepant
+NCT01614964,,
+NCT01616459,C547294|C538862|C541235,PHiD-CV vaccine|13-valent pneumococcal vaccine|diphtheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine
+NCT01616654,C000629420|C086827|D005782,trifarotene|tazarotene|Gels
+NCT01617096,,
+NCT01618669,C430916,regadenoson
+NCT01620528,C539351,elagolix
+NCT01621802,D022542|C051021|C050102,"Measles-Mumps-Rubella Vaccine|DTPP vaccine|measles, mumps, rubella, varicella vaccine"
+NCT01625897,D018967,Risperidone
+NCT01627561,C510352|D022542|D022681|D004369,"human papillomavirus vaccine, L1 type 16, 18|Measles-Mumps-Rubella Vaccine|Diphtheria-Tetanus-acellular Pertussis Vaccines|Pentetic Acid"
+NCT01629381,D000069552,Rivaroxaban
+NCT01631474,C496269,Clascoterone
+NCT01632345,C000592662|C098320|D000069480,"doravirine|efavirenz|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT01633788,,
+NCT01639339,D059039|C511911,Standard of Care|belimumab
+NCT01641809,C584914|C098320|D000068696|C106538|D019259,cabotegravir|efavirenz|Rilpivirine|abacavir|Lamivudine
+NCT01642212,,
+NCT01644331,D000077602,Tolvaptan
+NCT01645280,D008727|D000069549|C000588857,Methotrexate|Ustekinumab|guselkumab
+NCT01646073,D000068879,Adalimumab
+NCT01646814,C557598|D001241,aspirin-phosphatidylcholine|Aspirin
+NCT01647516,C000607776,ozanimod
+NCT01648023,,
+NCT01649375,C555450,secukinumab
+NCT01651780,C074619|D006493,bivalirudin|Heparin
+NCT01651949,,
+NCT01657162,D019386,Alendronate
+NCT01659853,,
+NCT01662856,,
+NCT01663727,D000068258|D017239,Bevacizumab|Paclitaxel
+NCT01664806,,
+NCT01665053,,
+NCT01665144,C578989,siponimod
+NCT01666314,C571806|D011241,orteronel|Prednisone
+NCT01666808,C117460|D011878|D050397,"fluciclovine F-18|Radiotherapy|Radiotherapy, Intensity-Modulated"
+NCT01669811,D064098,Esomeprazole
+NCT01670097,D003907|D002123|D000073893|D011795,Dexamethasone|Calcium Dobesilate|Sugars|Surveys and Questionnaires
+NCT01670526,D002800,Cholinesterase Inhibitors
+NCT01673620,C093875|D017336,montelukast|Loratadine
+NCT01675882,,
+NCT01679119,D003520|D014750|D011239|D000069283|D000080045|D000093542,Cyclophosphamide|Vincristine|Prednisolone|Rituximab|Inotuzumab Ozogamicin|Gemcitabine
+NCT01680887,D000068580,Varenicline
+NCT01682720,D000069474,Sofosbuvir
+NCT01689532,C568922,sirukumab
+NCT01690988,D007649|D000077330,Ketamine|Saline Solution
+NCT01691313,C043425,vanoxerine
+NCT01691690,D000082|D008874|D000077149|D009609|D010100|D015742|D009020|D017294|D003907,Acetaminophen|Midazolam|Sevoflurane|Nitrous Oxide|Oxygen|Propofol|Morphine|Ondansetron|Dexamethasone
+NCT01697592,C587539,"2-(2,5-difluorophenyl)-5-(2-(methylsulfonyl)-2,6-dihydropyrrolo(3,4-c)pyrazol-5(4H)-yl)tetrahydro-2H-pyran-3-amine"
+NCT01698554,D000069580,Bimatoprost
+NCT01700140,,
+NCT01700946,D003907|D014750|D000069283|D000077866|D003520|D005047|C082598|D007376|C042705|D008727|D015122|D003561|D008942|D013713|D014747|D006854,Dexamethasone|Vincristine|Rituximab|Clofarabine|Cyclophosphamide|Etoposide|aldesleukin|Interleukin-2|pegaspargase|Methotrexate|Mercaptopurine|Cytarabine|Mitoxantrone|Teniposide|Vinblastine|Hydrocortisone
+NCT01700985,,
+NCT01706198,C523187|C550468,fluticasone furoate|vilanterol
+NCT01706926,C561644,mavrilimumab
+NCT01709318,C038501|C044815|D004997|D004958,nomegestrol acetate|etonogestrel|Ethinyl Estradiol|Estradiol
+NCT01709409,,
+NCT01709578,C000592401|D006886|D008727|D012460|D000077339,sarilumab|Hydroxychloroquine|Methotrexate|Sulfasalazine|Leflunomide
+NCT01709721,D004091|D000701|D007332,"Hydromorphone|Analgesics, Opioid|Insulin Infusion Systems"
+NCT01710787,D013748,Tetracaine
+NCT01711359,C000596027|D008727|D005492,baricitinib|Methotrexate|Folic Acid
+NCT01713946,D000068338|D000927,Everolimus|Anticonvulsants
+NCT01714726,C000622252,MEDI2070
+NCT01715896,C529000|C561644,golimumab|mavrilimumab
+NCT01716754,C000598891|D000069444,ligelizumab|Omalizumab
+NCT01717326,C578009|C000589335|D012254,grazoprevir|elbasvir|Ribavirin
+NCT01718873,D000068258|D000077150|D002955|D005472|D000069287,Bevacizumab|Oxaliplatin|Leucovorin|Fluorouracil|Capecitabine
+NCT01720446,C000591245,semaglutide
+NCT01720667,D000077287|D010634,Levetiracetam|Phenobarbital
+NCT01721044,C000596027,baricitinib
+NCT01721057,C000596027,baricitinib
+NCT01721746,D000077594|D003606|D016190|D017239,Nivolumab|Dacarbazine|Carboplatin|Paclitaxel
+NCT01721876,C541363|D003561,BI 6727|Cytarabine
+NCT01722331,C000598434,tildrakizumab
+NCT01723826,C573372,crenezumab
+NCT01727089,C579557|D000068258|D007074|D004220,carotuximab|Bevacizumab|Immunoglobulin G|Disulfides
+NCT01728324,D013812|D012254|C000592437|C552340,Therapeutics|Ribavirin|deleobuvir|faldaprevir
+NCT01730534,C529054,dapagliflozin
+NCT01730950,D000068258|D011878|D020266|D061766|D050397,"Bevacizumab|Radiotherapy|Radiotherapy, Conformal|Proton Therapy|Radiotherapy, Intensity-Modulated"
+NCT01731938,D015718,Fibrin Tissue Adhesive
+NCT01732627,D022401,Meningococcal Vaccines
+NCT01732796,D012254|C552340|C000592437,Ribavirin|faldaprevir|deleobuvir
+NCT01733212,C000713927,ginger extract
+NCT01736085,D061485,Tobacco Use Cessation Devices
+NCT01737762,,
+NCT01740089,C417083|D012254,peginterferon alfa-2b|Ribavirin
+NCT01743131,D000069594,Abatacept
+NCT01744197,D008012|D013748,Lidocaine|Tetracaine
+NCT01745380,D013748,Tetracaine
+NCT01745822,D000068698,Tenofovir
+NCT01747850,D015928|C587251|D013759|D002185|D000431|D003116,Cognitive Behavioral Therapy|nabiximols|Dronabinol|Cannabidiol|Ethanol|Color
+NCT01750190,C584543,roxadustat
+NCT01752634,C555450,secukinumab
+NCT01754389,D016559|D008727|D000069286|D020123,Tacrolimus|Methotrexate|Bortezomib|Sirolimus
+NCT01754480,,
+NCT01756898,,
+NCT01757184,C000603932,Sebelipase alfa
+NCT01760954,C539351,elagolix
+NCT01762761,C520809,eltrombopag
+NCT01763645,D000068258|D017239|D016190,Bevacizumab|Paclitaxel|Carboplatin
+NCT01765764,,
+NCT01767116,C588260|C586094|C585405|C000607373|D012254,dasabuvir|ombitasvir|paritaprevir|Viekira Pak|Ribavirin
+NCT01767467,D053061,Herpes Zoster Vaccine
+NCT01769391,C527969|D017239|D016190,necitumumab|Paclitaxel|Carboplatin
+NCT01772472,D000068878|D000080044,Trastuzumab|Ado-Trastuzumab Emtansine
+NCT01773967,,
+NCT01778634,D017963,Azithromycin
+NCT01781468,D000077408,Modafinil
+NCT01785849,C583569,etelcalcetide hydrochloride
+NCT01785875,C583569,etelcalcetide hydrochloride
+NCT01787006,D000068818|D002945|D005472|D011878|D011827,Cetuximab|Cisplatin|Fluorouracil|Radiotherapy|Radiation
+NCT01788046,C583569,etelcalcetide hydrochloride
+NCT01794312,D014677,Pharmaceutical Vehicles
+NCT01797029,,
+NCT01797081,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT01799590,D000077236,Topiramate
+NCT01802385,D020280,Sertraline
+NCT01802775,C552171|D000077144|D001241,edoxaban|Clopidogrel|Aspirin
+NCT01806545,D005781,"Gelatin Sponge, Absorbable"
+NCT01806597,C555450,secukinumab
+NCT01808118,D000068879,Adalimumab
+NCT01808547,C053083,bromfenac
+NCT01808651,D005473,Fluoxetine
+NCT01809132,D053590|D010431|D016568|D019287|D008775,"Interleukin 1 Receptor Antagonist Protein|Pentoxifylline|Drugs, Generic|Zinc Sulfate|Methylprednisolone"
+NCT01811940,D000077236,Topiramate
+NCT01813435,D000077486|D001241|D000077144,Ticagrelor|Aspirin|Clopidogrel
+NCT01815424,C479163,tofacitinib
+NCT01816295,D043343,Testosterone Propionate
+NCT01816594,C571178|D000068878|D017239,NVP-BKM120|Trastuzumab|Paclitaxel
+NCT01817530,C539351|D004958|D000077563|C418365,"elagolix|Estradiol|Norethindrone Acetate|estradiol, norethindrone drug combination"
+NCT01818427,,
+NCT01825512,D000077543|D007531|D000077588,Deferiprone|Isoflurophate|Deferasirox
+NCT01827358,D016712,Mupirocin
+NCT01830140,,
+NCT01830920,C000632227|D000077330,THR-184|Saline Solution
+NCT01831466,,
+NCT01833533,C588260|C586094|C585405|C000607373|D012254,dasabuvir|ombitasvir|paritaprevir|Viekira Pak|Ribavirin
+NCT01837277,C562325|C098320,dolutegravir|efavirenz
+NCT01838681,C000591922,brexpiprazole
+NCT01844830,D013748,Tetracaine
+NCT01848054,D002047|D000069479,"Buprenorphine|Buprenorphine, Naloxone Drug Combination"
+NCT01854528,C588260|C586094|C585405|C000607373|D012254|C486464,dasabuvir|ombitasvir|paritaprevir|Viekira Pak|Ribavirin|telaprevir
+NCT01854632,,
+NCT01854697,C588260|C000607373|C586094|C585405|D012254|C486464,dasabuvir|Viekira Pak|ombitasvir|paritaprevir|Ribavirin|telaprevir
+NCT01856309,C568922,sirukumab
+NCT01856543,C039909,eucerin
+NCT01856712,D009271|C000624616,Naltrexone|vivitrol
+NCT01857232,D017294|D003907|C579707,Ondansetron|Dexamethasone|fosaprepitant
+NCT01857583,C552171|D000077425,edoxaban|Fondaparinux
+NCT01860807,C038366,ibudilast
+NCT01860976,D000069594,Abatacept
+NCT01863771,C529000,golimumab
+NCT01864148,C000625770|D000068556,opicinumab|Interferon beta-1a
+NCT01866163,,
+NCT01867671,,
+NCT01870778,,
+NCT01871285,D002047|D010098|D009020,Buprenorphine|Oxycodone|Morphine
+NCT01871402,,
+NCT01871558,D000077597|D008687|D013453,Vildagliptin|Metformin|Sulfonylurea Compounds
+NCT01876082,D008727,Methotrexate
+NCT01880424,C523483,linaclotide
+NCT01880515,D013752,Tetracycline
+NCT01882439,C479163,tofacitinib
+NCT01882647,,
+NCT01885000,,
+NCT01887600,C584543,roxadustat
+NCT01888367,,
+NCT01888874,C584571,GLPG0634
+NCT01889251,C054561|C005703,microplasmin|salicylhydroxamic acid
+NCT01890746,D003630|D003561|C520809,Daunorubicin|Cytarabine|eltrombopag
+NCT01891864,C000628566|D000068800,GP2015|Etanercept
+NCT01893138,,
+NCT01894516,C584571,GLPG0634
+NCT01895309,D000068800,Etanercept
+NCT01895855,,
+NCT01900431,C000592401|D011241|D008727|D002955,sarilumab|Prednisone|Methotrexate|Leucovorin
+NCT01901146,D000068878|D017239|D015412|D008408,"Trastuzumab|Paclitaxel|Mastectomy, Segmental|Mastectomy"
+NCT01903252,D019804,Mesalamine
+NCT01904604,,
+NCT01905657,C582435|D000077143,pembrolizumab|Docetaxel
+NCT01906489,C000624313,vadadustat
+NCT01908062,C000624616|D013812,vivitrol|Therapeutics
+NCT01922011,D017576|D014640|D009254,Daptomycin|Vancomycin|Nafcillin
+NCT01923168,C585539|C571178,Alpelisib|NVP-BKM120
+NCT01923428,C000599417,tenapanor
+NCT01924533,C531550|D017239,olaparib|Paclitaxel
+NCT01927419,D000077594|D000074324,Nivolumab|Ipilimumab
+NCT01927497,C568444,strattice
+NCT01927744,D000077143|D000069347|D011795|D004358,Docetaxel|Erlotinib Hydrochloride|Surveys and Questionnaires|Drug Therapy
+NCT01928225,D053918,Papillomavirus Vaccines
+NCT01928849,D014635,Valproic Acid
+NCT01929993,,
+NCT01931670,C539351,elagolix
+NCT01936181,D000069285,Infliximab
+NCT01947491,,
+NCT01949090,,
+NCT01949116,D008727|D005492,Methotrexate|Folic Acid
+NCT01949142,C005703,salicylhydroxamic acid
+NCT01949155,C005703,salicylhydroxamic acid
+NCT01950260,D013974|D013963,Thyroxine|Thyroid Hormones
+NCT01951157,D000077143|D000093542|C568606,Docetaxel|Gemcitabine|PM 01183
+NCT01951885,D016559|D008727|C015342|D009173,Tacrolimus|Methotrexate|merphos|Mycophenolic Acid
+NCT01953432,D017292|D002214,Doxazosin|Capsules
+NCT01958320,D000894,"Anti-Inflammatory Agents, Non-Steroidal"
+NCT01959295,C568714,ASP2151
+NCT01959334,,
+NCT01960296,D000077144,Clopidogrel
+NCT01960855,C000613732,upadacitinib
+NCT01961349,C545823|D015742,"soybean oil, phospholipid emulsion|Propofol"
+NCT01961882,,
+NCT01965158,C000620491,naldemedine
+NCT01965704,D017294|D000077330,Ondansetron|Saline Solution
+NCT01966003,D016190|D017239|D000068258,Carboplatin|Paclitaxel|Bevacizumab
+NCT01966471,D000080044|D000068878|C485206|D017239|D015251|D004317|D000077143|D003520|D005472,Ado-Trastuzumab Emtansine|Trastuzumab|pertuzumab|Paclitaxel|Epirubicin|Doxorubicin|Docetaxel|Cyclophosphamide|Fluorouracil
+NCT01967888,C490707,reparixin
+NCT01968707,C010882|D000431|D019840|D002864|D000077330|D012965,chlorhexidine gluconate|Ethanol|2-Propanol|Chromogranins|Saline Solution|Sodium Chloride
+NCT01970475,C000630676|D000068879,ABP 501|Adalimumab
+NCT01972529,C533238,avatrombopag
+NCT01972568,C524618,TACI receptor-IgG Fc fragment fusion protein
+NCT01973205,D000082|D001241,Acetaminophen|Aspirin
+NCT01974141,,
+NCT01974323,,
+NCT01976104,C533238,avatrombopag
+NCT01976936,D008148|C109691,Lovastatin|microcrystalline cellulose
+NCT01976988,D006493,Heparin
+NCT01977612,,
+NCT01978093,C527605|C472675|C492457|C538862|C061964|D022362,Hib-MenCY-TT vaccine|PEDIARIX|RIX4414 vaccine|13-valent pneumococcal vaccine|Haemophilus influenzae-type b polysaccharide-Neisseria meningitidis outer membrane protein conjugate vaccine|Hepatitis A Vaccines
+NCT01984242,C000594389|D000068258|D000077210,atezolizumab|Bevacizumab|Sunitinib
+NCT01986075,C449521|C004551,SLI381|TES
+NCT01987817,D002214,Capsules
+NCT01989468,C555450,secukinumab
+NCT01991821,,
+NCT01991860,D007275|D000077582,"Injections, Intravenous|Amisulpride"
+NCT01993888,D059039,Standard of Care
+NCT01993940,C000620491,naldemedine
+NCT01994746,,
+NCT01994993,D000667|D008795|D005839|D002981|D000077725,"Ampicillin|Metronidazole|Gentamicins|Clindamycin|Piperacillin, Tazobactam Drug Combination"
+NCT01996839,C494814|D000069559,"BID protein, human|Loteprednol Etabonate"
+NCT01998919,D000069347|D000093542|D002945|D016190,Erlotinib Hydrochloride|Gemcitabine|Cisplatin|Carboplatin
+NCT01998984,C486592,3-ingenyl angelate
+NCT01999777,,
+NCT02003209,D047072|D016190|D000077143|D017273|C485206|C481039|D000068878|C000630847|C000598430|C000712788|C000630669|C000631275,Aromatase Inhibitors|Carboplatin|Docetaxel|Goserelin|pertuzumab|2C4 antibody|Trastuzumab|CT-P6|PF-05280014|trastuzumab biosimilar HLX02|Ogivri|Ontruzant
+NCT02004093,C485206|D017239|D000093542|D016190,pertuzumab|Paclitaxel|Gemcitabine|Carboplatin
+NCT02005471,D000069461|C579720|D000069283,Bendamustine Hydrochloride|venetoclax|Rituximab
+NCT02006888,D002123,Calcium Dobesilate
+NCT02008227,C000594389|D000077143,atezolizumab|Docetaxel
+NCT02008890,C555450,secukinumab
+NCT02014584,D000068538,Dutasteride
+NCT02016105,,
+NCT02016885,D006024,Glycopyrrolate
+NCT02019420,C515040|D000069349,tedizolid phosphate|Linezolid
+NCT02019472,D000068879|C568922,Adalimumab|sirukumab
+NCT02019563,,
+NCT02021318,C584543|D000068256,roxadustat|Darbepoetin alfa
+NCT02024646,C571216,brodalumab
+NCT02031276,C000601773,risankizumab
+NCT02034162,D008463,Mebendazole
+NCT02037126,D011562|D004155,Psilocybin|Diphenhydramine
+NCT02037555,D000990|D000991|D012965,Antithrombin III|Antithrombins|Sodium Chloride
+NCT02038036,C540383,ruxolitinib
+NCT02038920,C543529,vedolizumab
+NCT02039505,C543529,vedolizumab
+NCT02039674,C582435|D017239|D000068196|D016190|D000068258|D000068437|D000074324|D000069347|D000077156,pembrolizumab|Paclitaxel|Albumin-Bound Paclitaxel|Carboplatin|Bevacizumab|Pemetrexed|Ipilimumab|Erlotinib Hydrochloride|Gefitinib
+NCT02042183,D000068238,Lubiprostone
+NCT02042534,D000069552|D014859,Rivaroxaban|Warfarin
+NCT02044874,C506658,lorcaserin
+NCT02045277,D000091364,Transcriptional Coactivator with PDZ-Binding Motif Proteins
+NCT02046980,D014732|C005703,Vibration|salicylhydroxamic acid
+NCT02047110,C000601773,risankizumab
+NCT02050308,D000074164|D057968|D016642|D000068580|D004358,Nicotine Chewing Gum|Transdermal Patch|Bupropion|Varenicline|Drug Therapy
+NCT02051309,D016316,Guanfacine
+NCT02051608,C571128,gantenerumab
+NCT02052310,C584543|D000068817,roxadustat|Epoetin Alfa
+NCT02054481,C000601773|D000069549,risankizumab|Ustekinumab
+NCT02058589,,
+NCT02058706,C540278|C053541|D009919|D016729|D017273,enzalutamide|bicalutamide|Orchiectomy|Leuprolide|Goserelin
+NCT02059213,C500026|C053541|D017273|D016729,palbociclib|bicalutamide|Goserelin|Leuprolide
+NCT02059291,C541220,canakinumab
+NCT02059499,D000077271|D005472,Imiquimod|Fluorouracil
+NCT02062385,D022243,Rotavirus Vaccines
+NCT02062502,D022542,Measles-Mumps-Rubella Vaccine
+NCT02065557,D000068879,Adalimumab
+NCT02065570,D000068879,Adalimumab
+NCT02065791,D000068896,Canagliflozin
+NCT02066389,C000613732,upadacitinib
+NCT02070757,C000594038|D000077731,"ceftolozane, tazobactam drug combination|Meropenem"
+NCT02070965,,
+NCT02072434,C552171|D014859|D017984,edoxaban|Warfarin|Enoxaparin
+NCT02073682,C552171|D017985|D006495,"edoxaban|Dalteparin|Heparin, Low-Molecular-Weight"
+NCT02074982,C555450|D000069549,secukinumab|Ustekinumab
+NCT02075541,,
+NCT02076399,C523665,fostamatinib
+NCT02076412,C523665,fostamatinib
+NCT02082769,D000069465|D000493,Febuxostat|Allopurinol
+NCT02083185,C561634|D016729,relugolix|Leuprolide
+NCT02085252,D016729|C053541,Leuprolide|bicalutamide
+NCT02085460,,
+NCT02086500,D014148,Tranexamic Acid
+NCT02089113,D003907,Dexamethasone
+NCT02090764,C000592413,ozenoxacin
+NCT02092350,C578009|C000589335,grazoprevir|elbasvir
+NCT02094716,,
+NCT02096861,C000591237|D000069285,CT-P13|Infliximab
+NCT02097641,C048013,Plasmalyte A
+NCT02097849,D000069462|D022422|C414006|D022401,Dimethyl Fumarate|Diphtheria-Tetanus Vaccine|23-valent pneumococcal capsular polysaccharide vaccine|Meningococcal Vaccines
+NCT02100631,,
+NCT02100696,C559198,etrolizumab
+NCT02101385,D019370|D059039,Observation|Standard of Care
+NCT02103270,,
+NCT02103439,C417083,peginterferon alfa-2b
+NCT02104817,,
+NCT02104895,,
+NCT02108262,C584257,CSL112
+NCT02109484,,
+NCT02109640,C557247|D010098,oxycodone naloxone combination|Oxycodone
+NCT02110264,C000624616|D062526,vivitrol|Patient Navigation
+NCT02110706,D000069283,Rituximab
+NCT02111564,D000069552,Rivaroxaban
+NCT02115750,D000068800,Etanercept
+NCT02118337,C000613593|D000077594,durvalumab|Nivolumab
+NCT02118766,,
+NCT02118792,,
+NCT02120352,D023241,"Antiretroviral Therapy, Highly Active"
+NCT02120898,D000077271,Imiquimod
+NCT02122471,C584575,plecanatide
+NCT02123134,D003840,Deoxycholic Acid
+NCT02126670,,
+NCT02126969,D004358|D000077143,Drug Therapy|Docetaxel
+NCT02127970,C469289,dalbavancin
+NCT02128490,D000069465|D003078|D009288|D064747,Febuxostat|Colchicine|Naproxen|Lansoprazole
+NCT02129075,C019531|C084881,poly ICLC|flt3 ligand protein
+NCT02129660,,
+NCT02129777,C000624713,namilumab
+NCT02130063,C557707|D000077605,"iron isomaltoside 1000|Ferric Oxide, Saccharated"
+NCT02130557,C471992|D000068877,bosutinib|Imatinib Mesylate
+NCT02131324,D002990,Clobetasol
+NCT02131662,C586669,vilaprisan
+NCT02132936,D005782,Gels
+NCT02134210,D000068800,Etanercept
+NCT02135848,C000599718,GSK1278863
+NCT02137226,C000632724,BI 695501
+NCT02137772,C000588473,letermovir
+NCT02137785,D000622|D012996,Aminolevulinic Acid|Solutions
+NCT02138253,C487112,"3-(2-(2-tert-butylphenylaminooxalyl)aminopropionylamino)-4-oxo-5-(2,3,5,6-tetrafluorophenoxy)pentanoic acid"
+NCT02139046,D000069465|D003078|D009288|D064747,Febuxostat|Colchicine|Naproxen|Lansoprazole
+NCT02139943,D000068896,Canagliflozin
+NCT02140047,C055753,Haemophilus influenza type b polysaccharide vaccine-tetanus toxin conjugate
+NCT02141997,D000068879|C000625317,Adalimumab|ABT-122
+NCT02142504,D012965,Sodium Chloride
+NCT02143713,C539351,elagolix
+NCT02148445,D000095488|D061485|D000074164,Nicotine Replacement Therapy|Tobacco Use Cessation Devices|Nicotine Chewing Gum
+NCT02149524,D000068878,Trastuzumab
+NCT02151682,D000077432,Tapentadol
+NCT02151851,D000068582|D008727,Certolizumab Pegol|Methotrexate
+NCT02153112,,
+NCT02153476,C000712274|C072670,risuteganib|Hanks Balanced Salt Solution
+NCT02153528,,
+NCT02155101,D000069454|D061466|D019438|C000718687,"Darunavir|Lopinavir|Ritonavir|atazanavir, ritonavir drug combination"
+NCT02159053,C555450,secukinumab
+NCT02164864,D000069604|D014859|D001241|D000077144|D000077486,Dabigatran|Warfarin|Aspirin|Clopidogrel|Ticagrelor
+NCT02165215,C559198,etrolizumab
+NCT02165397,C551803|D000069283,ibrutinib|Rituximab
+NCT02165826,C424423,Roflumilast
+NCT02166476,C000654127|D000077731|D065093|C000626994|D000077725|D010878|D000078142|D064704|D012965,"meropenem and vaborbactam|Meropenem|beta-Lactamase Inhibitors|vaborbactam|Piperacillin, Tazobactam Drug Combination|Piperacillin|Tazobactam|Levofloxacin|Sodium Chloride"
+NCT02167139,D000068879,Adalimumab
+NCT02170077,C416835,eslicarbazepine acetate
+NCT02174419,C494814|D000073893,"BID protein, human|Sugars"
+NCT02175004,C000629536,Inotersen
+NCT02175212,D020360|D000277,"Neoadjuvant Therapy|Adjuvants, Pharmaceutic"
+NCT02175225,D003676,Deferoxamine
+NCT02177032,D011819,Rabies Vaccines
+NCT02178358,C557799|D000077157,LY-2157299|Sorafenib
+NCT02178800,C584914,cabotegravir
+NCT02180165,C101425|D065819,posaconazole|Voriconazole
+NCT02186847,D011878|D020266|D050397|D016190|D008687|D017239,"Radiotherapy|Radiotherapy, Conformal|Radiotherapy, Intensity-Modulated|Carboplatin|Metformin|Paclitaxel"
+NCT02187861,C579720|D000069461|D000069283,venetoclax|Bendamustine Hydrochloride|Rituximab
+NCT02192970,D000068258,Bevacizumab
+NCT02195687,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT02195986,D004958,Estradiol
+NCT02201940,C000611331,sofosbuvir-velpatasvir drug combination
+NCT02203591,C010882|D019840|D000431|D002864|D000077330|D012965,chlorhexidine gluconate|2-Propanol|Ethanol|Chromogranins|Saline Solution|Sodium Chloride
+NCT02203695,C540278,enzalutamide
+NCT02208297,C494814|D000069559,"BID protein, human|Loteprednol Etabonate"
+NCT02209519,D008795,Metronidazole
+NCT02209948,D000077204,Temozolomide
+NCT02210000,C541863,N-(3-fluorophenyl)-1-((4-(((3S)-3-methyl-1-piperazinyl)methyl)phenyl)acetyl)-4-piperidinamine
+NCT02210689,,
+NCT02210780,C582203,dupilumab
+NCT02211417,D015126|D005780|D008899,"8,11,14-Eicosatrienoic Acid|Gelatin|Mineral Oil"
+NCT02215954,,
+NCT02216071,D002939|D003907,Ciprofloxacin|Dexamethasone
+NCT02217501,D000077144|D001241,Clopidogrel|Aspirin
+NCT02218372,D000077732|D014640,Fidaxomicin|Vancomycin
+NCT02219932,D015761,4-Aminopyridine
+NCT02221219,D007213,Indomethacin
+NCT02223182,,
+NCT02230761,,
+NCT02231086,D000077150|C410216|D010535,Oxaliplatin|Folfox protocol|Laparoscopy
+NCT02235987,D015282|C420459,Octreotide|PTR 3173
+NCT02237950,D008795|C480351,Metronidazole|astodrimer
+NCT02239120,D000069604,Dabigatran
+NCT02246127,D000068338,Everolimus
+NCT02252016,C000611265,elbasvir-grazoprevir drug combination
+NCT02256696,C410767|D012293|D017828|D011718|D004977|D007538,pretomanid|Rifampin|Rifabutin|Pyrazinamide|Ethambutol|Isoniazid
+NCT02260791,C000711167|D000068879,FKB327|Adalimumab
+NCT02260804,C000626854|D000069283,CT-P10|Rituximab
+NCT02260986,C582203|D000305,dupilumab|Adrenal Cortex Hormones
+NCT02261467,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT02261493,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT02263040,C000618615|D007252,Fluzone High-Dose|Influenza Vaccines
+NCT02263079,C413685|D019259|C100416,entecavir|Lamivudine|peginterferon alfa-2a
+NCT02263326,C562325|D019259,dolutegravir|Lamivudine
+NCT02265705,C000596027,baricitinib
+NCT02265744,C000604694,lulizumab pegol
+NCT02266810,,
+NCT02267135,C555450,secukinumab
+NCT02267356,C000599187,VT-1161
+NCT02267382,C000599187,VT-1161
+NCT02268526,,
+NCT02268994,C025314,ferric citrate
+NCT02269319,D000069349,Linezolid
+NCT02269475,,
+NCT02271230,D014807|D005395|D012847,Vitamin D|Fish Oils|Single Person
+NCT02272413,D000068258,Bevacizumab
+NCT02273973,D000077289|C582924,"Letrozole|2-(3-(2-(1-isopropyl-3-methyl-1H-1,2-4-triazol-5-yl)-5,6-dihydrobenzo(f)imidazo(1,2-d)(1,4)oxazepin-9-yl)-1H-pyrazol-1-yl)-2-methylpropanamide"
+NCT02275117,C000628361,eptinezumab
+NCT02275780,C000592662|D000069454|D019438|D000069480,"doravirine|Darunavir|Ritonavir|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT02276222,D009330|D006024|D000069447,Nebulizers and Vaporizers|Glycopyrrolate|Tiotropium Bromide
+NCT02276482,C515040|D014640|D002437|D002506|D001398|D008795,tedizolid phosphate|Vancomycin|Cefazolin|Cephalexin|Aztreonam|Metronidazole
+NCT02277743,C582203,dupilumab
+NCT02277769,C582203,dupilumab
+NCT02278796,,
+NCT02279108,D007208|D007554|D013667,Indocyanine Green|Isotopes|Technetium
+NCT02282605,C010882|D013784,chlorhexidine gluconate|Textiles
+NCT02283294,C522181|D014859,apixaban|Warfarin
+NCT02285777,,
+NCT02285998,,
+NCT02287818,C025292|D000069465,diacerein|Febuxostat
+NCT02287922,C000606096|C502936,ALX-0061|tocilizumab
+NCT02289352,D000068438,Brimonidine Tartrate
+NCT02290873,C522201|D008874,remimazolam|Midazolam
+NCT02292784,C522194|C047046,GSK221149A|atosiban
+NCT02293863,C000631565|D053139,gedivumab|Oseltamivir
+NCT02293902,C000592401|D008727|D005492,sarilumab|Methotrexate|Folic Acid
+NCT02294227,C555450,secukinumab
+NCT02296190,C000656646,etripamil
+NCT02296892,C522201|D008874,remimazolam|Midazolam
+NCT02297698,C561872|D000068878|D016178|C081222,HER2 peptide (369-377)|Trastuzumab|Granulocyte-Macrophage Colony-Stimulating Factor|sargramostim
+NCT02301156,C000619007|C551803,ublituximab|ibrutinib
+NCT02301910,D000077785,Tenecteplase
+NCT02301988,C583616|D017239,ipatasertib|Paclitaxel
+NCT02303548,D017693|D000077330|D012965,Sodium Bicarbonate|Saline Solution|Sodium Chloride
+NCT02305849,C000608065|D008727,peficitinib|Methotrexate
+NCT02308163,C000608065|D000068800,peficitinib|Etanercept
+NCT02309359,C000606096|D008727,ALX-0061|Methotrexate
+NCT02315703,,
+NCT02318134,D000069467|D000077330,Fecal Microbiota Transplantation|Saline Solution
+NCT02319642,D000068582,Certolizumab Pegol
+NCT02321462,,
+NCT02321800,D000097602|D000077728,"Cefiderocol|Cilastatin, Imipenem Drug Combination"
+NCT02325791,,
+NCT02326272,D000068582,Certolizumab Pegol
+NCT02326298,D000068582,Certolizumab Pegol
+NCT02329743,C000603302,"isopropyl 5,12-hydroxypentadeca-8,10-dien-6,14-diynoate"
+NCT02334423,D019274|C586826|D007267,"Botulinum Toxins, Type A|DWP450|Injections"
+NCT02334436,D019274|C586826|D007267,"Botulinum Toxins, Type A|DWP450|Injections"
+NCT02336451,C586847,ceritinib
+NCT02337062,,
+NCT02337751,,
+NCT02337946,D000077150|D005472|D000077544,Oxaliplatin|Fluorouracil|Panitumumab
+NCT02338843,D000803|D000804,Angiotensin I|Angiotensin II
+NCT02342171,,
+NCT02344407,,
+NCT02344628,D017963,Azithromycin
+NCT02348489,C580831,guadecitabine
+NCT02349061,D000069549,Ustekinumab
+NCT02349451,D000068879|C000625317,Adalimumab|ABT-122
+NCT02349477,D000077206|D000073893,Gabapentin|Sugars
+NCT02352337,C000627770|D000093542,folfirinox|Gemcitabine
+NCT02353871,D019274,"Botulinum Toxins, Type A"
+NCT02355665,D061485,Tobacco Use Cessation Devices
+NCT02358044,D000069474|C417083|D012254|C578009|C000589335,Sofosbuvir|peginterferon alfa-2b|Ribavirin|grazoprevir|elbasvir
+NCT02360475,C505143,Boostrix
+NCT02361216,C486592,3-ingenyl angelate
+NCT02364999,D017239|D016190,Paclitaxel|Carboplatin
+NCT02365649,C000613732,upadacitinib
+NCT02367820,,
+NCT02367911,,
+NCT02368210,,
+NCT02368314,D017984,Enoxaparin
+NCT02369653,C522181,apixaban
+NCT02369835,D012973,Sodium Hypochlorite
+NCT02375971,D000069579|D053685,Ranibizumab|Laser Therapy
+NCT02376790,D000068800|D008727,Etanercept|Methotrexate
+NCT02382276,C038981,nalmefene
+NCT02385097,D000077212,Ropivacaine
+NCT02385240,,
+NCT02385318,C486592,3-ingenyl angelate
+NCT02386839,D007334,Insulin-Like Growth Factor I
+NCT02389621,C000611387,lusutrombopag
+NCT02393417,,
+NCT02393690,C000614965|C517975,Iodine-131|AZD 6244
+NCT02398188,D000068299,Salmeterol Xinafoate
+NCT02398656,D000077785|C104096|D000077144,Tenecteplase|TNK-tissue plasminogen activator|Clopidogrel
+NCT02404350,C555450,secukinumab
+NCT02404389,D035703,"Therapies, Investigational"
+NCT02409290,D000077266|D002991|D004977|D011718|D007538|D011515|D007612|D064704|C493870,Moxifloxacin|Clofazimine|Ethambutol|Pyrazinamide|Isoniazid|Prothionamide|Kanamycin|Levofloxacin|bedaquiline
+NCT02409459,C522335|D000077330,ferric carboxymaltose|Saline Solution
+NCT02413346,C000629276,sarecycline
+NCT02413372,C000630067,Pegbelfermin
+NCT02414854,C582203|D013812|D000420|D064412,dupilumab|Therapeutics|Albuterol|Levalbuterol
+NCT02420821,C000594389|D000068258|D000077210,atezolizumab|Bevacizumab|Sunitinib
+NCT02421172,,
+NCT02421679,,
+NCT02422797,C562325|D001336,dolutegravir|Automobiles
+NCT02423577,,
+NCT02427802,,
+NCT02429791,C562325|D001336,dolutegravir|Automobiles
+NCT02432105,D008876,Middle Ear Ventilation
+NCT02432807,,
+NCT02435992,C000607776,ozanimod
+NCT02436096,,
+NCT02436239,D000069503,Vilazodone Hydrochloride
+NCT02436304,D008876,Middle Ear Ventilation
+NCT02437487,,
+NCT02437890,C000606096,ALX-0061
+NCT02438722,D000077716|D000068818,Afatinib|Cetuximab
+NCT02439450,D000077594|C582435|D000068437,Nivolumab|pembrolizumab|Pemetrexed
+NCT02440022,,
+NCT02441218,D000077550,Ivabradine
+NCT02445807,,
+NCT02445859,,
+NCT02446899,C582345,anifrolumab
+NCT02446912,C582345,anifrolumab
+NCT02446990,D000077550,Ivabradine
+NCT02447172,,
+NCT02449291,,
+NCT02450526,D019274|C542869,"Botulinum Toxins, Type A|abobotulinumtoxinA"
+NCT02453334,C522335|D000077330,ferric carboxymaltose|Saline Solution
+NCT02459795,C486592,3-ingenyl angelate
+NCT02460198,C582435,pembrolizumab
+NCT02462070,,
+NCT02462122,,
+NCT02462187,C000709171|D005782,berdazimer sodium|Gels
+NCT02462889,C533178|C005703,aflibercept|salicylhydroxamic acid
+NCT02465450,C471849,lenabasum
+NCT02471144,C555450|D000068800,secukinumab|Etanercept
+NCT02474069,C555450,secukinumab
+NCT02474082,C555450|C032005|D005650,secukinumab|fumaric acid|Fumarates
+NCT02477332,C000598891|D000069444,ligelizumab|Omalizumab
+NCT02479139,,
+NCT02479763,,
+NCT02481414,,
+NCT02481947,D000068238,Lubiprostone
+NCT02485301,C023768,halofantrine
+NCT02485704,C415329|D013535,spinosad|Suspensions
+NCT02485717,C415329|D013535,spinosad|Suspensions
+NCT02486653,D000077409,Tamsulosin
+NCT02487563,D000077209|D013926,Decitabine|Thrombopoietin
+NCT02489227,D000068879,Adalimumab
+NCT02490631,,
+NCT02491684,,
+NCT02491983,C500026|D000077267|D000077289,palbociclib|Fulvestrant|Letrozole
+NCT02492958,,
+NCT02493764,D015378|C568736|D015377|D010878|D000078142|D000069349,Imipenem|relebactam|Cilastatin|Piperacillin|Tazobactam|Linezolid
+NCT02493946,D019274,"Botulinum Toxins, Type A"
+NCT02495844,,
+NCT02498418,D000078262,Rifaximin
+NCT02499783,D000068879,Adalimumab
+NCT02500836,D003042|D012996,Cocaine|Solutions
+NCT02504216,D000069552,Rivaroxaban
+NCT02504268,D000069594|D008727,Abatacept|Methotrexate
+NCT02504671,C000599766|D005492,Otilimab|Folic Acid
+NCT02505542,D000068582,Certolizumab Pegol
+NCT02507284,C584649,SRX246
+NCT02509494,C525703,MenACWY
+NCT02510261,C000606954,patisiran
+NCT02514577,,
+NCT02515097,,
+NCT02522767,D019804,Mesalamine
+NCT02522780,D019804,Mesalamine
+NCT02525094,C000622721,tezepelumab
+NCT02525523,C089753,alicaforsen
+NCT02530281,,
+NCT02530294,,
+NCT02531035,C575681,"(2S,3R,4R,5S,6R)-2-(4-chloro-3-(4-ethoxybenzyl)phenyl)-6-(methylthio)tetrahydro-2H-pyran-3,4,5-triol"
+NCT02532647,C522201|D008874,remimazolam|Midazolam
+NCT02537574,,
+NCT02542280,D007315|D010062,"Insemination, Artificial|Ovulation Induction"
+NCT02547233,,
+NCT02547363,,
+NCT02547649,C538862,13-valent pneumococcal vaccine
+NCT02549170,,
+NCT02549339,,
+NCT02549352,,
+NCT02550652,D009173|C543332|D008775|D011241,Mycophenolic Acid|obinutuzumab|Methylprednisolone|Prednisone
+NCT02551757,,
+NCT02552212,D000068582,Certolizumab Pegol
+NCT02555878,D000069552,Rivaroxaban
+NCT02556788,C000629420,trifarotene
+NCT02557035,D000077924|D003907,Palonosetron|Dexamethasone
+NCT02561000,C000607142,PZ-128 peptide
+NCT02561195,,
+NCT02562482,,
+NCT02563106,C000613271,SYN-004
+NCT02564042,C571829,tapinarof
+NCT02564055,C571829,tapinarof
+NCT02564523,,
+NCT02566265,D007252|D014612,Influenza Vaccines|Vaccines
+NCT02566369,C000629420,trifarotene
+NCT02569853,,
+NCT02573181,C538862,13-valent pneumococcal vaccine
+NCT02574598,C582435|D000077143,pembrolizumab|Docetaxel
+NCT02576938,C000596027|D014221,baricitinib|Triamcinolone
+NCT02581215,D000096662,Ramucirumab
+NCT02586025,D013514|D000077143|C485206|D000068878,"Surgical Procedures, Operative|Docetaxel|pertuzumab|Trastuzumab"
+NCT02589067,C010882|D002710,chlorhexidine gluconate|Chlorhexidine
+NCT02589275,C004704,cyclobenzaprine
+NCT02589665,C000708407,mirikizumab
+NCT02592434,C479163|D012436|D012996,tofacitinib|S-Adenosylmethionine|Solutions
+NCT02593396,D016642,Bupropion
+NCT02594124,C000590926,nusinersen
+NCT02595073,D015444,Exercise
+NCT02595398,D014222,Triamcinolone Acetonide
+NCT02598388,,
+NCT02600611,C486448|D014640,iclaprim|Vancomycin
+NCT02603952,D053139|C000627863,Oseltamivir|MEDI8852
+NCT02604433,C000621232,luspatercept
+NCT02605954,D000069545|C492871,"Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|abacavir, lamivudine drug combination"
+NCT02607618,C486448|D014640,iclaprim|Vancomycin
+NCT02607800,C000654129|C000611331,sofosbuvir velpatasvir voxilaprevir drug combination|sofosbuvir-velpatasvir drug combination
+NCT02608450,C496269,Clascoterone
+NCT02608476,C496269,Clascoterone
+NCT02609386,C114857|D007167|D003520|D007213|D000894|D015032|C067316|D009853|D054328,"IRX 2|Immunotherapy|Cyclophosphamide|Indomethacin|Anti-Inflammatory Agents, Non-Steroidal|Zinc|Geritol|Omeprazole|Proton Pump Inhibitors"
+NCT02611817,,
+NCT02613169,D007538,Isoniazid
+NCT02616601,D005472,Fluorouracil
+NCT02619994,D000069349|C516022|D064704|D011718,Linezolid|OPC-67683|Levofloxacin|Pyrazinamide
+NCT02620579,,
+NCT02621892,C000599417,tenapanor
+NCT02623322,C000631565,gedivumab
+NCT02623998,D000069036|D000068900|D008687|D000068899|D004032|D015444,"Insulin Glargine|Sitagliptin Phosphate|Metformin|Sitagliptin Phosphate, Metformin Hydrochloride Drug Combination|Diet|Exercise"
+NCT02624843,D000431|D001592,Ethanol|Benzyl Alcohols
+NCT02625974,D009547,Nifurtimox
+NCT02626156,,
+NCT02631070,C000621232,luspatercept
+NCT02633397,C542595,riociguat
+NCT02634801,D005650|D008727|C549079,Fumarates|Methotrexate|ixekizumab
+NCT02635009,D020266|D050397,"Radiotherapy, Conformal|Radiotherapy, Intensity-Modulated"
+NCT02635204,,
+NCT02635776,D002214,Capsules
+NCT02636699,,
+NCT02638051,,
+NCT02638948,D008727,Methotrexate
+NCT02640157,C000612853|C000622691|C000654128|D000069474|C549273,glecaprevir|pibrentasvir|glecaprevir and pibrentasvir|Sofosbuvir|daclatasvir
+NCT02641561,D007213|D000077325|D000077330,Indomethacin|Ringer's Lactate|Saline Solution
+NCT02644941,D012926,"Social Control, Formal"
+NCT02646566,,
+NCT02646982,C081643|C077793,candesartan|candesartan cilexetil
+NCT02649192,D007252|C007792|D019587|D008508,Influenza Vaccines|Fumigant 93|Dietary Supplements|Medication Errors
+NCT02649231,D007649|D000431,Ketamine|Ethanol
+NCT02651428,C012566|D019343|D006493,taurolidine|Citric Acid|Heparin
+NCT02652624,D000069545|D000069446|D019438|D000069480|C000654125,"Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|Atazanavir Sulfate|Ritonavir|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|bictegravir, emtricitabine, tenofovir alafenamide, drug combination"
+NCT02654054,C539351|D004958|D000077563|C418365,"elagolix|Estradiol|Norethindrone Acetate|estradiol, norethindrone drug combination"
+NCT02654717,,
+NCT02654769,C486592,3-ingenyl angelate
+NCT02655679,,
+NCT02660580,D000068879,Adalimumab
+NCT02661490,D012965,Sodium Chloride
+NCT02663453,C545823,"soybean oil, phospholipid emulsion"
+NCT02664220,,
+NCT02666664,C581236,"8-hydroxy-2,2,14,14-tetramethylpentadecanedioic acid"
+NCT02667275,,
+NCT02669121,,
+NCT02672852,C000601773,risankizumab
+NCT02674386,D007291,Inosine Monophosphate
+NCT02675426,C000613732,upadacitinib
+NCT02677298,D019274|D012965,"Botulinum Toxins, Type A|Sodium Chloride"
+NCT02677805,D019274|D012965,"Botulinum Toxins, Type A|Sodium Chloride"
+NCT02679573,C477891|D000077266|D000069349,delafloxacin|Moxifloxacin|Linezolid
+NCT02682264,C496269,Clascoterone
+NCT02683239,C000626997,fasinumab
+NCT02684058,C561627|C560077|D016190|D014750,dabrafenib|trametinib|Carboplatin|Vincristine
+NCT02684357,C000601773|D000069549,risankizumab|Ustekinumab
+NCT02684370,C000601773|D000069549,risankizumab|Ustekinumab
+NCT02685709,D015282,Octreotide
+NCT02686138,C000599417,tenapanor
+NCT02688556,D016572,Cyclosporine
+NCT02688647,C000718240|C000619755,belumosudil|KD025
+NCT02691494,C539351|D004958|D000077563|C418365,"elagolix|Estradiol|Norethindrone Acetate|estradiol, norethindrone drug combination"
+NCT02692716,C000591245,semaglutide
+NCT02692859,,
+NCT02694523,C000601773|D000068879,risankizumab|Adalimumab
+NCT02695771,D016685|D000093542,Mitomycin|Gemcitabine
+NCT02696031,C555450,secukinumab
+NCT02696434,D009271|D002047,Naltrexone|Buprenorphine
+NCT02696785,C549079|D000068879,ixekizumab|Adalimumab
+NCT02696798,C549079,ixekizumab
+NCT02696902,C000622725,gremubamab
+NCT02697734,C553306,Osilodrostat
+NCT02698215,D000068580|D009271,Varenicline|Naltrexone
+NCT02701985,C000709727,petesicatib
+NCT02703779,D000069286|D016179|D000069585|C088327,Bortezomib|Granulocyte Colony-Stimulating Factor|Filgrastim|plerixafor
+NCT02706847,C000613732,upadacitinib
+NCT02707640,D000111|C093844,Acetylcysteine|pirfenidone
+NCT02707952,C000654128|C000612853|C000622691|C586094|C585405|D019438,glecaprevir and pibrentasvir|glecaprevir|pibrentasvir|ombitasvir|paritaprevir|Ritonavir
+NCT02708095,C000596027,baricitinib
+NCT02709005,,
+NCT02709538,,
+NCT02713867,D000077594,Nivolumab
+NCT02717273,D000900|D016031,Anti-Bacterial Agents|Liver Transplantation
+NCT02717494,C586648,10-valent pneumococcal conjugate vaccine
+NCT02718326,C533178|D007267|C005703,aflibercept|Injections|salicylhydroxamic acid
+NCT02719171,C000601773,risankizumab
+NCT02720523,C000613732,upadacitinib
+NCT02720692,,
+NCT02721966,C555450,secukinumab
+NCT02722278,C010792,testosterone undecanoate
+NCT02723084,C000654128|C000612853|C000622691|D000069474|D012254,glecaprevir and pibrentasvir|glecaprevir|pibrentasvir|Sofosbuvir|Ribavirin
+NCT02723773,,
+NCT02724644,D003012,Microbial Collagenase
+NCT02725515,,
+NCT02728102,D008558|D007937|D016178|D003115|C081222|D000077269,Melphalan|Leukapheresis|Granulocyte-Macrophage Colony-Stimulating Factor|Colony-Stimulating Factors|sargramostim|Lenalidomide
+NCT02728752,,
+NCT02730169,,
+NCT02730455,D000069442,Natalizumab
+NCT02736175,D003907,Dexamethasone
+NCT02736409,,
+NCT02736968,D001310,Auranofin
+NCT02741128,,
+NCT02741271,C494814|D000420|D011241|D011239,"BID protein, human|Albuterol|Prednisone|Prednisolone"
+NCT02742103,,
+NCT02742441,,
+NCT02745080,C555450|D000068879,secukinumab|Adalimumab
+NCT02745392,,
+NCT02746991,C005703|D005446,salicylhydroxamic acid|Fluocinolone Acetonide
+NCT02747043,D000069283,Rituximab
+NCT02748863,C555450|D008660,secukinumab|Metabolism
+NCT02753413,C505143,Boostrix
+NCT02753946,D000077725,"Piperacillin, Tazobactam Drug Combination"
+NCT02754882,D000068258|D016190|D017239,Bevacizumab|Carboplatin|Paclitaxel
+NCT02755116,D000077152,Olanzapine
+NCT02755649,C582203,dupilumab
+NCT02757352,C549079,ixekizumab
+NCT02759354,D001800|C000617220,Blood Specimen Collection|Vaxelis
+NCT02760368,C000592400,olokizumab
+NCT02760407,C000592400|D000068879,olokizumab|Adalimumab
+NCT02760433,C000592400,olokizumab
+NCT02762500,,
+NCT02762994,,
+NCT02766023,D008795,Metronidazole
+NCT02766465,D002066|C024352|C042382|C512542|D016026|D006400|D016559|D008727|D059039|D000074323|D014916|D020123|D008558|D016179,Busulfan|fludarabine|fludarabine phosphate|thymoglobulin|Bone Marrow Transplantation|Hematocrit|Tacrolimus|Methotrexate|Standard of Care|Alemtuzumab|Whole-Body Irradiation|Sirolimus|Melphalan|Granulocyte Colony-Stimulating Factor
+NCT02770170,,
+NCT02770365,,
+NCT02770716,D000077585,Terlipressin
+NCT02771210,C555450,secukinumab
+NCT02772965,D008727|D000073893,Methotrexate|Sugars
+NCT02775903,D001374|C000613593,Azacitidine|durvalumab
+NCT02778399,C000716911,linzagolix
+NCT02783690,D000069473,Radiation Dose Hypofractionation
+NCT02784106,C000632111,evobrutinib
+NCT02784444,,
+NCT02785159,C086827,tazarotene
+NCT02785172,C064466,halobetasol
+NCT02785185,C064466,halobetasol
+NCT02786901,,
+NCT02788045,,
+NCT02792842,C472045,ART123
+NCT02793375,C093875,montelukast
+NCT02794285,C582345,anifrolumab
+NCT02798120,C000709171,berdazimer sodium
+NCT02798471,C552171|D059039|D014859|D006493|D017984|D000077425,edoxaban|Standard of Care|Warfarin|Heparin|Enoxaparin|Fondaparinux
+NCT02798627,C577569,GSK372475
+NCT02801370,D002939,Ciprofloxacin
+NCT02801669,C552171,edoxaban
+NCT02804763,C000607972,dapirolizumab pegol
+NCT02805972,D009270|D012965,Naloxone|Sodium Chloride
+NCT02808871,C093844,pirfenidone
+NCT02809053,D000069283,Rituximab
+NCT02809131,D001414|D002506|D064704|D002981|D012965,Bacitracin|Cephalexin|Levofloxacin|Clindamycin|Sodium Chloride
+NCT02810457,D000068258|D017239|D016190,Bevacizumab|Paclitaxel|Carboplatin
+NCT02813551,D000077786,Torsemide
+NCT02814708,,
+NCT02815709,C586842|D009020,((3-methoxythiophen-2-yl)methyl)((2-(9-(pyridin-2-yl)-6-oxaspiro(4.5)decan-9-yl)ethyl))amine|Morphine
+NCT02819297,,
+NCT02819323,,
+NCT02819635,C000613732,upadacitinib
+NCT02820324,C586842|D009020,((3-methoxythiophen-2-yl)methyl)((2-(9-(pyridin-2-yl)-6-oxaspiro(4.5)decan-9-yl)ethyl))amine|Morphine
+NCT02823028,D000095488,Nicotine Replacement Therapy
+NCT02823574,D000077594|D000074324,Nivolumab|Ipilimumab
+NCT02827201,,
+NCT02833948,D001241|C010395|D000077144|D000069552,Aspirin|acetylsalicylic acid lysinate|Clopidogrel|Rivaroxaban
+NCT02836496,C434107|D011239|D011241,mepolizumab|Prednisolone|Prednisone
+NCT02836899,D009569,Nitric Oxide
+NCT02841748,C582435,pembrolizumab
+NCT02843165,D016634,Radiosurgery
+NCT02856594,D020927|D000077330,Dexmedetomidine|Saline Solution
+NCT02856802,D018170|D059085,Sumatriptan|Nasal Sprays
+NCT02856893,C000596361|D000077156,osimertinib|Gefitinib
+NCT02862106,,
+NCT02864498,,
+NCT02867813,C577155,evolocumab
+NCT02871479,,
+NCT02872857,,
+NCT02873221,C000615620,ubrogepant
+NCT02873338,C520325|D015255|D003561,"N-desulfated,2-O,3-O-desulfated heparin|Idarubicin|Cytarabine"
+NCT02878330,,
+NCT02878603,C585343|D059039,caplacizumab|Standard of Care
+NCT02879747,D019382,Human Growth Hormone
+NCT02886702,C086827,tazarotene
+NCT02891226,C000708407,mirikizumab
+NCT02894840,,
+NCT02896400,D000095488,Nicotine Replacement Therapy
+NCT02898662,C000634150,AZD1419
+NCT02899988,C000708407,mirikizumab
+NCT02905006,C000625981,bimekizumab
+NCT02908477,D000077143|D002945,Docetaxel|Cisplatin
+NCT02910531,D008063,Thioctic Acid
+NCT02910583,C551803|C579720,ibrutinib|venetoclax
+NCT02913261,C540383,ruxolitinib
+NCT02913326,D000069604|D014859,Dabigatran|Warfarin
+NCT02913612,,
+NCT02914522,C584571,GLPG0634
+NCT02914548,C000711049,difamilast
+NCT02914561,C584571,GLPG0634
+NCT02919475,,
+NCT02919917,D008879,Midodrine
+NCT02920528,D007649|D000077330,Ketamine|Saline Solution
+NCT02925494,C418365|C539351,"estradiol, norethindrone drug combination|elagolix"
+NCT02929329,C547293|D059039,omecamtiv mecarbil|Standard of Care
+NCT02929823,,
+NCT02930018,,
+NCT02931539,C400401|D015774|D000077562|D017245|D000077404,maribavir|Ganciclovir|Valganciclovir|Foscarnet|Cidofovir
+NCT02931838,C000628674,deucravacitinib
+NCT02932462,,
+NCT02933866,D015444,Exercise
+NCT02933879,D015444,Exercise
+NCT02935634,D000077594|D000074324|C000721227|C000630574|C531549,Nivolumab|Ipilimumab|relatlimab|linrodostat|rucaparib
+NCT02935686,D000277,"Adjuvants, Pharmaceutic"
+NCT02936635,C572767,CK-2017357
+NCT02937701,D000069285,Infliximab
+NCT02942576,C552171|D014859|D010644|C017673|D000074,edoxaban|Warfarin|Phenprocoumon|fluindione|Acenocoumarol
+NCT02943590,D000069059,Atorvastatin
+NCT02946463,C000629409|C481642,ravulizumab|eculizumab
+NCT02948959,C582203,dupilumab
+NCT02950155,D000069283|D012965,Rituximab|Sodium Chloride
+NCT02951429,C093844|D000068677,pirfenidone|Sildenafil Citrate
+NCT02951533,C000588857|D005650,guselkumab|Fumarates
+NCT02952898,,
+NCT02954172,D000068258|D017239|D016190,Bevacizumab|Paclitaxel|Carboplatin
+NCT02955212,C000613732,upadacitinib
+NCT02956616,D020910|D020911|D002638|D014993,Ketorolac|Ketorolac Tromethamine|Chewing Gum|Xylitol
+NCT02956746,D011819,Rabies Vaccines
+NCT02956837,D022261,Respiratory Syncytial Virus Vaccines
+NCT02959944,C551803|D011241,ibrutinib|Prednisone
+NCT02960438,C000627635,quetmolimab
+NCT02960490,C000627635,quetmolimab
+NCT02962102,D002112|D002117,Calcifediol|Calcitriol
+NCT02963506,C000625981,bimekizumab
+NCT02969525,C000625981,bimekizumab
+NCT02975297,D000077270|D061485|D003376,Exenatide|Tobacco Use Cessation Devices|Counseling
+NCT02976129,,
+NCT02978508,D026023,Permethrin
+NCT02980042,C533411|D000069283,ocrelizumab|Rituximab
+NCT02980692,,
+NCT02987972,C538862,13-valent pneumococcal vaccine
+NCT02989493,D017292,Doxazosin
+NCT02993406,C581236|D013607,"8-hydroxy-2,2,14,14-tetramethylpentadecanedioic acid|Tablets"
+NCT02995694,D004958|D014622,"Estradiol|Vaginal Creams, Foams, and Jellies"
+NCT03000075,C000601773,risankizumab
+NCT03000608,D015444,Exercise
+NCT03002571,,
+NCT03004924,,
+NCT03006276,D000068579,Celecoxib
+NCT03008460,C112283,klean prep
+NCT03009019,D000068579,Celecoxib
+NCT03014622,D019274,"Botulinum Toxins, Type A"
+NCT03014635,D019274,"Botulinum Toxins, Type A"
+NCT03017235,C005701|D008277|D019343,picosulfate sodium|Magnesium Oxide|Citric Acid
+NCT03018691,C000711049,difamilast
+NCT03031912,D046129|D012965,Ebola Vaccines|Sodium Chloride
+NCT03032380,D000097602|D000077731|D000069349,Cefiderocol|Meropenem|Linezolid
+NCT03036124,C529054,dapagliflozin
+NCT03036813,C000628792,voxelotor
+NCT03037203,C000623308,solriamfetol
+NCT03037541,C011189,"cetyl alcohol, propylene glycol, sodium lauryl sulfate non-lipid cleansing lotion"
+NCT03038867,D000068736,Duloxetine Hydrochloride
+NCT03045406,C522181|D017985,apixaban|Dalteparin
+NCT03046056,C584571,GLPG0634
+NCT03048422,C562325|C000613801|D000069480|D000068257,"dolutegravir|emtricitabine tenofovir alafenamide|Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination|Efavirenz, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+NCT03049735,C561634|C418365|D004958,"relugolix|estradiol, norethindrone drug combination|Estradiol"
+NCT03051217,D000068582,Certolizumab Pegol
+NCT03052322,D000068879,Adalimumab
+NCT03053440,C000629551|C551803,zanubrutinib|ibrutinib
+NCT03054428,C582203,dupilumab
+NCT03055377,D000111,Acetylcysteine
+NCT03057431,D006852,Hydrochlorothiazide
+NCT03058666,C117342,calfactant
+NCT03058692,,
+NCT03058783,,
+NCT03064126,D017130|D017239,Angioplasty|Paclitaxel
+NCT03065075,D010621,Phenazopyridine
+NCT03066609,C555450,secukinumab
+NCT03068780,C000631524,episalvan
+NCT03069924,,
+NCT03071263,C568789|D013535|D013148,patiromer|Suspensions|Spironolactone
+NCT03078855,D014807|D002762|D000069283,Vitamin D|Cholecalciferol|Rituximab
+NCT03083665,C482793,brivaracetam
+NCT03084237,D000068878|D000077143,Trastuzumab|Docetaxel
+NCT03085095,C561634|D016729,relugolix|Leuprolide
+NCT03090100,C000588857|C555450,guselkumab|secukinumab
+NCT03091777,,
+NCT03096834,,
+NCT03101371,D002404|D011206,Catheterization|Povidone-Iodine
+NCT03103087,C561634|C418365|D004958,"relugolix|estradiol, norethindrone drug combination|Estradiol"
+NCT03104374,C000613732,upadacitinib
+NCT03104413,C000601773,risankizumab
+NCT03105128,C000601773,risankizumab
+NCT03106779,C000621806|C471992,asciminib|bosutinib
+NCT03107611,C117268,pimecrolimus
+NCT03110133,,
+NCT03110770,,
+NCT03112603,C540383|D017893|D008727|D009173|D019908|D000068338|D020123|D000069285|D000069283|D015649|D000068877|C551803,ruxolitinib|Photopheresis|Methotrexate|Mycophenolic Acid|Proto-Oncogene Proteins c-raf|Everolimus|Sirolimus|Infliximab|Rituximab|Pentostatin|Imatinib Mesylate|ibrutinib
+NCT03116698,,
+NCT03120520,C584575,plecanatide
+NCT03125070,D017410|D059039,Practice Guidelines as Topic|Standard of Care
+NCT03129100,C549079,ixekizumab
+NCT03129321,,
+NCT03131648,C574065,tralokinumab
+NCT03136198,D014665|D063087,Vasodilator Agents|Noninvasive Ventilation
+NCT03136445,D014148,Tranexamic Acid
+NCT03137173,C505439|C443755,ceftobiprole medocaril|ceftobiprole
+NCT03137381,,
+NCT03138603,D008790|D000319|C005703,Metoprolol|Adrenergic beta-Antagonists|salicylhydroxamic acid
+NCT03139604,C000718170|C000603457|D011241|D008775|D008776,itacitinib|INCB039110|Prednisone|Methylprednisolone|Methylprednisolone Hemisuccinate
+NCT03150173,D002047,Buprenorphine
+NCT03150719,C000654124|C545203,"tezacaftor, ivacaftor drug combination|ivacaftor"
+NCT03158285,C000588857,guselkumab
+NCT03158532,D005996|D012965,Nitroglycerin|Sodium Chloride
+NCT03158727,,
+NCT03159611,C529609,tenoten
+NCT03160885,C574065,tralokinumab
+NCT03161483,C000624220,iberdomide
+NCT03162614,C000719547|C526041,"RTS malaria vaccine|RTS,S-AS01B vaccine"
+NCT03162796,C000588857,guselkumab
+NCT03167242,C000599914|D000077611,"ganaplacide|Artemether, Lumefantrine Drug Combination"
+NCT03168321,,
+NCT03168334,,
+NCT03170609,,
+NCT03172325,D000068879|D008727|D005492|D011239,Adalimumab|Methotrexate|Folic Acid|Prednisolone
+NCT03178487,C000613732,upadacitinib
+NCT03178669,C000711771,cobitolimod
+NCT03178942,D026023,Permethrin
+NCT03182686,D000077330,Saline Solution
+NCT03183128,,
+NCT03185013,C000604121|D018274,VGX-3100|Electroporation
+NCT03187223,D008558|D000069461,Melphalan|Bendamustine Hydrochloride
+NCT03193190,C520255|D000093542|D000077150|D002955|D005472|C000594389|C574276|C000632509|C477728|C518149|D000068258|C000730814|C502936,130-nm albumin-bound paclitaxel|Gemcitabine|Oxaliplatin|Leucovorin|Fluorouracil|atezolizumab|cobimetinib|PEGPH20|4-fluorobenzoyl-TN-14003|selicrelumab|Bevacizumab|Tiragolumab|tocilizumab
+NCT03196973,D000900|D000305,Anti-Bacterial Agents|Adrenal Cortex Hormones
+NCT03197935,C000594389|C520255|D004317|D003520|D000069585|C455861,atezolizumab|130-nm albumin-bound paclitaxel|Doxorubicin|Cyclophosphamide|Filgrastim|pegfilgrastim
+NCT03198507,D000658|D009853|D017828,Amoxicillin|Omeprazole|Rifabutin
+NCT03200912,C486592,3-ingenyl angelate
+NCT03201562,C084650,aceclidine
+NCT03205488,,
+NCT03207243,C000728059|D000068297|D000068298,melrilimab|Fluticasone-Salmeterol Drug Combination|Fluticasone
+NCT03208231,C578595|D023241,"VRC01 monoclonal antibody|Antiretroviral Therapy, Highly Active"
+NCT03211156,D000658,Amoxicillin
+NCT03211247,,
+NCT03217136,C000594038|D008795|D000077731,"ceftolozane, tazobactam drug combination|Metronidazole|Meropenem"
+NCT03229057,D008687,Metformin
+NCT03230838,C000594038|D000077731,"ceftolozane, tazobactam drug combination|Meropenem"
+NCT03231358,,
+NCT03232281,D017329|D007267,Triptorelin Pamoate|Injections
+NCT03233217,D007252,Influenza Vaccines
+NCT03233230,C000632111|C494814,"evobrutinib|BID protein, human"
+NCT03234907,,
+NCT03235479,C578443,rimegepant sulfate
+NCT03237065,C557707|C000718030|C522335,iron isomaltoside 1000|ferric derisomaltose|ferric carboxymaltose
+NCT03237845,C578443,rimegepant sulfate
+NCT03238326,C000591922,brexpiprazole
+NCT03238911,C557707|C000718030|C522335,iron isomaltoside 1000|ferric derisomaltose|ferric carboxymaltose
+NCT03238963,,
+NCT03239873,D022542,Measles-Mumps-Rubella Vaccine
+NCT03244644,D000077330|D012847,Saline Solution|Single Person
+NCT03248037,C000603944,netarsudil
+NCT03248440,C076628,tyramine-deoxysorbitol
+NCT03250377,C482793,brivaracetam
+NCT03252522,D008903|D000596|D000975,Minerals|Amino Acids|Antioxidants
+NCT03252587,C000628674,deucravacitinib
+NCT03252925,D000111,Acetylcysteine
+NCT03254459,D009020|D010098|D017294,Morphine|Oxycodone|Ondansetron
+NCT03255382,D000069462|C000601773,Dimethyl Fumarate|risankizumab
+NCT03259074,C000630858|C000712789|C555450,GP2017|adalimumab biosimilar HS016|secukinumab
+NCT03261167,D019274,"Botulinum Toxins, Type A"
+NCT03261960,,
+NCT03262662,D000068580,Varenicline
+NCT03263442,D013831|C000712172|D000077330,Thiamine|thiamine hydrochloride|Saline Solution
+NCT03264157,,
+NCT03269994,D002440|D000077725,"Cefoxitin|Piperacillin, Tazobactam Drug Combination"
+NCT03279081,,
+NCT03280615,D015525|D003314,"Fatty Acids, Omega-3|Corn Oil"
+NCT03282799,C044815,etonogestrel
+NCT03285477,,
+NCT03285490,,
+NCT03290027,C086827,tazarotene
+NCT03290781,C000597368,ontamalimab
+NCT03292640,C086827,tazarotene
+NCT03294538,,
+NCT03296163,D000068258|D016190|D017239,Bevacizumab|Carboplatin|Paclitaxel
+NCT03296553,D000077562,Valganciclovir
+NCT03301649,D007559,Ivermectin
+NCT03303521,C000597310,sodium zirconium cyclosilicate
+NCT03308799,,
+NCT03312907,C511911|D000069283|D059039,belimumab|Rituximab|Standard of Care
+NCT03313050,D017778|D011134,"Vaccines, Combined|Polysaccharides"
+NCT03322540,C582435|C000613752,pembrolizumab|epacadostat
+NCT03322566,C582435|C000613752|D017671,pembrolizumab|epacadostat|Platinum Compounds
+NCT03323385,,
+NCT03329092,,
+NCT03329911,D017239|D016190,Paclitaxel|Carboplatin
+NCT03337490,D007559,Ivermectin
+NCT03340961,D004318|D002214,Doxycycline|Capsules
+NCT03342027,D016642,Bupropion
+NCT03342404,C000621232|D000077330,luspatercept|Saline Solution
+NCT03343639,C551592,serlopitant
+NCT03345836,C000613732,upadacitinib
+NCT03345849,C000613732,upadacitinib
+NCT03345914,C582203,dupilumab
+NCT03349060,C000634427,abrocitinib
+NCT03350620,,
+NCT03351738,,
+NCT03354429,D000077486,Ticagrelor
+NCT03354598,D011339|D002939,Probenecid|Ciprofloxacin
+NCT03357614,C082897|D011339|D000077727|D002939|D019980,sulopenem|Probenecid|Ertapenem|Ciprofloxacin|Amoxicillin-Potassium Clavulanate Combination
+NCT03358030,C572197|D012256,ISIS 416858|Riboflavin
+NCT03358472,C582435|C000613752|D000068818|D002945|D016190|D005472,pembrolizumab|epacadostat|Cetuximab|Cisplatin|Carboplatin|Fluorouracil
+NCT03358576,D000077727|D011339|D002939|D008795|D019980|C082897,Ertapenem|Probenecid|Ciprofloxacin|Metronidazole|Amoxicillin-Potassium Clavulanate Combination|sulopenem
+NCT03361865,C582435|C000613752,pembrolizumab|epacadostat
+NCT03363854,C574065,tralokinumab
+NCT03364309,C549079,ixekizumab
+NCT03364491,D014148,Tranexamic Acid
+NCT03370133,C000625981|D000069549,bimekizumab|Ustekinumab
+NCT03371108,C027235|D000069036,gallium nitrate|Insulin Glargine
+NCT03374488,C582435|C000613752,pembrolizumab|epacadostat
+NCT03383874,,
+NCT03384745,C000720946|C555450,sonelokimab|secukinumab
+NCT03384966,C000601315,selatogrel
+NCT03385564,C000627991,BI 655064
+NCT03387852,C000720033|C582203|D000068297,itepekimab|dupilumab|Fluticasone-Salmeterol Drug Combination
+NCT03390036,C482498|C005900,"3,6,9,16,19,22-hexaaza-6,19-bis(2-hydroxyethyl)tricyclo(22,2,2,2(11,14))triaconta-1,11,13,24,27,29-hexaene|triamcinolone hexacetonide"
+NCT03390101,,
+NCT03390842,C000630913,veverimer
+NCT03393754,,
+NCT03393975,C099604|D059039,"ADAMTS13 protein, human|Standard of Care"
+NCT03395184,C000614924|C000630838,PF-06651600|PF-06700841
+NCT03397771,C057048,litoxetine
+NCT03398148,C000601773,risankizumab
+NCT03403712,C000595957|D003907,"netupitant, palosentron drug combination|Dexamethasone"
+NCT03404401,,
+NCT03412747,C000625981|D000068879,bimekizumab|Adalimumab
+NCT03412890,C561634|C418365,"relugolix|estradiol, norethindrone drug combination"
+NCT03414645,,
+NCT03416153,D016190|D011878|D017239,Carboplatin|Radiotherapy|Paclitaxel
+NCT03418545,,
+NCT03421197,C494814,"BID protein, human"
+NCT03421379,D052216,Glucagon-Like Peptide 1
+NCT03423121,C031655,ursodoxicoltaurine
+NCT03425656,D000068878|D000077143|D003520,Trastuzumab|Docetaxel|Cyclophosphamide
+NCT03426267,,
+NCT03436199,,
+NCT03436615,C000709171,berdazimer sodium
+NCT03436693,D000068896,Canagliflozin
+NCT03440385,C000607776,ozanimod
+NCT03443635,D013812,Therapeutics
+NCT03445195,D000077728,"Cilastatin, Imipenem Drug Combination"
+NCT03446573,C562325,dolutegravir
+NCT03448939,,
+NCT03451045,C471849,lenabasum
+NCT03452072,,
+NCT03452917,D012977,Sodium Nitrite
+NCT03459287,,
+NCT03461757,C578443,rimegepant sulfate
+NCT03462459,D014640,Vancomycin
+NCT03470545,C000605992,MYK-461
+NCT03473223,D016632|C584257,Apolipoprotein A-I|CSL112
+NCT03476460,D012965,Sodium Chloride
+NCT03478787,C000601773|C555450,risankizumab|secukinumab
+NCT03478982,,
+NCT03480646,C000619999|D000069547|C540278|C089740|D011241,"(R)-N-((4-methoxy-6-methyl-2-oxo-1,2-dihydropyridin-3-yl)methyl)-2-methyl-1-(1-(1-(2,2,2-trifluoroethyl)piperidin-4-yl)ethyl)-1H-indole-3-carboxamide|Cobicistat|enzalutamide|abiraterone|Prednisone"
+NCT03480763,C538862,13-valent pneumococcal vaccine
+NCT03480802,C538862,13-valent pneumococcal vaccine
+NCT03482011,C000708407,mirikizumab
+NCT03482635,C000712973,spesolimab
+NCT03485157,D012965,Sodium Chloride
+NCT03485950,D000077723|C519491|D000077731|D000077725|D000078142,"Cefepime|ceftolozane|Meropenem|Piperacillin, Tazobactam Drug Combination|Tazobactam"
+NCT03486457,C479163,tofacitinib
+NCT03486834,,
+NCT03486899,C000630067,Pegbelfermin
+NCT03486912,C000630067,Pegbelfermin
+NCT03497975,,
+NCT03500679,,
+NCT03502616,C479163,tofacitinib
+NCT03503318,D018967,Risperidone
+NCT03503370,D002710,Chlorhexidine
+NCT03504852,C555450,secukinumab
+NCT03508700,,
+NCT03518086,C000708407,mirikizumab
+NCT03518125,C493276,Biothrax
+NCT03521102,D000082|D004091,Acetaminophen|Hydromorphone
+NCT03524092,C000708407,mirikizumab
+NCT03525119,,
+NCT03526549,D019370,Observation
+NCT03526861,C574065,tralokinumab
+NCT03527173,,
+NCT03532776,,
+NCT03536884,C000625981|C555450,bimekizumab|secukinumab
+NCT03537274,C417083|D000077190,peginterferon alfa-2b|Interferon alpha-2
+NCT03538301,,
+NCT03546816,C551592,serlopitant
+NCT03546907,C000720033|D059039,itepekimab|Standard of Care
+NCT03547167,C538862,13-valent pneumococcal vaccine
+NCT03548220,C000634504,mitapivat
+NCT03551496,,
+NCT03553823,,
+NCT03556761,D005665,Furosemide
+NCT03560245,D054713,Bryostatins
+NCT03560466,C582203|D011239,dupilumab|Prednisolone
+NCT03561701,C000599187,VT-1161
+NCT03562156,C000599187,VT-1161
+NCT03562377,C574065|D022401,tralokinumab|Meningococcal Vaccines
+NCT03563716,C000594389|C000730814,atezolizumab|Tiragolumab
+NCT03564119,,
+NCT03565900,C538862,13-valent pneumococcal vaccine
+NCT03566238,C000713258,odevixibat
+NCT03567057,,
+NCT03569293,C000613732,upadacitinib
+NCT03569631,C000723101,BPN14770
+NCT03572049,D017964,Itraconazole
+NCT03573817,C583570|D000068759,revefenacin|Formoterol Fumarate
+NCT03574597,C000591245,semaglutide
+NCT03575052,C510793,pimavanserin
+NCT03575871,C000634427,abrocitinib
+NCT03578367,C000621806|D000068877|C498826,asciminib|Imatinib Mesylate|nilotinib
+NCT03578965,D002437,Cefazolin
+NCT03583333,D000069349,Linezolid
+NCT03585270,C109641,clazosentan
+NCT03589885,C555450,secukinumab
+NCT03591406,C522335|D000077605,"ferric carboxymaltose|Ferric Oxide, Saccharated"
+NCT03592277,D001205|D013831,Ascorbic Acid|Thiamine
+NCT03602560,C000713688,seladelpar
+NCT03607422,C000613732,upadacitinib
+NCT03614078,,
+NCT03615066,C000712275|C442442,selgantolimod|tenofovir alafenamide
+NCT03619213,C529054,dapagliflozin
+NCT03620162,C538862|C492535|D022243|C512971|C075655|D017325|C514867|D019433,13-valent pneumococcal vaccine|RotaTeq|Rotavirus Vaccines|pentacel|Recombivax HB|Hepatitis B Vaccines|Hiberix|Chickenpox Vaccine
+NCT03621670,C570015|C472675|C514867|C492457|D022542|D019433|D000068357,4CMenB vaccine|PEDIARIX|Hiberix|RIX4414 vaccine|Measles-Mumps-Rubella Vaccine|Chickenpox Vaccine|Saline Waters
+NCT03627767,C000634427,abrocitinib
+NCT03628924,C000588857,guselkumab
+NCT03631732,C000654125,"bictegravir, emtricitabine, tenofovir alafenamide, drug combination"
+NCT03633617,C582203,dupilumab
+NCT03635099,,
+NCT03636906,C570015|C547294|D022401,4CMenB vaccine|PHiD-CV vaccine|Meningococcal Vaccines
+NCT03638258,,
+NCT03640949,D001127|D008775,Arginine Vasopressin|Methylprednisolone
+NCT03644186,D017239|D000068878|C485206|C500026|D000077289,Paclitaxel|Trastuzumab|pertuzumab|palbociclib|Letrozole
+NCT03652064,C556306|D000069286|D000077269|D003907,daratumumab|Bortezomib|Lenalidomide|Dexamethasone
+NCT03653026,C000613732,upadacitinib
+NCT03654274,C561634|C418365,"relugolix|estradiol, norethindrone drug combination"
+NCT03655691,D019274,"Botulinum Toxins, Type A"
+NCT03657810,D006853|D000082|D011398|C514822,Hydrocodone|Acetaminophen|Promethazine|oxycodone-acetaminophen
+NCT03660787,,
+NCT03663335,D009173|D000305|D016559,Mycophenolic Acid|Adrenal Cortex Hormones|Tacrolimus
+NCT03664739,,
+NCT03664752,,
+NCT03669588,C000718373,efgartigimod alfa
+NCT03672487,C009999,benzonidazole
+NCT03673462,D022401|D013745|C538862|D022243|D017325|D022542|D053061,Meningococcal Vaccines|Tetanus Toxoid|13-valent pneumococcal vaccine|Rotavirus Vaccines|Hepatitis B Vaccines|Measles-Mumps-Rubella Vaccine|Herpes Zoster Vaccine
+NCT03675477,C000615713,ivarmacitinib
+NCT03676192,D000068258,Bevacizumab
+NCT03679676,D000069444|C582203,Omalizumab|dupilumab
+NCT03679884,C000634383,daridorexant
+NCT03682770,C582203,dupilumab
+NCT03683576,,
+NCT03683719,,
+NCT03686384,,
+NCT03686397,,
+NCT03686683,C511774,sipuleucel-T
+NCT03689712,C000707700,avasopasem manganese
+NCT03692871,C538862,13-valent pneumococcal vaccine
+NCT03697109,C000633444,relacorilant
+NCT03698279,D007252|D000954,"Influenza Vaccines|Antigens, Surface"
+NCT03700320,D059039|C000718987,Standard of Care|atogepant
+NCT03703206,,
+NCT03705286,,
+NCT03706040,C000601773,risankizumab
+NCT03713632,C555450,secukinumab
+NCT03721016,,
+NCT03721107,,
+NCT03724942,C000591922,brexpiprazole
+NCT03725202,C000613732|D000305,upadacitinib|Adrenal Cortex Hormones
+NCT03726879,C000594389|D004317|D003520|D017239|D000068878|C485206|D000080044,atezolizumab|Doxorubicin|Cyclophosphamide|Paclitaxel|Trastuzumab|pertuzumab|Ado-Trastuzumab Emtansine
+NCT03728881,D000068857|C510352,"Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18|human papillomavirus vaccine, L1 type 16, 18"
+NCT03731182,C538862,13-valent pneumococcal vaccine
+NCT03732807,,
+NCT03732833,,
+NCT03734016,C000629551|C551803,zanubrutinib|ibrutinib
+NCT03737474,C000591922,brexpiprazole
+NCT03738618,C000620228|C000608977,follitropin delta|FE 999049
+NCT03740490,D000095488,Nicotine Replacement Therapy
+NCT03740737,C000620228|C000608977,follitropin delta|FE 999049
+NCT03745638,,
+NCT03745651,,
+NCT03751124,C561634|C418365,"relugolix|estradiol, norethindrone drug combination"
+NCT03751280,,
+NCT03757234,C000591640|D064704,omadacycline|Levofloxacin
+NCT03761537,C574065,tralokinumab
+NCT03761784,,
+NCT03761810,,
+NCT03764475,C424423,Roflumilast
+NCT03765073,,
+NCT03765788,C555450|D011239,secukinumab|Prednisolone
+NCT03766581,C000720754|D000077144|D001241,milvexian|Clopidogrel|Aspirin
+NCT03775109,C541220|D012996|D007267,canakinumab|Solutions|Injections
+NCT03779841,,
+NCT03780959,D000068800,Etanercept
+NCT03781791,,
+NCT03785145,,
+NCT03788967,C500135|D000077727,tebipenem|Ertapenem
+NCT03789292,,
+NCT03795922,,
+NCT03796676,C000634427,abrocitinib
+NCT03803202,C538862|C414006,13-valent pneumococcal vaccine|23-valent pneumococcal capsular polysaccharide vaccine
+NCT03804268,,
+NCT03806127,C000608232,"N-(4-((5-(hydroxy(phenyl)methyl)pyrrolidin-2-yl)methyl)phenyl)-4-oxo-4,6,7,8-tetrahydropyrrolo(1,2-a)pyrimidine-6-carboxamide"
+NCT03806452,D006918,Hydroxyurea
+NCT03806790,,
+NCT03807843,D004304,Dosage Forms
+NCT03812328,D017984,Enoxaparin
+NCT03812510,C018777,N-phenylacetoaminomethylene-DL-p-nitrophenylalanine
+NCT03814590,D022261|D000077330,Respiratory Syncytial Virus Vaccines|Saline Solution
+NCT03815292,,
+NCT03818035,C000588857,guselkumab
+NCT03818321,C011481|D013607,methenamine hippurate|Tablets
+NCT03822468,C000589651|D000077384|D000077289|D017273,ribociclib|Anastrozole|Letrozole|Goserelin
+NCT03824912,,
+NCT03826628,D020123,Sirolimus
+NCT03828617,,
+NCT03829475,C000613978|D012965|D000069467,bezlotoxumab|Sodium Chloride|Fecal Microbiota Transplantation
+NCT03832192,,
+NCT03832738,,
+NCT03834753,D000068258|D000069579,Bevacizumab|Ranibizumab
+NCT03835975,C414006,23-valent pneumococcal capsular polysaccharide vaccine
+NCT03836209,C000609080|C059539|D003630|D003561,gilteritinib|midostaurin|Daunorubicin|Cytarabine
+NCT03839693,D019274,"Botulinum Toxins, Type A"
+NCT03840616,C000599187|D015725,VT-1161|Fluconazole
+NCT03841331,C551592,serlopitant
+NCT03845140,D011223,Praziquantel
+NCT03845517,C000630838,PF-06700841
+NCT03850379,D064704|D002939,Levofloxacin|Ciprofloxacin
+NCT03852433,C000718249|C571888|C100416,bulevirtide|myrcludex-B|peginterferon alfa-2a
+NCT03852537,D008775,Methylprednisolone
+NCT03853798,C000634504,mitapivat
+NCT03857542,,
+NCT03860935,C000731204,attruby
+NCT03861143,,
+NCT03861936,D019274|D000077330,"Botulinum Toxins, Type A|Saline Solution"
+NCT03871491,D017963,Azithromycin
+NCT03872401,C577155,evolocumab
+NCT03872453,,
+NCT03875482,C000601773,risankizumab
+NCT03881059,D000069549,Ustekinumab
+NCT03885934,C538862,13-valent pneumococcal vaccine
+NCT03887130,D000077235|D000069287|D000093542|D017239|D000077143,Vinorelbine|Capecitabine|Gemcitabine|Paclitaxel|Docetaxel
+NCT03890367,C043226,meningococcal group A polysaccharide
+NCT03891524,C000720754|D017984,milvexian|Enoxaparin
+NCT03893448,C538862|C492535|C512971|C075655|D022362|D019433|C514867,13-valent pneumococcal vaccine|RotaTeq|pentacel|Recombivax HB|Hepatitis A Vaccines|Chickenpox Vaccine|Hiberix
+NCT03893825,D018967,Risperidone
+NCT03894046,D013407|C000626193|D003091|D015378|D015377,Sulbactam|durlobactam|Colistin|Imipenem|Cilastatin
+NCT03895203,C000625981|D000068879,bimekizumab|Adalimumab
+NCT03896009,C093622|D000077239,rizatriptan|Meloxicam
+NCT03896581,C000625981,bimekizumab
+NCT03897075,C000598434,tildrakizumab
+NCT03897088,,
+NCT03897439,D061485|D009538|D000068580|D016642,Tobacco Use Cessation Devices|Nicotine|Varenicline|Bupropion
+NCT03901482,D004087,Dihydroergotamine
+NCT03901963,C556306|D000077269,daratumumab|Lenalidomide
+NCT03905512,C031545,Pegloticase
+NCT03906136,C555450|D059039,secukinumab|Standard of Care
+NCT03907397,,
+NCT03908970,C000711049,difamilast
+NCT03911401,C000711049,difamilast
+NCT03912259,C582203|D004643,dupilumab|Emollients
+NCT03914326,C000591245,semaglutide
+NCT03915067,,
+NCT03917654,D022362|C057664|D022401,"Hepatitis A Vaccines|Vi polysaccharide vaccine, typhoid|Meningococcal Vaccines"
+NCT03918629,,
+NCT03923699,,
+NCT03926052,D000069478,Lisdexamfetamine Dimesylate
+NCT03926169,C000601773,risankizumab
+NCT03926195,C584571|D059039,GLPG0634|Standard of Care
+NCT03927690,D000069579,Ranibizumab
+NCT03927703,C000709171,berdazimer sodium
+NCT03927716,C000709171,berdazimer sodium
+NCT03928704,C000625981,bimekizumab
+NCT03928743,C000625981,bimekizumab
+NCT03930615,C000588473,letermovir
+NCT03930732,C582203,dupilumab
+NCT03930745,C000706407,TOL-463
+NCT03934099,,
+NCT03934216,C000628674,deucravacitinib
+NCT03935217,C016724,secnidazole
+NCT03939689,C540278,enzalutamide
+NCT03941483,C000729886,ASP1128
+NCT03945019,D000069285,Infliximab
+NCT03945188,C000656249,etrasimod
+NCT03950622,C538862,13-valent pneumococcal vaccine
+NCT03952039,C528327,fedratinib
+NCT03954743,,
+NCT03959241,D016559|D008727|D009173|D003520,Tacrolimus|Methotrexate|Mycophenolic Acid|Cyclophosphamide
+NCT03959527,C000599190|D002443|D017963,zoliflodacin|Ceftriaxone|Azithromycin
+NCT03960957,C542869,abobotulinumtoxinA
+NCT03961360,D001241,Aspirin
+NCT03963401,C000630838,PF-06700841
+NCT03964415,,
+NCT03965962,D011819,Rabies Vaccines
+NCT03969212,C000628402,baloxavir
+NCT03969992,C078272,"SF-RI 1, bovine surfactant preparation"
+NCT03976102,D000069283,Rituximab
+NCT03978520,C000613732,upadacitinib
+NCT03980483,C000599766|C479163,Otilimab|tofacitinib
+NCT03982186,C000716080,JNJ-56136379
+NCT03985943,C000612881,nemolizumab
+NCT03985982,D019274,"Botulinum Toxins, Type A"
+NCT03987451,C000591245,semaglutide
+NCT03989102,D000077330,Saline Solution
+NCT03989349,C000612881,nemolizumab
+NCT03991013,C562325,dolutegravir
+NCT03992872,,
+NCT03995680,D008463,Mebendazole
+NCT03996369,C000656249,etrasimod
+NCT04003103,C558823,islatravir
+NCT04003389,C000608808,fezolinetant
+NCT04004208,C533178,aflibercept
+NCT04004429,C000598194,N-(3-(1-(2-nitrophenyl)-1H-pyrrol-2-yl)allylidenamino)guanidine
+NCT04016714,C538862|C000617220|D022542|D019433,13-valent pneumococcal vaccine|Vaxelis|Measles-Mumps-Rubella Vaccine|Chickenpox Vaccine
+NCT04019041,C000604877,bermekimab
+NCT04030026,D009266,Nalbuphine
+NCT04031846,C492457|C538862,RIX4414 vaccine|13-valent pneumococcal vaccine
+NCT04032093,D022261,Respiratory Syncytial Virus Vaccines
+NCT04041453,D007559|D015766,Ivermectin|Albendazole
+NCT04048356,,
+NCT04052425,,
+NCT04052516,C000626078,icosabutate
+NCT04056325,C027837|D007559,moxidectin|Ivermectin
+NCT04057573,,
+NCT04058028,C000729492,rozibafusp alfa
+NCT04059770,,
+NCT04068896,D000093542|D000068196,Gemcitabine|Albumin-Bound Paclitaxel
+NCT04071158,D022261,Respiratory Syncytial Virus Vaccines
+NCT04071366,C000718170|C000603457|D016219|C000629083,"itacitinib|INCB039110|Immunotherapy, Adoptive|axicabtagene ciloleucel"
+NCT04073303,D019274,"Botulinum Toxins, Type A"
+NCT04075825,,
+NCT04076462,,
+NCT04085367,,
+NCT04089735,,
+NCT04090411,,
+NCT04092452,C000621967|C000630838|C000720458,"1-(((2S,3S,4S)-3-ethyl-4-fluoro-5-oxopyrrolidin-2-yl)methoxy)-7-methoxyisoquinoline-6-carboxamide|PF-06700841|ropsacitinib"
+NCT04103450,C000608232,"N-(4-((5-(hydroxy(phenyl)methyl)pyrrolidin-2-yl)methyl)phenyl)-4-oxo-4,6,7,8-tetrahydropyrrolo(1,2-a)pyrimidine-6-carboxamide"
+NCT04109066,D000077594|D017239|D018943|D003520|D013514,"Nivolumab|Paclitaxel|Anthracyclines|Cyclophosphamide|Surgical Procedures, Operative"
+NCT04120116,,
+NCT04124705,D013962|D013974,Thyroid (USP)|Thyroxine
+NCT04124926,C552956|D064747,1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine|Lansoprazole
+NCT04126213,,
+NCT04128007,,
+NCT04129554,C000716080|C413685|D000068698|C442442,JNJ-56136379|entecavir|Tenofovir|tenofovir alafenamide
+NCT04130802,,
+NCT04134728,C000599766|C000592401,Otilimab|sarilumab
+NCT04134845,D003620,Dantrolene
+NCT04136366,,
+NCT04138056,,
+NCT04143594,C000730993|C000613801|C100119|C000654125,"lenacapavir|emtricitabine tenofovir alafenamide|imidazole mustard|bictegravir, emtricitabine, tenofovir alafenamide, drug combination"
+NCT04144868,,
+NCT04147650,,
+NCT04153435,D002122|D012965,Calcium Chloride|Sodium Chloride
+NCT04155203,D016712,Mupirocin
+NCT04156620,C555450,secukinumab
+NCT04157686,,
+NCT04163185,C093622,rizatriptan
+NCT04166773,D000098860,Tirzepatide
+NCT04167462,C000628674,deucravacitinib
+NCT04167514,D000515,alpha 1-Antitrypsin
+NCT04167670,C552956|D000658|D017291|D064747,1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine|Amoxicillin|Clarithromycin|Lansoprazole
+NCT04168190,C414006,23-valent pneumococcal capsular polysaccharide vaccine
+NCT04169373,C000613732,upadacitinib
+NCT04183335,C582203|D065095,dupilumab|Calcineurin Inhibitors
+NCT04188301,D000418,Albumins
+NCT04188379,C000718373,efgartigimod alfa
+NCT04198363,C552956|D000658|D017291|D064098,1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine|Amoxicillin|Clarithromycin|Esomeprazole
+NCT04199104,C531958|C582435,lenvatinib|pembrolizumab
+NCT04201262,C000629409,ravulizumab
+NCT04201574,,
+NCT04202679,C582203|D065095,dupilumab|Calcineurin Inhibitors
+NCT04205643,D000069285,Infliximab
+NCT04206553,C582203|D000305,dupilumab|Adrenal Cortex Hormones
+NCT04207801,,
+NCT04209114,D000077594|D015653|C000611752,Nivolumab|Cystectomy|bempegaldesleukin
+NCT04209205,C555450,secukinumab
+NCT04209400,C000608755|C075654,Pre-S vaccine|Engerix-B
+NCT04210986,C017875,fisetin
+NCT04211363,C424423,Roflumilast
+NCT04211389,,
+NCT04217590,C000597310|D013311,sodium zirconium cyclosilicate|Streptozocin
+NCT04218266,C522181,apixaban
+NCT04223778,,
+NCT04225923,,
+NCT04232280,C000722750,mRNA-1647 cytomegalovirus vaccine
+NCT04233424,D059039,Standard of Care
+NCT04238676,,
+NCT04242264,,
+NCT04242446,C000625981,bimekizumab
+NCT04242498,C000625981,bimekizumab
+NCT04245215,D000069549,Ustekinumab
+NCT04246801,D002990,Clobetasol
+NCT04247074,,
+NCT04249076,D002990,Clobetasol
+NCT04249583,D001905,Botulinum Toxins
+NCT04249687,D001905,Botulinum Toxins
+NCT04250337,C561806|D000305,lebrikizumab|Adrenal Cortex Hormones
+NCT04258839,C000591922,brexpiprazole
+NCT04265261,,
+NCT04268771,,
+NCT04278573,D002762,Cholecalciferol
+NCT04282109,D000077594|D017239|D000068818,Nivolumab|Paclitaxel|Cetuximab
+NCT04285229,C549079,ixekizumab
+NCT04285567,C543332|C579720|C024352|D003520|D000069283|D000069461,obinutuzumab|venetoclax|fludarabine|Cyclophosphamide|Rituximab|Bendamustine Hydrochloride
+NCT04286607,C424423,Roflumilast
+NCT04287985,,
+NCT04294667,C000607972,dapirolizumab pegol
+NCT04304508,,
+NCT04304534,,
+NCT04308668,D006886,Hydroxychloroquine
+NCT04311177,D019808,Losartan
+NCT04312997,,
+NCT04321460,,
+NCT04322604,C000654568,AK002
+NCT04322708,C000654568,AK002
+NCT04323800,,
+NCT04324073,C000592401,sarilumab
+NCT04324359,,
+NCT04327661,,
+NCT04328077,,
+NCT04328467,D006886,Hydroxychloroquine
+NCT04328961,D006886|D001205,Hydroxychloroquine|Ascorbic Acid
+NCT04329104,C000719153|D000077330,CIS43LS|Saline Solution
+NCT04331808,C502936,tocilizumab
+NCT04333225,D006886,Hydroxychloroquine
+NCT04333732,,
+NCT04341116,C000711830,plonmarlimab
+NCT04341584,D053590,Interleukin 1 Receptor Antagonist Protein
+NCT04343989,C000604955,clazakizumab
+NCT04349098,C585161,selinexor
+NCT04351243,C000711670,gimsilumab
+NCT04354870,D006886,Hydroxychloroquine
+NCT04355143,D003078,Colchicine
+NCT04362085,,
+NCT04362137,C540383,ruxolitinib
+NCT04362670,,
+NCT04362813,C541220,canakinumab
+NCT04365387,C000612881,nemolizumab
+NCT04366050,D017257,Ramipril
+NCT04370548,,
+NCT04372186,C502936,tocilizumab
+NCT04373460,D000093522,COVID-19 Serotherapy
+NCT04375397,C551803,ibrutinib
+NCT04380090,D019946|C000595212|D004143,Propylene Glycol|polyethylene glycol 3350|Dioctyl Sulfosuccinic Acid
+NCT04380519,C000592400,olokizumab
+NCT04382586,C000629551|D010166,zanubrutinib|Palliative Care
+NCT04382664,C081222|D000074324|D000077594,sargramostim|Ipilimumab|Nivolumab
+NCT04391569,C105051,ganaxolone
+NCT04397718,C431566|D012965,acetyl-2-naphthylalanyl-3-chlorophenylalanyl-1-oxohexadecyl-seryl-4-aminophenylalanyl(hydroorotyl)-4-aminophenylalanyl(carbamoyl)-leucyl-ILys-prolyl-alaninamide|Sodium Chloride
+NCT04400058,D000077330,Saline Solution
+NCT04401202,C000723271,Nigella sativa oil
+NCT04401293,D017984|D006493|D017985,Enoxaparin|Heparin|Dalteparin
+NCT04402957,,
+NCT04404166,D059039,Standard of Care
+NCT04405076,,
+NCT04405739,C000656703,molnupiravir
+NCT04407507,D007559,Ivermectin
+NCT04409509,,
+NCT04412057,,
+NCT04414397,,
+NCT04415658,D013974|D012965,Thyroxine|Sodium Chloride
+NCT04417894,C582203,dupilumab
+NCT04422561,D007559,Ivermectin
+NCT04424316,,
+NCT04427501,C000711749|C000711968|C000716927,bamlanivimab|etesevimab|bebtelovimab
+NCT04428008,D000077596|C434723,Thymalfasin|Trace amine-associated receptor 1
+NCT04430855,C000613732,upadacitinib
+NCT04433585,,
+NCT04436276,D000090984,Ad26COVS1
+NCT04445987,,
+NCT04446299,,
+NCT04446312,,
+NCT04449029,,
+NCT04452318,C000711487|C000711488|C000711751,casirivimab|imdevimab|casirivimab and imdevimab drug combination
+NCT04456673,C582203,dupilumab
+NCT04462536,,
+NCT04469686,C021650,hydrocortisone acetate
+NCT04470427,D000090983,2019-nCoV Vaccine mRNA-1273
+NCT04472598,C528561|C540383,navitoclax|ruxolitinib
+NCT04473690,,
+NCT04478071,C000624313,vadadustat
+NCT04480840,,
+NCT04487834,D012841,Simethicone
+NCT04487886,C586691,duvelisib
+NCT04491877,,
+NCT04492020,C000615620,ubrogepant
+NCT04493242,,
+NCT04493502,,
+NCT04497987,C000711749|C000711968,bamlanivimab|etesevimab
+NCT04501666,C000612881,nemolizumab
+NCT04501679,C000612881,nemolizumab
+NCT04503551,D000069579|D007267,Ranibizumab|Injections
+NCT04504318,C522181|D013607|D017984,apixaban|Tablets|Enoxaparin
+NCT04510194,D008687|D016666|D007559,Metformin|Fluvoxamine|Ivermectin
+NCT04513366,D000077330,Saline Solution
+NCT04513652,D002355,Carticaine
+NCT04516746,D000090985,ChAdOx1 nCoV-19
+NCT04518995,,
+NCT04523220,C000657125,osocimab
+NCT04525755,D000068580|D000095488|D061485,Varenicline|Nicotine Replacement Therapy|Tobacco Use Cessation Devices
+NCT04526574,D012965|D007252,Sodium Chloride|Influenza Vaccines
+NCT04531098,C000608755|C075654,Pre-S vaccine|Engerix-B
+NCT04532931,D000082|C515299|C000712628|C462182|C041747|D000069474|C549273,"Acetaminophen|amodiaquine, artesunate drug combination|pyronaridine tetraphosphate, artesunate drug combination|favipiravir|nitazoxanide|Sofosbuvir|daclatasvir"
+NCT04535531,C000709171,berdazimer sodium
+NCT04537234,D007252,Influenza Vaccines
+NCT04540094,D000075462,"Serum Albumin, Human"
+NCT04542070,C584914|D000068696|C000654125,"cabotegravir|Rilpivirine|bictegravir, emtricitabine, tenofovir alafenamide, drug combination"
+NCT04542694,C462182|D059039,favipiravir|Standard of Care
+NCT04545060,C000711967,sotrovimab
+NCT04546724,,
+NCT04551911,D002112,Calcifediol
+NCT04553068,,
+NCT04556981,,
+NCT04558918,C000730766|C481642|C000629409,iptacopan|eculizumab|ravulizumab
+NCT04568031,D000090985|D012965,ChAdOx1 nCoV-19|Sodium Chloride
+NCT04569357,,
+NCT04571060,,
+NCT04571385,,
+NCT04571944,C551624,suvorexant
+NCT04575597,C000656703,molnupiravir
+NCT04583618,,
+NCT04583969,C000710968|C000606551,lenzilumab|remdesivir
+NCT04587453,C574065|D000305,tralokinumab|Adrenal Cortex Hormones
+NCT04590547,,
+NCT04594213,C545476|D019274,"incobotulinumtoxinA|Botulinum Toxins, Type A"
+NCT04594369,C000619932,brensocatib
+NCT04596540,,
+NCT04598295,,
+NCT04598451,D011241,Prednisone
+NCT04599933,D016173,Macrophage Colony-Stimulating Factor
+NCT04599972,D016173,Macrophage Colony-Stimulating Factor
+NCT04600895,C462182,favipiravir
+NCT04602000,C000716788,regdanvimab
+NCT04603924,D009534,Niclosamide
+NCT04607837,C000656249,etrasimod
+NCT04614948,D000090984,Ad26COVS1
+NCT04620213,,
+NCT04620733,C000713688,seladelpar
+NCT04622254,C545476|D019274,"incobotulinumtoxinA|Botulinum Toxins, Type A"
+NCT04622592,,
+NCT04626297,C561806,lebrikizumab
+NCT04632927,C555450|D000069549,secukinumab|Ustekinumab
+NCT04634409,C000711749|C000711968|C000711967|C000716927,bamlanivimab|etesevimab|sotrovimab|bebtelovimab
+NCT04638660,,
+NCT04649151,D000090983,2019-nCoV Vaccine mRNA-1273
+NCT04650399,D015444,Exercise
+NCT04652102,C000722934,CVnCoV COVID-19 vaccine
+NCT04659174,C075257|C003330,xanomeline|trospium chloride
+NCT04665843,C000594389|C000730814,atezolizumab|Tiragolumab
+NCT04667247,,
+NCT04667468,D059039,Standard of Care
+NCT04668352,C531198,dactolisib
+NCT04668950,D016666,Fluvoxamine
+NCT04674189,C000722934,CVnCoV COVID-19 vaccine
+NCT04675151,D010862,Pilocarpine
+NCT04675931,C552304|D000077332|D000077611|D000077549|D000078102,"NITD 609|Artesunate|Artemether, Lumefantrine Drug Combination|Artemether|Lumefantrine"
+NCT04677114,D002047|D000069479|C000627685,"Buprenorphine|Buprenorphine, Naloxone Drug Combination|Sublocade"
+NCT04677660,D000090983,2019-nCoV Vaccine mRNA-1273
+NCT04677972,C042986,ebselen
+NCT04687072,,
+NCT04692688,,
+NCT04693715,C000627108,RNS60
+NCT04696146,D050718|D000077330,Complement C1 Inhibitor Protein|Saline Solution
+NCT04701203,,
+NCT04701333,D000077465,Cabergoline
+NCT04711837,C000730813|D015742,HSK3486|Propofol
+NCT04711902,C555450,secukinumab
+NCT04712110,,
+NCT04713592,C000601773,risankizumab
+NCT04722991,C000722786,BAY 1101042
+NCT04723394,C000714168|C000714167|C000714149,cilgavimab and tixagevimab drug combination|tixagevimab|cilgavimab
+NCT04726410,D059039,Standard of Care
+NCT04726969,C027837|D013607|D015766|D007559,moxidectin|Tablets|Albendazole|Ivermectin
+NCT04732117,C555450,secukinumab
+NCT04732494,C000707970,tislelizumab
+NCT04734197,D009173|C028994|D016572|D003524|C575157|D009883,Mycophenolic Acid|betamethasone sodium phosphate|Cyclosporine|Cyclosporins|lifitegrast|Ophthalmic Solutions
+NCT04735393,,
+NCT04739709,,
+NCT04754594,D000090982,BNT162 Vaccine
+NCT04756128,D003078|D009271|C000624616,Colchicine|Naltrexone|vivitrol
+NCT04756804,D000431,Ethanol
+NCT04760314,C561806|D000305,lebrikizumab|Adrenal Cortex Hormones
+NCT04766086,D022681,Diphtheria-Tetanus-acellular Pertussis Vaccines
+NCT04767373,C000721494,MK-1654
+NCT04767529,,
+NCT04771273,C000726451,BI 456906
+NCT04773587,,
+NCT04773600,,
+NCT04789499,,
+NCT04796896,D000090983|C000722752,2019-nCoV Vaccine mRNA-1273|mRNA-1273.214 COVID-19 vaccine
+NCT04797650,,
+NCT04799158,C552956,1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine
+NCT04804605,C424423,Roflumilast
+NCT04810962,,
+NCT04825288,,
+NCT04829214,,
+NCT04834375,,
+NCT04835441,C000722908,ALPN-101
+NCT04845620,,
+NCT04856865,,
+NCT04856891,C000654568,AK002
+NCT04862585,D002927|D003907|D002123|C059464|C018038|C004180|D004155|D015738|D017239|D013660|D011899,Cimetidine|Dexamethasone|Calcium Dobesilate|auricularum|dexamethasone acetate|dexamethasone 21-phosphate|Diphenhydramine|Famotidine|Paclitaxel|Taxes|Ranitidine
+NCT04864210,D002045,Bupivacaine
+NCT04871711,,
+NCT04872101,,
+NCT04875533,D012965|C414006,Sodium Chloride|23-valent pneumococcal capsular polysaccharide vaccine
+NCT04878055,C490707,reparixin
+NCT04886960,D010972|C116241|D059039,"Platelet Activating Factor|MICU1 protein, human|Standard of Care"
+NCT04887948,D000090982|D012965,BNT162 Vaccine|Sodium Chloride
+NCT04891419,,
+NCT04906421,C000717092,TVB-2640
+NCT04908683,,
+NCT04909450,,
+NCT04915729,D000077785|D010959,Tenecteplase|Tissue Plasminogen Activator
+NCT04917861,C000719754,GLS-5700 vaccine
+NCT04921969,C540383,ruxolitinib
+NCT04922554,C000591640,omadacycline
+NCT04925934,,
+NCT04929483,,
+NCT04930744,D007538|D012293|D004977|D011718|D008687,Isoniazid|Rifampin|Ethambutol|Pyrazinamide|Metformin
+NCT04932941,C511308,sodium luminolate
+NCT04936308,C000588857,guselkumab
+NCT04938830,C000721494|D000069455,MK-1654|Palivizumab
+NCT04939428,C000656703,molnupiravir
+NCT04940130,D000077330,Saline Solution
+NCT04940390,D004087,Dihydroergotamine
+NCT04949399,D019274,"Botulinum Toxins, Type A"
+NCT04955730,D054843,Negative-Pressure Wound Therapy
+NCT04957212,D000068878|C485206|D016190|D000077143,Trastuzumab|pertuzumab|Carboplatin|Docetaxel
+NCT04960202,C000718217|D019438,nirmatrelvir|Ritonavir
+NCT04969276,C000722934|D000090983,CVnCoV COVID-19 vaccine|2019-nCoV Vaccine mRNA-1273
+NCT04971785,C000591245|C000717094,semaglutide|cilofexor
+NCT04973228,,
+NCT04979806,C000624485|D000077731,cefepime-zidebactam|Meropenem
+NCT04983589,D010862,Pilocarpine
+NCT04994535,D019274,"Botulinum Toxins, Type A"
+NCT04996797,,
+NCT04999839,,
+NCT05005845,,
+NCT05007080,D000090984,Ad26COVS1
+NCT05014568,,
+NCT05017480,,
+NCT05032859,,
+NCT05035654,,
+NCT05037851,D059039,Standard of Care
+NCT05042609,D008397,Masks
+NCT05045144,,
+NCT05047601,C000718217|D019438,nirmatrelvir|Ritonavir
+NCT05055128,D064747,Lansoprazole
+NCT05061693,,
+NCT05065905,D007371,Interferon-gamma
+NCT05069649,C000621422,ergoferon
+NCT05070546,,
+NCT05071664,C000588857|C529000,guselkumab|golimumab
+NCT05072080,,
+NCT05075408,C000612881,nemolizumab
+NCT05082285,D014612|C570015|C576777,"Vaccines|4CMenB vaccine|tetravalent meningococcal serogroups A, C, W-135 and Y tetanus toxoid conjugate vaccine"
+NCT05085275,C025314,ferric citrate
+NCT05095779,D000095488,Nicotine Replacement Therapy
+NCT05100199,,
+NCT05108922,C000729112|C000600266,donanemab|aducanumab
+NCT05116202,D000077594|D000074324|C000594389|C000730814,Nivolumab|Ipilimumab|atezolizumab|Tiragolumab
+NCT05130970,,
+NCT05133180,C000647429,cenegermin
+NCT05134649,D019274,"Botulinum Toxins, Type A"
+NCT05136170,C000647429,cenegermin
+NCT05137041,,
+NCT05137236,D000090983,2019-nCoV Vaccine mRNA-1273
+NCT05144945,D007252|C510903,Influenza Vaccines|fluarix
+NCT05147233,,
+NCT05149313,C561806,lebrikizumab
+NCT05152576,,
+NCT05153148,,
+NCT05176639,,
+NCT05184062,C000714168,cilgavimab and tixagevimab drug combination
+NCT05201079,D000069467|D000077732,Fecal Microbiota Transplantation|Fidaxomicin
+NCT05202327,D013213,Starch
+NCT05204563,D015377|C000633884,"Cilastatin|imipenem, cilastatin and relebactam"
+NCT05212168,,
+NCT05219253,,
+NCT05219877,,
+NCT05243680,,
+NCT05248867,,
+NCT05248880,,
+NCT05252845,,
+NCT05256017,,
+NCT05267600,D011241,Prednisone
+NCT05270863,D002217|D000068438,Carbachol|Brimonidine Tartrate
+NCT05276063,C551528,"3-(8-amino-1-(2-phenylquinolin-7-yl)imidazo(1,5-a)pyrazin-3-yl)-1-methylcyclobutanol"
+NCT05285644,,
+NCT05288504,,
+NCT05294328,D000068438|C084650,Brimonidine Tartrate|aceclidine
+NCT05295732,,
+NCT05296629,D004318,Doxycycline
+NCT05304611,D007279|D007275,"Injections, Subcutaneous|Injections, Intravenous"
+NCT05305560,D007559,Ivermectin
+NCT05310422,,
+NCT05316233,,
+NCT05325853,D002355|C005717,Carticaine|proxymetacaine
+NCT05327660,,
+NCT05330975,C000722749|C000722752,mRNA-1345 respiratory syncytial virus vaccine|mRNA-1273.214 COVID-19 vaccine
+NCT05333289,C000722747,mRNA-1010 influenza vaccine
+NCT05338034,,
+NCT05343455,D004318,Doxycycline
+NCT05349617,,
+NCT05355818,C000621572,delgocitinib
+NCT05357755,,
+NCT05358717,,
+NCT05360966,,
+NCT05364671,,
+NCT05375838,C000722748|C000722747|D000090983,mRNA-1073 COVID-19 and influenza combined vaccine|mRNA-1010 influenza vaccine|2019-nCoV Vaccine mRNA-1273
+NCT05375955,,
+NCT05381454,C429014,mitoquinone
+NCT05383209,C000709220,vorolanib
+NCT05386030,,
+NCT05390970,,
+NCT05392192,C000716647,ADX-629
+NCT05393895,D016173,Macrophage Colony-Stimulating Factor
+NCT05398445,,
+NCT05403866,,
+NCT05408429,,
+NCT05409235,,
+NCT05415462,C000722747,mRNA-1010 influenza vaccine
+NCT05420961,C414006,23-valent pneumococcal capsular polysaccharide vaccine
+NCT05421598,,
+NCT05424276,,
+NCT05425732,,
+NCT05431387,C004712|D001521,cytisine|Behavior Therapy
+NCT05431543,D000068438|C084650,Brimonidine Tartrate|aceclidine
+NCT05437510,C000709769,nirsevimab
+NCT05438602,C000718217|D019438,nirmatrelvir|Ritonavir
+NCT05453578,,
+NCT05460832,,
+NCT05478174,C000730813|D015742,HSK3486|Propofol
+NCT05487404,C000716647,ADX-629
+NCT05492877,C000706810,AZD4831
+NCT05496231,C000634046,Human Papillomavirus Recombinant Vaccine nonavalent
+NCT05499130,,
+NCT05501860,D002355,Carticaine
+NCT05507450,,
+NCT05507567,,
+NCT05523323,C531958|C582435,lenvatinib|pembrolizumab
+NCT05536297,,
+NCT05537233,C000591245,semaglutide
+NCT05541497,D000068580,Varenicline
+NCT05549505,D000077384,Anastrozole
+NCT05566639,C000722747,mRNA-1010 influenza vaccine
+NCT05584657,D011339|C082897|D019980,Probenecid|sulopenem|Amoxicillin-Potassium Clavulanate Combination
+NCT05593445,,
+NCT05595369,,
+NCT05600036,,
+NCT05605964,C561634|D016729,relugolix|Leuprolide
+NCT05618808,D017984|C522181,Enoxaparin|apixaban
+NCT05625477,,
+NCT05627596,D061485,Tobacco Use Cessation Devices
+NCT05633992,C414006,23-valent pneumococcal capsular polysaccharide vaccine
+NCT05634811,D000077330,Saline Solution
+NCT05639894,,
+NCT05646719,D010862,Pilocarpine
+NCT05651711,,
+NCT05656911,C000723917,zabedosertib
+NCT05662202,C570703,BF-200 ALA
+NCT05704738,,
+NCT05724199,,
+NCT05728944,,
+NCT05730725,,
+NCT05753189,,
+NCT05753670,D000077409,Tamsulosin
+NCT05759481,D015742|D000077149,Propofol|Sevoflurane
+NCT05763082,,
+NCT05764161,C540383,ruxolitinib
+NCT05780268,C000711749|C000606551,bamlanivimab|remdesivir
+NCT05780281,C000711967|C000606551,sotrovimab|remdesivir
+NCT05780437,C000714168|C000606551,cilgavimab and tixagevimab drug combination|remdesivir
+NCT05780463,C000715987|C000606551,ensovibep|remdesivir
+NCT05801679,D000077122,Sugammadex
+NCT05816330,,
+NCT05823974,,
+NCT05827068,C000722747,mRNA-1010 influenza vaccine
+NCT05827926,C000722352,Baiya SARS-CoV-2 VAX COVID-19 vaccine
+NCT05842967,,
+NCT05849922,,
+NCT05875441,,
+NCT05886777,,
+NCT05887908,C000608518|D000077728,"nacubactam|Cilastatin, Imipenem Drug Combination"
+NCT05896527,,
+NCT05899816,C000627613,KHK4083
+NCT05901636,,
+NCT05903183,,
+NCT05903924,,
+NCT05906628,,
+NCT05909904,C000707970,tislelizumab
+NCT05919082,,
+NCT05926258,C004616|C005298|D009883,chloroprocaine|benoxinate|Ophthalmic Solutions
+NCT05940194,,
+NCT05947643,D013806,Theophylline
+NCT05958407,C574065,tralokinumab
+NCT05965726,C000719967|D019438,nirmatrelvir and ritonavir drug combination|Ritonavir
+NCT05975099,,
+NCT05987423,C000655944,satralizumab
+NCT05989048,,
+NCT05993078,,
+NCT06011733,C000625981,bimekizumab
+NCT06021054,,
+NCT06025695,C492457,RIX4414 vaccine
+NCT06029673,D000077465,Cabergoline
+NCT06045507,,
+NCT06057168,C000656634|C072417,gadopiclenol|gadoterate meglumine
+NCT06060067,,
+NCT06069544,,
+NCT06073119,,
+NCT06097299,C000722749,mRNA-1345 respiratory syncytial virus vaccine
+NCT06106828,C000655944,satralizumab
+NCT06164743,,
+NCT06177912,C414006,23-valent pneumococcal capsular polysaccharide vaccine
+NCT06179875,,
+NCT06184399,D007559|D015766|D013607,Ivermectin|Albendazole|Tablets
+NCT06188715,C027837|D013607|D015766,moxidectin|Tablets|Albendazole
+NCT06237049,D000090982,BNT162 Vaccine
+NCT06269484,C511404|C529054,ZD4054|dapagliflozin
+NCT06319287,D015718,Fibrin Tissue Adhesive
+NCT06325657,,
+NCT06436703,D007252,Influenza Vaccines
+NCT06454630,D017984,Enoxaparin
+NCT06593587,,
+NCT06602219,,
+NCT06683352,D000086663,COVID-19 Vaccines
+NCT06848075,,
+NCT07235033,C552304|D000077611|C000599914,"NITD 609|Artemether, Lumefantrine Drug Combination|ganaplacide"
+NCT07326904,C000634065|D064098,fexuprazan|Esomeprazole

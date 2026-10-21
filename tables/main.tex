@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\small
+\caption{\textbf{Skill against the global training mean and interventional skill, v2.1 temporal test split.} Binary: 878 contrasts / 655 trials; continuous: 1{,}329 / 978. \gbt: five-seed mean, 95\% interval from one shared set of 1{,}000 trial resamples; language models (large = Claude Sonnet~5, small = Claude Haiku~4.5; Llama~3.1 70B, open weights): single runs, 2{,}000 trial resamples. Protocol-only prompts hold registered fields only; posted-record prompts (the submitted version's) add the posted results-group labels and descriptions; the continuous \lm\ row is posted-record. $\IS = 1 - \mathrm{MSE}(\full)/\mathrm{MSE}(\blind)$; v2 values in \texttt{results/cr/main\_v2\_sensitivity.csv}.}
+\label{tab:main}
+\footnotesize
+\setlength{\tabcolsep}{4pt}\resizebox{\linewidth}{!}{\begin{tabular}{llccc}
+\toprule
+Task & System & skill(\blind) & skill(\full) & interventional skill \\
+\midrule
+\multirow{8}{*}{Risk difference}
+ & global mean & -- & 0 & -- \\
+ & \gbt\ (5 seeds) & 0.297 \ci{0.220}{0.373} & 0.211 \ci{0.141}{0.281} & $-0.123$ \ci{-0.205}{-0.048} \\
+ & \lm\ large, protocol-only & 0.462 \ci{0.338}{0.565} & 0.570 \ci{0.470}{0.655} & \textbf{0.201} \ci{0.083}{0.309} \\
+ & \lm\ large, posted-record & 0.494 \ci{0.382}{0.587} & 0.629 \ci{0.547}{0.701} & \textbf{0.266} \ci{0.156}{0.373} \\
+ & \lm\ small, protocol-only & 0.293 \ci{0.170}{0.394} & 0.351 \ci{0.238}{0.449} & \textbf{0.081} \ci{-0.013}{0.170} \\
+ & \lm\ small, posted-record & 0.313 \ci{0.177}{0.425} & 0.389 \ci{0.268}{0.484} & \textbf{0.112} \ci{-0.012}{0.226} \\
+ & Llama 3.1 70B, protocol-only & 0.356 \ci{0.270}{0.433} & 0.404 \ci{0.311}{0.483} & \textbf{0.075} \ci{-0.002}{0.151} \\
+ & Llama 3.1 70B, posted-record & 0.360 \ci{0.271}{0.436} & 0.417 \ci{0.314}{0.499} & \textbf{0.089} \ci{0.018}{0.157} \\
+\midrule
+\multirow{2}{*}{Standardised difference} & \gbt\ (5 seeds) & 0.273 \ci{0.198}{0.348} & 0.288 \ci{0.220}{0.354} & $0.021$ \ci{-0.046}{0.082} \\
+ & \lm\ large, posted-record & 0.259 \ci{0.125}{0.382} & 0.443 \ci{0.323}{0.560} & \textbf{0.249} \ci{0.069}{0.410} \\
+\bottomrule
+\end{tabular}}
+\end{table}

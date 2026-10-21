@@ -1,0 +1,145 @@
+{
+ "main": {
+  "script": "scripts/cr/tables/tab_main.py",
+  "csv": "results/cr/main.csv",
+  "tex": "tables/main.tex",
+  "runtime_s": 186.6,
+  "key_numbers": "binary registry GBT (5-seed mean): IS -0.123 [-0.205, -0.048], skill blind 0.297, full 0.211; binary Claude Sonnet 5 protocol-only: IS 0.201 [0.083, 0.309]; binary Claude Sonnet 5 posted-record: IS 0.266 [0.156, 0.373]; binary Claude Haiku 4.5 protocol-only: IS 0.081 [-0.013, 0.170]; binary Claude Haiku 4.5 posted-record: IS 0.112 [-0.012, 0.226]; binary Llama 3.1 70B Instruct protocol-only: IS 0.075 [-0.002, 0.151]; binary Llama 3.1 70B Instruct posted-record: IS 0.089 [0.018, 0.157]; continuous registry GBT (5-seed mean): IS 0.021 [-0.046, 0.082], skill blind 0.273, full 0.288; continuous Claude Sonnet 5 posted-record: IS 0.249 [0.069, 0.410]",
+  "extra_outputs": [
+   "results/cr/main_v2_sensitivity.csv"
+  ],
+  "matches_reference": "yes: GBT binary -0.123 [-0.205,-0.048], blind 0.297, full 0.211; GBT continuous 0.021 [-0.046,0.082]; Sonnet protocol 0.201 [0.083,0.309]; posted 0.266; Haiku 0.081/0.112; Llama 0.075/0.089; Sonnet continuous 0.249 [0.069,0.410]; v2 sensitivity reproduces protocol-only 0.261 [0.146,0.375], posted 0.385, GBT 5-seed -0.047"
+ },
+ "lmruns": {
+  "script": "scripts/cr/tables/tab_lmruns.py",
+  "csv": "results/cr/lmruns.csv",
+  "tex": "tables/lmruns.tex",
+  "runtime_s": 9.8,
+  "key_numbers": "v2.1 Claude Sonnet 5, protocol-only: n 878, IS 0.201 [0.083, 0.309]; v2.1 Claude Sonnet 5, posted-record: n 878, IS 0.266 [0.156, 0.373]; v2.1 Claude Haiku 4.5, protocol-only: n 878, IS 0.081 [-0.013, 0.170]; v2.1 Claude Haiku 4.5, posted-record: n 878, IS 0.112 [-0.012, 0.226]; v2.1 Llama 3.1 70B Instruct, protocol-only: n 878, IS 0.075 [-0.002, 0.151]; v2.1 Llama 3.1 70B Instruct, posted-record: n 878, IS 0.089 [0.018, 0.157]; v2.1 Claude Sonnet 5, posted-record: n 1329, IS 0.249 [0.069, 0.410]; v2 Claude Sonnet 5, protocol-only: n 1020, IS 0.261 [0.146, 0.375]; v2 Claude Sonnet 5, posted-record: n 1020, IS 0.385 [0.267, 0.488]; v2 Claude Haiku 4.5, protocol-only: n 1020, IS 0.106 [0.017, 0.191]; v2 Claude Haiku 4.5, posted-record: n 1020, IS 0.176 [0.060, 0.276]; v2 Llama 3.1 70B Instruct, protocol-only: n 1020, IS 0.116 [0.042, 0.196]; v2 Llama 3.1 70B Instruct, posted-record: n 1020, IS 0.117 [0.036, 0.191]; v2 Claude Sonnet 5, posted-record: n 1470, IS 0.275 [0.095, 0.430]; v2 Claude Sonnet 5, repeat run A vs original B: n 1020, IS 0.394 [0.277, 0.496]; v2.1 kept Claude Sonnet 5, repeat run A vs original B: n 816, IS 0.277 [0.169, 0.379]; v2 Claude Sonnet 5, original A vs repeat run B: n 1020, IS 0.395 [0.277, 0.497]; v2.1 kept Claude Sonnet 5, original A vs repeat run B: n 816, IS 0.272 [0.140, 0.386]; v2 Claude Sonnet 5, negative control (drug substituted) vs original B: n 1017, IS -0.568 [-0.915, -0.263]; v2.1 kept Claude Sonnet 5, negative control (drug substituted) vs original B: n 816, IS -0.839 [-1.336, -0.431]; v2 swap skill vs negated truth 0.626; v2.1 kept swap skill vs negated truth 0.611; class match 0.450 vs permuted 0.024",
+  "extra_outputs": [],
+  "matches_reference": "yes where references exist: v2 posted 0.385, repeat-A 0.394 [0.277,0.496], Haiku 0.176, continuous 0.275 (submitted Table 4); class match 0.450 vs 0.024"
+ },
+ "seeds": {
+  "script": "scripts/cr/tables/tab_seeds.py",
+  "csv": "results/cr/seeds.csv",
+  "tex": "tables/seeds.tex",
+  "runtime_s": 132.4,
+  "key_numbers": "seed 0: blind- 0.261, blind 0.295, full 0.216, interv 0.030, IS -0.113 [-0.192, -0.037]; seed 1: blind- 0.250, blind 0.301, full 0.210, interv 0.069, IS -0.130 [-0.238, -0.033]; seed 2: blind- 0.261, blind 0.311, full 0.209, interv 0.050, IS -0.148 [-0.255, -0.054]; seed 3: blind- 0.249, blind 0.283, full 0.208, interv 0.043, IS -0.104 [-0.200, -0.025]; seed 4: blind- 0.262, blind 0.295, full 0.212, interv 0.078, IS -0.118 [-0.207, -0.039]; seed mean: blind- 0.257, blind 0.297, full 0.211, interv 0.054, IS -0.123 [-0.205, -0.048]",
+  "extra_outputs": [
+   "results/cr/seeds_v2.csv"
+  ],
+  "matches_reference": "yes: tables/seeds.tex byte-identical to approved draft"
+ },
+ "arch": {
+  "script": "scripts/cr/tables/tab_arch.py",
+  "csv": "results/cr/arch.csv",
+  "tex": "tables/arch.tex",
+  "runtime_s": 92.6,
+  "key_numbers": "Headline GBT, shared SVD (120): blind 0.30, full 0.21, IS -0.123 [-0.205, -0.048]; Headline GBT, intervention text only: blind nan, full 0.05, IS --; GBT, separate SVD blocks (120+120): blind 0.31, full 0.28, IS -0.045 [-0.082, -0.007]; Ridge on sparse TF-IDF, no SVD (alpha 1/1): blind 0.27, full 0.24, IS -0.039 [-0.097, 0.021]; Ridge, intervention text only (alpha 1): blind nan, full 0.05, IS --; Two-stage: ridge blind + ridge(intervention) on OOF residuals (alpha 100): blind 0.27, full 0.27, IS 0.002 [-0.002, 0.005]; GBT on PubMedBERT embeddings (768+768): blind 0.29, full 0.29, IS -0.007 [-0.038, 0.025]; Ridge on PubMedBERT embeddings (alpha 0.3/1): blind 0.28, full 0.27, IS -0.012 [-0.049, 0.026]; Ridge, PubMedBERT intervention embedding only (alpha 1): blind nan, full 0.07, IS --",
+  "extra_outputs": [
+   "results/cr/arch_raw.csv",
+   "results/cr/embeddings_v21_binary.npz"
+  ],
+  "matches_reference": "yes: tables/arch.tex byte-identical to approved draft"
+ },
+ "contamination": {
+  "script": "scripts/cr/tables/tab_contamination.py",
+  "csv": "results/cr/contamination.csv",
+  "tex": "tables/contamination.tex",
+  "runtime_s": 4.2,
+  "key_numbers": "Llama 3.1 70B uncont_llama3.1 uncontaminated n=217/152: protocol 0.010, posted 0.089, GBT -0.058; Llama 3.1 70B uncont_llama3.1 complement n=661/503: protocol 0.097, posted 0.089, GBT -0.144; Claude Haiku 4.5 uncont_haiku4.5 uncontaminated n=5/3: protocol -0.102, posted 0.579, GBT -0.759; Claude Haiku 4.5 uncont_haiku4.5 complement n=873/652: protocol 0.083, posted 0.107, GBT -0.122; Claude Haiku 4.5 uncont_haiku4.5_reliable uncontaminated n=52/33: protocol 0.060, posted 0.146, GBT 0.008; Claude Haiku 4.5 uncont_haiku4.5_reliable complement n=826/622: protocol 0.082, posted 0.110, GBT -0.132; Claude Sonnet 5 uncont_sonnet5 complement n=878/655: protocol 0.201, posted 0.266, GBT -0.123; Claude Sonnet 5 uncont_sonnet5_reliable complement n=878/655: protocol 0.201, posted 0.266, GBT -0.123",
+  "extra_outputs": [],
+  "matches_reference": "no prior v2.1 reference; Llama strata counts 217/152 and IS match memorisation paragraph"
+ },
+ "exposure": {
+  "script": "scripts/cr/tables/tab_exposure.py",
+  "csv": "results/cr/exposure.csv",
+  "tex": "tables/exposure.tex",
+  "runtime_s": 5.3,
+  "key_numbers": "v2.1 all protocol-only: 0.08 [-0.00, 0.15] n=878(655); v2.1 all posted-record: 0.09 [0.02, 0.16] n=878(655); v2.1 uncontaminated protocol-only: 0.01 [-0.10, 0.12] n=217(152); v2.1 uncontaminated posted-record: 0.09 [-0.01, 0.20] n=217(152); v2.1 complement protocol-only: 0.10 [0.01, 0.19] n=661(503); v2.1 complement posted-record: 0.09 [0.01, 0.17] n=661(503); v2.1 uncontaminated, vocabulary unflagged posted-record: 0.08 [-0.03, 0.19] n=196(134); v2.1 uncontaminated, vocabulary flagged posted-record: 0.16 [-0.05, 0.33] n=21(18); v2.1 uncontaminated, molecule seen protocol-only: 0.14 [-0.13, 0.34] n=58(46); v2.1 uncontaminated, molecule unseen protocol-only: -0.01 [-0.15, 0.11] n=159(107); v2.1 complement, vocabulary unflagged posted-record: 0.09 [-0.01, 0.18] n=564(421); v2.1 complement, vocabulary flagged posted-record: 0.09 [-0.01, 0.20] n=97(83); v2.1 complement, molecule seen protocol-only: 0.16 [0.02, 0.29] n=242(200); v2.1 complement, molecule unseen protocol-only: 0.07 [-0.04, 0.19] n=419(310); v2.1 difference, uncontaminated minus complement protocol-only: -0.09 [-0.24, 0.06] n=878(655); v2.1 difference, uncontaminated minus complement posted-record: -0.00 [-0.13, 0.14] n=878(655); v2 all protocol-only: 0.12 [0.04, 0.20] n=1020(740); v2 all posted-record: 0.12 [0.04, 0.19] n=1020(740); v2 uncontaminated protocol-only: 0.03 [-0.08, 0.12] n=245(172); v2 uncontaminated posted-record: 0.12 [0.03, 0.21] n=245(172); v2 complement protocol-only: 0.15 [0.05, 0.24] n=775(568); v2 complement posted-record: 0.12 [0.01, 0.21] n=775(568); v2 uncontaminated, vocabulary unflagged posted-record: 0.13 [0.03, 0.22] n=215(149); v2 uncontaminated, vocabulary flagged posted-record: 0.05 [-0.13, 0.22] n=30(24); v2 uncontaminated, molecule seen protocol-only: 0.21 [-0.04, 0.35] n=57(46); v2 uncontaminated, molecule unseen protocol-only: -0.00 [-0.11, 0.09] n=188(127); v2 complement, vocabulary unflagged posted-record: 0.12 [0.00, 0.22] n=665(478); v2 complement, vocabulary flagged posted-record: 0.08 [-0.03, 0.18] n=110(92); v2 complement, molecule seen protocol-only: 0.14 [-0.02, 0.28] n=250(208); v2 complement, molecule unseen protocol-only: 0.15 [0.02, 0.26] n=525(371); v2 difference, uncontaminated minus complement protocol-only: -0.12 [-0.26, 0.02] n=1020(740); v2 difference, uncontaminated minus complement posted-record: 0.00 [-0.13, 0.14] n=1020(740)",
+  "extra_outputs": [],
+  "matches_reference": "yes: tables/exposure.tex byte-identical to approved draft table"
+ },
+ "coverage": {
+  "script": "scripts/cr/tables/tab_coverage.py",
+  "csv": "results/cr/coverage.csv",
+  "tex": "tables/coverage.tex",
+  "runtime_s": 217.9,
+  "key_numbers": "in_distribution split constant: cov 0.889 [0.860, 0.919], width 0.626, MAE 0.138, trial-level cal 0.880; in_distribution split normalized: cov 0.845 [0.813, 0.878], width 0.528, MAE 0.138, trial-level cal 0.858; in_distribution crossfit constant: cov 0.906 [0.879, 0.933], width 0.598, MAE 0.124, trial-level cal 0.893; in_distribution crossfit normalized: cov 0.867 [0.834, 0.897], width 0.514, MAE 0.124, trial-level cal 0.868; temporal_2023plus split constant: cov 0.888 [0.861, 0.914], width 0.602, MAE 0.136, trial-level cal 0.875; temporal_2023plus split normalized: cov 0.867 [0.839, 0.896], width 0.551, MAE 0.136, trial-level cal 0.854; temporal_2023plus crossfit constant: cov 0.874 [0.847, 0.899], width 0.563, MAE 0.130, trial-level cal 0.865; temporal_2023plus crossfit normalized: cov 0.845 [0.814, 0.873], width 0.501, MAE 0.130, trial-level cal 0.844",
+  "extra_outputs": [
+   "results/cr/coverage_v2.csv"
+  ],
+  "matches_reference": "v2 port reproduces submitted Table 13 exactly (coverage_v2.csv); v2.1 new",
+  "runtime_s_v2_check": 240.9
+ },
+ "op": {
+  "script": "scripts/cr/tables/tab_op.py",
+  "csv": "results/cr/op.csv",
+  "tex": "tables/op.tex",
+  "runtime_s": 57.9,
+  "key_numbers": "in_distribution split target 0.1 chosen on calibration: answered test 0.000 (trials 0.000), realised MAE nan; in_distribution split target 0.08 chosen on calibration: answered test 0.000 (trials 0.000), realised MAE nan; in_distribution split target 0.1 chosen on evaluated set (oracle): answered test 0.009 (trials 0.011), realised MAE 0.047; in_distribution split target 0.08 chosen on evaluated set (oracle): answered test 0.009 (trials 0.011), realised MAE 0.047; in_distribution crossfit target 0.1 chosen on calibration: answered test 0.756 (trials 0.813), realised MAE 0.106; in_distribution crossfit target 0.08 chosen on calibration: answered test 0.483 (trials 0.538), realised MAE 0.095; in_distribution crossfit target 0.1 chosen on evaluated set (oracle): answered test 0.658 (trials 0.708), realised MAE 0.100; in_distribution crossfit target 0.08 chosen on evaluated set (oracle): answered test 0.289 (trials 0.338), realised MAE 0.080; temporal_2023plus split target 0.1 chosen on calibration: answered test 0.468 (trials 0.493), realised MAE 0.111; temporal_2023plus split target 0.08 chosen on calibration: answered test 0.161 (trials 0.174), realised MAE 0.102; temporal_2023plus split target 0.1 chosen on evaluated set (oracle): answered test 0.158 (trials 0.171), realised MAE 0.098; temporal_2023plus split target 0.08 chosen on evaluated set (oracle): answered test 0.129 (trials 0.142), realised MAE 0.077; temporal_2023plus crossfit target 0.1 chosen on calibration: answered test 0.837 (trials 0.850), realised MAE 0.113; temporal_2023plus crossfit target 0.08 chosen on calibration: answered test 0.532 (trials 0.562), realised MAE 0.100; temporal_2023plus crossfit target 0.1 chosen on evaluated set (oracle): answered test 0.574 (trials 0.606), realised MAE 0.100; temporal_2023plus crossfit target 0.08 chosen on evaluated set (oracle): answered test 0.256 (trials 0.276), realised MAE 0.078",
+  "extra_outputs": [
+   "results/cr/op_v2.csv"
+  ],
+  "matches_reference": "v2 oracle rows reproduce submitted Table 14 (op_v2.csv); calibration-chosen rows new",
+  "runtime_s_v2_check": 59.7
+ },
+ "lmrevision": {
+  "script": "scripts/cr/tables/tab_lmrevision.py",
+  "csv": "results/cr/lmrevision.csv",
+  "tex": "tables/lmrevision.tex",
+  "runtime_s": 7.2,
+  "key_numbers": "v2.1 Claude Sonnet 5: IS, protocol-only: 0.201 [0.083, 0.309]; v2.1 Claude Sonnet 5: IS, posted-record: 0.266 [0.156, 0.373]; v2.1 Claude Sonnet 5: IS difference, posted-record minus protocol-only: 0.066 [-0.035, 0.166]; v2.1 Claude Haiku 4.5: IS, protocol-only: 0.081 [-0.013, 0.170]; v2.1 Claude Haiku 4.5: IS, posted-record: 0.112 [-0.012, 0.226]; v2.1 Claude Haiku 4.5: IS difference, posted-record minus protocol-only: 0.030 [-0.090, 0.151]; v2.1 Llama 3.1 70B: IS, protocol-only: 0.075 [-0.002, 0.151]; v2.1 Llama 3.1 70B: IS, posted-record: 0.089 [0.018, 0.157]; v2.1 Llama 3.1 70B: IS difference, posted-record minus protocol-only: 0.014 [-0.067, 0.088]; v2 Claude Sonnet 5: IS, protocol-only: 0.261 [0.146, 0.375]; v2 Claude Sonnet 5: IS, posted-record: 0.385 [0.267, 0.488]; v2 Claude Sonnet 5: IS difference, posted-record minus protocol-only: 0.124 [0.037, 0.209]; v2 Claude Haiku 4.5: IS, protocol-only: 0.106 [0.017, 0.191]; v2 Claude Haiku 4.5: IS, posted-record: 0.176 [0.060, 0.276]; v2 Claude Haiku 4.5: IS difference, posted-record minus protocol-only: 0.070 [-0.036, 0.170]; v2 Llama 3.1 70B: IS, protocol-only: 0.116 [0.042, 0.196]; v2 Llama 3.1 70B: IS, posted-record: 0.117 [0.036, 0.191]; v2 Llama 3.1 70B: IS difference, posted-record minus protocol-only: 0.002 [-0.116, 0.096]; v2 sign reversal, |A| > 0.01: 0.846 [0.818, 0.874]; v2 corr(swapped, -A): 0.945 [0.920, 0.965]; v2 mean(swapped + A) (ideal 0): 0.011 [0.006, 0.016]; v2 mean |A| (scale reference): 0.148; v2 IS, original A vs original B: 0.385 [0.267, 0.488]; v2 IS, original A vs repeat B: 0.395 [0.277, 0.497]; v2 IS difference, repeat B minus original B: 0.010 [-0.019, 0.041]; v2 corr(repeat B, original B): 0.980; v2 fraction of identical B points: 0.553; v2 H1: mean(|A| - |NC|): 0.025 [0.012, 0.040] (supported); v2 H1: fraction |NC| < |A|: 0.545 [0.509, 0.580] (supported); v2 H1: fraction |NC| = |A| (ties): 0.160; v2 H1 overall: 1.000 (supported); v2 H2 (inert control): mean |A|: 0.177; v2 H2 (inert control): mean |NC|: 0.118; v2 H2 (inert control): mean |A| - mean |NC|: 0.059 [0.043, 0.074] (supported); v2 H2 (inert control): slope of NC on A through origin: 0.608 [0.531, 0.683] (not supported); v2 H2 overall: 0.000 (not supported); v2 H3 (active comparator, A > 0): mean(NC - A): -0.133 [-0.189, -0.081] (supported); v2 H3: active-comparator contrasts (all A): 257.000; v2 secondary: skill(NC) vs training mean: 0.039 [-0.179, 0.231]; v2 secondary: skill(A | NC): 0.608 [0.512, 0.685]; v2 secondary: skill(NC | B): -0.568 [-0.915, -0.263]; v2 secondary: corr(NC, A): 0.650; v2 secondary: corr(NC, B): 0.498",
+  "extra_outputs": [],
+  "matches_reference": "yes: swap sign reversal 0.846 of 849; protocol-only v2 0.261 [0.146,0.375]"
+ },
+ "blindness": {
+  "script": "scripts/cr/tables/tab_blindness.py",
+  "csv": "results/cr/blindness.csv",
+  "tex": "tables/blindness.tex",
+  "runtime_s": 6.2,
+  "key_numbers": "v2 drug class match, true treatment: 0.450 [0.413, 0.488]; v2 drug class match, permuted treatment (chance): 0.024 [0.015, 0.033]; v2 mechanism match, true treatment: 0.462 [0.425, 0.501]; v2 mechanism match, permuted treatment (chance): 0.020 [0.012, 0.028]; v2 exact agent match, true treatment: 0.206 [0.177, 0.235]; v2 exact agent match, permuted treatment (chance): 0.008 [0.003, 0.014]; v2.1 kept drug class match, true treatment: 0.446 [0.406, 0.489]; v2.1 kept drug class match, permuted treatment (chance): 0.021 [0.011, 0.031]; v2.1 kept mechanism match, true treatment: 0.453 [0.413, 0.494]; v2.1 kept mechanism match, permuted treatment (chance): 0.017 [0.009, 0.027]; v2.1 kept exact agent match, true treatment: 0.211 [0.181, 0.243]; v2.1 kept exact agent match, permuted treatment (chance): 0.006 [0.001, 0.012]; v2.1 same-molecule hit rate, tfidf, top-1 [binary]: 0.232 [0.172, 0.298] chance 0.003; v2.1 same-molecule hit rate, tfidf, top-5 [binary]: 0.351 [0.279, 0.429] chance 0.014; v2.1 same-molecule hit rate, tfidf, top-10 [binary]: 0.439 [0.366, 0.518] chance 0.027; v2.1 same-molecule hit rate, svd120 (model input), top-1 [binary]: 0.193 [0.136, 0.254] chance 0.003; v2.1 same-molecule hit rate, svd120 (model input), top-5 [binary]: 0.298 [0.232, 0.368] chance 0.014; v2.1 same-molecule hit rate, svd120 (model input), top-10 [binary]: 0.386 [0.314, 0.462] chance 0.027; v2.1 same-molecule hit rate, tfidf, top-1 [continuous]: 0.260 [0.214, 0.309] chance 0.003; v2.1 same-molecule hit rate, tfidf, top-5 [continuous]: 0.370 [0.321, 0.426] chance 0.017; v2.1 same-molecule hit rate, tfidf, top-10 [continuous]: 0.465 [0.413, 0.523] chance 0.033; v2.1 same-molecule hit rate, svd120 (model input), top-1 [continuous]: 0.207 [0.165, 0.255] chance 0.003; v2.1 same-molecule hit rate, svd120 (model input), top-5 [continuous]: 0.320 [0.270, 0.375] chance 0.017; v2.1 same-molecule hit rate, svd120 (model input), top-10 [continuous]: 0.417 [0.363, 0.471] chance 0.033",
+  "extra_outputs": [],
+  "matches_reference": "yes: class match 0.450 vs chance 0.024 (v2)"
+ },
+ "design": {
+  "script": "scripts/cr/tables/tab_design.py",
+  "csv": "results/cr/design.csv",
+  "tex": "tables/design.tex",
+  "runtime_s": 8.6,
+  "key_numbers": "binary all test n=878: gbt_5seed -0.123 [-0.205, -0.048]; binary all test n=878: sonnet_protocol 0.201 [0.083, 0.309]; binary randomized parallel-group n=842: gbt_5seed -0.132 [-0.214, -0.052]; binary randomized parallel-group n=842: sonnet_protocol 0.216 [0.100, 0.332]; binary not randomized parallel-group n=36: gbt_5seed 0.052 [-0.264, 0.283]; binary not randomized parallel-group n=36: sonnet_protocol -0.110 [-0.691, 0.163]; binary participant-level unit n=845: gbt_5seed -0.109 [-0.183, -0.035]; binary participant-level unit n=845: sonnet_protocol 0.186 [0.068, 0.295]; binary participant-level unit & randomized n=821: gbt_5seed -0.114 [-0.200, -0.031]; binary participant-level unit & randomized n=821: sonnet_protocol 0.197 [0.079, 0.307]; binary participant-level unit & randomized parallel n=809: gbt_5seed -0.119 [-0.199, -0.034]; binary participant-level unit & randomized parallel n=809: sonnet_protocol 0.202 [0.077, 0.316]; continuous all test n=1329: gbt_5seed 0.021 [-0.046, 0.082]; continuous all test n=1329: sonnet_cont_posted 0.249 [0.069, 0.410]; continuous randomized parallel-group n=1305: gbt_5seed 0.022 [-0.050, 0.081]; continuous randomized parallel-group n=1305: sonnet_cont_posted 0.245 [0.046, 0.404]; continuous not randomized parallel-group n=24: gbt_5seed -0.009 [-0.337, 0.164]; continuous not randomized parallel-group n=24: sonnet_cont_posted 0.553 [0.306, 0.762]; continuous strict: arithmetic MEAN n=484: gbt_5seed -0.030 [-0.129, 0.041]; continuous strict: arithmetic MEAN n=484: sonnet_cont_posted 0.193 [-0.089, 0.432]; continuous strict & randomized n=474: gbt_5seed -0.031 [-0.125, 0.035]; continuous strict & randomized n=474: sonnet_cont_posted 0.186 [-0.094, 0.432]; continuous strict & randomized parallel n=468: gbt_5seed -0.029 [-0.127, 0.042]; continuous strict & randomized parallel n=468: sonnet_cont_posted 0.185 [-0.089, 0.425]; continuous sensitivity: MEAN or LS MEAN & randomized n=1113: gbt_5seed 0.019 [-0.052, 0.083]; continuous sensitivity: MEAN or LS MEAN & randomized n=1113: sonnet_cont_posted 0.251 [0.059, 0.418]; continuous sensitivity: MEAN or LS MEAN & randomized parallel n=1102: gbt_5seed 0.020 [-0.060, 0.085]; continuous sensitivity: MEAN or LS MEAN & randomized parallel n=1102: sonnet_cont_posted 0.249 [0.046, 0.422]",
+  "extra_outputs": [
+   "results/cr/design_noise_ceiling.csv"
+  ],
+  "matches_reference": "no prior v2.1 reference"
+ },
+ "_meta": {
+  "run_order": [
+   "seeds",
+   "main",
+   "lmruns",
+   "lmrevision",
+   "contamination",
+   "exposure",
+   "blindness",
+   "design",
+   "arch",
+   "coverage",
+   "op",
+   "coverage --version v2",
+   "op --version v2"
+  ],
+  "command": "python scripts/cr/tables/tab_<label>.py (from repo root)",
+  "shared_helpers": [
+   "scripts/cr/tables/_common.py",
+   "scripts/cr/tables/_conformal.py"
+  ],
+  "changed_files": [
+   "scripts/cr/run_architectures.py (sys.path fix: src is two levels up; usage docstring)"
+  ],
+  "registry_cache": "results/cr/registry_preds_<v2|v2.1>_<binary|continuous>.csv.gz: per-contrast GBT predictions (4 specs x seeds 0-4); written by the first script that needs them (seeds/main); delete to force refit; a clean-clone run regenerated them numerically identical and all tables byte-identical",
+  "verified": "clean clone of ve98fb7ac_ivbench_cr_base.zip + these files; all 13 runs exit 0. Clean-clone outputs matched the development run byte for byte except results/cr/op_v2.csv, whose development copy predated the tie-aware tab_op.py edit (16 vs 19 columns); after re-running tab_op.py --version v2 in the development tree it is byte-identical to the clean-clone file shipped here. Registry caches are numerically identical (gzip headers differ).",
+  "environment": "python 3.11, numpy/pandas/scipy/scikit-learn from environment.yml; no network, no LM calls",
+  "total_runtime_s": 1029.3
+ }
+}

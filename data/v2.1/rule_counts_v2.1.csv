@@ -1,0 +1,37 @@
+segment,rules,kept,relabelled,repaired,dropped,added_in_v2_trial,added
+test_binary,a only,974,0,18,28,0,0
+test_continuous,a only,1428,0,21,21,0,0
+train_binary,a only,3243,0,67,112,0,0
+train_continuous,a only,5214,0,74,74,0,0
+train_all,a only,8457,0,141,186,0,0
+total,a only,10859,0,180,235,0,0
+test_binary,b only,898,0,20,102,0,0
+test_continuous,b only,1349,0,12,109,0,0
+train_binary,b only,3245,0,29,148,0,0
+train_continuous,b only,4769,0,29,564,0,1
+train_all,b only,8014,0,58,712,0,1
+total,b only,10261,0,90,923,0,1
+test_binary,c only,946,0,37,37,17,147
+test_continuous,c only,1416,1,20,33,23,166
+train_binary,c only,3146,3,113,160,99,565
+train_continuous,c only,4956,2,143,261,123,824
+train_all,c only,8102,5,256,421,222,1389
+total,c only,10464,6,313,491,262,1702
+test_binary,b+a,860,0,35,125,0,0
+test_continuous,b+a,1311,0,31,128,0,0
+train_binary,b+a,3079,0,93,250,0,0
+train_continuous,b+a,4645,0,90,627,0,1
+train_all,b+a,7724,0,183,877,0,1
+total,b+a,9895,0,249,1130,0,1
+test_binary,a+b+c,816,0,50,154,16,130
+test_continuous,a+b+c,1274,1,39,156,19,142
+train_binary,a+b+c,2901,3,139,379,93,510
+train_continuous,a+b+c,4392,2,147,821,112,734
+train_all,a+b+c,7293,5,286,1200,205,1244
+total,a+b+c,9383,6,375,1510,240,1516
+test_binary,"v2.1 (a+b+c, v2 trial universe)",816,0,50,154,16,0
+test_continuous,"v2.1 (a+b+c, v2 trial universe)",1274,1,39,156,19,0
+train_binary,"v2.1 (a+b+c, v2 trial universe)",2901,3,139,379,93,0
+train_continuous,"v2.1 (a+b+c, v2 trial universe)",4392,2,147,821,112,0
+train_all,"v2.1 (a+b+c, v2 trial universe)",7293,5,286,1200,205,0
+total,"v2.1 (a+b+c, v2 trial universe)",9383,6,375,1510,240,0

@@ -1,0 +1,23 @@
+{
+ "model": "accounts/fireworks/models/llama-v3p1-70b-instruct",
+ "provider": "Fireworks dedicated on-demand deployment",
+ "precision": "BF16 (deployment field; shapeless, 2x NVIDIA_H200_141GB)",
+ "deployment_created_utc": "2026-10-04T16:19:10Z",
+ "deployment_deleted": "requested 16.9 min after creation; state DELETING confirmed",
+ "temperature": 0,
+ "json_mode": true,
+ "max_tokens": 1500,
+ "retry_rule": "one retry with RETRY_SUFFIX on parse failure (0 used)",
+ "transport_retries": "4 calls lost to connection resets were re-issued once and parsed",
+ "gate": {
+  "n": 20,
+  "parse_rate": 1.0,
+  "unique_points": 11,
+  "modal_share": 0.25
+ },
+ "rows": "1,020 v2 binary test contrasts + 66 v2.1 new/re-paired binary test contrasts",
+ "calls": 4344,
+ "parsed": 4344,
+ "knowledge_cutoff": "December 2023 (Meta model card); uncontaminated set: pcd and results first posted >= 2024-01-01 and no linked RESULT publication before",
+ "prompts": "llm_prompts.py 5d9b4d6c (build_prompt_protocol / build_prompt)"
+}

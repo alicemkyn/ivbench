@@ -1,0 +1,94 @@
+{
+ "trials_harvested": 30119,
+ "arm_rows_parsed": 56586,
+ "trials_parsed": 23755,
+ "min_n_per_arm": 20,
+ "test_from_year": 2023,
+ "source": "ClinicalTrials.gov API v2; completed interventional phase 2/3 studies with posted results; harvested 2026-09-09",
+ "version": "2.1: arm-pairing repair (same-molecule comparator, non-concurrent arms, investigational-arm preference); contrast universe restricted to the 8,011 v2 trials; v2 files unchanged",
+ "rules_module": "src/ivbench/pairing_rules.py",
+ "build_script": "scripts/build_v21.py",
+ "registry_refetch": "armsInterventionsModule + designModule, ClinicalTrials.gov API v2, 2026-10-04, 18,077 trials",
+ "arm_type_source": {
+  "released": 28590,
+  "unmatched": 7485,
+  "rematched": 4170,
+  "no_registry_arms": 205
+ },
+ "contrast_rows_final": 10004,
+ "contrast_trials_final": 7210,
+ "contrast_by_family": {
+  "continuous": 5986,
+  "binary": 4018
+ },
+ "contrast_by_split": {
+  "train": 7789,
+  "test": 2215
+ },
+ "contrast_by_family_split": {
+  "binary_test": 882,
+  "binary_train": 3136,
+  "continuous_test": 1333,
+  "continuous_train": 4653
+ },
+ "ctrl_kind": {
+  "inert_control": 7678,
+  "active_comparator": 2326
+ },
+ "v2_reconciliation": {
+  "kept": 9383,
+  "dropped": 1510,
+  "repaired": 375,
+  "relabelled": 6
+ },
+ "v21_rows_by_status": {
+  "kept": 9383,
+  "repaired": 375,
+  "added_in_v2_trial": 240,
+  "relabelled": 6
+ },
+ "excluded_candidate_contrasts_new_trials": 1516,
+ "excluded_candidate_trials": 1099,
+ "regex": {
+  "POOLED_TITLE_PATTERNS": [
+   "^\\s*(all|total|overall|pooled|combined)\\b",
+   "\\b(all|total|overall|pooled|combined)\\s*\\W*$",
+   "\\ball (participants|patients|subjects|doses|dose groups|arms|groups|treated|randomi[sz]ed|active|treatments|cohorts)\\b",
+   "\\bpooled\\b",
+   "\\b(average|avg)\\b",
+   "\\b(any|all) (active )?doses?\\b",
+   "\\btotal (active|drug|treated|population)\\b",
+   "\\bcombined (dose|doses|arms|groups|active|treatment)\\b"
+  ],
+  "POOLED_DESC_PATTERNS": [
+   "\\bpooled\\b",
+   "\\b(data|results) (from|of) (all|both) (arms|groups|doses|dose groups|cohorts)\\b",
+   "\\baverage (dose )?effect\\b",
+   "\\bcombined (data|analysis|groups|arms|doses|dose groups)\\b",
+   "\\b(includes|including|consists of|comprises) (all )?(participants|patients|subjects) (from|in) (all|both)\\b"
+  ],
+  "EXTENSION_TITLE_PATTERNS": [
+   "\\bopen[- ]label extension\\b",
+   "\\bOLE\\b",
+   "\\bextension (study|phase|period|part|treatment)\\b",
+   "\\broll[- ]?over\\b",
+   "\\b(early|delayed)[- ](start|treated|treatment)\\b",
+   "\\b(from|in) (the )?(parent|lead[- ]in|previous|prior|preceding|core|feeder|antecedent|double[- ]blind) (study|studies|trial)\\b",
+   "\\b(from|in) study\\s+[a-z0-9][a-z0-9-]{2,}",
+   "\\blead[- ]in\\b",
+   "\\bparent stud(y|ies)\\b",
+   "\\bpre-?treatment\\b",
+   "^\\s*baseline\\b",
+   "\\bwashout\\b",
+   "\\bfollow[- ]?up (phase|period)\\b"
+  ],
+  "STAGE_PATTERNS": [
+   "\\b(part|period|phase|stage|cohort|segment|step|panel|epoch)\\s*[:#-]?\\s*(\\d+[a-z]?|[ivx]{1,4}|[a-h])\\b",
+   "\\b(double[- ]blind|open[- ]label|db|ol)\\s*(phase|period|part|stage|treatment period|:)"
+  ],
+  "NONCONCURRENT_MODELS": [
+   "CROSSOVER",
+   "SEQUENTIAL"
+  ]
+ }
+}

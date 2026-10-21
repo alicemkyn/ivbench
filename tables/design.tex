@@ -1,0 +1,46 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Interventional skill on design subsets of the v2.1 binary temporal test split. Randomized parallel-group: allocation and intervention model from an October 2026 re-fetch of the registry records. Participant-level unit: the binary outcome is a count or percentage of participants. \gbt: five-seed mean with one shared set of 1{,}000 trial resamples, seed SD across the five seeds; language models: single runs, 2{,}000 trial resamples. Haiku and Llama posted-record rows, seed-0 registry values and the noise ceiling per subset are in \texttt{results/cr/design.csv} and \texttt{results/cr/design\_noise\_ceiling.csv}.}
+\label{tab:design}
+\begin{tabular}{lcc}\toprule system & $\IS$ & seed SD \\ \midrule
+\multicolumn{3}{l}{\emph{all test}: 878 contrasts, 655 trials} \\
+\quad \gbt & $-0.123$ \ci{-0.205}{-0.048} & 0.017 \\
+\quad Sonnet 5, protocol-only & $0.201$ \ci{0.083}{0.309} & -- \\
+\quad Sonnet 5, posted-record & $0.266$ \ci{0.156}{0.373} & -- \\
+\quad Haiku 4.5, protocol-only & $0.081$ \ci{-0.013}{0.170} & -- \\
+\quad Llama 3.1 70B, protocol-only & $0.075$ \ci{-0.002}{0.151} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{randomized parallel-group}: 842 contrasts, 627 trials} \\
+\quad \gbt & $-0.132$ \ci{-0.214}{-0.052} & 0.013 \\
+\quad Sonnet 5, protocol-only & $0.216$ \ci{0.100}{0.332} & -- \\
+\quad Sonnet 5, posted-record & $0.275$ \ci{0.165}{0.379} & -- \\
+\quad Haiku 4.5, protocol-only & $0.076$ \ci{-0.025}{0.165} & -- \\
+\quad Llama 3.1 70B, protocol-only & $0.083$ \ci{0.001}{0.162} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{not randomized parallel-group}: 36 contrasts, 28 trials} \\
+\quad \gbt & $0.052$ \ci{-0.264}{0.283} & 0.149 \\
+\quad Sonnet 5, protocol-only & $-0.110$ \ci{-0.691}{0.163} & -- \\
+\quad Sonnet 5, posted-record & $0.131$ \ci{-0.121}{0.416} & -- \\
+\quad Haiku 4.5, protocol-only & $0.176$ \ci{-0.208}{0.465} & -- \\
+\quad Llama 3.1 70B, protocol-only & $-0.080$ \ci{-0.641}{0.180} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{participant-level unit}: 845 contrasts, 634 trials} \\
+\quad \gbt & $-0.109$ \ci{-0.183}{-0.035} & 0.017 \\
+\quad Sonnet 5, protocol-only & $0.186$ \ci{0.068}{0.295} & -- \\
+\quad Sonnet 5, posted-record & $0.261$ \ci{0.147}{0.370} & -- \\
+\quad Haiku 4.5, protocol-only & $0.072$ \ci{-0.025}{0.156} & -- \\
+\quad Llama 3.1 70B, protocol-only & $0.087$ \ci{0.014}{0.164} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{participant-level unit \& randomized}: 821 contrasts, 614 trials} \\
+\quad \gbt & $-0.114$ \ci{-0.200}{-0.031} & 0.016 \\
+\quad Sonnet 5, protocol-only & $0.197$ \ci{0.079}{0.307} & -- \\
+\quad Sonnet 5, posted-record & $0.262$ \ci{0.145}{0.374} & -- \\
+\quad Haiku 4.5, protocol-only & $0.060$ \ci{-0.035}{0.148} & -- \\
+\quad Llama 3.1 70B, protocol-only & $0.093$ \ci{0.020}{0.168} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{participant-level unit \& randomized parallel}: 809 contrasts, 606 trials} \\
+\quad \gbt & $-0.119$ \ci{-0.199}{-0.034} & 0.016 \\
+\quad Sonnet 5, protocol-only & $0.202$ \ci{0.077}{0.316} & -- \\
+\quad Sonnet 5, posted-record & $0.269$ \ci{0.143}{0.383} & -- \\
+\quad Haiku 4.5, protocol-only & $0.066$ \ci{-0.027}{0.151} & -- \\
+\quad Llama 3.1 70B, protocol-only & $0.096$ \ci{0.022}{0.174} & -- \\
+\bottomrule\end{tabular}\end{table}

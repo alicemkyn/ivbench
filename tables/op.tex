@@ -1,0 +1,13 @@
+\begin{table}[h]\centering\small
+\caption{Answer-or-abstain operating points for the registry model, cross-fitted recipe, v2.1 binary contrasts: answer the contrasts whose predicted error scale is below a threshold. \emph{Calibration} rows choose the threshold on out-of-fold calibration residuals (largest answered fraction whose calibration MAE does not exceed the target) and report the answered fractions and the realised MAE when that threshold is applied unchanged to the evaluated set. \emph{Evaluated (oracle)} rows choose the threshold on the evaluated set itself, as in the submitted version, and meet the target by construction. The split recipe is in Table~\ref{tab:opsplit}.}
+\label{tab:op}
+\resizebox{\linewidth}{!}{\begin{tabular}{llllcccc}\toprule regime & target MAE & threshold chosen on & answered (calibration) & answered (contrasts) & answered (trials) & realised MAE, answered & MAE if all answered \\ \midrule
+in\_distribution & 0.10 & calibration & 0.678 & 0.756 & 0.813 & 0.106 & 0.124 \\
+in\_distribution & 0.10 & evaluated (oracle) & -- & 0.658 & 0.708 & 0.100 & 0.124 \\
+in\_distribution & 0.08 & calibration & 0.397 & 0.483 & 0.538 & 0.095 & 0.124 \\
+in\_distribution & 0.08 & evaluated (oracle) & -- & 0.289 & 0.338 & 0.080 & 0.124 \\
+temporal\_2023plus & 0.10 & calibration & 0.759 & 0.837 & 0.850 & 0.113 & 0.130 \\
+temporal\_2023plus & 0.10 & evaluated (oracle) & -- & 0.574 & 0.606 & 0.100 & 0.130 \\
+temporal\_2023plus & 0.08 & calibration & 0.459 & 0.532 & 0.562 & 0.100 & 0.130 \\
+temporal\_2023plus & 0.08 & evaluated (oracle) & -- & 0.256 & 0.276 & 0.078 & 0.130 \\
+\bottomrule\end{tabular}}\end{table}

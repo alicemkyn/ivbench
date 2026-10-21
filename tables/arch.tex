@@ -1,0 +1,14 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Registry-model architectures on the v2.1 binary temporal test split (878 contrasts, 655 trials). Skill columns are against the global training mean; \blind\ includes comparator type, and $\IS$ is \full\ vs \blind\ of the same architecture. The headline GBT embeds endpoint and intervention text in one shared 120-dimensional SVD space; the other rows remove that sharing. Five-seed rows report the seed mean with an interval from one shared set of 1{,}000 trial resamples; ridge rows are deterministic, with $\alpha$ chosen by trial-grouped 5-fold cross-validation. The two-stage model adds a shrunken correction to the \blind\ prediction and so stays near zero by construction. No row has a positive interval. v2 values in the released CSV.}
+\label{tab:arch}
+\resizebox{\linewidth}{!}{\begin{tabular}{lcccc}\toprule architecture & seeds & skill(\blind) & skill(\full) & $\IS$ \\ \midrule
+Headline GBT, shared SVD (120) & 5 & 0.30 & 0.21 & $$-0.12$$ \ci{$-0.20$}{$-0.05$} \\
+Headline GBT, intervention text only & 5 & -- & 0.05 & -- \\
+GBT, separate SVD blocks (120+120) & 5 & 0.31 & 0.28 & $$-0.04$$ \ci{$-0.08$}{$-0.01$} \\
+Ridge on sparse TF-IDF, no SVD ($\alpha$ 1/1) & 1 & 0.27 & 0.24 & $$-0.04$$ \ci{$-0.10$}{0.02} \\
+Ridge, intervention text only ($\alpha$ 1) & 1 & -- & 0.05 & -- \\
+Two-stage: ridge blind + ridge(intervention) on OOF residuals ($\alpha$ 100) & 1 & 0.27 & 0.27 & $0.00$ \ci{0.00}{0.01} \\
+GBT on PubMedBERT embeddings (768+768) & 5 & 0.29 & 0.29 & $$-0.01$$ \ci{$-0.04$}{0.02} \\
+Ridge on PubMedBERT embeddings ($\alpha$ 0.3/1) & 1 & 0.28 & 0.27 & $$-0.01$$ \ci{$-0.05$}{0.03} \\
+Ridge, PubMedBERT intervention embedding only ($\alpha$ 1) & 1 & -- & 0.07 & -- \\
+\bottomrule\end{tabular}}\end{table}

@@ -1,0 +1,23 @@
+\begin{table}[h]\centering\footnotesize
+\caption{How blind is \blind? (a) Claude Haiku~4.5 reads the original condition-B prompt and guesses the withheld treatment's drug class, mechanism and an example agent; a Haiku~4.5 judge scores the guess against the true treatment and, as a chance reference, against the treatment of a randomly permuted contrast (judge calls that failed to parse are excluded). On the 878 v2.1 binary test contrasts (v2 values in \texttt{results/cr/blindness.csv}); 95\% trial-level bootstrap intervals (2{,}000 resamples). (b) For v2.1 test contrasts whose normalised treatment name occurs in the training split, the share for which a training contrast with the same molecule is among the $k$ nearest by \blind\ text (endpoint and condition fields), as TF-IDF and as the 120-dimensional SVD the registry model uses; chance is the hypergeometric rate for $k$ random training contrasts; 1{,}000 trial resamples.}
+\label{tab:blindness}
+\resizebox{\linewidth}{!}{\begin{tabular}{lcccr}\toprule statistic & observed & chance & ratio & $n$ (trials) \\ \midrule
+\multicolumn{5}{l}{\emph{(a) language model: treatment class guessed from the \blind\ prompt (Claude Haiku~4.5, v2.1 binary)}} \\
+\quad drug class & 0.449 \ci{0.408}{0.489} & 0.023 \ci{0.014}{0.033} & 19.7 & 878 (655) \\
+\quad mechanism & 0.454 \ci{0.414}{0.494} & 0.019 \ci{0.011}{0.029} & 23.4 & 878 (655) \\
+\quad exact agent & 0.208 \ci{0.179}{0.240} & 0.007 \ci{0.002}{0.013} & 30.4 & 878 (655) \\
+\midrule
+\multicolumn{5}{l}{\emph{(b) registry \blind\ text: same-molecule training contrast retrieved (v2.1)}} \\
+\quad binary, tfidf, top-1 & 0.232 \ci{0.172}{0.298} & 0.003 & 82.2 & 228 (188) \\
+\quad binary, tfidf, top-5 & 0.351 \ci{0.279}{0.429} & 0.014 & 25.1 & 228 (188) \\
+\quad binary, tfidf, top-10 & 0.439 \ci{0.366}{0.518} & 0.027 & 16.0 & 228 (188) \\
+\quad binary, svd120 (model input), top-1 & 0.193 \ci{0.136}{0.254} & 0.003 & 68.2 & 228 (188) \\
+\quad binary, svd120 (model input), top-5 & 0.298 \ci{0.232}{0.368} & 0.014 & 21.4 & 228 (188) \\
+\quad binary, svd120 (model input), top-10 & 0.386 \ci{0.314}{0.462} & 0.027 & 14.1 & 228 (188) \\
+\quad continuous, tfidf, top-1 & 0.260 \ci{0.214}{0.309} & 0.003 & 75.1 & 516 (398) \\
+\quad continuous, tfidf, top-5 & 0.370 \ci{0.321}{0.426} & 0.017 & 21.9 & 516 (398) \\
+\quad continuous, tfidf, top-10 & 0.465 \ci{0.413}{0.523} & 0.033 & 14.1 & 516 (398) \\
+\quad continuous, svd120 (model input), top-1 & 0.207 \ci{0.165}{0.255} & 0.003 & 60.0 & 516 (398) \\
+\quad continuous, svd120 (model input), top-5 & 0.320 \ci{0.270}{0.375} & 0.017 & 18.9 & 516 (398) \\
+\quad continuous, svd120 (model input), top-10 & 0.417 \ci{0.363}{0.471} & 0.033 & 12.6 & 516 (398) \\
+\bottomrule\end{tabular}}\end{table}

@@ -1,0 +1,16 @@
+\begin{table}[h]\centering\small
+\caption{Interventional skill inside and outside each model's uncontaminated set, v2.1 binary temporal test split (878 contrasts). A trial is uncontaminated for a model when its primary completion and first results posting both fall on or after the model's boundary date and no linked results publication predates it. Language-model columns use protocol-only and posted-record prompts (2{,}000 trial resamples); the registry \gbt\ column (five-seed mean, one shared set of 1{,}000 trial resamples) has no pretraining exposure and shows the effect of the date stratum alone. Strata with fewer than 30 contrasts ($^{\dagger}$) are not interpretable and are shown without intervals. For Sonnet~5 the training and reliable-knowledge boundaries coincide. Continuous-family strata are in \texttt{results/cr/contamination.csv}.}
+\label{tab:contamination}
+\resizebox{\linewidth}{!}{\begin{tabular}{lllrrccc}\toprule model & boundary & stratum & contrasts & trials & $\IS$ protocol-only & $\IS$ posted-record & $\IS$ \gbt \\ \midrule
+Llama 3.1 70B & training cutoff (2024-01-01) & uncontaminated & 217 & 152 & $0.010$ \ci{-0.103}{0.123} & $0.089$ \ci{-0.012}{0.195} & $-0.058$ \ci{-0.214}{0.104} \\
+ &  & complement & 661 & 503 & $0.097$ \ci{0.005}{0.188} & $0.089$ \ci{0.006}{0.169} & $-0.144$ \ci{-0.232}{-0.052} \\
+\addlinespace
+Haiku 4.5 & training cutoff (2025-08-01) & uncontaminated & 5 & 3 & $-0.102^{\dagger}$ & $0.579^{\dagger}$ & $-0.759^{\dagger}$ \\
+ &  & complement & 873 & 652 & $0.083$ \ci{-0.016}{0.171} & $0.107$ \ci{-0.021}{0.221} & $-0.122$ \ci{-0.196}{-0.046} \\
+\addlinespace
+Haiku 4.5 & reliable-knowledge cutoff (2025-03-01) & uncontaminated & 52 & 33 & $0.060$ \ci{-0.256}{0.331} & $0.146$ \ci{-0.144}{0.337} & $0.008$ \ci{-0.208}{0.152} \\
+ &  & complement & 826 & 622 & $0.082$ \ci{-0.019}{0.174} & $0.110$ \ci{-0.016}{0.221} & $-0.132$ \ci{-0.211}{-0.048} \\
+\addlinespace
+Sonnet 5 & training / reliable-knowledge cutoff (2026-02-01) & uncontaminated & 0 & 0 & -- & -- & -- \\
+ &  & complement & 878 & 655 & $0.201$ \ci{0.083}{0.309} & $0.266$ \ci{0.156}{0.373} & $-0.123$ \ci{-0.205}{-0.048} \\
+\bottomrule\end{tabular}}\end{table}

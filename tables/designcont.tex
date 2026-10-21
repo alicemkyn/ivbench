@@ -1,0 +1,36 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Interventional skill on design and valid-conversion subsets of the v2.1 continuous temporal test split (posted-record prompt for the language model). Strict: arithmetic means only; sensitivity rows also admit least-squares means. \gbt: five-seed mean with one shared set of 1{,}000 trial resamples, seed SD across the five seeds; language models: single runs, 2{,}000 trial resamples. Haiku and Llama posted-record rows, seed-0 registry values and the noise ceiling per subset are in \texttt{results/cr/design.csv} and \texttt{results/cr/design\_noise\_ceiling.csv}.}
+\label{tab:designcont}
+\begin{tabular}{lcc}\toprule system & $\IS$ & seed SD \\ \midrule
+\multicolumn{3}{l}{\emph{all test}: 1{,}329 contrasts, 978 trials} \\
+\quad \gbt & $0.021$ \ci{-0.046}{0.082} & 0.019 \\
+\quad Sonnet 5, posted-record & $0.249$ \ci{0.069}{0.410} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{randomized parallel-group}: 1{,}305 contrasts, 961 trials} \\
+\quad \gbt & $0.022$ \ci{-0.050}{0.081} & 0.019 \\
+\quad Sonnet 5, posted-record & $0.245$ \ci{0.046}{0.404} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{not randomized parallel-group}: 24 contrasts, 17 trials} \\
+\quad \gbt & $-0.009$ \ci{-0.337}{0.164} & 0.065 \\
+\quad Sonnet 5, posted-record & $0.553$ \ci{0.306}{0.762} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{strict: arithmetic MEAN}: 484 contrasts, 374 trials} \\
+\quad \gbt & $-0.030$ \ci{-0.129}{0.041} & 0.026 \\
+\quad Sonnet 5, posted-record & $0.193$ \ci{-0.089}{0.432} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{strict \& randomized}: 474 contrasts, 366 trials} \\
+\quad \gbt & $-0.031$ \ci{-0.125}{0.035} & 0.029 \\
+\quad Sonnet 5, posted-record & $0.186$ \ci{-0.094}{0.432} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{strict \& randomized parallel}: 468 contrasts, 362 trials} \\
+\quad \gbt & $-0.029$ \ci{-0.127}{0.042} & 0.028 \\
+\quad Sonnet 5, posted-record & $0.185$ \ci{-0.089}{0.425} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{sensitivity: MEAN or LS MEAN \& randomized}: 1{,}113 contrasts, 789 trials} \\
+\quad \gbt & $0.019$ \ci{-0.052}{0.083} & 0.025 \\
+\quad Sonnet 5, posted-record & $0.251$ \ci{0.059}{0.418} & -- \\
+\midrule
+\multicolumn{3}{l}{\emph{sensitivity: MEAN or LS MEAN \& randomized parallel}: 1{,}102 contrasts, 782 trials} \\
+\quad \gbt & $0.020$ \ci{-0.060}{0.085} & 0.025 \\
+\quad Sonnet 5, posted-record & $0.249$ \ci{0.046}{0.422} & -- \\
+\bottomrule\end{tabular}\end{table}

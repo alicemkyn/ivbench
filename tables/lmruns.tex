@@ -1,0 +1,17 @@
+\begin{table}[h]\centering\footnotesize
+\caption{All language-model runs. Upper block: benchmark arms on the v2.1 temporal test split; protocol-only prompts contain registered protocol fields only, posted-record prompts are the original prompts (continuous uses the posted-record prompt). Lower block: perturbation runs of Claude Sonnet~5 with the original (posted-record) prompts on the 878 v2.1 binary test contrasts (the 62 new or re-paired contrasts were run separately with identical prompts); the repeat run of condition~A exists for v2 only and is reported on the 816 v2.1 contrasts it covers (`v2.1 kept'). v2 values in \texttt{results/cr/lmruns.csv}. Skill against the family's training mean; $\IS$ = \full\ (A) vs \blind\ (B) with 95\% trial-level bootstrap intervals (2{,}000 resamples); coverage of the self-stated 90\% interval as A / B (MAE and mean width in the CSV). The negative-control row excludes 3 refusals; the arm-swap row is scored against the negated truth. Run names are abbreviated (full names in the CSV). Class guess (Claude Haiku~4.5 from the condition-B prompt, judged by Haiku~4.5; v2.1, 878 contrasts): the drug class matches the true treatment in 0.449 vs 0.023 for a permuted treatment (876 judged), mechanism 0.454 vs 0.019, exact agent 0.208 vs 0.007.}
+\label{tab:lmruns}
+\resizebox{\linewidth}{!}{\begin{tabular}{lllrrcccc}\toprule run & family & test set & $n$ & trials & skill(A) & skill(B) & $\IS$ & coverage A / B \\ \midrule
+Sonnet 5, protocol & binary & v2.1 & 878 & 655 & 0.570 & 0.462 & $0.201$ \ci{0.083}{0.309} & 0.70 / 0.69 \\
+Sonnet 5, posted & binary & v2.1 & 878 & 655 & 0.629 & 0.494 & $0.266$ \ci{0.156}{0.373} & 0.74 / 0.70 \\
+Haiku 4.5, protocol & binary & v2.1 & 878 & 655 & 0.351 & 0.293 & $0.081$ \ci{-0.013}{0.170} & 0.58 / 0.59 \\
+Haiku 4.5, posted & binary & v2.1 & 878 & 655 & 0.389 & 0.313 & $0.112$ \ci{-0.012}{0.226} & 0.57 / 0.61 \\
+Llama 3.1 70B, protocol & binary & v2.1 & 878 & 655 & 0.404 & 0.356 & $0.075$ \ci{-0.002}{0.151} & 0.59 / 0.63 \\
+Llama 3.1 70B, posted & binary & v2.1 & 878 & 655 & 0.417 & 0.360 & $0.089$ \ci{0.018}{0.157} & 0.66 / 0.69 \\
+Sonnet 5, posted & continuous & v2.1 & 1{,}329 & 978 & 0.443 & 0.259 & $0.249$ \ci{0.069}{0.410} & 0.77 / 0.67 \\
+\midrule
+Sonnet 5, repeat run A vs original B & binary & v2.1 kept & 816 & 632 & 0.629 & 0.487 & $0.277$ \ci{0.169}{0.379} & 0.75 / 0.70 \\
+Sonnet 5, original A vs repeat run B & binary & v2.1 & 878 & 655 & 0.629 & 0.482 & $0.283$ \ci{0.158}{0.396} & 0.74 / 0.71 \\
+Sonnet 5, neg. control (drug substituted) vs original B & binary & v2.1 & 878 & 655 & 0.055 & 0.494 & $-0.869$ \ci{-1.335}{-0.475} & 0.66 / 0.70 \\
+Sonnet 5, arms swapped (vs negated truth) & binary & v2.1 & 878 & 655 & 0.623 & -- & -- & 0.75 / -- \\
+\bottomrule\end{tabular}}\end{table}

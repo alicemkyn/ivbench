@@ -1,0 +1,37 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Conformal coverage and mean width (nominal 90\%) for the registry model, v2.1 binary contrasts, both calibration recipes, all regimes. Coverage intervals are 95\% trial-level bootstrap intervals (1{,}000 resamples over trials), not Wilson intervals. The last column recalibrates on one randomly chosen contrast per calibration trial, which restores trial-level exchangeability (mean over 200 draws, with the 2.5th--97.5th percentiles across draws); coverage of one random contrast per test trial is in \texttt{results/cr/coverage.csv}.}
+\label{tab:coverage}
+\resizebox{\linewidth}{!}{\begin{tabular}{lllrcccc}\toprule regime & recipe & interval & $n$ & coverage & width & MAE & coverage, one contrast per calibration trial \\ \midrule
+in\_distribution & split & constant & 640 & 0.889 \ci{0.860}{0.919} & 0.626 & 0.138 & 0.880 \ci{0.875}{0.889} \\
+in\_distribution & split & normalized & 640 & 0.845 \ci{0.813}{0.878} & 0.528 & 0.138 & 0.858 \ci{0.852}{0.866} \\
+in\_distribution & crossfit & constant & 640 & 0.906 \ci{0.879}{0.933} & 0.598 & 0.124 & 0.893 \ci{0.891}{0.895} \\
+in\_distribution & crossfit & normalized & 640 & 0.867 \ci{0.834}{0.897} & 0.514 & 0.124 & 0.868 \ci{0.866}{0.870} \\
+temporal\_2023plus & split & constant & 878 & 0.888 \ci{0.861}{0.914} & 0.602 & 0.136 & 0.875 \ci{0.868}{0.880} \\
+temporal\_2023plus & split & normalized & 878 & 0.867 \ci{0.839}{0.896} & 0.551 & 0.136 & 0.854 \ci{0.847}{0.862} \\
+temporal\_2023plus & crossfit & constant & 878 & 0.874 \ci{0.847}{0.899} & 0.563 & 0.130 & 0.865 \ci{0.859}{0.867} \\
+temporal\_2023plus & crossfit & normalized & 878 & 0.845 \ci{0.814}{0.873} & 0.501 & 0.130 & 0.844 \ci{0.841}{0.847} \\
+loao\_cardiometabolic & split & constant & 254 & 0.949 \ci{0.917}{0.977} & 0.603 & 0.085 & 0.949 \ci{0.949}{0.949} \\
+loao\_cardiometabolic & split & normalized & 254 & 0.921 \ci{0.880}{0.958} & 0.455 & 0.085 & 0.919 \ci{0.913}{0.921} \\
+loao\_cardiometabolic & crossfit & constant & 254 & 0.949 \ci{0.914}{0.976} & 0.577 & 0.085 & 0.944 \ci{0.937}{0.945} \\
+loao\_cardiometabolic & crossfit & normalized & 254 & 0.913 \ci{0.870}{0.951} & 0.388 & 0.085 & 0.914 \ci{0.913}{0.917} \\
+loao\_immune\_inflam & split & constant & 874 & 0.857 \ci{0.825}{0.887} & 0.580 & 0.156 & 0.846 \ci{0.843}{0.848} \\
+loao\_immune\_inflam & split & normalized & 874 & 0.810 \ci{0.778}{0.844} & 0.532 & 0.156 & 0.806 \ci{0.803}{0.811} \\
+loao\_immune\_inflam & crossfit & constant & 874 & 0.843 \ci{0.810}{0.875} & 0.563 & 0.158 & 0.830 \ci{0.824}{0.839} \\
+loao\_immune\_inflam & crossfit & normalized & 874 & 0.838 \ci{0.806}{0.868} & 0.600 & 0.158 & 0.835 \ci{0.827}{0.840} \\
+loao\_infectious & split & constant & 727 & 0.912 \ci{0.885}{0.938} & 0.621 & 0.125 & 0.907 \ci{0.906}{0.909} \\
+loao\_infectious & split & normalized & 727 & 0.856 \ci{0.826}{0.885} & 0.471 & 0.125 & 0.859 \ci{0.856}{0.861} \\
+loao\_infectious & crossfit & constant & 727 & 0.883 \ci{0.852}{0.913} & 0.571 & 0.126 & 0.881 \ci{0.880}{0.882} \\
+loao\_infectious & crossfit & normalized & 727 & 0.882 \ci{0.853}{0.912} & 0.539 & 0.126 & 0.882 \ci{0.879}{0.886} \\
+loao\_neuro\_psych & split & constant & 253 & 0.909 \ci{0.868}{0.947} & 0.604 & 0.130 & 0.901 \ci{0.901}{0.901} \\
+loao\_neuro\_psych & split & normalized & 253 & 0.877 \ci{0.830}{0.923} & 0.540 & 0.130 & 0.870 \ci{0.870}{0.877} \\
+loao\_neuro\_psych & crossfit & constant & 253 & 0.913 \ci{0.869}{0.951} & 0.582 & 0.124 & 0.893 \ci{0.889}{0.897} \\
+loao\_neuro\_psych & crossfit & normalized & 253 & 0.858 \ci{0.805}{0.906} & 0.535 & 0.124 & 0.858 \ci{0.858}{0.858} \\
+loao\_oncology & split & constant & 450 & 0.951 \ci{0.931}{0.971} & 0.609 & 0.103 & 0.942 \ci{0.940}{0.947} \\
+loao\_oncology & split & normalized & 450 & 0.942 \ci{0.919}{0.962} & 0.548 & 0.103 & 0.940 \ci{0.940}{0.942} \\
+loao\_oncology & crossfit & constant & 450 & 0.949 \ci{0.927}{0.971} & 0.565 & 0.099 & 0.942 \ci{0.938}{0.947} \\
+loao\_oncology & crossfit & normalized & 450 & 0.911 \ci{0.884}{0.938} & 0.463 & 0.099 & 0.911 \ci{0.909}{0.911} \\
+loao\_other & split & constant & 1456 & 0.824 \ci{0.801}{0.846} & 0.618 & 0.169 & 0.813 \ci{0.808}{0.816} \\
+loao\_other & split & normalized & 1456 & 0.764 \ci{0.738}{0.787} & 0.467 & 0.169 & 0.762 \ci{0.755}{0.764} \\
+loao\_other & crossfit & constant & 1456 & 0.804 \ci{0.778}{0.825} & 0.537 & 0.164 & 0.793 \ci{0.784}{0.796} \\
+loao\_other & crossfit & normalized & 1456 & 0.771 \ci{0.747}{0.794} & 0.470 & 0.164 & 0.772 \ci{0.769}{0.775} \\
+\bottomrule\end{tabular}}\end{table}

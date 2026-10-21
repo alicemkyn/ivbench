@@ -1,0 +1,9 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Same-molecule retrieval positive control on v2.1 (binary test split, $k=3$ matched training contrasts of the same normalised treatment name). ``residual'' adds the shrunk mean out-of-fold \blind\ residual of the matched contrasts to the \blind\ prediction; ``level'' replaces the prediction by their mean delta shrunk towards the training mean. sameCtrl restricts matches to the same comparator kind. 95\% trial-level bootstrap intervals (1{,}000 resamples). Last column: the gradient-boosting \full\ model's $\IS$ on the same subset. Variants keyed on intervention MeSH terms are in Table~\ref{tab:molmesh}.}
+\label{tab:mol}
+\resizebox{\linewidth}{!}{\begin{tabular}{lrrcc}\toprule variant & contrasts & trials & retrieval $\IS$ & \gbt\ $\IS$, same subset \\ \midrule
+name\_sameCtrl\_k3\_residual & 246 & 201 & $-0.043$ \ci{-0.166}{0.052} & $-0.216$ \ci{-0.417}{-0.020} \\
+name\_sameCtrl\_k3\_level & 246 & 201 & $-0.689$ \ci{-1.105}{-0.385} & $-0.216$ \ci{-0.417}{-0.020} \\
+name\_anyCtrl\_k3\_residual & 286 & 230 & $-0.088$ \ci{-0.296}{0.071} & $-0.255$ \ci{-0.440}{-0.090} \\
+name\_anyCtrl\_k3\_level & 286 & 230 & $-0.747$ \ci{-1.200}{-0.428} & $-0.255$ \ci{-0.440}{-0.090} \\
+\bottomrule\end{tabular}}\end{table}

@@ -1,0 +1,45 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Language-model revision checks. (a) Interventional skill with protocol-only and posted-record prompts on the v2.1 binary test split, with the paired difference on one shared set of 2{,}000 trial resamples. (b)--(d) use Claude Sonnet~5 with the original (posted-record) prompts on the 878 v2.1 binary test contrasts (v2 and 816-contrast values in \texttt{results/cr/lmrevision.csv}). (b) Condition A with the arms exchanged; A is the original condition-A prediction. (c) A second run of condition B. (d) Hypotheses H1--H3 exactly as pre-registered before any negative-control call (\texttt{results/llm/cr/negative\_control\_preregistration.md}): the treatment is replaced by loratadine (cardiometabolic trials) or ezetimibe (all other areas); NC is the substituted prediction; refused calls (3 on v2) are excluded. Intervals are 95\% trial-level bootstrap (2{,}000 resamples).}
+\label{tab:lmrevision}
+\resizebox{\linewidth}{!}{\begin{tabular}{lcrl}\toprule statistic & value & $n$ & pre-registered criterion / outcome \\ \midrule
+\multicolumn{4}{l}{\emph{(a) prompt condition, v2.1}} \\
+\quad Claude Sonnet 5: IS, protocol-only & $0.201$ \ci{0.083}{0.309} & 878 &  \\
+\quad Claude Sonnet 5: IS, posted-record & $0.266$ \ci{0.156}{0.373} & 878 &  \\
+\quad Claude Sonnet 5: IS difference, posted-record minus protocol-only & $0.066$ \ci{-0.035}{0.166} & 878 &  \\
+\quad Claude Haiku 4.5: IS, protocol-only & $0.081$ \ci{-0.013}{0.170} & 878 &  \\
+\quad Claude Haiku 4.5: IS, posted-record & $0.112$ \ci{-0.012}{0.226} & 878 &  \\
+\quad Claude Haiku 4.5: IS difference, posted-record minus protocol-only & $0.030$ \ci{-0.090}{0.151} & 878 &  \\
+\quad Llama 3.1 70B: IS, protocol-only & $0.075$ \ci{-0.002}{0.151} & 878 &  \\
+\quad Llama 3.1 70B: IS, posted-record & $0.089$ \ci{0.018}{0.157} & 878 &  \\
+\quad Llama 3.1 70B: IS difference, posted-record minus protocol-only & $0.014$ \ci{-0.067}{0.088} & 878 &  \\
+\midrule
+\multicolumn{4}{l}{\emph{(b) arm swap, v2.1}} \\
+\quad sign reversal, $|A|$ $>$ 0.01 & $0.861$ \ci{0.830}{0.890} & 742 & a model that reads the arms returns about $-A$ \\
+\quad corr(swapped, $-A$) & $0.947$ \ci{0.921}{0.967} & 878 &  \\
+\quad mean(swapped + A) (ideal 0) & $0.008$ \ci{0.003}{0.014} & 878 &  \\
+\quad mean $|A|$ (scale reference) & $0.152$ & 878 &  \\
+\midrule
+\multicolumn{4}{l}{\emph{(c) blind repeat, v2.1}} \\
+\quad IS, original A vs original B & $0.266$ \ci{0.156}{0.373} & 878 &  \\
+\quad IS, original A vs repeat B & $0.283$ \ci{0.158}{0.396} & 878 &  \\
+\quad IS difference, repeat B minus original B & $0.017$ \ci{-0.024}{0.052} & 878 &  \\
+\quad corr(repeat B, original B) & $0.981$ & 878 &  \\
+\quad fraction of identical B points & $0.556$ & 878 &  \\
+\midrule
+\multicolumn{4}{l}{\emph{(d) pre-registered negative control, v2.1}} \\
+\quad H1: mean($|A|$ - $|\mathrm{NC}|$) & $0.035$ \ci{0.020}{0.049} & 878 & $>$ 0, CI excludes 0: supported \\
+\quad H1: fraction $|\mathrm{NC}|$ $<$ $|A|$ & $0.559$ \ci{0.519}{0.597} & 878 & $>$ 0.5: supported \\
+\quad H1: fraction $|\mathrm{NC}|$ = $|A|$ (ties) & $0.151$ & 878 &  \\
+\quad H1 overall & -- & 878 & both H1 conditions: supported \\
+\quad H2 (inert control): mean $|A|$ & $0.186$ & 644 &  \\
+\quad H2 (inert control): mean $|\mathrm{NC}|$ & $0.113$ & 644 &  \\
+\quad H2 (inert control): mean $|A|$ - mean $|\mathrm{NC}|$ & $0.073$ \ci{0.057}{0.089} & 644 & $>$ 0: supported \\
+\quad H2 (inert control): slope of NC on A through origin & $0.590$ \ci{0.498}{0.686} & 644 & $<$ 0.5: inconclusive \\
+\quad H2 overall & -- & 644 & both H2 conditions: not supported \\
+\quad H3 (active comparator, A $>$ 0): mean(NC - A) & $-0.118$ \ci{-0.178}{-0.068} & 113 & $<$ 0: supported \\
+\quad secondary: skill(NC) vs training mean & $0.055$ \ci{-0.164}{0.247} & 878 &  \\
+\quad secondary: skill(A $\mid$ NC) & $0.607$ \ci{0.500}{0.694} & 878 &  \\
+\quad secondary: skill(NC $\mid$ B) & $-0.869$ \ci{-1.335}{-0.475} & 878 &  \\
+\quad secondary: corr(NC, A) & $0.649$ & 878 &  \\
+\quad secondary: corr(NC, B) & $0.583$ & 878 &  \\
+\bottomrule\end{tabular}}\end{table}

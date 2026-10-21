@@ -1,0 +1,10 @@
+\begin{table}[h]\centering\small
+\caption{Arm-level task on v2.1 (predicting each test arm's event proportion; 4{,}177 arms / 1{,}945 trials; pooled or total groups excluded, repaired arm roles). ``blind\_norole'' additionally omits the arm's role. 95\% trial-level bootstrap intervals (1{,}000 resamples). v2 values in the released CSV.}
+\label{tab:level}
+\begin{tabular}{llc}\toprule model & reference & skill \\ \midrule
+blind & train\_mean & 0.245 \ci{0.204}{0.287} \\
+blind\_norole & train\_mean & 0.225 \ci{0.187}{0.266} \\
+full & train\_mean & 0.212 \ci{0.168}{0.255} \\
+full & blind & $-0.044$ \ci{-0.090}{-0.003} \\
+full & blind\_norole & $-0.018$ \ci{-0.062}{0.024} \\
+\bottomrule\end{tabular}\end{table}

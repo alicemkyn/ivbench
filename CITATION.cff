@@ -1,18 +1,24 @@
 cff-version: 1.2.0
-message: "If you use this benchmark or code, please cite the accompanying paper (author list to be completed on acceptance)."
+message: "If you use this benchmark or code, please cite the accompanying paper."
 title: "ivbench: an intervention-blind test of interventional validity for trial simulators"
 type: software
 authors:
-  - name: "Anonymous (double-blind submission, NeurIPS 2026 Workshop on World Models for High-Stakes Health)"
-version: "1.0.0"
-date-released: "2026-09-15"
+  - family-names: Koyun
+    given-names: Alicem
+    affiliation: Westcliff University
+    email: alicemkoyun@gmail.com
+version: "2.1.0"
+date-released: "2026-10-20"
 license: MIT
-# repository-code: add the anonymised (review) or public (camera-ready) repository URL here
+# Zenodo DOI of the archived release: add a `doi:` line here once the GitHub release is archived
+repository-code: "https://github.com/alicemkyn/ivbench"
 keywords: [clinical trials, ClinicalTrials.gov, benchmark, world models, treatment effect prediction, interventional validity]
 preferred-citation:
-  type: article
-  title: "Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 8,011 Registered Trials"
+  type: conference-paper
+  title: "Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 7,207 Registered Trials"
   authors:
-    - name: "Anonymous"
+    - family-names: Koyun
+      given-names: Alicem
+      affiliation: Westcliff University
   year: 2026
   collection-title: "NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS)"

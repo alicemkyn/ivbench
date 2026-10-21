@@ -1,0 +1,13 @@
+\begin{table}[h]\centering\small
+\caption{Answer-or-abstain operating points, split recipe, v2.1. The split recipe fits its error-scale model to in-sample residuals of the proper training half, which are compressed towards zero; the fitted scale therefore sits at its floor value for most contrasts (0.00 to 0.75 of the evaluated set across regimes), ties cannot be broken, and where the tied floor group alone exceeds the target no calibration threshold answers any contrast (answered fraction 0). The recipe is kept for comparability with the submitted version; the cross-fitted recipe (Table~\ref{tab:op}) is the one the main text uses.}
+\label{tab:opsplit}
+\resizebox{\linewidth}{!}{\begin{tabular}{llllcccc}\toprule regime & target MAE & threshold chosen on & answered (calibration) & answered (contrasts) & answered (trials) & realised MAE, answered & MAE if all answered \\ \midrule
+in\_distribution & 0.10 & calibration & 0.000 & 0.000 & 0.000 & -- & 0.138 \\
+in\_distribution & 0.10 & evaluated (oracle) & -- & 0.009 & 0.011 & 0.047 & 0.138 \\
+in\_distribution & 0.08 & calibration & 0.000 & 0.000 & 0.000 & -- & 0.138 \\
+in\_distribution & 0.08 & evaluated (oracle) & -- & 0.009 & 0.011 & 0.047 & 0.138 \\
+temporal\_2023plus & 0.10 & calibration & 0.336 & 0.468 & 0.493 & 0.111 & 0.136 \\
+temporal\_2023plus & 0.10 & evaluated (oracle) & -- & 0.158 & 0.171 & 0.098 & 0.136 \\
+temporal\_2023plus & 0.08 & calibration & 0.115 & 0.161 & 0.174 & 0.102 & 0.136 \\
+temporal\_2023plus & 0.08 & evaluated (oracle) & -- & 0.129 & 0.142 & 0.077 & 0.136 \\
+\bottomrule\end{tabular}}\end{table}

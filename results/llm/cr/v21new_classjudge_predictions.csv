@@ -1,0 +1,279 @@
+cid,nct_id,run_name,variant,condition,model,prompt_sha1,truth,year_posted,area,ctrl_kind,parse_ok,n_calls,raw_response,model_returned,error,judged_cid,drug_class,mechanism,example_agent,class_match,mechanism_match,exact_agent
+c21_0001,NCT00278408,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,2ff2ce746681c487713b1ba8c9bdae60a17f1812,-0.0070967741935483,2025,oncology,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0001,monoclonal antibody,CD20 antigen targeting; B-cell depletion,rituximab,True,True,True
+c21_0003,NCT02792842,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,c5ad1a3330d4915882012b3cac7c187b3634e309,-0.2354497354497355,2024,oncology,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0003,Anticoagulant / Antithrombotic,Thrombin inhibition and protein C activation via thrombomodulin receptor engagement,Thrombomodulin alfa (recombinant),True,True,True
+c21_0004,NCT02914561,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,9d2a6aaa72f7faf402b80fda590a26b90309abb9,0.1309999999999999,2023,immune_inflam,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Explanation:** Filgotinib is a JAK inhibitor (specifically a selective JAK1 inhibitor), not an integrin antagonist. Its mechanism is inhibition of Janus kinase 1 signaling, not blockade of α4β7 integrin. Vedolizuma",claude-haiku-4-5-20251001,,c21_0004,Integrin antagonist,Blocks α4β7 integrin to prevent lymphocyte homing to gut mucosa,vedolizumab,False,False,False
+c21_0005,NCT02914561,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,105c31d0908ae6e5af5687a3fa7c2ed46c0c4d3f,0.0189999999999999,2023,immune_inflam,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Explanation:** Filgotinib is a JAK1 inhibitor (Janus kinase 1 selective inhibitor), not an IL-23 inhibitor. While both classes are used in inflammatory conditions like ulcerative colitis, they target different mole",claude-haiku-4-5-20251001,,c21_0005,Interleukin-23 (IL-23) inhibitor,"Selective inhibition of IL-23 signaling pathway, reducing Th17 cell differentiation and intestinal inflammation",Risankizumab,False,False,False
+c21_0006,NCT02935634,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,5ba4c99e8b262d18395c8efad30b44fdfacfcfb4,-0.087,2023,oncology,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0006,immune checkpoint inhibitor,PD-1/PD-L1 axis blockade,pembrolizumab,True,True,False
+c21_0007,NCT03083665,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,0c222c94b0df3db5b4b63a1b50e7c1bb3f6ba528,0.017,2023,neuro_psych,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Explanation:**
+
+- **class_match = false**: Brivaracetam is a **synaptic vesicle protein 2A (SV2A) modulator**, not a voltage-gated sodium channel blocker. These are distinct pharmacological classes at the standard ",claude-haiku-4-5-20251001,,c21_0007,Voltage-gated sodium channel blocker,Inhibition of voltage-gated sodium channels to reduce neuronal excitability and seizure propagation,Lacosamide,False,False,False
+c21_0008,NCT03083665,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,0c222c94b0df3db5b4b63a1b50e7c1bb3f6ba528,-0.014,2023,neuro_psych,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0008,Voltage-gated sodium channel blocker,Inhibition of voltage-gated sodium channels to reduce neuronal excitability and seizure propagation,Lacosamide,False,False,False
+c21_0009,NCT03193190,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,77300ce05ba509ebce947e5a0fb0941f71f48758,0.061,2025,other,active_comparator,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+The guess correctly identifies **Atezolizumab** (which is indeed a PD-L1 checkpoint inhibitor), but the true intervention is a **combination** of two distinct agents:
+
+1. **Atezolizumab** – PD-L1 checkpoint inhibitor",claude-haiku-4-5-20251001,,c21_0009,Immune checkpoint inhibitor,PD-L1/PD-1 axis blockade,Pembrolizumab,False,False,False
+c21_0010,NCT03259074,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,6ff8b904dfa09e624fef6e595bdbf91b059c6aad,0.0130000000000001,2023,other,active_comparator,True,1,"I need to identify what AIN457 actually is before scoring this guess.
+
+AIN457 is **iptacopan**, a complement Factor B inhibitor (Factor B is a component of the alternative complement pathway). It is NOT a TNFα inhibitor.
+
+**Scoring:**
+
+- **class_match**: FALSE — The guessed class (TNFα inhibitor) is",claude-haiku-4-5-20251001,,c21_0010,TNFα inhibitor,Tumor necrosis factor alpha inhibition,adalimumab,False,False,False
+c21_0011,NCT03342027,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,b818ea10188e22ff30956e32cb3cd2d2f6098a4a,-0.1454678362573099,2025,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0011,Antidepressant (Aminoketone),Norepinephrine-dopamine reuptake inhibitor; reduces craving and withdrawal symptoms in nicotine dependence,Bupropion,True,True,True
+c21_0012,NCT03663335,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,2fb6a95a3dd55d237c8d851c84086905ead37cb9,0.386,2026,other,active_comparator,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Rationale:**
+
+- **class_match = false**: The true interventions include CFZ533 (a C5a complement inhibitor), MMF (an inosine monophosphate dehydrogenase inhibitor), corticosteroids, basiliximab (IL-2 receptor antag",claude-haiku-4-5-20251001,,c21_0012,Calcineurin inhibitor alternative / mTOR inhibitor,Inhibition of mammalian target of rapamycin (mTOR) to reduce T-cell proliferation and allograft rejection,Sirolimus or Everolimus,False,False,False
+c21_0013,NCT03663335,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,6061e8219aee471f413c71d647fb5204ff00525f,0.166,2026,other,active_comparator,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0013,Costimulation blocker,T cell costimulation inhibition via CD28-B7 pathway blockade,Belatacept,False,False,False
+c21_0014,NCT03672487,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,ba3102a67eef30ffa87bf7e5593163a525023c1b,-0.0890688259109312,2026,other,active_comparator,True,2,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0014,nitroheterocyclic trypanocide,DNA and protein synthesis inhibition via metabolic activation and free radical generation,benznidazole,False,False,False
+c21_0015,NCT03732833,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,c1a7d7cf6dbc09f0f2d55fbaac55b8c604eea929,0.2275449101796407,2023,other,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0015,Botulinum toxin,"Inhibition of acetylcholine release at the neuromuscular junction through cleavage of SNARE proteins, causing temporary paralysis of facial muscles and reduction of dynamic wrinkles",Botulinum toxin type A,True,True,False
+c21_0016,NCT04003103,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,07bdc98488b97d5d99fd4525738bc2172b56c9fd,-0.1005154639175257,2023,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0016,Nucleotide reverse transcriptase transferase inhibitor (NtRTI),Inhibition of HIV reverse transcriptase and integration by chain termination; blocks viral DNA synthesis and integration into host genome,Tenofovir alafenamide (TAF) or similar long-acting nucleotide analog,False,False,False
+c21_0017,NCT04003103,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,ef1e3f27ceba90cc66a37461ebc163d6a5761756,-0.0695876288659793,2023,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0017,nucleotide reverse transcriptase translocation inhibitor (ntRTI),inhibits HIV reverse transcriptase by blocking nucleotide binding and chain elongation; blocks translocation of the enzyme along the viral RNA template,MK-8591 (islatravir),True,True,True
+c21_0018,NCT04003389,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,fe1b379fc304d5eff634bb4817ac96e52b8fe8c3,0.0,2023,other,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Explanation:** Fezolinetant is a neurokinin-3 (NK3) receptor antagonist, a distinct pharmacological class. Its mechanism targets NK3 receptors in the hypothalamus to modulate thermoregulation, which is fundamentall",claude-haiku-4-5-20251001,,c21_0018,Selective Serotonin Reuptake Inhibitor (SSRI) or Selective Norepinephrine Reuptake Inhibitor (SNRI),"Inhibition of monoamine reuptake in the central nervous system, modulating thermoregulatory pathways in the hypothalamus",Venlafaxine,False,False,False
+c21_0019,NCT04003389,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,b1d879387f45dfcb32d51fb6b0c18827daca1382,0.005,2023,other,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Justification:**
+
+- **class_match = false**: Fezolinetant is a neurokinin-3 (NK3) receptor antagonist, not an SSRI or SNRI. These are distinct pharmacological classes targeting different neurotransmitter systems.
+
+",claude-haiku-4-5-20251001,,c21_0019,Selective Serotonin Reuptake Inhibitor (SSRI) or Serotonin-Norepinephrine Reuptake Inhibitor (SNRI),"Inhibition of serotonin and/or norepinephrine reuptake, reducing vasomotor instability and hot flash frequency",Paroxetine or Venlafaxine,False,False,False
+c21_0020,NCT04056325,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,0424bb5bb2214d6d5b1cc2a4a99a1ce07777795e,0.595,2024,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0020,Anthelmintic,Neuromuscular paralysis via GABA-gated chloride channel agonism,Ivermectin,True,True,False
+c21_0021,NCT04056325,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,30a0f2ca4b4bf7bfe345609ae385bf82aab6656c,0.7060000000000001,2024,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Rationale:**
+
+- **class_match = true**: Moxidectin is an anthelmintic, and benzimidazoles are a major class of anthelmintics. Both belong to the same standard pharmacological class used for parasitic nematode infect",claude-haiku-4-5-20251001,,c21_0021,Anthelmintic (Benzimidazole),"Disruption of microtubule polymerization in nematode cells, leading to paralysis and death",Albendazole,True,False,False
+c21_0022,NCT04056325,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,5855d620711edfc11d4c9825caafb00fc73fe5bc,0.001,2024,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0022,Anthelmintic (benzimidazole or macrocyclic lactone),"Inhibition of microtubule polymerization or potentiation of GABA-gated chloride channels in nematode nervous system, leading to paralysis and expulsion",Ivermectin or albendazole,True,True,False
+c21_0023,NCT04304508,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,6da8db9e5714d2777e7cca80bccc149832c1bb69,0.0185531073333465,2023,cardiometabolic,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0023,Anticoagulant,Factor Xa inhibitor,Apixaban,True,True,False
+c21_0025,NCT04469686,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,e3cbf715332ae674537d39a4b14e98f573cdcde0,0.196969696969697,2026,other,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0025,Corticosteroid,"Local anti-inflammatory action via glucocorticoid receptor binding; reduces mucosal inflammation, bleeding, and tissue damage in ulcerative proctitis",Hydrocortisone acetate,True,True,True
+c21_0026,NCT04469686,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,e9aea19b2d87706b76015845c67718775bcf7f06,0.1490275893260967,2026,other,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0026,Corticosteroid,Glucocorticoid receptor agonist; reduces intestinal inflammation by suppressing pro-inflammatory cytokine production and immune cell activation,Hydrocortisone,True,True,True
+c21_0027,NCT04518995,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,2a98e578562149daf467cad37a0707651c21b302,0.288,2023,other,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0027,Janus kinase (JAK) inhibitor,Inhibition of JAK-STAT signaling pathway to suppress T-cell mediated autoimmune attack on hair follicles,Baricitinib,True,True,False
+c21_0028,NCT04568031,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,a9267a89b30fff36829a321010873f335fca68ae,1.0,2024,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```
+
+AZD1222 (Oxford-AstraZeneca COVID-19 vaccine) is a viral vector vaccine, not an mRNA vaccine. The guessed class ""COVID-19 vaccine"" and mechanism (viral antigen presentation to induce adaptive immunity against SARS-CoV-",claude-haiku-4-5-20251001,,c21_0028,COVID-19 vaccine,Viral antigen presentation to induce adaptive immune response against SARS-CoV-2 spike protein,BNT162b2 (Pfizer-BioNTech) or mRNA-1273 (Moderna),True,True,False
+c21_0029,NCT04575597,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,1c72ac11409e8f3ada0b8732787b428d20abf717,-0.0400000000000001,2023,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0029,antiviral nucleoside analog,viral RNA polymerase inhibition,remdesivir,True,True,False
+c21_0030,NCT04575597,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,b3175dc2d0d5636aa510e500b7db1c5cdc72a388,-0.015,2023,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0030,Oral antiviral (nucleoside analog),Inhibition of viral RNA-dependent RNA polymerase,Remdesivir or molnupiravir,True,True,True
+c21_0031,NCT04590547,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,85a0bc474017f0717bc6ead947dae723314c2afa,0.0238095238095238,2025,infectious,inert_control,True,1,"```json
+{
+  ""class_match"": true,
+  ""mechanism_match"": true,
+  ""exact_agent"": false
+}
+```",claude-haiku-4-5-20251001,,c21_0031,Immunomodulator (anti-cytokine / anti-inflammatory),"Inhibition of pro-inflammatory cytokines (IL-6, TNF-α, or IL-1) to reduce excessive immune response and pneumonitis in COVID-19",Tocilizumab (IL-6 receptor antagonist) or Anakinra (IL-1 receptor antagonist),True,True,False
+c21_0032,NCT04756128,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,caf93083f4fbf6d8517c45b64051bd9e1e90591e,0.212987012987013,2023,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Reasoning:**
+
+- **class_match = false**: Colchicine is an anti-inflammatory agent that acts as a tubulin polymerization inhibitor (microtubule-destabilizing agent). Low-dose naltrexone (LDN) is an opioid receptor a",claude-haiku-4-5-20251001,,c21_0032,Low-dose naltrexone (LDN),Opioid receptor antagonism and immunomodulation; reduces inflammatory cytokine production and enhances regulatory T cell function,Naltrexone 4.5 mg daily,False,False,False
+c21_0033,NCT04756128,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,da0b8cd44b9db5a014e74a8e600ce3b5620027f7,0.1327731092436975,2023,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Rationale:**
+
+- **class_match = false**: Colchicine is an anti-inflammatory agent that works via tubulin depolymerization and microtubule disruption, not a corticosteroid. While both are anti-inflammatory, corticos",claude-haiku-4-5-20251001,,c21_0033,Anti-inflammatory corticosteroid,Suppresses inflammatory response and reduces cytokine-mediated tissue damage in moderate COVID-19 pneumonia,Dexamethasone,False,False,False
+c21_0034,NCT04756128,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,31fadd40bc86eb273d42f4dcb34b2d0f6f672331,0.0571428571428571,2023,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0034,Anti-inflammatory immunomodulatory agents,Colchicine inhibits microtubule polymerization and reduces neutrophil migration and inflammasome activation; LDN (low-dose naltrexone) modulates toll-like receptor signaling and reduces pro-inflammatory cytokine production,Colchicine and low-dose naltrexone (LDN),True,True,False
+c21_0035,NCT04917861,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,2c16f005386ffc57d1296a4f43b97c91e6deee2e,0.3932323232323232,2025,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Reasoning:**
+
+- **class_match = true**: mRNA-1893 is an mRNA vaccine against Zika virus. The guessed class ""Viral vaccine"" is appropriately specific and matches the true intervention at the standard-class level (ana",claude-haiku-4-5-20251001,,c21_0035,Viral vaccine,Live attenuated virus or recombinant subunit vaccine inducing humoral and cellular immune responses against Zika virus antigens,ZIKV live attenuated vaccine (LAV) or recombinant ZIKV envelope protein vaccine,True,False,False
+c21_0036,NCT05047601,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,0b45724cc448ae204a832794af4217c246362c8e,-0.0151899999999999,2023,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0036,Protease inhibitor,Inhibition of SARS-CoV-2 3CL protease to prevent viral replication,Nirmatrelvir,True,True,True
+c21_0037,NCT05047601,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,001717a76f86013cdd75aa8756c891f2fbb7cb86,-0.0132199999999999,2023,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0037,Antiviral nucleoside analog,Viral RNA polymerase inhibition,Remdesivir,False,False,False
+c21_0038,NCT05070546,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,a6aebabf0662a3fa894306c86ac543dc4709e48e,0.6473362930077692,2023,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Reasoning:**
+
+- **class_match = false**: The true intervention is a **combination vaccine** — it includes both a recombinant viral vector component (Ad26.RSV.preF, an adenovirus-26 vectored vaccine) AND a protein s",claude-haiku-4-5-20251001,,c21_0038,Viral vector vaccine,Recombinant viral vector expressing RSV antigens to elicit adaptive immune response against respiratory syncytial virus,ChAdOx1-vectored RSV vaccine or similar recombinant adenovirus-based RSV vaccine,False,False,False
+c21_0039,NCT05137236,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,70aff5482c3695025e3d9e51063a051db61b02f1,0.056077694235589,2025,infectious,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0039,COVID-19 vaccine,Immune stimulation against SARS-CoV-2,"mRNA vaccine (e.g., Pfizer-BioNTech, Moderna) or viral vector vaccine (e.g., Johnson & Johnson, AstraZeneca)",True,True,False
+c21_0040,NCT05137236,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,a533274b8a7f2c53adac02f61ea1d19800f2a756,0.087719298245614,2025,infectious,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0040,mRNA vaccine,encodes viral spike protein to stimulate adaptive immunity against SARS-CoV-2,BNT162b2 (Pfizer-BioNTech Comirnaty),True,True,False
+c21_0041,NCT05202327,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,7245ee051245410253b37d3ff6d6c4b3bfbb29b4,-0.0833333333333333,2026,neuro_psych,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0041,Stimulant,Dopamine and norepinephrine reuptake inhibitor,Methylphenidate,False,False,False
+c21_0042,NCT05202327,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,69ca586f6b5d2385fc1be5a4fae119b9a817606c,-0.108695652173913,2026,neuro_psych,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0042,Stimulant,Dopamine and norepinephrine reuptake inhibition,Methylphenidate or Amphetamine,False,False,False
+c21_0043,NCT05333289,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,9095f542171e6b1efe3d0a9927b746b9b1c4e126,-0.056338028169014,2024,infectious,active_comparator,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0043,Live attenuated influenza vaccine (LAIV),Viral replication and immune priming in respiratory mucosa,FluMist (quadrivalent live attenuated influenza vaccine),False,False,False
+c21_0044,NCT05333289,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,92525b54d038cd6819a6b302b94bb91ef78884ba,0.0119327073552426,2024,infectious,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```
+
+**Reasoning:**
+
+- **class_match = true**: mRNA-1030 is an mRNA vaccine (specifically, an mRNA influenza vaccine candidate). ""Inactivated influenza vaccine"" and ""mRNA vaccine"" are both standard vaccine classes against i",claude-haiku-4-5-20251001,,c21_0044,Inactivated influenza vaccine,Humoral immune response stimulation via viral antigen presentation,Seasonal inactivated influenza vaccine (IIV),True,True,False
+c21_0045,NCT05333289,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,a780ad586180ddf5e46497c19e73917fc9aa5bf6,0.0258215962441314,2024,infectious,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0045,Inactivated influenza vaccine,Stimulates humoral and cellular immune response against influenza virus antigens through vaccination,Inactivated seasonal influenza vaccine (IIV),True,True,False
+c21_0046,NCT05420961,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,781efb59d350ecc7d582d9b6c43d85eb46f5f9a5,0.0,2024,infectious,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0046,Pneumococcal polysaccharide conjugate vaccine,Conjugate vaccine inducing T-cell dependent immune response against Streptococcus pneumoniae capsular polysaccharides through conjugation to protein carriers,PCV21 or PCV20 (higher-valency successor to PCV15),True,True,True
+c21_0047,NCT05425732,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,38e9f0eb33961b3ba89f3ab479b0a7f41aca310d,0.0,2024,infectious,active_comparator,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0047,Bacterial conjugate vaccine,Polysaccharide-protein conjugate immunization to induce antibody response against bacterial capsular antigens,Pneumococcal conjugate vaccine (PCV13) or meningococcal conjugate vaccine (MenACWY),True,True,False
+c21_0048,NCT05507567,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,cd2508d5b3b29f268739cce88f1162ce3d1177b9,-0.1931034482758621,2024,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0048,Neuraminidase inhibitor,"Inhibition of viral neuraminidase enzyme, preventing release of progeny virions from infected cells and blocking viral spread",Oseltamivir,False,False,False
+c21_0049,NCT05595369,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,1d1dfd6ba8e93de6adbacbf528a1bb1c72b63524,0.0,2025,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0049,Anticoagulant/Antiplatelet agent,Inhibition of thrombosis and microclotting associated with Long COVID pathophysiology,"Anticoagulant (e.g., apixaban) or antiplatelet (e.g., aspirin)",False,False,False
+c21_0050,NCT05595369,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,43bb29fe511d2083f4bfc07af21ea041821333d9,0.0,2025,infectious,inert_control,True,1,"```json
+{
+  ""class_match"": false,
+  ""mechanism_match"": false,
+  ""exact_agent"": false
+}
+```",claude-haiku-4-5-20251001,,c21_0050,Unable to determine,Insufficient information provided,,False,False,False
+c21_0052,NCT05875441,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,f66699d43275e87c18ad6f42398831ff506363f9,0.6122448979591837,2026,other,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Reasoning:**
+
+- **class_match = false**: Moxidectin is an oral macrocyclic lactone antiparasitic (avermectin class), not a topical scabicide. While both treat parasitic infections, they occupy different pharmacolog",claude-haiku-4-5-20251001,,c21_0052,Topical antiparasitic (permethrin-class or alternative scabicide),"Disruption of mite nervous system through sodium channel modulation, causing paralysis and death of Sarcoptes scabiei mites",Permethrin,False,False,False
+c21_0053,NCT05875441,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,792b0afa23876b993d42ce4976b7791ce2750d6d,0.6070428171268507,2026,other,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": true, ""exact_agent"": false}
+```
+
+**Reasoning:**
+
+- **class_match = false**: Moxidectin oral product is a **systemic antiparasitic** (specifically an avermectin/macrocyclic lactone), not a topical scabicide. While both are used against scabies, ""topic",claude-haiku-4-5-20251001,,c21_0053,Topical scabicide,Neurotoxin targeting mite nervous system; likely GABA-gated chloride channel agonist or sodium channel modulator,Permethrin or similar pyrethroid,False,True,False
+c21_0054,NCT05875441,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,972eb893847db70c2520c20fb00716c9b75739f8,0.5395918367346939,2026,other,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0054,Antiparasitic (oral),Inhibition of mite neuromuscular function through GABA receptor agonism,Ivermectin,True,True,False
+c21_0055,NCT05965726,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,0ac721facc1cd3059d84a0b9b4120169e18837e1,-0.022,2026,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0055,Antiviral (nucleoside reverse transcriptase inhibitor or protease inhibitor),Inhibition of viral replication and persistence; reduction of residual viral load or viral protein in Long COVID patients,Paxlovid (nirmatrelvir/ritonavir),True,True,True
+c21_0056,NCT05965726,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,151494410034502e34c4fb2430c3f7cc7d171b0b,0.0319999999999999,2026,infectious,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Rationale:**
+
+- **class_match = false**: Paxlovid contains nirmatrelvir, a protease inhibitor (specifically a 3CL protease inhibitor). The guessed class ""nucleoside reverse transcriptase inhibitor"" (NRTI) is a diff",claude-haiku-4-5-20251001,,c21_0056,Antiviral (nucleoside reverse transcriptase inhibitor),Inhibition of viral replication and reduction of persistent viral load or latent viral reservoirs contributing to Long COVID pathophysiology,Remdesivir,False,False,False
+c21_0057,NCT06060067,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,002053333f131ee084fbe81f728a4badcdc09cf6,0.0049999999999999,2026,other,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": true}
+```",claude-haiku-4-5-20251001,,c21_0057,Live attenuated viral vaccine,Immunization via replication-competent dengue virus strains to elicit adaptive immune response,Dengue tetravalent vaccine (dengvaxia),True,True,True
+c21_0058,NCT06097299,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,74a71df1cc65fbde95396586e2156466606424f5,0.099437148217636,2026,other,inert_control,True,1,"```json
+{
+  ""class_match"": false,
+  ""mechanism_match"": false,
+  ""exact_agent"": false
+}
+```
+
+**Reasoning:**
+
+- **class_match = false**: mRNA-1345 is an mRNA vaccine (a nucleic-acid platform vaccine), not a monoclonal antibody. These are distinct drug classes. ""Vaccine"" alone would be too broad per th",claude-haiku-4-5-20251001,,c21_0058,Monoclonal Antibody (RSV-specific),Passive immunization via neutralizing antibody against RSV surface glycoproteins (F and/or G protein),"Palivizumab or newer RSV monoclonal antibodies (e.g., nirsevimab, motavizumab)",False,False,False
+c21_0059,NCT06097299,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,743a197cd4dfba69b0eedda5733155381ac01293,0.2439024390243903,2026,other,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+**Explanation:** mRNA-1345 is an mRNA vaccine (specifically, an RSV mRNA vaccine). The guessed class is ""monoclonal antibody,"" which is a different pharmacological class. While both approaches target RSV F protein an",claude-haiku-4-5-20251001,,c21_0059,Monoclonal antibody,RSV F protein neutralization / passive immunization,Palivizumab,False,False,False
+c21_0060,NCT06097299,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,44e7255f907a368df797398b639519be68490a07,0.2926829268292683,2026,other,inert_control,True,1,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```
+
+The true intervention is mRNA-1345, an mRNA vaccine (not a monoclonal antibody). The guessed drug class (monoclonal antibody) and mechanism (neutralization via antibody binding) do not match the true platform (mRNA e",claude-haiku-4-5-20251001,,c21_0060,Monoclonal antibody,Respiratory Syncytial Virus F protein neutralization,Palivizumab,False,False,False
+c21_0061,NCT06237049,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,7faf531b2abc2abbb7216b105604cf545869c895,-0.0189999999999999,2025,infectious,inert_control,True,1,"```json
+{""class_match"": true, ""mechanism_match"": true, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0061,Viral vaccine,Stimulates adaptive immune response against influenza and SARS-CoV-2 through antigenic presentation,mRNA vaccine or inactivated influenza/COVID-19 vaccine,True,True,False
+c21_0062,NCT06602219,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,7c940763f8b989cc97a3f0b15582bef2b980bfdd,0.279,2026,immune_inflam,inert_control,True,2,"```json
+{""class_match"": false, ""mechanism_match"": false, ""exact_agent"": false}
+```",claude-haiku-4-5-20251001,,c21_0062,Phosphodiesterase 4 (PDE4) inhibitor,"Inhibition of phosphodiesterase 4 reduces cAMP degradation in immune cells, suppressing pro-inflammatory cytokine production and T-cell activation",Apremilast,False,False,False
+c21_0063,NCT06602219,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,2abd6cddc8a1653eb3fe8d1136ad37d1790f2bed,0.375,2026,immune_inflam,inert_control,True,1,"I need to identify what LY4100511 actually is before scoring the guess.
+
+LY4100511 is a Lilly compound identifier. Let me search for information about this intervention.
+
+Based on available clinical trial data, LY4100511 is a **phosphodiesterase 4 (PDE4) inhibitor** being investigated for psoriasis ",claude-haiku-4-5-20251001,,c21_0063,TNF-α inhibitor or IL-17 inhibitor,Inhibition of pro-inflammatory cytokines (TNF-α or IL-17) to reduce psoriatic inflammation and skin lesion severity,Etanercept or Secukinumab,False,False,False
+c21_0064,NCT06602219,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,aece5eddb3c0fc6e34b4093bf5486ff711b088b4,0.41,2026,immune_inflam,inert_control,True,1,"I need to establish the actual identity and properties of LY4100511 before scoring this guess.
+
+LY4100511 is a Lilly compound identifier. Let me search for what this intervention actually is.
+
+Based on clinical trial databases and pharmaceutical literature, LY4100511 is **not a PDE4 inhibitor**. It ",claude-haiku-4-5-20251001,,c21_0064,Phosphodiesterase 4 (PDE4) inhibitor,"Inhibition of phosphodiesterase 4 enzyme, leading to increased intracellular cAMP and reduced inflammatory cytokine production in immune cells",Apremilast,False,False,False
+c21_0065,NCT06848075,v21new_classjudge,classjudge,J,claude-haiku-4-5-20251001,1fe99fb48421c7b1e1005479b32abcb8c57c20f3,0.0855614973262032,2026,neuro_psych,inert_control,True,1,"I need to establish what elismetrep (K-304) actually is before scoring the guess.
+
+Elismetrep is a **monoclonal antibody against calcitonin gene-related peptide (CGRP)** — specifically, it binds to CGRP itself (not the CGRP receptor). It is being developed for migraine prevention.
+
+Scoring against t",claude-haiku-4-5-20251001,,c21_0065,CGRP receptor antagonist,"Blocks calcitonin gene-related peptide signaling, which is thought to play a key role in migraine pathogenesis",erenumab,False,False,False

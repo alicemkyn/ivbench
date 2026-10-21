@@ -1,0 +1,19 @@
+\begin{table}[h]\centering\footnotesize
+\caption{Robustness of the registry-model null on v2.1 (headline split: 878 contrasts / 655 trials): alternative temporal cuts (retrained), comparator/phase strata and the rich-intervention-text subset (headline models evaluated on the stratum, and retrained within it). Skill against the training mean; $\IS$ = skill(\full\,|\,\blind) with 95\% trial-level bootstrap intervals (1{,}000 resamples). v2 values in the released CSV.}
+\label{tab:robust}
+\resizebox{\linewidth}{!}{\begin{tabular}{llrrccc}\toprule setting & mode & contrasts & trials & skill(\blind) & skill(\full) & $\IS$ \\ \midrule
+headline (seed 0) & headline & 878 & 655 & 0.295 & 0.216 & $-0.113$ \ci{-0.192}{-0.037} \\
+cut=2021 & retrained & 1406 & 1047 & 0.273 & 0.245 & $-0.039$ \ci{-0.093}{0.019} \\
+cut=2022 & retrained & 1102 & 821 & 0.263 & 0.219 & $-0.060$ \ci{-0.146}{0.015} \\
+cut=2024 & retrained & 645 & 474 & 0.315 & 0.240 & $-0.109$ \ci{-0.248}{0.022} \\
+ctrl\_kind=inert\_control & evaluated & 644 & 470 & 0.300 & 0.215 & $-0.121$ \ci{-0.209}{-0.028} \\
+ctrl\_kind=inert\_control & retrained & 644 & 470 & 0.268 & 0.244 & $-0.032$ \ci{-0.127}{0.048} \\
+ctrl\_kind=active\_comparator & evaluated & 234 & 185 & 0.269 & 0.222 & $-0.064$ \ci{-0.177}{0.046} \\
+ctrl\_kind=active\_comparator & retrained & 234 & 185 & $-0.007$ & $-0.107$ & $-0.099$ \ci{-0.229}{0.015} \\
+phase contains PHASE3 & evaluated & 445 & 383 & 0.280 & 0.233 & $-0.066$ \ci{-0.169}{0.033} \\
+phase contains PHASE3 & retrained & 445 & 383 & 0.245 & 0.237 & $-0.011$ \ci{-0.115}{0.085} \\
+phase PHASE2 only & evaluated & 366 & 234 & 0.335 & 0.216 & $-0.180$ \ci{-0.321}{-0.032} \\
+phase PHASE2 only & retrained & 366 & 234 & 0.179 & 0.240 & 0.075 \ci{-0.047}{0.166} \\
+rich intervention text (arm matched, desc non-empty) & evaluated & 697 & 528 & 0.293 & 0.227 & $-0.095$ \ci{-0.188}{-0.007} \\
+rich intervention text (arm matched, desc non-empty) & retrained & 697 & 528 & 0.241 & 0.217 & $-0.032$ \ci{-0.126}{0.061} \\
+\bottomrule\end{tabular}}\end{table}
