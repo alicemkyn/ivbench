@@ -1,13 +1,16 @@
 # ivbench: an intervention-blind test of interventional validity for trial simulators
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23521618.svg)](https://doi.org/10.5281/zenodo.23521618)
+
 <p align="center">
   <img src="figures/graphical_abstract.png" alt="Graphical abstract: a benchmark of real within-trial contrasts, an intervention-blind control, and the result that registry-trained simulators have no interventional skill while protocol-reading language models have some" width="100%">
 </p>
 
-Code and data release accompanying the camera-ready paper
+Code and data release accompanying the camera-ready paper.
 
 > **Does Your Trial Simulator Know What the Drug Does? An Intervention-Blind Test of Interventional Validity on 7,207 Registered Trials**
-> Alicem Koyun. NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS), oral.
+> Alicem Koyun. Oral presentation at the NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS).
+> Paper: https://arxiv.org/abs/2611.05907 · Artifact: https://doi.org/10.5281/zenodo.23521618
 
 The benchmark (v2.1) is 9,996 within-trial contrasts (treatment-arm outcome minus comparator-arm outcome on the primary
 endpoint) from 7,207 completed phase 2/3 trials with results posted to ClinicalTrials.gov; the submitted version's
@@ -61,6 +64,14 @@ bash scripts/run_camera_ready.sh            # regenerate results/cr/*.csv, table
 bash scripts/run_camera_ready.sh --fresh    # refit every registry model first
 bash scripts/run_camera_ready.sh --check    # refit, regenerate, and diff every table and figure against the committed copy (about 25 min)
 ```
+
+The smallest run of that layer is one existing table script, from the repository root. It reads the committed v2.1 benchmark and the cached registry predictions in `results/cr/registry_preds_*.csv.gz`, so it does not refit models, call the network, or call a language model:
+
+```bash
+python scripts/cr/tables/tab_main.py
+```
+
+That regenerates Table 1 only (`tab:main`): `tables/main.tex` and `results/cr/main.csv` on v2.1, and the same rows on the v2 test set in `results/cr/main_v2_sensitivity.csv`. Every other camera-ready table is the same kind of command, `python scripts/cr/tables/tab_<label>.py`, as mapped below. Deleting the cache files makes the script fit the registry models locally before it writes the table. `bash scripts/run_camera_ready.sh` runs every table and the figures.
 
 Inputs: the v2.1 benchmark (`data/v2.1/`, produced from the frozen registry harvest; `scripts/cr/finalize_v21.py` applies
 the author-approved post-audit edits), CT.gov-derived trial flags (`data/cr/`), the archived per-call language-model
@@ -211,4 +222,4 @@ All four camera-ready figures read every number from `results/cr/*.csv`; none ty
 ## Licence and citation
 
 Code: MIT. Data (`data/`) and result tables (`results/`): CC BY 4.0; derived from ClinicalTrials.gov, whose records are
-in the public domain. See `LICENSE`. Citation metadata is in `CITATION.cff`. Source: https://github.com/alicemkyn/ivbench. Archived release v2.1.0 on Zenodo: https://doi.org/10.5281/zenodo.23521618.
+in the public domain. See `LICENSE`. Paper: https://arxiv.org/abs/2611.05907. Citation metadata is in `CITATION.cff`. Source: https://github.com/alicemkyn/ivbench. Archived release v2.1.0 on Zenodo: https://doi.org/10.5281/zenodo.23521618.
