@@ -22,3 +22,11 @@ preferred-citation:
       affiliation: Westcliff University
   year: 2026
   collection-title: "NeurIPS 2026 Workshop on World Models for High-Stakes Health (WMHS)"
+  conference:
+    name: "NeurIPS 2026 Workshop on World Models for High-Stakes Health"
+  url: "https://arxiv.org/abs/2611.05907"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.05907"
+      description: "arXiv identifier of the preprint"
+  notes: "Oral presentation at the NeurIPS 2026 Workshop on World Models for High-Stakes Health."
